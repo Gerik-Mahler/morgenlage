@@ -92,6 +92,7 @@
   .story{display:flex; flex-direction:column; gap:5px;}
   .story h4{font-family:var(--serif); font-size:18px; line-height:1.3; font-weight:600;}
   .story p{font-size:15.5px;} .story + .story{border-top:1px solid var(--line); padding-top:15px;}
+  .story .photo{width:100%; aspect-ratio:16/9; object-fit:cover; border-radius:9px; margin-bottom:4px; background:var(--line); display:block;}
   .opp{background:var(--green-tint); border:1px solid #D9E8E2; border-radius:12px; padding:16px 17px; display:flex; flex-direction:column; gap:9px;}
   .opp h4{font-family:var(--serif); font-size:19px; font-weight:600; line-height:1.28;} .opp .why{font-size:14.5px; color:var(--green-ink); font-weight:600;}
   a{color:var(--accent-ink); text-decoration:none; border-bottom:1px solid rgba(154,84,16,.32);} a:hover{border-bottom-color:var(--accent);}
@@ -169,7 +170,7 @@ window.__DATA__ = {
    ]},
   {"label":"Samstag, 4. Juli 2026","weather":"clear","temp":"27°C · sonnig",
    "greeting":"Guten Morgen, Gerik. Zwei Bewegungen prägen den Tag: außenpolitisch eine vorsichtige Entspannung am Golf, ökonomisch eine Inflation, die schneller sinkt als erwartet. Erst die Lage, <b>ganz unten dann, was du daraus machen kannst.</b>",
-   "colophon":"kuratiert aus deinen Quellen, geschrieben für dich",
+   "colophon":"kuratiert aus deinen Quellen · Fotos: Pexels",
    "sections":[
     {"type":"news","icon":"globe","eyebrow":"Weltlage · neutral","items":[
       {"title":"Golf: vorsichtige Entspannung","text":"In Katar berichten Vermittler von einer Annäherung zwischen den USA und Iran. Bis zu einer Frist bleiben 45 Tage für ein Abkommen zu Atomprogramm, Sanktionen und der Straße von Hormuz. Weil rund ein Drittel des weltweit verschifften Öls diese Meerenge passiert, hängt an der Diplomatie auch der Ölpreis, und damit die Inflation weiter unten.","source":"CNN","url":"https://www.cnn.com/2026/07/02/world/live-news/iran-war-us-talks"},
@@ -178,14 +179,14 @@ window.__DATA__ = {
       {"title":"Inflation kühlt schneller als erwartet","text":"Im Euroraum fiel die Teuerung im Juni auf 2,8 Prozent, deutlicher als Fachleute (3,0) erwartet hatten. Grund ist der gesunkene Ölpreis nach der Entspannung im Iran-Konflikt. Die EZB entscheidet am 23. Juli über die Zinsen, die bestimmen, wie teuer Kredite für Firmen und Haushalte sind. Ein weiterer Schritt gilt als nicht dringend.","source":"WirtschaftsWoche","url":"https://www.wiwo.de/politik/konjunktur/konjunktur-inflation-im-euroraum-schwaecht-sich-im-juni-merklich-ab/100237150.html"},
       {"title":"Deutschland: Erholung verschoben","text":"Die EU-Kommission halbierte ihre Wachstumsprognose für Deutschland auf 0,6 Prozent, nach zuvor 1,2. Der Energiepreis-Schock des Iran-Kriegs kostete die erhoffte Konjunkturerholung.","source":"Handelsblatt","url":"https://www.handelsblatt.com/politik/konjunktur/konjunktur-eu-kommission-halbiert-wachstumsprognose-fuer-deutschland/100226918.html"}]},
     {"type":"news","icon":"leaf","eyebrow":"Lichtblick","items":[
-      {"title":"Wind und Sonne überholen Gas","text":"Erstmals lieferten Wind und Solar im April weltweit mehr Strom als Gas, 22 gegenüber 20 Prozent. Ein stiller Kipppunkt, über Jahre aufgebaut, jetzt in der Statistik sichtbar.","source":"Positive News","url":"https://www.positive.news/society/good-news-stories-from-week-27-of-2026/"},
-      {"title":"Kinder lesen wieder lieber","text":"In einer Befragung von 125.000 Kindern in Großbritannien gaben 36,1 Prozent an, in der Freizeit gern zu lesen. Der erste Anstieg seit 2021, gegen den Trend.","source":"Positive News"}]},
+      {"title":"Wind und Sonne überholen Gas","img":"https://images.pexels.com/photos/9800092/pexels-photo-9800092.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Erstmals lieferten Wind und Solar im April weltweit mehr Strom als Gas, 22 gegenüber 20 Prozent. Ein stiller Kipppunkt, über Jahre aufgebaut, jetzt in der Statistik sichtbar.","source":"Positive News","url":"https://www.positive.news/society/good-news-stories-from-week-27-of-2026/"},
+      {"title":"Kinder lesen wieder lieber","img":"https://images.pexels.com/photos/3457273/pexels-photo-3457273.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"In einer Befragung von 125.000 Kindern in Großbritannien gaben 36,1 Prozent an, in der Freizeit gern zu lesen. Der erste Anstieg seit 2021, gegen den Trend.","source":"Positive News"}]},
     {"type":"news","icon":"flask","eyebrow":"Forschung & Fortschritt","items":[
-      {"title":"Krebs: der fehlende Baustein","text":"Forscher fanden die genetische Zutat, die Melanomzellen praktisch unsterblich macht. Normale Zellen altern und sterben, Krebszellen umgehen das. Wird der Mechanismus gestört, verlieren sie einen ihrer wichtigsten Überlebenstricks, ein möglicher Angriffspunkt für Therapien.","source":"ScienceDaily","url":"https://www.sciencedaily.com/"},
-      {"title":"Lucy bei einem taumelnden Asteroiden","text":"Die NASA-Sonde zeigt den Asteroiden Donaldjohanson als erdnussförmiges Relikt einer alten Kollision, über Jahrmillionen vom Sonnenlicht umgeformt. Ein Blick in die Baugeschichte des Sonnensystems.","source":"ScienceDaily"}]},
+      {"title":"Krebs: der fehlende Baustein","img":"https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Forscher fanden die genetische Zutat, die Melanomzellen praktisch unsterblich macht. Normale Zellen altern und sterben, Krebszellen umgehen das. Wird der Mechanismus gestört, verlieren sie einen ihrer wichtigsten Überlebenstricks, ein möglicher Angriffspunkt für Therapien.","source":"ScienceDaily","url":"https://www.sciencedaily.com/"},
+      {"title":"Lucy bei einem taumelnden Asteroiden","img":"https://images.pexels.com/photos/20881655/pexels-photo-20881655.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Die NASA-Sonde zeigt den Asteroiden Donaldjohanson als erdnussförmiges Relikt einer alten Kollision, über Jahrmillionen vom Sonnenlicht umgeformt. Ein Blick in die Baugeschichte des Sonnensystems.","source":"ScienceDaily"}]},
     {"type":"news","icon":"pin","eyebrow":"Horb am Neckar","items":[
-      {"title":"MY'tallica: Metallica Open Air","text":"Heute Abend um 19:30 Uhr spielt die Tribute-Band MY'tallica open air in Horb. Bei 27 Grad und Sonne ideales Wetter dafür.","source":"Stadt Horb","url":"https://www.horb.de/Veranstaltungen"},
-      {"title":"Bald: Schlossgarten öffnet","text":"Ab dem 29. Juli lädt der Schlossgarten mittwochs wieder mit Speisen ab 17 Uhr, ein ruhiger Sommerabend über dem Neckar.","source":"Veranstaltungskalender Horb"}]},
+      {"title":"MY'tallica: Metallica Open Air","img":"https://images.pexels.com/photos/15203359/pexels-photo-15203359.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Heute Abend um 19:30 Uhr spielt die Tribute-Band MY'tallica open air in Horb. Bei 27 Grad und Sonne ideales Wetter dafür.","source":"Stadt Horb","url":"https://www.horb.de/Veranstaltungen"},
+      {"title":"Bald: Schlossgarten öffnet","img":"https://images.pexels.com/photos/38116402/pexels-photo-38116402.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Ab dem 29. Juli lädt der Schlossgarten mittwochs wieder mit Speisen ab 17 Uhr, ein ruhiger Sommerabend über dem Neckar.","source":"Veranstaltungskalender Horb"}]},
     {"type":"thought","text":"Was du misst, kannst du verbessern. Was du nur fühlst, wiederholst du. Vielleicht ist der erste Gold-Standard, den du heute anlegst, gar nicht der für einen Prompt, sondern der für einen guten Tag."},
     {"type":"divider"},
     {"type":"opp","icon":"compass","eyebrow":"Gelegenheitsradar","item":{
@@ -226,7 +227,7 @@ var ICONS={
 function ic(n){ return '<svg class="ic" viewBox="0 0 24 24">'+(ICONS[n]||ICONS.spark)+'</svg>'; }
 function src(it){ var s=it.url? '<a href="'+it.url+'">'+it.source+'</a>' : it.source; return '<p class="src">Quelle: '+s+(it.score?' · Werte-Score <b>'+it.score+'</b>':'')+'</p>'; }
 function merk(text,tone){ return '<div class="merk'+(tone==='g'?' g':'')+'">'+ic('spark')+'<span><b>Merksatz:</b> '+text+'</span></div>'; }
-function story(it){ return '<div class="story"><h4>'+it.title+'</h4><p>'+it.text+'</p>'+src(it)+'</div>'; }
+function story(it){ return '<div class="story">'+(it.img?'<img class="photo" src="'+it.img+'" alt="" loading="lazy">':'')+'<h4>'+it.title+'</h4><p>'+it.text+'</p>'+src(it)+'</div>'; }
 function card(c){
   var h='<article class="card"><div class="chead"><div class="badge">'+ic(c.icon||'gauge')+'</div><h3>'+c.title+'</h3></div>';
   if(c.tag) h+='<span class="tag">'+c.tag+'</span>';
