@@ -38,17 +38,20 @@ Aktuelle, serioese Meldungen von heute bzw. den letzten ein bis zwei Tagen, je R
   mit echtem Mehrwert fuer einen Solo-Unternehmer (Foerderung mit Frist, kostenlose Credits,
   nuetzliches Werkzeug). Nur echte, keine erfundenen.
 
-## Schritt 3 — Bilder (optional, streng neutral)
-Nur fuer **Lichtblick, Forschung, Horb**: pro Beitrag EIN sachliches Motiv (Objekt oder Szene,
-**keine Gesichter, keine Dramatik, keine Emotionalisierung**). Keyless von Openverse holen:
+## Schritt 3 — Bilder (optional, sachlich, darf faszinieren)
+Nur fuer **Lichtblick, Forschung, Horb**: pro Beitrag EIN passendes Motiv. Es soll **sachlich zum
+Thema passen und darf Neugier oder Faszination wecken** (z.B. ein eindrucksvolles Weltraum-, Natur-
+oder Technik-Motiv), aber **nicht manipulieren und nicht auf Betroffenheit oder Schock zielen**:
+keine inszenierten Gesichter, keine Elends- oder Angstbilder. Keyless von Openverse holen:
 `curl -s "https://api.openverse.org/v1/images/?q=<neutraler+begriff>&license_type=commercial&page_size=1"`
 Nimm `results[0].url` (direkter Bild-Link) ins `img`-Feld. Scheitert die Suche oder ist das Motiv
 nicht klar neutral, lass `img` einfach weg. **Weltlage und Wirtschaft bekommen KEIN Bild.**
 
 ## Schritt 4 — data.json bauen
 Lies das vorhandene `data.json`. Baue den heutigen Tag als neues Tages-Objekt und haenge es **ans
-Ende** des `days`-Arrays (neuester Tag rechts / zuletzt). Behalte hoechstens die **letzten 7 Tage**
-(aelteste vorne entfernen). `sub` bleibt `"Dein tägliches Briefing"`. Nur der heutige (letzte) Tag
+Ende** des `days`-Arrays (neuester Tag rechts / zuletzt). **Ist der letzte vorhandene Eintrag
+bereits von heute (gleiches Datum), ersetze ihn, statt ein Duplikat anzuhaengen** (idempotent bei
+Wiederholung). Behalte hoechstens die **letzten 7 Tage** (aelteste vorne entfernen). `sub` bleibt `"Dein tägliches Briefing"`. Nur der heutige (letzte) Tag
 bekommt zusaetzlich `"colophon":"kuratiert aus deinen Quellen · Fotos: Openverse"`.
 
 **Sektions-Reihenfolge (bindend):** zuerst die Nachrichten (Weltlage, Wirtschaft, Lichtblick,
