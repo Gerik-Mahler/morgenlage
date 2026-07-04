@@ -78,3 +78,25 @@ Forschung, Horb am Neckar), dann `{"type":"thought",...}`, dann `{"type":"divide
 - `git add data.json` ; `git commit -m "MORGENLAGE Tagesausgabe <DATUM>"` ; `git push`
 - Bei abgelehntem Push: `git pull --no-rebase`, dann erneut.
 Fasse zum Schluss 3 Zeilen zusammen: Wetter in Horb, die drei wichtigsten Meldungen, die Handlungsempfehlung des Tages.
+
+## Weekly-Modus (nur sonntags, "MORGENLAGE Weekly")
+Wirst du als **Wochenrueckblick** aufgerufen, erzeuge den heutigen (Sonntags-)Tag mit denselben
+Regeln, aber:
+- Im Tages-Objekt zusaetzlich `"kind":"weekly"` und `"sub":"Wochenrückblick"`.
+- `greeting`: ein zusammenfassender Wochen-Einstieg ("Die Woche in drei Bewegungen ...").
+- Nachrichten-Sektionen: je Rubrik das **Wichtigste der Woche** (nicht nur von heute), etwas
+  knapper als taeglich, gern mit einem Bild je Rubrik.
+- Statt vieler Handlungsempfehlungen **EINE groessere, strategische** (action-Sektion, eine Karte).
+- **ZUSAETZLICH als letzte inhaltliche Sektion (nach der action, vor einem abschliessenden thought)
+  eine `systemtips`-Sektion**, die ALLE konkreten System-/Prompt-Tipps der Woche buendelt:
+  `{"type":"systemtips","eyebrow":"Systemanpassungen der Woche","intro":"<1-2 Saetze>","items":[{ "title","text" }],"copytext":"<KOPIERFERTIGER TEXT>"}`
+  - `items` = die gebuendelten Anpassungen der Woche (aus den taeglichen Handlungsempfehlungen und
+    Gelegenheiten), je Titel plus 1-2 Saetze, WAS konkret anzupassen ist.
+  - `copytext` = **EIN** zusammenhaengender, kopierfertiger Text, den Gerik in **einem** Schritt in
+    sein System einspielen kann: nummerierte, konkrete Anweisungen und, wo vorhanden, fertige
+    Prompt-Snippets. Klar, ohne Fuellwoerter. Reiner Text mit Zeilenumbruechen (`\n`), KEINE HTML-Tags.
+- Reihenfolge: Nachrichten, `thought`, `divider`, `opp` (falls vorhanden), `action` (eine),
+  `systemtips`, abschliessender `thought`. Aktionen und Systemtips ganz unten.
+- Datenquelle: lies das vorhandene `data.json` (die Tage dieser Woche) fuer Rueckblick und
+  Systemtips, ergaenze das Wichtigste per WebSearch. Committe mit
+  "MORGENLAGE Wochenrueckblick <DATUM>".

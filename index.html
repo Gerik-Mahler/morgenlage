@@ -98,6 +98,13 @@
   a{color:var(--accent-ink); text-decoration:none; border-bottom:1px solid rgba(154,84,16,.32);} a:hover{border-bottom-color:var(--accent);}
   .thought{font-family:var(--serif); font-style:italic; font-size:18.5px; line-height:1.5; text-align:center; text-wrap:balance; border-top:1px solid var(--line); border-bottom:1px solid var(--line); padding:22px 6px; color:var(--ink);}
   .actbar{text-align:center; font-size:12px; letter-spacing:.22em; text-transform:uppercase; font-weight:700; color:var(--accent-ink);}
+  .wbadge{align-self:center; font-size:11px; letter-spacing:.16em; text-transform:uppercase; font-weight:700; color:var(--accent-ink); background:var(--accent-tint); padding:5px 14px; border-radius:20px;}
+  .tips{display:flex; flex-direction:column; gap:12px;}
+  .tip{background:var(--card); border:1px solid var(--line); border-left:3px solid var(--accent); border-radius:9px; padding:12px 14px;}
+  .tip h4{font-family:var(--serif); font-size:16.5px; font-weight:600; margin-bottom:2px;}
+  .tip p{font-size:14.5px; color:var(--ink-soft);}
+  .copyall{margin-top:2px;} .copysrc{display:none;}
+  .copy.big{display:block; width:100%; text-align:center; padding:13px; font-size:12.5px; letter-spacing:.1em;}
   .colophon{text-align:center; font-size:12px; letter-spacing:.05em; color:var(--ink-soft); line-height:1.7;} .colophon .mk{font-family:var(--serif); letter-spacing:.12em; color:var(--ink); font-weight:600;}
 </style>
 </head>
@@ -244,10 +251,21 @@ function section(s){
   if(s.type==='action') return '<section class="sec"><div class="eyebrow act">'+ic(s.icon)+s.eyebrow+'</div><div class="cards">'+s.cards.map(card).join('')+(s.also?'<p class="also"><b>Auch aufgeschnappt:</b> '+s.also+'</p>':'')+'</div></section>';
   if(s.type==='thought') return '<p class="thought">„'+s.text+'"</p>';
   if(s.type==='divider') return '<div class="actbar">— '+(s.text||'Was du daraus machen kannst')+' —</div>';
+  if(s.type==='systemtips') return systemtips(s);
   return '';
 }
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function systemtips(s){
+  return '<section class="sec"><div class="eyebrow act">'+ic('gauge')+(s.eyebrow||'Systemanpassungen der Woche')+'</div>'
+    + (s.intro?'<p>'+s.intro+'</p>':'')
+    + '<div class="tips">'+(s.items||[]).map(function(t){return '<div class="tip"><h4>'+t.title+'</h4><p>'+t.text+'</p></div>';}).join('')+'</div>'
+    + '<div class="copyall"><button class="copy big" data-copyall>Alle Anpassungen kopieren</button><pre class="copysrc" hidden>'+esc(s.copytext||'')+'</pre></div>'
+    + '</section>';
+}
 function day(d){
-  return '<section class="day" data-label="'+d.label+'" data-w="'+d.weather+'" data-temp="'+d.temp+'"><p class="greet">'+d.greeting+'</p>'
+  return '<section class="day" data-label="'+d.label+'" data-w="'+d.weather+'" data-temp="'+d.temp+'"'+(d.sub?' data-sub="'+d.sub+'"':'')+'>'
+    + (d.kind==='weekly'?'<div class="wbadge">Wochenrückblick</div>':'')
+    + '<p class="greet">'+d.greeting+'</p>'
     + d.sections.map(section).join('')
     + (d.colophon?'<footer class="colophon"><span class="mk">MORGENLAGE</span> · '+d.colophon+'<br>wische für die Vortage</footer>':'') + '</section>';
 }
@@ -255,16 +273,16 @@ function day(d){
 var hero=document.querySelector('.hero'), wtemp=document.querySelector('.wtemp'), sub=document.querySelector('[data-sub]');
 var deck=document.querySelector('.deck'), dotsWrap=document.querySelector('.dots'), label=document.querySelector('.daylabel');
 var prev=document.querySelector('.arrow.prev'), next=document.querySelector('.arrow.next');
-var days=[];
+var days=[]; var defaultSub='Dein tägliches Briefing';
 function active(){ return Math.max(0,Math.min(days.length-1,Math.round(deck.scrollLeft/deck.clientWidth))); }
 function sync(){ var i=active(), d=days[i]; if(!d) return;
   [].forEach.call(dotsWrap.children,function(x,n){ x.classList.toggle('on',n===i); });
-  label.textContent=d.getAttribute('data-label'); wtemp.textContent=d.getAttribute('data-temp'); hero.setAttribute('data-w',d.getAttribute('data-w'));
+  label.textContent=d.getAttribute('data-label'); wtemp.textContent=d.getAttribute('data-temp'); hero.setAttribute('data-w',d.getAttribute('data-w')); sub.textContent=d.getAttribute('data-sub')||defaultSub;
   prev.disabled=(i<=0); next.disabled=(i>=days.length-1);
 }
 function go(i){ i=Math.max(0,Math.min(days.length-1,i)); deck.scrollTo({left:i*deck.clientWidth,behavior:'smooth'}); }
 function build(data){
-  if(data.sub) sub.textContent=data.sub;
+  if(data.sub){ defaultSub=data.sub; sub.textContent=data.sub; }
   deck.innerHTML=data.days.map(day).join('');
   dotsWrap.innerHTML=data.days.map(function(_,n){return '<button class="dot" data-go="'+n+'" aria-label="Tag '+(n+1)+'"></button>';}).join('');
   days=[].slice.call(deck.querySelectorAll('.day'));
@@ -272,6 +290,10 @@ function build(data){
   deck.querySelectorAll('.copy[data-copy]').forEach(function(btn){ btn.addEventListener('click',function(){
     var pre=btn.closest('.snippet').querySelector('pre');
     navigator.clipboard.writeText(pre.innerText).then(function(){ var o=btn.textContent; btn.textContent='Kopiert'; btn.classList.add('ok'); setTimeout(function(){btn.textContent=o;btn.classList.remove('ok');},1600); }).catch(function(){});
+  }); });
+  deck.querySelectorAll('.copy[data-copyall]').forEach(function(btn){ btn.addEventListener('click',function(){
+    var pre=btn.closest('.copyall').querySelector('.copysrc');
+    navigator.clipboard.writeText(pre.textContent).then(function(){ var o=btn.textContent; btn.textContent='Kopiert ✓'; btn.classList.add('ok'); setTimeout(function(){btn.textContent=o;btn.classList.remove('ok');},1800); }).catch(function(){});
   }); });
   var last=days.length-1; deck.scrollLeft=last*deck.clientWidth; sync();
 }
