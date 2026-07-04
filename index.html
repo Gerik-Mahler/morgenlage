@@ -279,7 +279,7 @@ prev.addEventListener('click',function(){ go(active()-1); });
 next.addEventListener('click',function(){ go(active()+1); });
 var t; deck.addEventListener('scroll',function(){ clearTimeout(t); t=setTimeout(sync,60); });
 window.addEventListener('resize',function(){ go(active()); });
-fetch('data.json',{cache:'no-store'}).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(build).catch(function(){ build(window.__DATA__); });
+fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(build).catch(function(){ build(window.__DATA__); });
 </script>
 </body>
 </html>
