@@ -1,0 +1,269 @@
+<title>MORGENLAGE — Briefing</title>
+<style>
+  :root{
+    --paper:#FBF5EC; --card:#FFFFFF; --snip:#2E2519;
+    --ink:#3A2F24; --ink-soft:#8B7A66; --line:#ECE2D3;
+    --accent:#E0912F; --accent-ink:#9A5410; --accent-tint:#FBEED8;
+    --green:#4C8C7D; --green-ink:#2E5B50; --green-tint:#E7F1ED;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --mono:ui-monospace,"SF Mono","SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;
+  }
+  .mag{background:var(--paper); color:var(--ink); font-family:var(--sans); font-size:17px;
+    line-height:1.62; -webkit-font-smoothing:antialiased; display:flex; justify-content:center;}
+  .frame{width:100%; max-width:648px; display:flex; flex-direction:column;}
+  svg{display:block;}
+  .ic{width:22px; height:22px; fill:none; stroke:currentColor; stroke-width:1.6; stroke-linecap:round; stroke-linejoin:round; flex:none;}
+  .hero{overflow:hidden;}
+  .hero-img{width:100%; height:auto;}
+  .l-sun,.l-cloud,.l-rain,.l-snow,.l-bolt{display:none;}
+  .hero[data-w="clear"] .l-sun{display:block;}
+  .hero[data-w="clouds"] .l-sun{display:block; opacity:.45;}
+  .hero[data-w="clouds"] .l-cloud{display:block;}
+  .hero[data-w="rain"] .l-cloud, .hero[data-w="rain"] .l-rain{display:block;}
+  .hero[data-w="snow"] .l-cloud, .hero[data-w="snow"] .l-snow{display:block;}
+  .hero[data-w="thunder"] .l-cloud, .hero[data-w="thunder"] .l-bolt, .hero[data-w="thunder"] .l-rain{display:block;}
+  .mood{fill:#5a6b78; opacity:0;}
+  .hero[data-w="clouds"] .mood{opacity:.10; fill:#8f8f8a;}
+  .hero[data-w="rain"] .mood{opacity:.30; fill:#51606c;}
+  .hero[data-w="snow"] .mood{opacity:.22; fill:#b3bcc4;}
+  .hero[data-w="thunder"] .mood{opacity:.46; fill:#373d45;}
+  .hero[data-w="thunder"] .l-cloud *{fill:#565b64;}
+  .hero[data-w="snow"] .hill-far{fill:#C7D3CB;} .hero[data-w="snow"] .hill-near{fill:#8FB0A2;}
+  .mast{display:flex; flex-direction:column; gap:6px; align-items:center; text-align:center; padding:15px 18px 6px;}
+  .wordmark{font-family:var(--serif); font-weight:600; letter-spacing:.12em; font-size:clamp(28px,8vw,40px); line-height:1;}
+  .ksub{font-size:11.5px; letter-spacing:.34em; text-transform:uppercase; color:var(--ink-soft);}
+  .wcap{font-size:13px; color:var(--ink-soft); margin-top:2px;} .wcap b{color:var(--accent-ink); font-weight:600;}
+  .daynav{display:flex; align-items:center; justify-content:center; gap:14px; padding:11px 18px; position:sticky; top:0; z-index:5;
+    background:rgba(251,245,236,.9); backdrop-filter:saturate(1.2) blur(8px); border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
+  .daynav .arrow{width:34px; height:34px; border-radius:50%; border:1px solid var(--line); background:var(--card); color:var(--accent-ink);
+    font-size:18px; line-height:1; cursor:pointer; display:flex; align-items:center; justify-content:center; flex:none;}
+  .daynav .arrow:disabled{opacity:.35; cursor:default;}
+  .daynav .arrow:hover:not(:disabled){border-color:var(--accent); color:var(--accent);}
+  .navmid{display:flex; flex-direction:column; align-items:center; gap:6px; min-width:170px;}
+  .daylabel{font-size:13px; letter-spacing:.06em; color:var(--ink); font-weight:600; font-variant-numeric:tabular-nums;}
+  .dots{display:flex; gap:6px;}
+  .dot{width:7px; height:7px; border-radius:50%; background:var(--line); border:0; padding:0; cursor:pointer;}
+  .dot.on{background:var(--accent); transform:scale(1.25);}
+  .deck{display:flex; overflow-x:auto; scroll-snap-type:x mandatory; scroll-behavior:smooth; -webkit-overflow-scrolling:touch; align-items:flex-start; scrollbar-width:none;}
+  .deck::-webkit-scrollbar{display:none;}
+  .day{min-width:100%; scroll-snap-align:start; box-sizing:border-box; padding:24px 18px 56px; display:flex; flex-direction:column; gap:32px;}
+  @media (max-width:420px){ .day{padding:20px 14px 46px;} }
+  .greet{font-family:var(--serif); font-size:19px; line-height:1.52; text-wrap:pretty;} .greet b{color:var(--accent-ink); font-weight:600;}
+  .sec{display:flex; flex-direction:column; gap:15px;}
+  .eyebrow{display:flex; align-items:center; gap:9px; font-size:12px; letter-spacing:.2em; text-transform:uppercase; font-weight:700; color:var(--green-ink);}
+  .eyebrow .ic{width:17px; height:17px; color:var(--green);}
+  .eyebrow.act{color:var(--accent-ink);} .eyebrow.act .ic{color:var(--accent);}
+  .eyebrow::after{content:""; height:1px; flex:1; background:var(--line); margin-left:2px;}
+  .cards{display:flex; flex-direction:column; gap:16px;}
+  .card{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px 18px 20px; display:flex; flex-direction:column; gap:11px;
+    box-shadow:0 1px 2px rgba(58,47,36,.04),0 8px 22px rgba(58,47,36,.04);}
+  .chead{display:flex; align-items:flex-start; gap:12px;}
+  .badge{width:40px; height:40px; border-radius:10px; background:var(--accent-tint); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; flex:none;}
+  .badge .ic{width:22px; height:22px;}
+  .chead h3{font-family:var(--serif); font-size:20.5px; line-height:1.24; font-weight:600; text-wrap:balance; padding-top:3px;}
+  .tag{align-self:flex-start; font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; font-weight:700; color:var(--accent-ink); background:var(--accent-tint); padding:3px 9px; border-radius:20px;}
+  .card p{color:var(--ink);}
+  .merk{display:flex; gap:10px; align-items:flex-start; background:var(--accent-tint); border-radius:9px; padding:11px 13px; font-size:15.5px; color:var(--accent-ink); line-height:1.45;}
+  .merk.g{background:var(--green-tint); color:var(--green-ink);} .merk.g .ic{color:var(--green);}
+  .merk .ic{width:19px; height:19px; margin-top:1px; color:var(--accent);}
+  .konkret{font-size:15px; color:var(--ink-soft); border-left:2px solid var(--line); padding-left:12px;} .konkret b{color:var(--accent-ink); font-weight:600;}
+  .src{font-size:12.5px; color:var(--ink-soft);} .src b{color:var(--ink); font-weight:600; font-variant-numeric:tabular-nums;}
+  .snippet .lab{font-size:11px; letter-spacing:.15em; text-transform:uppercase; color:var(--ink-soft); display:flex; justify-content:space-between; align-items:center; margin-bottom:6px; gap:8px;}
+  .snippet pre{background:var(--snip); color:#EFE7D8; font-family:var(--mono); font-size:12.5px; line-height:1.55; padding:14px 15px; border-radius:8px; white-space:pre-wrap; word-break:break-word; tab-size:2;}
+  .snippet pre .ph{color:#E0A85C;}
+  .copy{font-family:var(--sans); font-size:11px; letter-spacing:.09em; text-transform:uppercase; font-weight:700; color:var(--accent-ink); background:transparent; border:1px solid var(--accent); border-radius:20px; padding:4px 11px; cursor:pointer;}
+  .copy:hover{background:var(--accent); color:#fff;} .copy.ok{background:var(--green); border-color:var(--green); color:#fff;}
+  .copy:focus-visible,a:focus-visible,.arrow:focus-visible,.dot:focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+  .also{font-size:14.5px; color:var(--ink-soft);} .also b{color:var(--ink); font-weight:600;}
+  .stories{display:flex; flex-direction:column; gap:15px;}
+  .story{display:flex; flex-direction:column; gap:5px;}
+  .story h4{font-family:var(--serif); font-size:18px; line-height:1.3; font-weight:600;}
+  .story p{font-size:15.5px;} .story + .story{border-top:1px solid var(--line); padding-top:15px;}
+  .opp{background:var(--green-tint); border:1px solid #D9E8E2; border-radius:12px; padding:16px 17px; display:flex; flex-direction:column; gap:9px;}
+  .opp h4{font-family:var(--serif); font-size:19px; font-weight:600; line-height:1.28;} .opp .why{font-size:14.5px; color:var(--green-ink); font-weight:600;}
+  a{color:var(--accent-ink); text-decoration:none; border-bottom:1px solid rgba(154,84,16,.32);} a:hover{border-bottom-color:var(--accent);}
+  .thought{font-family:var(--serif); font-style:italic; font-size:18.5px; line-height:1.5; text-align:center; text-wrap:balance; border-top:1px solid var(--line); border-bottom:1px solid var(--line); padding:22px 6px; color:var(--ink);}
+  .actbar{text-align:center; font-size:12px; letter-spacing:.22em; text-transform:uppercase; font-weight:700; color:var(--accent-ink);}
+  .colophon{text-align:center; font-size:12px; letter-spacing:.05em; color:var(--ink-soft); line-height:1.7;} .colophon .mk{font-family:var(--serif); letter-spacing:.12em; color:var(--ink); font-weight:600;}
+</style>
+
+<div class="mag"><div class="frame">
+  <div class="hero" data-w="clear">
+    <svg class="hero-img" viewBox="0 0 648 128" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <defs>
+        <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FDEFD6"/><stop offset="1" stop-color="#FBE1C6"/></linearGradient>
+        <radialGradient id="glow" cx="50%" cy="82%" r="60%"><stop offset="0" stop-color="#F7C271" stop-opacity=".95"/><stop offset="1" stop-color="#F7C271" stop-opacity="0"/></radialGradient>
+      </defs>
+      <rect width="648" height="128" fill="url(#sky)"/>
+      <rect class="mood" width="648" height="128"/>
+      <g class="l-sun"><circle cx="324" cy="112" r="140" fill="url(#glow)"/><circle cx="324" cy="98" r="27" fill="#E7A03E"/></g>
+      <g class="l-cloud">
+        <g fill="#EDEBE4"><ellipse cx="210" cy="50" rx="46" ry="18"/><circle cx="186" cy="44" r="17"/><circle cx="214" cy="37" r="22"/><circle cx="240" cy="46" r="16"/></g>
+        <g fill="#EDEBE4"><ellipse cx="452" cy="42" rx="38" ry="15"/><circle cx="436" cy="36" r="15"/><circle cx="460" cy="31" r="18"/></g>
+      </g>
+      <g class="l-rain" stroke="#9FB4C4" stroke-width="2.4" stroke-linecap="round">
+        <line x1="180" y1="66" x2="174" y2="82"/><line x1="206" y1="66" x2="200" y2="82"/><line x1="232" y1="66" x2="226" y2="82"/>
+        <line x1="440" y1="58" x2="434" y2="74"/><line x1="462" y1="58" x2="456" y2="74"/><line x1="195" y1="86" x2="189" y2="100"/><line x1="221" y1="86" x2="215" y2="100"/>
+      </g>
+      <g class="l-snow" fill="#FFFFFF"><circle cx="182" cy="70" r="3"/><circle cx="212" cy="76" r="3"/><circle cx="238" cy="68" r="2.6"/><circle cx="200" cy="92" r="2.6"/><circle cx="226" cy="96" r="3"/><circle cx="448" cy="62" r="3"/><circle cx="466" cy="72" r="2.6"/></g>
+      <g class="l-bolt"><path d="M214 52 L202 78 L214 76 L206 100 L230 70 L217 72 L226 52 Z" fill="#F4C542"/></g>
+      <path class="hill-far" d="M0 100 C120 82 210 96 324 92 C452 88 546 100 648 92 L648 128 L0 128 Z" fill="#AEC6B4" opacity=".75"/>
+      <path class="hill-near" d="M0 112 C150 100 268 112 372 108 C486 104 566 116 648 108 L648 128 L0 128 Z" fill="#6E9E8B"/>
+    </svg>
+  </div>
+  <div class="mast">
+    <div class="wordmark">MORGENLAGE</div>
+    <div class="ksub" data-sub>Dein tägliches Briefing</div>
+    <div class="wcap">Horb am Neckar · <b class="wtemp">27°C · sonnig</b></div>
+  </div>
+  <nav class="daynav">
+    <button class="arrow prev" aria-label="Vorheriger Tag">‹</button>
+    <div class="navmid"><span class="daylabel"></span><div class="dots"></div></div>
+    <button class="arrow next" aria-label="Nächster Tag">›</button>
+  </nav>
+  <div class="deck"></div>
+</div></div>
+
+<script>
+/* MORGENLAGE render-engine. Zeigt data.json (7 Tage) an. Faellt auf eingebettete Beispieldaten
+   zurueck, wenn keine data.json erreichbar ist (z.B. Vorschau). Die Routine schreibt nur data.json. */
+window.__DATA__ = {
+ "sub":"Dein tägliches Briefing",
+ "days":[
+  {"label":"Donnerstag, 2. Juli 2026","weather":"clouds","temp":"27°C · bewölkt",
+   "greeting":"Guten Morgen, Gerik. Ein Tag der offenen Fragen: am Golf beginnen Gespräche, an den Märkten wartet man ab.",
+   "sections":[
+    {"type":"news","icon":"globe","eyebrow":"Weltlage · neutral","items":[
+      {"title":"Iran und USA: Gespräche in Katar","text":"Vermittler berichten von ersten Fortschritten. Es geht um Atomprogramm, Sanktionen und die Straße von Hormuz, durch die ein Großteil des Welt-Öls verschifft wird.","source":"CNN"},
+      {"title":"Handel: USMCA vor dem Umbau","text":"Die USA wollen das Abkommen mit Kanada und Mexiko nicht unverändert verlängern, ein Signal, dass die Handelsordnung in Bewegung bleibt.","source":"US-Handelsvertreter"}]},
+    {"type":"thought","text":"Der erste Tag einer Idee ist der leiseste. Man erkennt ihn oft erst rückwirkend."},
+    {"type":"divider"},
+    {"type":"action","icon":"terminal","eyebrow":"Für dich & Texura","cards":[
+      {"icon":"terminal","title":"Browser-Steuerung für Agenten","tag":"Zum Merken","paras":["Ein neuer MCP-Server lässt KI-Agenten echte Webseiten bedienen, Formulare, Klicks, Navigation. Für deine Demos interessant, wo ein Agent den Kundennutzen vorführt statt ihn nur zu beschreiben. Heute ablegen, nicht bauen."],"source":"Hyperbrowser MCP · Referenznotiz abgelegt"}]}
+   ]},
+  {"label":"Freitag, 3. Juli 2026","weather":"rain","temp":"25°C · Regen",
+   "greeting":"Guten Morgen, Gerik. Regen über Horb, Bewegung in der Diplomatie, und aus der Tech-Welt ein Werkzeug, das gut zu deinem OS passt.",
+   "sections":[
+    {"type":"news","icon":"leaf","eyebrow":"Lichtblick","items":[
+      {"title":"Mexiko: Gesundheit für alle","text":"Die Regierung kündigte kostenlose, universelle Gesundheitsversorgung ab dem kommenden Jahr an, Teil eines Plans gegen Ungleichheit.","source":"Positive News"}]},
+    {"type":"news","icon":"pin","eyebrow":"Horb am Neckar","items":[
+      {"title":"Einkaufs- und Musikabend","text":"Heute Abend verwandelt sich die Horber Innenstadt in eine Mischung aus offenen Geschäften und Livemusik. Ein Schirm schadet nicht.","source":"Stadt Horb"}]},
+    {"type":"thought","text":"Ein gutes Werkzeug verschwindet in der Hand. Erst wenn es fehlt, merkt man, wie sehr es getragen hat."},
+    {"type":"divider"},
+    {"type":"action","icon":"layers","eyebrow":"Für dich & Texura","cards":[
+      {"icon":"layers","title":"Regeln als Dienst statt als Kopie","tag":"Architektur","paras":["Das Muster „Regeln über einen kleinen MCP-Server bereitstellen\" macht die Runde. Ein Agent lädt sie beim Start, statt sie in jeden Kontext zu kopieren, die technische Form deines Prinzips einer Quelle der Wahrheit."],"merk":"Regeln kopiert man nicht, man abonniert sie.","source":"markdown-rules MCP"}]}
+   ]},
+  {"label":"Samstag, 4. Juli 2026","weather":"clear","temp":"27°C · sonnig",
+   "greeting":"Guten Morgen, Gerik. Zwei Bewegungen prägen den Tag: außenpolitisch eine vorsichtige Entspannung am Golf, ökonomisch eine Inflation, die schneller sinkt als erwartet. Erst die Lage, <b>ganz unten dann, was du daraus machen kannst.</b>",
+   "colophon":"kuratiert aus deinen Quellen, geschrieben für dich",
+   "sections":[
+    {"type":"news","icon":"globe","eyebrow":"Weltlage · neutral","items":[
+      {"title":"Golf: vorsichtige Entspannung","text":"In Katar berichten Vermittler von einer Annäherung zwischen den USA und Iran. Bis zu einer Frist bleiben 45 Tage für ein Abkommen zu Atomprogramm, Sanktionen und der Straße von Hormuz. Weil rund ein Drittel des weltweit verschifften Öls diese Meerenge passiert, hängt an der Diplomatie auch der Ölpreis, und damit die Inflation weiter unten.","source":"CNN","url":"https://www.cnn.com/2026/07/02/world/live-news/iran-war-us-talks"},
+      {"title":"Schwerer Angriff auf Kiew","text":"Russland traf die ukrainische Hauptstadt über Nacht mit Raketen und Drohnen, es gab mehrere Tote. Die Angriffe auf urbane Zentren halten an, während diplomatische Bewegung ausbleibt.","source":"CNN"}]},
+    {"type":"news","icon":"chart","eyebrow":"Wirtschaft","merk":{"text":"Die Preise kühlen, das Wachstum leider auch.","tone":"g"},"items":[
+      {"title":"Inflation kühlt schneller als erwartet","text":"Im Euroraum fiel die Teuerung im Juni auf 2,8 Prozent, deutlicher als Fachleute (3,0) erwartet hatten. Grund ist der gesunkene Ölpreis nach der Entspannung im Iran-Konflikt. Die EZB entscheidet am 23. Juli über die Zinsen, die bestimmen, wie teuer Kredite für Firmen und Haushalte sind. Ein weiterer Schritt gilt als nicht dringend.","source":"WirtschaftsWoche","url":"https://www.wiwo.de/politik/konjunktur/konjunktur-inflation-im-euroraum-schwaecht-sich-im-juni-merklich-ab/100237150.html"},
+      {"title":"Deutschland: Erholung verschoben","text":"Die EU-Kommission halbierte ihre Wachstumsprognose für Deutschland auf 0,6 Prozent, nach zuvor 1,2. Der Energiepreis-Schock des Iran-Kriegs kostete die erhoffte Konjunkturerholung.","source":"Handelsblatt","url":"https://www.handelsblatt.com/politik/konjunktur/konjunktur-eu-kommission-halbiert-wachstumsprognose-fuer-deutschland/100226918.html"}]},
+    {"type":"news","icon":"leaf","eyebrow":"Lichtblick","items":[
+      {"title":"Wind und Sonne überholen Gas","text":"Erstmals lieferten Wind und Solar im April weltweit mehr Strom als Gas, 22 gegenüber 20 Prozent. Ein stiller Kipppunkt, über Jahre aufgebaut, jetzt in der Statistik sichtbar.","source":"Positive News","url":"https://www.positive.news/society/good-news-stories-from-week-27-of-2026/"},
+      {"title":"Kinder lesen wieder lieber","text":"In einer Befragung von 125.000 Kindern in Großbritannien gaben 36,1 Prozent an, in der Freizeit gern zu lesen. Der erste Anstieg seit 2021, gegen den Trend.","source":"Positive News"}]},
+    {"type":"news","icon":"flask","eyebrow":"Forschung & Fortschritt","items":[
+      {"title":"Krebs: der fehlende Baustein","text":"Forscher fanden die genetische Zutat, die Melanomzellen praktisch unsterblich macht. Normale Zellen altern und sterben, Krebszellen umgehen das. Wird der Mechanismus gestört, verlieren sie einen ihrer wichtigsten Überlebenstricks, ein möglicher Angriffspunkt für Therapien.","source":"ScienceDaily","url":"https://www.sciencedaily.com/"},
+      {"title":"Lucy bei einem taumelnden Asteroiden","text":"Die NASA-Sonde zeigt den Asteroiden Donaldjohanson als erdnussförmiges Relikt einer alten Kollision, über Jahrmillionen vom Sonnenlicht umgeformt. Ein Blick in die Baugeschichte des Sonnensystems.","source":"ScienceDaily"}]},
+    {"type":"news","icon":"pin","eyebrow":"Horb am Neckar","items":[
+      {"title":"MY'tallica: Metallica Open Air","text":"Heute Abend um 19:30 Uhr spielt die Tribute-Band MY'tallica open air in Horb. Bei 27 Grad und Sonne ideales Wetter dafür.","source":"Stadt Horb","url":"https://www.horb.de/Veranstaltungen"},
+      {"title":"Bald: Schlossgarten öffnet","text":"Ab dem 29. Juli lädt der Schlossgarten mittwochs wieder mit Speisen ab 17 Uhr, ein ruhiger Sommerabend über dem Neckar.","source":"Veranstaltungskalender Horb"}]},
+    {"type":"thought","text":"Was du misst, kannst du verbessern. Was du nur fühlst, wiederholst du. Vielleicht ist der erste Gold-Standard, den du heute anlegst, gar nicht der für einen Prompt, sondern der für einen guten Tag."},
+    {"type":"divider"},
+    {"type":"opp","icon":"compass","eyebrow":"Gelegenheitsradar","item":{
+      "title":"Cloud- und KI-Guthaben, ohne Kapitalgeber",
+      "text":"Microsofts „Founders Hub\" vergibt in der Einstiegsstufe rund 1.000 Dollar Azure-Guthaben plus Zugang zu KI-Diensten, ganz ohne Investoren-Voraussetzung, für Firmen unter zehn Jahren mit eigener Domain. AWS Activate bietet eine vergleichbare Selbstbedienungsstufe. Beides ist Guthaben, kein Kredit.",
+      "why":"Mehrwert für dich: kostenlose Test-Infrastruktur für Demos und Experimente. Einmal prüfen, ob Texura qualifiziert, das dauert unter einer Stunde.",
+      "source":"Microsoft for Startups · AWS Activate","url":"https://cloudkompas.com/blog/microsoft-for-startups-2026"}},
+    {"type":"action","icon":"gauge","eyebrow":"Handlungsempfehlungen",
+     "also":"MCP-TypeScript-SDK v2 (beta) und Lehren aus realen Prompt-Injection-Vorfällen. Als Referenz abgelegt.",
+     "cards":[
+      {"icon":"gauge","title":"Vom Prompt-Gefühl zur Prompt-Messung","tag":"Strategischer Hebel",
+       "paras":["Simon Willison beschreibt mit DSPy einen Bruch mit der gängigen Praxis. Bisher schreibt man einen Prompt um, liest das Ergebnis, hat ein Bauchgefühl, ob es besser wurde. DSPy dreht das um: Man definiert eine Handvoll Gold-Beispiele und eine Messgröße, dann optimiert das Werkzeug den Prompt dagegen, fast wie ein Compiler. Für ein System, das sich selbst pflegen soll, ist das eine Haltung: Jede Änderung wird überprüfbar, statt sich als stille Drift einzuschleichen."],
+       "merk":"Was du misst, verbessert sich. Was du nur fühlst, driftet.",
+       "konkret":"Beginne mit der radar-Bewertung. Fünf Gold-Beispiele, die Trefferquote messen, eine Variante gegentesten. Erst der Beweis, dann der Umbau.",
+       "snippetLabel":"Prompt-Snippet · „Prompt-Kritiker\"",
+       "snippet":"Du bist ein strenger Prompt-Kritiker. Bewerte den folgenden\nSystem-Prompt gegen die 5 Gold-Beispiele (Eingabe -&gt; erwartete\nAusgabe).\n\n1) Je Beispiel: erfüllt der Prompt die erwartete Ausgabe? (ja/nein + Grund)\n2) Trefferquote als X/5.\n3) Die 3 häufigsten Fehlermuster.\n4) EINE minimale Prompt-Änderung, die die meisten Fehler behebt.\n   Ändere nichts anderes. Gib den verbesserten Prompt als Diff aus.\n\n--- SYSTEM-PROMPT ---\n<span class=\"ph\">{ zu testenden Prompt einsetzen }</span>\n--- GOLD-BEISPIELE ---\n<span class=\"ph\">{ 5x: Eingabe -&gt; erwartete Ausgabe }</span>",
+       "source":"Simon Willison, DSPy","url":"https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts","score":"18,1"},
+      {"icon":"layers","title":"Eine Quelle, die sich selbst verteilt","tag":"Architektur · prüfenswert",
+       "paras":["MCP ist der junge Standard, über den Agenten Werkzeuge und Daten „andocken\". Ein neues Muster nutzt ihn für Regeln: verbindliche Vorgaben als Markdown über einen kleinen Server, den jeder Agent beim Start liest. Für dein _canon hieße das, die Regeln einmal zu pflegen und automatisch in jede Sitzung zu spiegeln, statt sie zu kopieren, wo sie veralten."],
+       "merk":"Regeln kopiert man nicht, man abonniert sie.",
+       "source":"markdown-rules MCP · Entscheidung: im Sandbox prüfen"}]}
+   ]}
+ ]
+};
+
+var ICONS={
+ gauge:'<path d="M4 15a8 8 0 0 1 16 0"/><path d="M12 15l4.2-4.2"/><circle cx="12" cy="15" r="1.1"/>',
+ layers:'<path d="M12 4 3.5 8 12 12l8.5-4L12 4z"/><path d="M3.5 12 12 16l8.5-4"/><path d="M3.5 16 12 20l8.5-4"/>',
+ globe:'<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17"/><path d="M12 3.5c2.6 2.3 4 5.3 4 8.5s-1.4 6.2-4 8.5c-2.6-2.3-4-5.3-4-8.5s1.4-6.2 4-8.5z"/>',
+ chart:'<path d="M4 20V4"/><path d="M4 20h16"/><path d="M7.5 15l3.5-3.8 3 2.8 4.5-6.2"/>',
+ leaf:'<path d="M12 14a4 4 0 0 0 4-4c0-2-4-6-4-6s-4 4-4 6a4 4 0 0 0 4 4z"/><path d="M12 14v6"/><path d="M9 20h6"/>',
+ flask:'<path d="M9.5 3h5"/><path d="M10 3v6l-4.4 8.2A2 2 0 0 0 7.4 20h9.2a2 2 0 0 0 1.8-2.8L14 9V3"/><path d="M7.5 14h9"/>',
+ pin:'<path d="M12 21s6.5-5.5 6.5-10.5A6.5 6.5 0 0 0 5.5 10.5C5.5 15.5 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.4"/>',
+ compass:'<circle cx="12" cy="12" r="8.5"/><path d="M15.5 8.5l-2.6 5.6L7.3 16l2.6-5.6L15.5 8.5z"/>',
+ spark:'<path d="M12 3l1.9 5.4L19 10l-5.1 1.6L12 17l-1.9-5.4L5 10l5.1-1.6L12 3z"/>',
+ terminal:'<rect x="3.5" y="5" width="17" height="14" rx="2"/><path d="M7 9l3 3-3 3"/><path d="M13 15h4"/>'
+};
+function ic(n){ return '<svg class="ic" viewBox="0 0 24 24">'+(ICONS[n]||ICONS.spark)+'</svg>'; }
+function src(it){ var s=it.url? '<a href="'+it.url+'">'+it.source+'</a>' : it.source; return '<p class="src">Quelle: '+s+(it.score?' · Werte-Score <b>'+it.score+'</b>':'')+'</p>'; }
+function merk(text,tone){ return '<div class="merk'+(tone==='g'?' g':'')+'">'+ic('spark')+'<span><b>Merksatz:</b> '+text+'</span></div>'; }
+function story(it){ return '<div class="story"><h4>'+it.title+'</h4><p>'+it.text+'</p>'+src(it)+'</div>'; }
+function card(c){
+  var h='<article class="card"><div class="chead"><div class="badge">'+ic(c.icon||'gauge')+'</div><h3>'+c.title+'</h3></div>';
+  if(c.tag) h+='<span class="tag">'+c.tag+'</span>';
+  h+=(c.paras||[]).map(function(p){return '<p>'+p+'</p>';}).join('');
+  if(c.merk) h+=merk(c.merk);
+  if(c.konkret) h+='<p class="konkret"><b>Konkret:</b> '+c.konkret+'</p>';
+  if(c.snippet) h+='<div class="snippet"><div class="lab"><span>'+(c.snippetLabel||'Prompt-Snippet')+'</span><button class="copy" data-copy>Kopieren</button></div><pre>'+c.snippet+'</pre></div>';
+  if(c.source) h+=src(c);
+  return h+'</article>';
+}
+function section(s){
+  if(s.type==='news') return '<section class="sec"><div class="eyebrow">'+ic(s.icon)+s.eyebrow+'</div><div class="stories">'+s.items.map(story).join('')+'</div>'+(s.merk?merk(s.merk.text,s.merk.tone):'')+'</section>';
+  if(s.type==='opp'){ var it=s.item; return '<section class="sec"><div class="eyebrow act">'+ic(s.icon)+s.eyebrow+'</div><div class="opp"><h4>'+it.title+'</h4><p>'+it.text+'</p><p class="why">↳ '+it.why+'</p>'+src(it)+'</div></section>'; }
+  if(s.type==='action') return '<section class="sec"><div class="eyebrow act">'+ic(s.icon)+s.eyebrow+'</div><div class="cards">'+s.cards.map(card).join('')+(s.also?'<p class="also"><b>Auch aufgeschnappt:</b> '+s.also+'</p>':'')+'</div></section>';
+  if(s.type==='thought') return '<p class="thought">„'+s.text+'"</p>';
+  if(s.type==='divider') return '<div class="actbar">— '+(s.text||'Was du daraus machen kannst')+' —</div>';
+  return '';
+}
+function day(d){
+  return '<section class="day" data-label="'+d.label+'" data-w="'+d.weather+'" data-temp="'+d.temp+'"><p class="greet">'+d.greeting+'</p>'
+    + d.sections.map(section).join('')
+    + (d.colophon?'<footer class="colophon"><span class="mk">MORGENLAGE</span> · '+d.colophon+'<br>wische für die Vortage</footer>':'') + '</section>';
+}
+
+var hero=document.querySelector('.hero'), wtemp=document.querySelector('.wtemp'), sub=document.querySelector('[data-sub]');
+var deck=document.querySelector('.deck'), dotsWrap=document.querySelector('.dots'), label=document.querySelector('.daylabel');
+var prev=document.querySelector('.arrow.prev'), next=document.querySelector('.arrow.next');
+var days=[];
+function active(){ return Math.max(0,Math.min(days.length-1,Math.round(deck.scrollLeft/deck.clientWidth))); }
+function sync(){ var i=active(), d=days[i]; if(!d) return;
+  [].forEach.call(dotsWrap.children,function(x,n){ x.classList.toggle('on',n===i); });
+  label.textContent=d.getAttribute('data-label'); wtemp.textContent=d.getAttribute('data-temp'); hero.setAttribute('data-w',d.getAttribute('data-w'));
+  prev.disabled=(i<=0); next.disabled=(i>=days.length-1);
+}
+function go(i){ i=Math.max(0,Math.min(days.length-1,i)); deck.scrollTo({left:i*deck.clientWidth,behavior:'smooth'}); }
+function build(data){
+  if(data.sub) sub.textContent=data.sub;
+  deck.innerHTML=data.days.map(day).join('');
+  dotsWrap.innerHTML=data.days.map(function(_,n){return '<button class="dot" data-go="'+n+'" aria-label="Tag '+(n+1)+'"></button>';}).join('');
+  days=[].slice.call(deck.querySelectorAll('.day'));
+  [].forEach.call(dotsWrap.children,function(b){ b.addEventListener('click',function(){ go(+b.getAttribute('data-go')); }); });
+  deck.querySelectorAll('.copy[data-copy]').forEach(function(btn){ btn.addEventListener('click',function(){
+    var pre=btn.closest('.snippet').querySelector('pre');
+    navigator.clipboard.writeText(pre.innerText).then(function(){ var o=btn.textContent; btn.textContent='Kopiert'; btn.classList.add('ok'); setTimeout(function(){btn.textContent=o;btn.classList.remove('ok');},1600); }).catch(function(){});
+  }); });
+  var last=days.length-1; deck.scrollLeft=last*deck.clientWidth; sync();
+}
+prev.addEventListener('click',function(){ go(active()-1); });
+next.addEventListener('click',function(){ go(active()+1); });
+var t; deck.addEventListener('scroll',function(){ clearTimeout(t); t=setTimeout(sync,60); });
+window.addEventListener('resize',function(){ go(active()); });
+fetch('data.json',{cache:'no-store'}).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(build).catch(function(){ build(window.__DATA__); });
+</script>
