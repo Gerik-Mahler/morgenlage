@@ -1,69 +1,253 @@
 {
- "sub":"Dein tägliches Briefing",
- "days":[
-  {"label":"Donnerstag, 2. Juli 2026","weather":"clouds","temp":"27°C · bewölkt",
-   "greeting":"Guten Morgen, Gerik. Ein Donnerstag der offenen Fragen: Am Persischen Golf beginnen erste Gespräche, an den Finanzmärkten wartet man ab. Für dich der leise Auftakt zu einer Woche, in der sich ein Thema durchzieht, das Messen statt Raten.",
-   "sections":[
-    {"type":"news","icon":"globe","eyebrow":"Weltlage · neutral","items":[
-      {"title":"Iran und USA: Gespräche in Katar","text":"Nach Monaten der Spannung setzen sich die USA und der Iran erstmals wieder an einen Tisch, vermittelt vom Golfstaat Katar, der zu beiden Seiten gute Drähte hat. Verhandelt wird über das iranische Atomprogramm, die westlichen Sanktionen und die Straße von Hormuz, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Erste Fortschritte werden gemeldet, ein Abschluss ist aber noch offen."},
-      {"title":"USMCA: das nordamerikanische Handelsabkommen wackelt","text":"Die USA wollen das Abkommen mit Kanada und Mexiko nicht unverändert verlängern. USMCA steht für United States, Mexico, Canada Agreement, den 2020 geschlossenen Nachfolger des Freihandelsabkommens NAFTA. Dass Washington nachverhandeln will, ist ein Signal, dass die globale Handelsordnung weiter in Bewegung bleibt."}]},
-    {"type":"thought","text":"Der erste Tag einer Idee ist der leiseste. Man erkennt ihn oft erst rückwirkend."},
-    {"type":"divider"},
-    {"type":"action","icon":"terminal","eyebrow":"Für dich & Texura","cards":[
-      {"icon":"terminal","title":"Browser-Steuerung für Agenten","tag":"Zum Merken","paras":["Ein neuer Baustein macht die Runde: ein sogenannter MCP-Server, über den KI-Agenten echte Webseiten bedienen können, also Formulare ausfüllen, klicken, navigieren. MCP steht für Model Context Protocol, einen offenen Standard, über den Agenten einheitlich Werkzeuge ansteuern. Für deine Demos ist das interessant, weil ein Agent den Kundennutzen dann vorführen könnte, statt ihn nur zu beschreiben. Heute nur ablegen, nicht bauen."],"source":"Hyperbrowser MCP · Referenznotiz abgelegt"}]}
-   ]},
-  {"label":"Freitag, 3. Juli 2026","weather":"rain","temp":"25°C · Regen",
-   "greeting":"Guten Morgen, Gerik. Regen über Horb, Bewegung in der Diplomatie am Golf, und aus der Technik-Welt ein Muster, das gut zu deinem eigenen System passt. Das Thema des Tages: Werkzeuge, die sich selbst erklären.",
-   "sections":[
-    {"type":"news","icon":"leaf","eyebrow":"Lichtblick","items":[
-      {"title":"Mexiko: Gesundheitsversorgung für alle","text":"Die mexikanische Regierung hat angekündigt, ab dem kommenden Jahr allen Bürgerinnen und Bürgern eine kostenlose, allgemeine Gesundheitsversorgung anzubieten, unabhängig von Einkommen oder Beschäftigung. Es ist Teil eines größeren Plans gegen die soziale Ungleichheit im Land. Für ein Schwellenland dieser Größe ist das ein ambitionierter Schritt."}]},
-    {"type":"news","icon":"pin","eyebrow":"Horb am Neckar","items":[
-      {"title":"Einkaufs- und Musikabend in der Innenstadt","text":"Heute Abend verwandelt sich die Horber Innenstadt in eine Mischung aus geöffneten Geschäften und Livemusik an mehreren Ecken, ein lockerer Sommerabend zum Bummeln. Bei der Regenlage von heute schadet ein Schirm allerdings nicht."}]},
-    {"type":"thought","text":"Ein gutes Werkzeug verschwindet in der Hand. Erst wenn es fehlt, merkt man, wie sehr es getragen hat."},
-    {"type":"divider"},
-    {"type":"action","icon":"layers","eyebrow":"Für dich & Texura","cards":[
-      {"icon":"layers","title":"Regeln als Dienst statt als Kopie","tag":"Architektur","paras":["Ein Muster gewinnt an Zug: verbindliche Regeln nicht in jeden Arbeitszusammenhang hineinkopieren, sondern zentral über einen kleinen Server bereitstellen, den jeder KI-Agent beim Start abfragt. Technisch läuft das über MCP, das Model Context Protocol, einen offenen Standard zum Andocken von Werkzeugen und Daten. Übertragen auf dein Regelwerk hieße das: eine einzige Quelle, aus der sich jede Sitzung automatisch bedient."],"merk":"Regeln kopiert man nicht, man abonniert sie.","source":"markdown-rules MCP"}]}
-   ]},
-  {"label":"Samstag, 4. Juli 2026","weather":"clear","temp":"27°C · sonnig",
-   "colophon":"kuratiert aus deinen Quellen · Fotos: Pexels",
-   "greeting":"Guten Morgen, Gerik. Der Samstag steht im Zeichen zweier gegenläufiger Kräfte: Am Persischen Golf tasten sich die USA und der Iran nach Monaten der Eskalation vorsichtig zu Gesprächen zurück, und in Europa fällt die Inflation, also die allgemeine Teuerung, schneller als erwartet. Beides hängt am selben Faden, dem Ölpreis. Erst die Lage, <b>ganz unten dann, was du daraus machen kannst.</b>",
-   "sections":[
-    {"type":"news","icon":"globe","eyebrow":"Weltlage · neutral","items":[
-      {"title":"Persischer Golf: vorsichtige Entspannung","text":"Am Persischen Golf, der Meeresregion zwischen der Arabischen Halbinsel und dem Iran, deutet sich nach Monaten militärischer Spannungen eine Entspannung an. Vermittelt vom Golfstaat Katar berichten Diplomaten von einer Annäherung zwischen den USA und dem Iran. Es bleiben 45 Tage bis zu einer selbst gesetzten Frist, in der ein Abkommen über drei Streitpunkte stehen soll: das iranische Atomprogramm, die westlichen Wirtschaftssanktionen und die Straße von Hormuz. Diese Straße ist eine nur rund 50 Kilometer breite Meerenge am Ausgang des Golfs, durch die etwa ein Drittel des weltweit auf Schiffen transportierten Erdöls fließt. Wer sie kontrolliert, bewegt den Ölpreis, und darüber, wie du in der Rubrik Wirtschaft siehst, auch die Inflation in Europa. An diesem eigentlich fernen Verhandlungstisch wird also über deinen Alltag mitentschieden."},
-      {"title":"Schwerer Angriff auf Kiew","text":"Während am Golf verhandelt wird, setzt Russland den Krieg gegen die Ukraine unvermindert fort. In der Nacht traf ein großangelegter Angriff die Hauptstadt Kiew mit einer Kombination aus ballistischen Raketen, Marschflugkörpern und Drohnen; mehrere Menschen starben. Ballistische Raketen fliegen auf einer hohen Bogenbahn und sind schwer abzufangen, Marschflugkörper dagegen niedrig und wendig. Beide gemeinsam einzusetzen, soll die Luftabwehr überfordern. Der Kontrast des Tages: Wo im Nahen Osten diplomatische Bewegung entsteht, bleibt sie hier aus."}]},
-    {"type":"news","icon":"chart","eyebrow":"Wirtschaft","merk":{"text":"Die Preise kühlen, das Wachstum leider auch.","tone":"g"},"items":[
-      {"title":"Inflation kühlt schneller als erwartet","text":"Die Inflation, also der Anstieg der allgemeinen Preise, hat sich im Euroraum, den zwanzig Ländern mit dem Euro als Währung, im Juni auf 2,8 Prozent abgeschwächt. Das ist deutlicher, als die von der Nachrichtenagentur Reuters befragten Fachleute erwartet hatten, sie waren von 3,0 Prozent ausgegangen. Der Grund liegt am Golf: Weil sich der Konflikt entspannt, ist der Ölpreis gesunken, und billige Energie verbilligt fast alles andere gleich mit. Die Europäische Zentralbank, kurz EZB, die für den Euro die Leitzinsen festlegt, entscheidet am 23. Juli erneut über diese Zinsen. Der Leitzins bestimmt, wie teuer sich Banken Geld leihen, und damit am Ende, wie teuer dein Kredit oder Dispo ist. Weil die Preise nun von selbst nachgeben, gilt ein weiterer Zinsschritt als nicht dringend."},
-      {"title":"Deutschland: Erholung verschoben","text":"Für Deutschland fällt der Ausblick trüber aus. Die EU-Kommission, die Verwaltungsspitze der Europäischen Union, hat ihre Wachstumsprognose für die deutsche Wirtschaft halbiert, von zuvor 1,2 auf nur noch 0,6 Prozent für dieses Jahr. Gemeint ist das Wachstum des Bruttoinlandsprodukts, also der Summe aller in einem Jahr erzeugten Waren und Dienstleistungen. Schuld ist derselbe Energiepreis-Schock, den der Iran-Konflikt im Frühjahr ausgelöst hatte; er hat die zaghafte Erholung abgewürgt, bevor sie begann. Kühlere Preise und schwächeres Wachstum treffen also zusammen."}]},
-    {"type":"news","icon":"leaf","eyebrow":"Lichtblick","items":[
-      {"title":"Wind und Sonne überholen Gas","img":"https://images.pexels.com/photos/15751141/pexels-photo-15751141.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Zum ersten Mal überhaupt haben Windräder und Solaranlagen im April weltweit mehr Strom erzeugt als Gaskraftwerke, 22 gegenüber 20 Prozent der globalen Stromproduktion. Der Abstand klingt klein, markiert aber einen historischen Wendepunkt: Jahrzehntelang galt Erdgas als die flexible Brückentechnologie, an der die Erneuerbaren nicht vorbeikamen. Dass Wind und Sonne, zwei von Natur aus schwankende Quellen, sie in Summe nun überholen, zeigt, wie stark Ausbau und Stromspeicher inzwischen gewachsen sind. Solche Kipppunkte bauen sich über Jahre leise auf und werden erst sichtbar, wenn sie überschritten sind."},
-      {"title":"Kinder lesen wieder lieber","img":"https://images.pexels.com/photos/256559/pexels-photo-256559.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Eine gute Nachricht gegen den Trend: In einer Befragung von 125.000 Kindern und Jugendlichen in Großbritannien gaben 36,1 Prozent an, in ihrer Freizeit gern zu lesen, nach 32,7 Prozent im Vorjahr. Es ist der erste Anstieg seit 2021. Durchgeführt hat die Erhebung der National Literacy Trust, eine britische Stiftung, die sich für Lese- und Schreibfähigkeit einsetzt. Nach Jahren, in denen Bildschirme das Lesen verdrängt haben, ist schon die Trendwende selbst bemerkenswert."}]},
-    {"type":"news","icon":"flask","eyebrow":"Forschung & Fortschritt","items":[
-      {"title":"Krebs: der fehlende Baustein","img":"https://images.pexels.com/photos/7230331/pexels-photo-7230331.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Forscher haben einen lange gesuchten Baustein gefunden, der Zellen des Melanoms praktisch unsterblich macht. Das Melanom ist der schwarze Hautkrebs, die gefährlichste Hautkrebsart. Gesunde Zellen altern und sterben nach einer begrenzten Zahl von Teilungen, weil ihre Chromosomen-Enden, die sogenannten Telomere, mit jeder Teilung kürzer werden, eine Art eingebautes Ablaufdatum. Krebszellen umgehen dieses Ablaufdatum und teilen sich endlos weiter. Welche genetische Zutat dafür in Melanomzellen den Ausschlag gibt, war bislang unklar, jetzt ist sie identifiziert. Stört man den Mechanismus gezielt, verlören die Zellen einen ihrer wichtigsten Überlebenstricks, ein möglicher Ansatzpunkt für neue Therapien."},
-      {"title":"Lucy: Besuch bei einem taumelnden Asteroiden","img":"https://images.pexels.com/photos/7615732/pexels-photo-7615732.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Die NASA-Raumsonde Lucy hat einen Asteroiden aus der Nähe fotografiert. Lucy, benannt nach dem berühmten 3,2 Millionen Jahre alten Skelett eines menschlichen Vorfahren, ist seit 2021 unterwegs, um mehrere Asteroiden zu erkunden, kleine Gesteinsbrocken aus der Frühzeit des Sonnensystems. Ihr jüngstes Ziel, ein Brocken namens Donaldjohanson, benannt nach dem Paläontologen, der das Lucy-Fossil einst entdeckte, entpuppte sich als taumelndes, erdnussförmiges Gebilde. Es entstand bei einer Kollision und wurde über Jahrmillionen allein durch den sanften Druck des Sonnenlichts langsam umgeformt. Solche Brocken sind unberührte Bausteine, aus denen einst die Planeten zusammenwuchsen, gewissermaßen Fossilien des Weltalls."}]},
-    {"type":"news","icon":"pin","eyebrow":"Horb am Neckar","items":[
-      {"title":"MY'tallica: Metallica unter freiem Himmel","img":"https://images.pexels.com/photos/16085578/pexels-photo-16085578.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Heute Abend um 19:30 Uhr spielt in Horb die Band MY'tallica open air, also unter freiem Himmel. MY'tallica ist eine sogenannte Tribute-Band, eine Gruppe, die das Programm einer berühmten Band möglichst originalgetreu nachspielt, in diesem Fall das von Metallica, einer der einflussreichsten Metal-Bands der Welt. Bei 27 Grad und Sonnenschein sind die Bedingungen für ein Konzert unter freiem Himmel ideal."},
-      {"title":"Bald: der Schlossgarten öffnet","img":"https://images.pexels.com/photos/32666094/pexels-photo-32666094.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200","text":"Ein ruhigerer Ausblick: Ab dem 29. Juli öffnet der Horber Schlossgarten wieder, jeweils mittwochs mit Bewirtung ab 17 Uhr. Der Garten liegt erhöht über dem Neckar und ist im Sommer ein beliebter Ort für einen gelassenen Abend über der Stadt."}]},
-    {"type":"thought","text":"Was du misst, kannst du verbessern. Was du nur fühlst, wiederholst du. Vielleicht ist der erste Gold-Standard, den du heute anlegst, gar nicht der für einen Prompt, sondern der für einen guten Tag."},
-    {"type":"divider"},
-    {"type":"opp","icon":"compass","eyebrow":"Gelegenheitsradar","item":{
-      "title":"Cloud- und KI-Guthaben, ohne Kapitalgeber",
-      "text":"Zwei große Technologiekonzerne verschenken Startkapital in Form von Cloud-Guthaben, ohne dass du Investoren im Rücken brauchst. Cloud bedeutet: Rechenleistung und Speicher, die man übers Internet mietet, statt eigene Server zu kaufen. Microsofts Programm Founders Hub gibt in der Einstiegsstufe rund 1.000 Dollar Guthaben für Azure, so heißt Microsofts Cloud-Plattform, samt Zugang zu KI-Diensten, offen für Firmen, die jünger als zehn Jahre sind und eine eigene Domain haben. Amazon bietet mit AWS Activate ein vergleichbares Selbstbedienungs-Guthaben; AWS steht für Amazon Web Services, die Cloud-Sparte von Amazon. Wichtig: Es ist Guthaben, kein Kredit, es entstehen also keine Schulden und keine laufenden Kosten.",
-      "why":"Mehrwert für dich: kostenlose Infrastruktur, um Demos und Experimente zu testen, ohne Fixkosten. Einmal prüfen, ob Texura die Bedingungen erfüllt, das dauert unter einer Stunde.",
-      "source":"Microsoft for Startups · AWS Activate","url":"https://cloudkompas.com/blog/microsoft-for-startups-2026"}},
-    {"type":"action","icon":"gauge","eyebrow":"Handlungsempfehlungen",
-     "also":"das MCP-TypeScript-SDK v2 (eine Programmier-Bibliothek für ebenjene MCP-Server, jetzt in einer Vorab-Version) und Lehren aus realen Angriffen auf KI-Agenten. Als Referenz abgelegt, kein Handlungsdruck.",
-     "cards":[
-      {"icon":"gauge","title":"Vom Prompt-Gefühl zur Prompt-Messung","tag":"Strategischer Hebel",
-       "paras":["Simon Willison, einer der bekanntesten Entwickler und Autoren rund um KI-Werkzeuge, beschreibt eine neue Arbeitsweise mit einem Werkzeug namens DSPy. Zur Einordnung: Ein Prompt ist die Anweisung, die man einem KI-Sprachmodell gibt. Bislang verbessert man ihn meist nach Gefühl, schreibt ihn um, liest das Ergebnis und entscheidet aus dem Bauch, ob es besser wurde. DSPy dreht das um: Man legt eine Handvoll Gold-Beispiele an, also Paare aus einer Eingabe und der idealen Ausgabe, definiert ein messbares Ziel, und das Werkzeug optimiert den Prompt automatisch gegen dieses Ziel, ähnlich wie ein Compiler ein Programm übersetzt.","Für dein System, das sich selbst pflegen soll, ist das weniger eine Technik als eine Haltung: Jede Änderung an einem Baustein wird überprüfbar, statt sich als stille Verschlechterung einzuschleichen, die erst auffällt, wenn die Qualität längst gelitten hat."],
-       "merk":"Was du misst, verbessert sich. Was du nur fühlst, driftet.",
-       "konkret":"Fang mit einem einzigen Prompt an, etwa deiner Nachrichten-Bewertung. Fünf Gold-Beispiele anlegen, die Trefferquote messen, eine verbesserte Variante dagegen antreten lassen. Erst der Beweis, dann der Umbau.",
-       "snippetLabel":"Prompt-Snippet · „Prompt-Kritiker\"",
-       "snippet":"Du bist ein strenger Prompt-Kritiker. Bewerte den folgenden\nSystem-Prompt gegen die 5 Gold-Beispiele (Eingabe -> erwartete\nAusgabe).\n\n1) Je Beispiel: erfüllt der Prompt die erwartete Ausgabe? (ja/nein + Grund)\n2) Trefferquote als X/5.\n3) Die 3 häufigsten Fehlermuster.\n4) EINE minimale Prompt-Änderung, die die meisten Fehler behebt.\n   Ändere nichts anderes. Gib den verbesserten Prompt als Diff aus.\n\n--- SYSTEM-PROMPT ---\n<span class=\"ph\">{ zu testenden Prompt einsetzen }</span>\n--- GOLD-BEISPIELE ---\n<span class=\"ph\">{ 5x: Eingabe -> erwartete Ausgabe }</span>",
-       "source":"Simon Willison, DSPy","url":"https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts","score":"18,1"},
-      {"icon":"layers","title":"Eine Quelle, die sich selbst verteilt","tag":"Architektur · prüfenswert",
-       "paras":["Kurz der Begriff vorweg: MCP steht für Model Context Protocol, einen jungen, offenen Standard, über den KI-Agenten einheitlich auf Werkzeuge und Daten zugreifen, so wie ein USB-Anschluss die unterschiedlichsten Geräte verbindet. Ein neues Muster nutzt genau diesen Standard für Regeln: Man stellt verbindliche Vorgaben als einfache Text-Dateien über einen kleinen MCP-Server bereit, den jeder Agent beim Start abfragt.","Übertragen auf dein Regelwerk, also die gesammelten Grundregeln deines Systems zu Aufbau, Tonfall und Benennung, hieße das: Du pflegst die Regeln an einer einzigen Stelle, und jede Sitzung zieht sie sich automatisch, statt sie in jeden Zusammenhang zu kopieren, wo sie mit der Zeit auseinanderlaufen."],
-       "merk":"Regeln kopiert man nicht, man abonniert sie.",
-       "source":"markdown-rules MCP · Entscheidung: im Sandbox prüfen"}]}
-   ]}
+ "sub": "Dein tägliches Briefing",
+ "days": [
+  {
+   "label": "Donnerstag, 2. Juli 2026",
+   "weather": "clouds",
+   "temp": "27°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Ein Donnerstag der offenen Fragen: Am Persischen Golf beginnen erste Gespräche, an den Finanzmärkten wartet man ab. Für dich der leise Auftakt zu einer Woche, in der sich ein Thema durchzieht, das Messen statt Raten.",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "Iran und USA: Gespräche in Katar",
+       "text": "Nach Monaten der Spannung setzen sich die USA und der Iran erstmals wieder an einen Tisch, vermittelt vom Golfstaat Katar, der zu beiden Seiten gute Drähte hat. Verhandelt wird über das iranische Atomprogramm, die westlichen Sanktionen und die Straße von Hormuz, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Erste Fortschritte werden gemeldet, ein Abschluss ist aber noch offen."
+      },
+      {
+       "title": "USMCA: das nordamerikanische Handelsabkommen wackelt",
+       "text": "Die USA wollen das Abkommen mit Kanada und Mexiko nicht unverändert verlängern. USMCA steht für United States, Mexico, Canada Agreement, den 2020 geschlossenen Nachfolger des Freihandelsabkommens NAFTA. Dass Washington nachverhandeln will, ist ein Signal, dass die globale Handelsordnung weiter in Bewegung bleibt."
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Der erste Tag einer Idee ist der leiseste. Man erkennt ihn oft erst rückwirkend."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "action",
+     "icon": "terminal",
+     "eyebrow": "Für dich & Texura",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Browser-Steuerung für Agenten",
+       "tag": "Zum Merken",
+       "paras": [
+        "Ein neuer Baustein macht die Runde: ein sogenannter MCP-Server, über den KI-Agenten echte Webseiten bedienen können, also Formulare ausfüllen, klicken, navigieren. MCP steht für Model Context Protocol, einen offenen Standard, über den Agenten einheitlich Werkzeuge ansteuern. Für deine Demos ist das interessant, weil ein Agent den Kundennutzen dann vorführen könnte, statt ihn nur zu beschreiben. Heute nur ablegen, nicht bauen."
+       ],
+       "source": "Hyperbrowser MCP · Referenznotiz abgelegt"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Freitag, 3. Juli 2026",
+   "weather": "rain",
+   "temp": "25°C · Regen",
+   "greeting": "Guten Morgen, Gerik. Regen über Horb, Bewegung in der Diplomatie am Golf, und aus der Technik-Welt ein Muster, das gut zu deinem eigenen System passt. Das Thema des Tages: Werkzeuge, die sich selbst erklären.",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Mexiko: Gesundheitsversorgung für alle",
+       "text": "Die mexikanische Regierung hat angekündigt, ab dem kommenden Jahr allen Bürgerinnen und Bürgern eine kostenlose, allgemeine Gesundheitsversorgung anzubieten, unabhängig von Einkommen oder Beschäftigung. Es ist Teil eines größeren Plans gegen die soziale Ungleichheit im Land. Für ein Schwellenland dieser Größe ist das ein ambitionierter Schritt."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Einkaufs- und Musikabend in der Innenstadt",
+       "text": "Heute Abend verwandelt sich die Horber Innenstadt in eine Mischung aus geöffneten Geschäften und Livemusik an mehreren Ecken, ein lockerer Sommerabend zum Bummeln. Bei der Regenlage von heute schadet ein Schirm allerdings nicht."
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein gutes Werkzeug verschwindet in der Hand. Erst wenn es fehlt, merkt man, wie sehr es getragen hat."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "action",
+     "icon": "layers",
+     "eyebrow": "Für dich & Texura",
+     "cards": [
+      {
+       "icon": "layers",
+       "title": "Regeln als Dienst statt als Kopie",
+       "tag": "Architektur",
+       "paras": [
+        "Ein Muster gewinnt an Zug: verbindliche Regeln nicht in jeden Arbeitszusammenhang hineinkopieren, sondern zentral über einen kleinen Server bereitstellen, den jeder KI-Agent beim Start abfragt. Technisch läuft das über MCP, das Model Context Protocol, einen offenen Standard zum Andocken von Werkzeugen und Daten. Übertragen auf dein Regelwerk hieße das: eine einzige Quelle, aus der sich jede Sitzung automatisch bedient."
+       ],
+       "merk": "Regeln kopiert man nicht, man abonniert sie.",
+       "source": "markdown-rules MCP"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Samstag, 4. Juli 2026",
+   "weather": "clouds",
+   "temp": "28°C · bewölkt",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "greeting": "Guten Morgen, Gerik. Der Samstag beginnt bewölkt bei milden 28 Grad über Horb, und die großen Linien des Tages laufen fast alle auf ein Thema zu, das Geld. In den USA wird der 250. Jahrestag der Unabhängigkeit begangen, in Europa hebt die Notenbank erstmals seit Jahren wieder die Zinsen an, und zugleich fallen die deutschen Preise überraschend. Erst die Lage, <b>ganz unten dann, was du daraus machen kannst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "USA feiern 250 Jahre Unabhängigkeit",
+       "text": "Die Vereinigten Staaten begehen heute den 250. Jahrestag ihrer Unabhängigkeitserklärung, mit der sich die dreizehn nordamerikanischen Kolonien 1776 vom Königreich Großbritannien lossagten. Zu dem runden Jubiläum, in den USA Semiquincentennial genannt, also 250-Jahr-Feier, gingen Glückwünsche aus aller Welt ein, unter anderem vom britischen König Charles III. und vom ukrainischen Präsidenten Wolodymyr Selenskyj, der eine Parallele zum Freiheitskampf seines eigenen Landes zog. Solche Jahrestage sind mehr als Feiertage: Sie sind Anlässe, an denen Staaten ihr Selbstbild und ihre Bündnisse öffentlich vermessen."
+      },
+      {
+       "title": "Irland führt nun die EU-Ratsgeschäfte",
+       "text": "Seit dem 1. Juli hat Irland die EU-Ratspräsidentschaft übernommen. Diese wechselt alle sechs Monate unter den Mitgliedsstaaten und bedeutet, dass das jeweilige Land für ein halbes Jahr die Sitzungen des Rats der Europäischen Union leitet, die Tagesordnung mitbestimmt und zwischen den Regierungen vermittelt. Irland, ein vergleichsweise kleines, aber wirtschaftlich eng an die USA gebundenes Land, übernimmt die Rolle in einer Zeit, in der Handelsfragen und die Beziehungen über den Atlantik die europäische Agenda prägen. Für den Alltag hierzulande bleibt das im Hintergrund, es bestimmt aber mit, welche Themen Brüssel in den kommenden Monaten vorantreibt."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Die Notenbank bremst, während die Preise ohnehin schon nachgeben.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "EZB hebt die Zinsen erstmals seit Jahren wieder an",
+       "text": "Die Europäische Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, hat am 11. Juni die Leitzinsen um 0,25 Prozentpunkte angehoben, die erste Erhöhung seit September 2023. Der Leitzins ist der Zinssatz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen; er wirkt am Ende auf jeden Kredit, jeden Dispo und jedes Sparbuch. Der sogenannte Einlagenzins liegt seither bei 2,25 Prozent. Hintergrund ist eine hartnäckige Teuerung, die im Jahresschnitt bei rund 3 Prozent liegt und damit über dem Ziel der EZB von 2 Prozent. Am 23. Juli entscheidet der Rat erneut über die Zinsen."
+      },
+      {
+       "title": "Deutsche Inflation sinkt überraschend",
+       "text": "Anders als erwartet sind die Verbraucherpreise in Deutschland zuletzt gefallen: Die Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, sank im Juni von 2,6 auf 2,3 Prozent. Fachleute hatten mit einer Stagnation gerechnet. Zugleich bleibt der Ausblick für die Konjunktur gedämpft; die EZB rechnet für 2026 nur noch mit einem Wachstum der Wirtschaftsleistung von etwa 0,8 Prozent, weil hohe Energiepreise Einkommen und Vertrauen belasten. Kühlere Preise bei gleichzeitig schwachem Wachstum stellen die Notenbank vor eine Zwickmühle: Zu viel Bremsen würgt die Erholung ab, zu wenig lässt die Inflation laufen."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Wind und Sonne überholen Gas",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Micro-grid_using_small_wind_turbines%2C_solar_PV%2C_energy_storage..jpg",
+       "text": "Zum ersten Mal überhaupt haben Windräder und Solaranlagen im April weltweit mehr Strom erzeugt als Gaskraftwerke, 22 gegenüber 20 Prozent der globalen Stromproduktion. Der Abstand klingt klein, markiert aber einen Wendepunkt: Jahrzehntelang galt Erdgas als die flexible Brückentechnologie, an der die Erneuerbaren nicht vorbeikamen. Dass Wind und Sonne, zwei von Natur aus schwankende Quellen, sie in Summe nun überholen, zeigt, wie stark Ausbau und Stromspeicher gewachsen sind. Solche Kipppunkte bauen sich über Jahre leise auf und werden erst sichtbar, wenn sie überschritten sind."
+      },
+      {
+       "title": "Milliarden für den Schutz der Meere",
+       "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
+       "text": "Auf der internationalen Meereskonferenz Our Ocean, zu Deutsch etwa Unser Ozean, haben Staaten, Stiftungen und Unternehmen Zusagen von mehr als 6,4 Milliarden US-Dollar gemacht, um Korallenriffe, Küsten und Wale zu schützen. Korallenriffe sind unter Wasser gewachsene Kalkstrukturen, die einem großen Teil der Meereslebewesen als Kinderstube dienen und durch wärmeres Wasser stark bedroht sind. Zusagen sind noch keine Taten, doch die Summe zeigt, dass der Schutz der Meere international an Gewicht gewinnt."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Magnetwellen als Boten für Quantenrechner",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ice_Ih_Crystal_Lattice.png",
+       "text": "Physiker haben sogenannte Magnonen erstmals zu brauchbaren Trägern von Quanteninformation gemacht. Magnonen sind winzige Wellen in der magnetischen Ordnung eines Materials, gewissermaßen ein Zittern der kleinsten Magnete im Inneren eines Kristalls. Bislang galten sie als zu kurzlebig, um Information zu halten. Gelingt es, sie zu bändigen, könnten sie in künftigen Quantencomputern Daten transportieren, also in Rechnern, die statt der üblichen Nullen und Einsen die Regeln der Quantenphysik nutzen und dadurch bestimmte Aufgaben ungleich schneller lösen. Noch ist das Grundlagenforschung, aber ein Schritt hin zu stabilerer Quantentechnik."
+      },
+      {
+       "title": "Haben Einschläge das Leben angestoßen?",
+       "img": "https://live.staticflickr.com/1522/26091953691_7893a828cc_b.jpg",
+       "text": "Eine neue Studie legt nahe, dass die schweren Asteroideneinschläge der Frühzeit nicht nur die Erdoberfläche umpflügten, sondern mitgeholfen haben könnten, das Leben überhaupt in Gang zu bringen. Asteroiden sind Gesteinsbrocken aus der Entstehungszeit des Sonnensystems, von denen in den ersten Jahrmillionen unzählige auf die junge Erde stürzten. Die Forscher vermuten, dass die Einschläge Wärme, Wasser und bestimmte chemische Bausteine lieferten, aus denen sich erste Lebensvorstufen bilden konnten. Es ist eine Hypothese, keine gesicherte Erkenntnis, aber sie rückt die frühen Katastrophen in ein neues Licht, weniger als reine Zerstörer, mehr als Geburtshelfer."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "MY'tallica: Metallica unter freiem Himmel",
+       "img": "https://live.staticflickr.com/8144/7631272708_7f6826e556_b.jpg",
+       "text": "Heute Abend um 19:30 Uhr spielt in Horb die Band MY'tallica open air, also unter freiem Himmel. MY'tallica ist eine sogenannte Tribute-Band, eine Gruppe, die das Programm einer berühmten Band möglichst originalgetreu nachspielt, in diesem Fall das von Metallica, einer der einflussreichsten Metal-Bands der Welt. Bei bewölktem Himmel und milden 28 Grad bleibt es angenehm für einen langen Abend im Freien, ein Schirm für alle Fälle schadet aber nicht."
+      },
+      {
+       "title": "Sommerprogramm: der Schlossgarten und mehr",
+       "text": "Über den heutigen Abend hinaus füllt sich der Horber Veranstaltungskalender: Ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Zudem stehen im Juli mehrere Termine unter freiem Himmel an, darunter am 19. Juli das Schlager-Open-Air Dolce Vita im Ländle. Wer die kommenden Wochen plant, findet auf den Seiten der Stadt Horb die vollständige Übersicht."
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Die großen Zahlen des Tages bewegen sich langsam, und doch entscheidet sich in ihnen, wie sich das Morgen anfühlt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Bis zu 4.500 Euro für KI-Weiterbildung",
+      "text": "Das Bundesprogramm KOMPASS fördert gezielt Solo-Selbstständige, also Selbstständige ohne eigene Angestellte, bei der Weiterbildung. KOMPASS steht für Kompetenzentwicklung über Plattformen für Solo-Selbstständige und ist ein Zuschuss der Bundesagentur für Arbeit, mitfinanziert aus dem Europäischen Sozialfonds der EU, einem Topf für Bildung und Beschäftigung. Gefördert werden bis zu 4.500 Euro je Person innerhalb von zwölf Monaten, ausdrücklich auch für Schulungen rund um künstliche Intelligenz. Voraussetzung ist unter anderem, dass man seit mindestens zwei Jahren hauptberuflich selbstständig ist. Nach einem Aufnahmestopp im Frühjahr 2026 nimmt das Programm wieder Interessenten an.",
+      "why": "Mehrwert für dich: ein echter Zuschuss, kein Kredit, für genau die KI-Kompetenz, die dein Geschäft trägt. Der erste Schritt ist ein kostenloses Erstgespräch bei einer KOMPASS-Anlaufstelle, das lässt sich in unter einer Stunde anstoßen.",
+      "source": "KOMPASS · Bundesagentur für Arbeit / ESF Plus",
+      "url": "https://www.esf.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Die gleiche MCP-Vorschau bringt zudem MCP Apps, also vom Server gelieferte kleine Bedienoberflächen, mit denen ein Agent nicht nur Text, sondern anklickbare Elemente zeigen kann. Als Referenz für spätere Demos abgelegt, kein Handlungsdruck.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "MCP wird erwachsen: die Vorschau 2026-07-28",
+       "tag": "Strategischer Hebel",
+       "paras": [
+        "Kurz der Begriff: MCP steht für Model Context Protocol, einen offenen Standard, über den KI-Agenten einheitlich auf Werkzeuge und Daten zugreifen, ähnlich wie ein USB-Anschluss die unterschiedlichsten Geräte verbindet. Ende Juni ist der sogenannte Release Candidate der Version 2026-07-28 erschienen, also die Vorschau-Fassung, die vor der endgültigen Freigabe am 28. Juli in der Praxis getestet wird. Es ist die größte Überarbeitung seit dem Start des Standards.",
+        "Zwei Neuerungen sind für dein System interessant: Ein staatenloser Kern lässt MCP-Server künftig hinter ganz gewöhnlicher Web-Infrastruktur laufen, ohne aufwendige Sitzungsverwaltung, und die neue Tasks-Erweiterung erlaubt lange laufende Aufträge, die nicht sofort fertig sein müssen. Für die Programmiersprachen Python, TypeScript und weitere gibt es bereits Beta-SDKs, also Vorab-Werkzeugkästen zum Ausprobieren, angekündigt am 29. Juni. Der günstige Moment ist jetzt: gegen die Vorschau testen, bevor die Fassung fest wird."
+       ],
+       "merk": "Standards testet man am besten, solange sie sich noch bewegen.",
+       "konkret": "Nimm einen einzigen deiner geplanten MCP-Bausteine, etwa den Regel-Server, und stelle ihn testweise auf das Beta-SDK der Version 2026-07-28. Prüfe nur, ob er ohne Sitzungsverwaltung läuft. Erkenntnis sichern, dann entscheiden.",
+       "snippetLabel": "Prompt-Snippet · „Migrations-Check\"",
+       "snippet": "Du bist ein nüchterner Migrations-Prüfer für MCP-Server.\nGegeben sind die Beschreibung eines bestehenden MCP-Servers und die\nÄnderungen des Release Candidate 2026-07-28.\n\n1) Welche meiner Funktionen brechen durch den staatenlosen Kern?\n2) Welche würden von der Tasks-Erweiterung profitieren?\n3) Nenne die 3 kleinsten Schritte für eine Testmigration.\n4) Was NICHT anfassen, weil es stabil bleibt.\n\n--- SERVER-BESCHREIBUNG ---\n<span class=\"ph\">{ deinen MCP-Server kurz beschreiben }</span>\n--- ÄNDERUNGEN RC 2026-07-28 ---\n<span class=\"ph\">{ relevante Changelog-Punkte einsetzen }</span>",
+       "source": "Model Context Protocol Blog · Release Candidate 2026-07-28",
+       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+       "score": "17,4"
+      },
+      {
+       "icon": "layers",
+       "title": "Kleiner Agent, große Wirkung",
+       "tag": "Architektur · prüfenswert",
+       "paras": [
+        "Simon Willison, einer der bekanntesten Entwickler und Autoren rund um KI-Werkzeuge, baut seine offene Programmbibliothek namens LLM Schritt für Schritt zu einem schlanken Agenten-Gerüst um. Ein Agent ist hier ein Programm, das ein KI-Sprachmodell nicht nur einmal fragt, sondern es in einer Schleife arbeiten, Werkzeuge aufrufen und Zwischenergebnisse prüfen lässt. Willison zeigt offen, wie wenig Code nötig ist, um einen einfachen, funktionierenden Coding-Agenten zu bauen.",
+        "Für dein System ist daran weniger die Bibliothek interessant als die Haltung: Ein nützlicher Agent muss nicht groß sein. Wer die Schleife aus Denken, Handeln und Prüfen klein und nachvollziehbar hält, versteht besser, was schiefgeht, und behält die Kontrolle. Ein guter Maßstab, bevor man zu schwergewichtigen Baukästen greift."
+       ],
+       "merk": "Ein Agent ist eine Schleife, kein Monolith.",
+       "source": "Simon Willison · LLM als Agenten-Gerüst",
+       "url": "https://simonwillison.net/"
+      }
+     ]
+    }
+   ]
+  }
  ]
 }
