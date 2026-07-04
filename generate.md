@@ -22,6 +22,8 @@ stehen Bash, WebSearch, WebFetch, Read/Write/Edit zur Verfuegung. Am Ende commit
 - Wettercode = `daily.weathercode[0]` -> `weather`-Feld:
   0-1 = `clear`; 2-3, 45, 48 = `clouds`; 51-67, 80-82 = `rain`; 71-77, 85, 86 = `snow`; 95-99 = `thunder`.
 - `temp`-Feld z.B. `"27°C · sonnig"` (sonnig / bewoelkt / Regen / Schnee / Gewitter passend zum Code).
+- WICHTIG: Falls du das Wetter in der `greeting` erwaehnst, MUSS es exakt zu `weather` und `temp`
+  passen (gleiche Bedingung, gleiche Gradzahl). Keine abweichende Wetterbeschreibung im Text.
 
 ## Schritt 2 — Inhalte sammeln (WebSearch/WebFetch)
 Aktuelle, serioese Meldungen von heute bzw. den letzten ein bis zwei Tagen, je Rubrik 1 bis 2:
