@@ -416,6 +416,149 @@
      "text": "Die neue Woche beginnt nicht bei null. Sie beginnt bei dem einen Baustein, den du heute richtig setzt."
     }
    ]
+  },
+  {
+   "label": "Montag, 6. Juli 2026",
+   "weather": "clouds",
+   "temp": "28°C · bewölkt",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "greeting": "Guten Morgen, Gerik. Der Montag beginnt bewölkt und mild bei 28 Grad über Horb, ein Auftakt zur Woche der großen Runden: In Ankara treffen sich die Regierungschefs der westlichen Militärallianz, und in Genf beginnt zum ersten Mal ein weltweiter Dialog darüber, wie künstliche Intelligenz künftig geregelt werden soll. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "NATO-Gipfel in Ankara: Verteidigung und Ukraine",
+       "text": "Am 7. und 8. Juli kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte genannt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Erwartet wird zudem, dass die Runde über die Kritik von US-Präsident Donald Trump am Bündnis spricht. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
+       "source": "NATO · Gipfel in Ankara",
+       "url": "https://www.nato.int/"
+      },
+      {
+       "title": "Vereinte Nationen: erster Weltdialog zur KI-Regulierung",
+       "text": "In Genf beginnt der Globale Dialog zur Steuerung künstlicher Intelligenz, auf Englisch Global Dialogue on Artificial Intelligence Governance, eine neu geschaffene Gesprächsrunde der Vereinten Nationen. Governance meint hier die Regeln und Aufsicht, nach denen eine Technik entwickelt und eingesetzt wird. UN-Generalsekretär António Guterres, der frühere portugiesische Ministerpräsident und heutige oberste Repräsentant der Weltorganisation, nimmt an der Eröffnung teil. Ziel ist, dass sich Staaten erstmals gemeinsam über Chancen und Risiken von KI verständigen, statt jedes Land für sich. Für alle, die beruflich mit KI arbeiten, ist das der Beginn eines Rahmens, der die kommenden Jahre mitbestimmen dürfte.",
+       "source": "Vereinte Nationen · Genf",
+       "url": "https://press.un.org/en"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Vor dem nächsten Zinsentscheid hält die Notenbank die Füße still.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "Ruhige Datenwoche vor dem Zinsentscheid am 23. Juli",
+       "text": "Die Wirtschaftswoche vom 6. bis 12. Juli bringt vor allem Konjunkturdaten, aber keine große Weichenstellung: Die nächste Sitzung der Europäischen Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, ist erst am 23. Juli. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, bei der der Einlagenzins auf 2,25 Prozent stieg, dürfte die Notenbank vorerst abwarten. Der Einlagenzins ist der Satz, zu dem Banken überschüssiges Geld bei der Notenbank parken, und er wirkt am Ende auf Kredite und Sparzinsen. Die Teuerung im Euroraum liegt bei rund 2,8 Prozent und damit weiter über dem Ziel von 2 Prozent, während für 2026 nur ein schwaches Wachstum von etwa 0,8 Prozent erwartet wird. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
+       "source": "EZB · nächster Zinsentscheid 23. Juli",
+       "url": "https://www.ecb.europa.eu/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "800 Millionen Menschen mehr mit Strom",
+       "img": "https://live.staticflickr.com/162/394640345_ce93f0d70a_b.jpg",
+       "text": "Seit 2010 haben rund 800 Millionen Menschen zusätzlich Zugang zu Elektrizität bekommen, sodass die weltweite Versorgungsquote bis 2024 auf 92 Prozent gestiegen ist. Das geht aus einem Bericht hervor, an dem unter anderem die Weltgesundheitsorganisation WHO beteiligt war, die Sonderorganisation der Vereinten Nationen für Gesundheit. Strom ist die Grundlage für Licht zum Lernen, für gekühlte Medikamente und für kleine Betriebe. Getragen wird der Fortschritt vor allem von günstiger gewordener Solartechnik, mit der sich auch entlegene Dörfer versorgen lassen. Die letzten Prozente sind erfahrungsgemäß die schwersten, doch der Trend zeigt seit Jahren stetig nach oben.",
+       "source": "Positive News · WHO-Bericht",
+       "url": "https://www.positive.news/"
+      },
+      {
+       "title": "Europas Luft wird messbar sauberer",
+       "img": "https://live.staticflickr.com/209/450571955_578bb65125_b.jpg",
+       "text": "Neue Daten zeigen, dass die Luftverschmutzung in Europa seit Jahren zurückgeht: Der Ausstoß von Schwefel- und Stickoxiden, also von Gasen aus Industrie und Verkehr, die Atemwege und Umwelt belasten, ist seit 2010 jährlich um etwa 3 bis 5 Prozent gesunken. Die Zahlen stammen vom Copernicus Atmosphärenüberwachungsdienst CAMS, einem Erdbeobachtungsprogramm der Europäischen Union. Die größten Rückgänge kommen aus Industrie und Straßenverkehr, unter anderem durch strengere Abgasregeln und sauberere Technik. Bessere Luft bedeutet unmittelbar weniger Atemwegserkrankungen, ein leiser Gewinn, der sich über Jahrzehnte aufbaut.",
+       "source": "Copernicus CAMS · Positive News",
+       "url": "https://www.positive.news/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Seeanemonen wehren Viren auf eigenem Weg ab",
+       "img": "https://live.staticflickr.com/1049/1004710143_54bd55e715_b.jpg",
+       "text": "Forscher der Hebräischen Universität Jerusalem haben in Seeanemonen, den festsitzenden, blumenartigen Verwandten der Quallen, ein bislang unbekanntes Abwehr-Eiweiß namens CARDIB entdeckt. Im Normalzustand bremst es die körpereigene Immunabwehr, ist aber unverzichtbar, sobald ein Virus angreift: Schalteten die Wissenschaftler das zugehörige Gen mit der Genschere CRISPR aus, einem Werkzeug zum gezielten Verändern des Erbguts, wurden die Tiere hochanfällig für Infektionen. Bemerkenswert ist, dass dieser Weg ganz anders funktioniert als das entsprechende System beim Menschen. Die im Fachblatt Nature Ecology and Evolution vorgestellte Arbeit legt nahe, dass die Natur die Virenabwehr mehrfach unabhängig erfunden hat, und zeigt, wie viel sich aus urtümlichen Lebewesen lernen lässt.",
+       "source": "ScienceDaily · Nature Ecology and Evolution",
+       "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
+      },
+      {
+       "title": "Wie tiefer Schlaf das Wachstumshormon steuert",
+       "text": "Ein Forschungsteam hat den Schaltkreis im Gehirn entschlüsselt, der den Tiefschlaf mit der Ausschüttung des Wachstumshormons verbindet. Das Wachstumshormon ist ein Botenstoff, der Zellen zur Erneuerung anregt und beim Menschen vor allem in den ersten Stunden des Nachtschlafs freigesetzt wird. Die Studie zeigt, dass Schlaf und Hormonausschüttung sich gegenseitig regeln, also nicht nur der Schlaf das Hormon anstößt, sondern das Hormon auch den Schlaf mitformt. Das erklärt, warum guter Tiefschlaf so eng mit Erholung und Regeneration zusammenhängt. Noch ist es Grundlagenforschung, doch es könnte langfristig helfen, Schlaf- und Hormonstörungen besser zu verstehen.",
+       "source": "ScienceDaily · Neurowissenschaft",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Der Veranstaltungssommer nimmt Fahrt auf",
+       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+       "text": "Der Montag selbst bleibt in Horb ruhig, doch der Kalender der kommenden Wochen füllt sich: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Bei den milden, bewölkten 28 Grad dieser Woche lohnt es sich, den ersten Termin schon einzuplanen. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
+       "source": "Stadt Horb · Veranstaltungen",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Die großen Runden tagen weit weg, doch was sie beschließen, sickert am Ende bis auf den eigenen Schreibtisch durch."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose Cloud- und KI-Guthaben für Gründer",
+      "text": "Der Microsoft for Startups Founders Hub ist ein Programm, das jungen Firmen kostenlose Guthaben und Werkzeuge bereitstellt, ausdrücklich auch Solo-Gründern und ohne dass ein Wagniskapitalgeber im Rücken stehen muss. Founders Hub bedeutet sinngemäß Gründer-Zentrale. Zur Aufnahme genügt eine Selbstregistrierung, die in der Regel sofort freigeschaltet wird. Enthalten sind unter anderem Guthaben für die Cloud-Plattform Azure, also Rechen- und Speicherleistung aus dem Netz, sowie Zugang zu KI-Modellen, die man sonst pro Nutzung bezahlt. Für ein System wie deines lassen sich damit erste Bausteine testen, ohne gleich laufende Kosten zu erzeugen.",
+      "why": "Mehrwert für dich: echte Guthaben statt einer Testphase mit Ablaufdatum, sofort nutzbar und ohne Investoren-Voraussetzung. In unter einer Stunde registriert, danach steht dir Rechenleistung für Experimente zur Verfügung, die sonst Geld kosten würde.",
+      "source": "Microsoft for Startups · Founders Hub",
+      "url": "https://www.microsoft.com/startups"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Passend dazu hat Simon Willison Anfang Juli eine erste Vorabversion namens llm-coding-agent 0.1a0 veröffentlicht, einen schlanken Programmier-Agenten, der Dateien liest, ändert und Befehle ausführt. Ausprobieren lässt er sich ohne feste Installation mit einem einzigen Kommandozeilen-Aufruf. Als Anschauungsmaterial abgelegt, kein Handlungsdruck.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Günstige Modelle für die Fleißarbeit, das starke fürs Denken",
+       "tag": "Strategischer Hebel",
+       "paras": [
+        "Simon Willison, einer der bekanntesten Entwickler und Autoren rund um KI-Werkzeuge, gibt Anfang Juli eine schlichte, aber wirksame Faustregel weiter: Für die eigentliche Programmierarbeit soll ein Agent nach eigenem Ermessen ein schwächeres, günstigeres Sprachmodell wählen und dieses in einem sogenannten Subagenten laufen lassen. Ein Subagent ist ein untergeordneter Arbeitsprozess, den das Hauptsystem für eine Teilaufgabe abspaltet. Das teure Spitzenmodell bleibt dabei für das, worauf es ankommt: Planung, Urteil und die abschließende Prüfung.",
+        "Für dein System ist das ein direkter Kosten- und Kontrollhebel. Reine Umsetzungsarbeit, etwa Textbausteine erzeugen oder Routineänderungen, braucht selten das stärkste Modell; Einordnung und Kontrolle bleiben oben. Wer diese Trennung sauber zieht, senkt die laufenden Kosten spürbar und behält zugleich die Qualität dort, wo sie zählt. Der Hebel ist heute klein einzurichten und wirkt bei jedem weiteren Auftrag."
+       ],
+       "merk": "Das teure Modell denkt, das günstige tippt.",
+       "konkret": "Suche in deinem System einen einzigen, klar abgegrenzten Routineschritt und leite ihn testweise an ein günstigeres Modell in einem Subagenten um. Vergleiche Ergebnis und Kosten mit dem bisherigen Weg, dann entscheiden.",
+       "snippetLabel": "Prompt-Snippet · „Modell-Zuteilung\"",
+       "snippet": "Du bist ein nüchterner Kosten-Architekt für mein KI-System.\nTeile die folgende Aufgabe in zwei Ebenen auf.\n\n1) Welche Teilschritte sind reine Umsetzung und können an ein günstigeres Modell in einem Subagenten gehen?\n2) Welche Schritte brauchen Planung, Urteil oder Endkontrolle und bleiben beim starken Modell?\n3) Nenne die Übergabepunkte zwischen beiden Ebenen.\n4) Schätze grob, wie viel Aufwand sich so verlagern lässt.\n\n--- AUFGABE ---\n<span class=\"ph\">{ deine Aufgabe kurz beschreiben }</span>\n--- VERFÜGBARE MODELLE ---\n<span class=\"ph\">{ dein starkes und dein günstiges Modell nennen }</span>",
+       "source": "Simon Willison · Juni-Newsletter und llm-coding-agent",
+       "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+       "score": "16,9"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
