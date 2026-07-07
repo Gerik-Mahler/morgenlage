@@ -559,6 +559,140 @@
      ]
     }
    ]
+  },
+  {
+   "label": "Dienstag, 7. Juli 2026",
+   "weather": "clouds",
+   "temp": "32°C · bewölkt",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "greeting": "Guten Morgen, Gerik. Der Dienstag wird bewölkt, aber heiß bei 32 Grad über Horb, ein Tag für Schatten und Wasser. Zugleich tagen heute die großen Runden: In Ankara beginnt der Gipfel des westlichen Militärbündnisses, in Doha melden die Vermittler im Streit zwischen den USA und dem Iran erste Fortschritte. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "NATO-Gipfel in Ankara beginnt",
+       "text": "Heute und morgen kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Es ist der erste Gipfel in der Türkei seit 2004. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte gesetzt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Dem Entwurf der Abschlusserklärung zufolge wollen die Verbündeten sich zur Beistandspflicht nach Artikel 5 des NATO-Vertrags bekennen, Russland als langfristige Bedrohung benennen und zusätzliche Hilfen für die Ukraine zusagen. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
+       "source": "NATO · Gipfel in Ankara",
+       "url": "https://www.nato.int/"
+      },
+      {
+       "title": "USA und Iran: Fortschritte bei den Gesprächen in Doha",
+       "text": "Im Streit um das iranische Atomprogramm haben indirekte Gespräche zwischen den USA und dem Iran, vermittelt vom Golfstaat Katar in dessen Hauptstadt Doha, nach Angaben der Vermittler mit Fortschritten geendet. Indirekt heißt, dass beide Seiten nicht am selben Tisch sitzen, sondern über einen Vermittler miteinander reden. Verhandelt wird über das Atomprogramm, die westlichen Sanktionen und die Straße von Hormus, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Eine nächste Runde ist für später angekündigt, ein Abschluss steht aus. Für Europa zählt jede Entspannung an dieser Meerenge doppelt, weil an ihr auch die Energiepreise hängen.",
+       "source": "Reuters · US-Iran-Gespräche in Doha"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Die Teuerung im Euroraum zieht wieder an, während sie in Deutschland nachgibt.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "Inflation im Euroraum und in Deutschland laufen auseinander",
+       "text": "Vor dem nächsten Zinsentscheid richtet sich der Blick auf ein ungleiches Bild bei den Preisen. Die Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, ist im Euroraum zuletzt auf rund 3,2 Prozent gestiegen, während sie in Deutschland im Juni überraschend von 2,6 auf 2,3 Prozent gesunken ist. Der Euroraum umfasst die 20 Länder, die den Euro als Währung nutzen. Für die Europäische Zentralbank, kurz EZB, die für diese Länder die Geldpolitik festlegt, ist das eine Zwickmühle: Sie steuert nach dem Durchschnitt aller Euro-Länder, und der liegt weiter über ihrem Ziel von 2 Prozent. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, mit der der Einlagenzins auf 2,25 Prozent stieg, entscheidet der Rat am 23. Juli erneut. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
+       "source": "EZB · nächster Zinsentscheid 23. Juli",
+       "url": "https://www.ecb.europa.eu/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Irland zahlt Künstlern ein Grundeinkommen",
+       "img": "https://live.staticflickr.com/3312/3226375271_9998ac7530_b.jpg",
+       "text": "Irland macht ein zunächst befristetes Modellprojekt dauerhaft: Künstlerinnen und Künstler erhalten dort ein Grundeinkommen, also eine feste monatliche Zahlung ohne Gegenleistung, damit sie ihrer Arbeit nachgehen können, ohne ständig um die Miete bangen zu müssen. Hintergrund ist die Beobachtung, dass Kunst und Kultur die Wirtschaft stärken und das gesellschaftliche Leben bereichern, viele Kreative aber kaum von ihrer Arbeit leben können. Erste Auswertungen zeigen, dass die Geförderten mehr Zeit ins eigene Schaffen stecken und seltener aus Geldnot den Beruf wechseln. Für ein ganzes Land ist das ein bemerkenswerter Versuch, kulturelle Arbeit verlässlich abzusichern."
+      },
+      {
+       "title": "Mexiko: Fußball für sehbehinderte Frauen",
+       "img": "https://live.staticflickr.com/1/3545199_ee47f36ed1.jpg",
+       "text": "In Mexiko hat sich eine Fußballmannschaft gegründet, die blinden und sehbehinderten Frauen das Spielen ermöglicht, in einem Umfeld, das ausdrücklich auf Teilhabe setzt. Beim Blindenfußball orientieren sich die Spielerinnen am Geräusch eines mit Rasseln versehenen Balls und an Zurufen. Die Teilnehmerinnen berichten, dass sie über den Sport Selbstvertrauen, Selbstständigkeit, Freundschaften und Fitness gewinnen. Solche Angebote sind mehr als Freizeit: Sie öffnen einen Raum, in dem eine oft übersehene Gruppe sichtbar wird und Gemeinschaft erlebt."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Erstmals die Geburt eines Magnetars beobachtet",
+       "img": "https://live.staticflickr.com/7093/27744663791_f140fd684a_b.jpg",
+       "text": "Astronomen haben nach eigenen Angaben zum ersten Mal die Geburt eines Magnetars mitverfolgt, bestätigt durch ein eigentümliches, zwitscherndes Signal aus einer fernen Sternexplosion. Ein Magnetar ist eine besondere Art Neutronenstern, also der extrem dichte Überrest eines ausgebrannten, kollabierten Sterns, und trägt das stärkste Magnetfeld, das im Universum bekannt ist, milliardenfach stärker als alles, was auf der Erde erzeugbar wäre. Bisher kannte man Magnetare nur als fertige Objekte, ihre Entstehung war reine Theorie. Das aufgezeichnete Signal aus einer Supernova, dem hellen Aufleuchten eines sterbenden Sterns, liefert nun erstmals einen direkten Hinweis darauf, wie diese kosmischen Magnete entstehen. Für die Astrophysik ist das ein seltener Blick auf einen Moment, der sonst im Verborgenen abläuft."
+      },
+      {
+       "title": "Warum alternde Muskeln langsamer heilen",
+       "text": "Forschende an der Universität von Kalifornien in Los Angeles, kurz UCLA, haben einen molekularen Grund dafür gefunden, warum sich Muskeln im Alter schlechter erholen. In alten Muskel-Stammzellen, also den Reservezellen, aus denen der Körper geschädigtes Gewebe neu aufbaut, reichert sich ein Eiweiß namens NDRG1 an und wirkt wie eine Bremse: Es hält die Zellen davon ab, nach einer Verletzung in den Reparaturmodus zu schalten. Im Laborversuch ließ sich die Regeneration wieder verbessern, indem dieser Bremseffekt gelöst wurde. Noch ist das Grundlagenforschung an Zellen und Tieren, doch es weist einen möglichen Ansatzpunkt, um die Heilung im Alter zu unterstützen."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Heißer Sommertag, und der Kalender füllt sich",
+       "img": "https://live.staticflickr.com/7009/6564586837_eca110e72c_b.jpg",
+       "text": "Der Dienstag selbst bleibt in Horb ruhig, wird aber mit rund 32 Grad der heißeste Tag der Woche, auch wenn der Himmel bewölkt ist, weshalb viel Trinken und ein schattiges Plätzchen am Neckar heute die beste Empfehlung sind. Für die kommenden Wochen füllt sich der Veranstaltungskalender der Stadt: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend, und am 31. Juli spielt Andreas Kümmert mit seiner Band. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
+       "source": "Stadt Horb · Veranstaltungen",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Große Runden tagen an fernen Orten, doch das Wetter über dem eigenen Dach entscheidet, wie der Tag sich anfühlt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose Rechenleistung aus Europas KI-Fabriken",
+      "text": "Die Europäische Union baut derzeit ein Netz sogenannter AI Factories auf, zu Deutsch KI-Fabriken, das sind auf künstliche Intelligenz zugeschnittene Hochleistungsrechenzentren, aufgebaut über die gemeinsame Initiative EuroHPC. EuroHPC steht für European High Performance Computing, den europäischen Zusammenschluss für Supercomputer. Über regelmäßige Zugangsaufrufe, im Fachjargon Access Calls, können auch Solo-Gründer und kleine Firmen kostenlose Rechenzeit beantragen, um KI-Modelle zu trainieren oder zu betreiben. Bis Ende 2026 sollen mindestens 15 dieser Standorte in Betrieb sein. Ein Supercomputer bündelt sehr viele Rechenkerne, um Aufgaben zu bewältigen, an denen ein normaler Rechner scheitert.",
+      "why": "Mehrwert für dich: echte Rechenleistung für rechenintensive Experimente, die du sonst teuer einkaufen müsstest, und das ohne Investor im Rücken. Der erste Schritt ist ein Blick in die offenen Zugangsaufrufe auf dem EuroHPC-Portal, um zu prüfen, welcher zu deinem Vorhaben passt.",
+      "source": "EuroHPC · AI Factories Access Calls",
+      "url": "https://eurohpc-ju.europa.eu/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Nebenbei ist die unternehmenstaugliche Rechteverwaltung des MCP-Standards, die Enterprise-Managed Authorization, stabil geworden, und der neue staatenlose Kern erlaubt es Clients, die Werkzeugliste eines Servers zwischenzuspeichern. Für dein eigenes System heute nur als Referenz ablegen, kein Handlungsdruck.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Ein starkes offenes Modell gratis testen, bis zum 21. Juli",
+       "tag": "Zeitfenster",
+       "paras": [
+        "Der Entwickler und KI-Autor Simon Willison weist darauf hin, dass der chinesische Technikkonzern Tencent sein neues, sehr großes Sprachmodell mit dem Namen Hy3 vorgestellt hat, ein sogenanntes Mixture-of-Experts-Modell mit rund 295 Milliarden Parametern. Mixture of Experts, sinngemäß Expertengemisch, bedeutet, dass ein solches Modell bei jeder Anfrage nur einen Teil seiner Bausteine aktiviert und dadurch trotz seiner Größe vergleichsweise günstig zu betreiben ist. Bis zum 21. Juli ist es kostenlos über OpenRouter erreichbar, eine Plattform, die viele KI-Modelle über eine einzige Schnittstelle zugänglich macht.",
+        "Das schließt genau an die Faustregel dieser Woche an, das teure Modell nur fürs Denken zu nutzen und die Fleißarbeit günstiger zu erledigen. Das kostenlose Zeitfenster ist die Gelegenheit, ein starkes offenes Modell an einem echten Routineschritt deines Systems auszuprobieren und mit deinem bisherigen Weg zu vergleichen, ohne dafür zu bezahlen. Am Ende steht eine belastbare Entscheidung statt eines Bauchgefühls."
+       ],
+       "merk": "Ein kostenloses Zeitfenster ist ein Test, den man sonst bezahlt.",
+       "konkret": "Nimm einen einzigen, klar abgegrenzten Routineschritt deines Systems, etwa das Erzeugen von Textbausteinen, und lasse ihn testweise über OpenRouter von Tencent Hy3 erledigen. Vergleiche Ergebnis, Tempo und spätere Kosten mit deinem bisherigen Modell und sichere die Erkenntnis, bevor das Zeitfenster am 21. Juli schließt.",
+       "snippetLabel": "Prompt-Snippet · „Modell-Vergleich\"",
+       "snippet": "Du bist ein nüchterner Test-Auswerter für KI-Modelle.\nIch habe denselben Routineschritt einmal mit meinem bisherigen Modell\nund einmal mit Tencent Hy3 (über OpenRouter) ausgeführt.\n\n1) Vergleiche die beiden Ergebnisse auf Korrektheit, Ton und Vollständigkeit.\n2) Wo ist Hy3 spürbar schwächer oder stärker?\n3) Taugt Hy3 für genau diesen Routineschritt als günstigerer Ersatz? Ja/Nein mit Begründung.\n4) Nenne einen einzigen nächsten Test, der die Entscheidung absichert.\n\n--- ROUTINESCHRITT ---\n<span class=\"ph\">{ den getesteten Schritt kurz beschreiben }</span>\n--- ERGEBNIS BISHERIGES MODELL ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>\n--- ERGEBNIS HY3 ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>",
+       "source": "Simon Willison · Tencent Hy3 auf OpenRouter",
+       "url": "https://simonwillison.net/",
+       "score": "16,2"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
