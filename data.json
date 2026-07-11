@@ -1,1015 +1,1020 @@
 {
-  "sub": "Dein tägliches Briefing",
-  "days": [
+ "sub": "Dein tägliches Briefing",
+ "days": [
+  {
+   "label": "Sonntag, 5. Juli 2026",
+   "weather": "thunder",
+   "temp": "28°C · Gewitter",
+   "kind": "weekly",
+   "sub": "Wochenrückblick",
+   "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: Am Persischen Golf ringen die USA und der Iran erstmals wieder um einen Ausweg, in Europa dreht die Notenbank nach Jahren zum ersten Mal wieder an der Zinsschraube, und in der Technik reift ein Standard heran, der genau dein System betrifft. Über Horb entlädt sich der Sommer heute in einem Gewitter bei milden 28 Grad. Erst die Woche im Rückblick, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
     {
-      "label": "Samstag, 4. Juli 2026",
-      "weather": "clouds",
-      "temp": "28°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Der Samstag beginnt bewölkt bei milden 28 Grad über Horb, und die großen Linien des Tages laufen fast alle auf ein Thema zu, das Geld. In den USA wird der 250. Jahrestag der Unabhängigkeit begangen, in Europa hebt die Notenbank erstmals seit Jahren wieder die Zinsen an, und zugleich fallen die deutschen Preise überraschend. Erst die Lage, <b>ganz unten dann, was du daraus machen kannst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "USA feiern 250 Jahre Unabhängigkeit",
-              "text": "Die Vereinigten Staaten begehen heute den 250. Jahrestag ihrer Unabhängigkeitserklärung, mit der sich die dreizehn nordamerikanischen Kolonien 1776 vom Königreich Großbritannien lossagten. Zu dem runden Jubiläum, in den USA Semiquincentennial genannt, also 250-Jahr-Feier, gingen Glückwünsche aus aller Welt ein, unter anderem vom britischen König Charles III. und vom ukrainischen Präsidenten Wolodymyr Selenskyj, der eine Parallele zum Freiheitskampf seines eigenen Landes zog. Solche Jahrestage sind mehr als Feiertage: Sie sind Anlässe, an denen Staaten ihr Selbstbild und ihre Bündnisse öffentlich vermessen."
-            },
-            {
-              "title": "Irland führt nun die EU-Ratsgeschäfte",
-              "text": "Seit dem 1. Juli hat Irland die EU-Ratspräsidentschaft übernommen. Diese wechselt alle sechs Monate unter den Mitgliedsstaaten und bedeutet, dass das jeweilige Land für ein halbes Jahr die Sitzungen des Rats der Europäischen Union leitet, die Tagesordnung mitbestimmt und zwischen den Regierungen vermittelt. Irland, ein vergleichsweise kleines, aber wirtschaftlich eng an die USA gebundenes Land, übernimmt die Rolle in einer Zeit, in der Handelsfragen und die Beziehungen über den Atlantik die europäische Agenda prägen. Für den Alltag hierzulande bleibt das im Hintergrund, es bestimmt aber mit, welche Themen Brüssel in den kommenden Monaten vorantreibt."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Die Notenbank bremst, während die Preise ohnehin schon nachgeben.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "EZB hebt die Zinsen erstmals seit Jahren wieder an",
-              "text": "Die Europäische Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, hat am 11. Juni die Leitzinsen um 0,25 Prozentpunkte angehoben, die erste Erhöhung seit September 2023. Der Leitzins ist der Zinssatz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen; er wirkt am Ende auf jeden Kredit, jeden Dispo und jedes Sparbuch. Der sogenannte Einlagenzins liegt seither bei 2,25 Prozent. Hintergrund ist eine hartnäckige Teuerung, die im Jahresschnitt bei rund 3 Prozent liegt und damit über dem Ziel der EZB von 2 Prozent. Am 23. Juli entscheidet der Rat erneut über die Zinsen."
-            },
-            {
-              "title": "Deutsche Inflation sinkt überraschend",
-              "text": "Anders als erwartet sind die Verbraucherpreise in Deutschland zuletzt gefallen: Die Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, sank im Juni von 2,6 auf 2,3 Prozent. Fachleute hatten mit einer Stagnation gerechnet. Zugleich bleibt der Ausblick für die Konjunktur gedämpft; die EZB rechnet für 2026 nur noch mit einem Wachstum der Wirtschaftsleistung von etwa 0,8 Prozent, weil hohe Energiepreise Einkommen und Vertrauen belasten. Kühlere Preise bei gleichzeitig schwachem Wachstum stellen die Notenbank vor eine Zwickmühle: Zu viel Bremsen würgt die Erholung ab, zu wenig lässt die Inflation laufen."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Wind und Sonne überholen Gas",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Micro-grid_using_small_wind_turbines%2C_solar_PV%2C_energy_storage..jpg",
-              "text": "Zum ersten Mal überhaupt haben Windräder und Solaranlagen im April weltweit mehr Strom erzeugt als Gaskraftwerke, 22 gegenüber 20 Prozent der globalen Stromproduktion. Der Abstand klingt klein, markiert aber einen Wendepunkt: Jahrzehntelang galt Erdgas als die flexible Brückentechnologie, an der die Erneuerbaren nicht vorbeikamen. Dass Wind und Sonne, zwei von Natur aus schwankende Quellen, sie in Summe nun überholen, zeigt, wie stark Ausbau und Stromspeicher gewachsen sind. Solche Kipppunkte bauen sich über Jahre leise auf und werden erst sichtbar, wenn sie überschritten sind."
-            },
-            {
-              "title": "Milliarden für den Schutz der Meere",
-              "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
-              "text": "Auf der internationalen Meereskonferenz Our Ocean, zu Deutsch etwa Unser Ozean, haben Staaten, Stiftungen und Unternehmen Zusagen von mehr als 6,4 Milliarden US-Dollar gemacht, um Korallenriffe, Küsten und Wale zu schützen. Korallenriffe sind unter Wasser gewachsene Kalkstrukturen, die einem großen Teil der Meereslebewesen als Kinderstube dienen und durch wärmeres Wasser stark bedroht sind. Zusagen sind noch keine Taten, doch die Summe zeigt, dass der Schutz der Meere international an Gewicht gewinnt."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Magnetwellen als Boten für Quantenrechner",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ice_Ih_Crystal_Lattice.png",
-              "text": "Physiker haben sogenannte Magnonen erstmals zu brauchbaren Trägern von Quanteninformation gemacht. Magnonen sind winzige Wellen in der magnetischen Ordnung eines Materials, gewissermaßen ein Zittern der kleinsten Magnete im Inneren eines Kristalls. Bislang galten sie als zu kurzlebig, um Information zu halten. Gelingt es, sie zu bändigen, könnten sie in künftigen Quantencomputern Daten transportieren, also in Rechnern, die statt der üblichen Nullen und Einsen die Regeln der Quantenphysik nutzen und dadurch bestimmte Aufgaben ungleich schneller lösen. Noch ist das Grundlagenforschung, aber ein Schritt hin zu stabilerer Quantentechnik."
-            },
-            {
-              "title": "Haben Einschläge das Leben angestoßen?",
-              "img": "https://live.staticflickr.com/1522/26091953691_7893a828cc_b.jpg",
-              "text": "Eine neue Studie legt nahe, dass die schweren Asteroideneinschläge der Frühzeit nicht nur die Erdoberfläche umpflügten, sondern mitgeholfen haben könnten, das Leben überhaupt in Gang zu bringen. Asteroiden sind Gesteinsbrocken aus der Entstehungszeit des Sonnensystems, von denen in den ersten Jahrmillionen unzählige auf die junge Erde stürzten. Die Forscher vermuten, dass die Einschläge Wärme, Wasser und bestimmte chemische Bausteine lieferten, aus denen sich erste Lebensvorstufen bilden konnten. Es ist eine Hypothese, keine gesicherte Erkenntnis, aber sie rückt die frühen Katastrophen in ein neues Licht, weniger als reine Zerstörer, mehr als Geburtshelfer."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "MY'tallica: Metallica unter freiem Himmel",
-              "img": "https://live.staticflickr.com/8144/7631272708_7f6826e556_b.jpg",
-              "text": "Heute Abend um 19:30 Uhr spielt in Horb die Band MY'tallica open air, also unter freiem Himmel. MY'tallica ist eine sogenannte Tribute-Band, eine Gruppe, die das Programm einer berühmten Band möglichst originalgetreu nachspielt, in diesem Fall das von Metallica, einer der einflussreichsten Metal-Bands der Welt. Bei bewölktem Himmel und milden 28 Grad bleibt es angenehm für einen langen Abend im Freien, ein Schirm für alle Fälle schadet aber nicht."
-            },
-            {
-              "title": "Sommerprogramm: der Schlossgarten und mehr",
-              "text": "Über den heutigen Abend hinaus füllt sich der Horber Veranstaltungskalender: Ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Zudem stehen im Juli mehrere Termine unter freiem Himmel an, darunter am 19. Juli das Schlager-Open-Air Dolce Vita im Ländle. Wer die kommenden Wochen plant, findet auf den Seiten der Stadt Horb die vollständige Übersicht."
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Die großen Zahlen des Tages bewegen sich langsam, und doch entscheidet sich in ihnen, wie sich das Morgen anfühlt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Bis zu 4.500 Euro für KI-Weiterbildung",
-            "text": "Das Bundesprogramm KOMPASS fördert gezielt Solo-Selbstständige, also Selbstständige ohne eigene Angestellte, bei der Weiterbildung. KOMPASS steht für Kompetenzentwicklung über Plattformen für Solo-Selbstständige und ist ein Zuschuss der Bundesagentur für Arbeit, mitfinanziert aus dem Europäischen Sozialfonds der EU, einem Topf für Bildung und Beschäftigung. Gefördert werden bis zu 4.500 Euro je Person innerhalb von zwölf Monaten, ausdrücklich auch für Schulungen rund um künstliche Intelligenz. Voraussetzung ist unter anderem, dass man seit mindestens zwei Jahren hauptberuflich selbstständig ist. Nach einem Aufnahmestopp im Frühjahr 2026 nimmt das Programm wieder Interessenten an.",
-            "why": "Mehrwert für dich: ein echter Zuschuss, kein Kredit, für genau die KI-Kompetenz, die dein Geschäft trägt. Der erste Schritt ist ein kostenloses Erstgespräch bei einer KOMPASS-Anlaufstelle, das lässt sich in unter einer Stunde anstoßen.",
-            "source": "KOMPASS · Bundesagentur für Arbeit / ESF Plus",
-            "url": "https://www.esf.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Die gleiche MCP-Vorschau bringt zudem MCP Apps, also vom Server gelieferte kleine Bedienoberflächen, mit denen ein Agent nicht nur Text, sondern anklickbare Elemente zeigen kann. Als Referenz für spätere Demos abgelegt, kein Handlungsdruck.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "MCP wird erwachsen: die Vorschau 2026-07-28",
-              "tag": "Strategischer Hebel",
-              "paras": [
-                "Kurz der Begriff: MCP steht für Model Context Protocol, einen offenen Standard, über den KI-Agenten einheitlich auf Werkzeuge und Daten zugreifen, ähnlich wie ein USB-Anschluss die unterschiedlichsten Geräte verbindet. Ende Juni ist der sogenannte Release Candidate der Version 2026-07-28 erschienen, also die Vorschau-Fassung, die vor der endgültigen Freigabe am 28. Juli in der Praxis getestet wird. Es ist die größte Überarbeitung seit dem Start des Standards.",
-                "Zwei Neuerungen sind für dein System interessant: Ein staatenloser Kern lässt MCP-Server künftig hinter ganz gewöhnlicher Web-Infrastruktur laufen, ohne aufwendige Sitzungsverwaltung, und die neue Tasks-Erweiterung erlaubt lange laufende Aufträge, die nicht sofort fertig sein müssen. Für die Programmiersprachen Python, TypeScript und weitere gibt es bereits Beta-SDKs, also Vorab-Werkzeugkästen zum Ausprobieren, angekündigt am 29. Juni. Der günstige Moment ist jetzt: gegen die Vorschau testen, bevor die Fassung fest wird."
-              ],
-              "merk": "Standards testet man am besten, solange sie sich noch bewegen.",
-              "konkret": "Nimm einen einzigen deiner geplanten MCP-Bausteine, etwa den Regel-Server, und stelle ihn testweise auf das Beta-SDK der Version 2026-07-28. Prüfe nur, ob er ohne Sitzungsverwaltung läuft. Erkenntnis sichern, dann entscheiden.",
-              "snippetLabel": "Prompt-Snippet · „Migrations-Check\"",
-              "snippet": "Du bist ein nüchterner Migrations-Prüfer für MCP-Server.\nGegeben sind die Beschreibung eines bestehenden MCP-Servers und die\nÄnderungen des Release Candidate 2026-07-28.\n\n1) Welche meiner Funktionen brechen durch den staatenlosen Kern?\n2) Welche würden von der Tasks-Erweiterung profitieren?\n3) Nenne die 3 kleinsten Schritte für eine Testmigration.\n4) Was NICHT anfassen, weil es stabil bleibt.\n\n--- SERVER-BESCHREIBUNG ---\n<span class=\"ph\">{ deinen MCP-Server kurz beschreiben }</span>\n--- ÄNDERUNGEN RC 2026-07-28 ---\n<span class=\"ph\">{ relevante Changelog-Punkte einsetzen }</span>",
-              "source": "Model Context Protocol Blog · Release Candidate 2026-07-28",
-              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
-              "score": "17,4"
-            },
-            {
-              "icon": "layers",
-              "title": "Kleiner Agent, große Wirkung",
-              "tag": "Architektur · prüfenswert",
-              "paras": [
-                "Simon Willison, einer der bekanntesten Entwickler und Autoren rund um KI-Werkzeuge, baut seine offene Programmbibliothek namens LLM Schritt für Schritt zu einem schlanken Agenten-Gerüst um. Ein Agent ist hier ein Programm, das ein KI-Sprachmodell nicht nur einmal fragt, sondern es in einer Schleife arbeiten, Werkzeuge aufrufen und Zwischenergebnisse prüfen lässt. Willison zeigt offen, wie wenig Code nötig ist, um einen einfachen, funktionierenden Coding-Agenten zu bauen.",
-                "Für dein System ist daran weniger die Bibliothek interessant als die Haltung: Ein nützlicher Agent muss nicht groß sein. Wer die Schleife aus Denken, Handeln und Prüfen klein und nachvollziehbar hält, versteht besser, was schiefgeht, und behält die Kontrolle. Ein guter Maßstab, bevor man zu schwergewichtigen Baukästen greift."
-              ],
-              "merk": "Ein Agent ist eine Schleife, kein Monolith.",
-              "source": "Simon Willison · LLM als Agenten-Gerüst",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "Iran und USA: aus Konfrontation werden Gespräche",
+       "text": "Das bestimmende Thema der Woche blieb der Konflikt am Persischen Golf. Nach den militärischen Zuspitzungen des Frühsommers setzten sich die USA und der Iran, vermittelt von den Golfstaaten Katar und dem Nachbarn Pakistan, wieder an einen Tisch. Verhandelt wird über das iranische Atomprogramm, die westlichen Sanktionen und die Straße von Hormus, eine schmale Meerenge am Ausgang des Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Der Weg ist holprig, die Gespräche wurden zwischenzeitlich unterbrochen, doch dass überhaupt geredet wird, ist die wichtigste Entspannung der Woche. Für uns in Europa zählt das doppelt, weil an dieser Meerenge auch die Energiepreise hängen."
+      },
+      {
+       "title": "USA feiern 250 Jahre, Irland übernimmt in Brüssel",
+       "text": "Zwei ruhigere Linien liefen nebenher. Die Vereinigten Staaten begingen am 4. Juli den 250. Jahrestag ihrer Unabhängigkeitserklärung von 1776, in den USA Semiquincentennial genannt, also 250-Jahr-Feier. Und seit dem 1. Juli führt Irland die EU-Ratspräsidentschaft, die alle sechs Monate wechselt und dem jeweiligen Land für ein halbes Jahr die Leitung der Sitzungen des Rats der Europäischen Union überträgt. Beide Ereignisse wirken im Alltag leise, prägen aber mit, welche Handels- und Bündnisfragen die kommenden Monate über den Atlantik hinweg bestimmen."
+      }
+     ]
     },
     {
-      "label": "Sonntag, 5. Juli 2026",
-      "weather": "thunder",
-      "temp": "28°C · Gewitter",
-      "kind": "weekly",
-      "sub": "Wochenrückblick",
-      "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: Am Persischen Golf ringen die USA und der Iran erstmals wieder um einen Ausweg, in Europa dreht die Notenbank nach Jahren zum ersten Mal wieder an der Zinsschraube, und in der Technik reift ein Standard heran, der genau dein System betrifft. Über Horb entlädt sich der Sommer heute in einem Gewitter bei milden 28 Grad. Erst die Woche im Rückblick, <b>ganz unten dann, was du daraus für dein System machst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "Iran und USA: aus Konfrontation werden Gespräche",
-              "text": "Das bestimmende Thema der Woche blieb der Konflikt am Persischen Golf. Nach den militärischen Zuspitzungen des Frühsommers setzten sich die USA und der Iran, vermittelt von den Golfstaaten Katar und dem Nachbarn Pakistan, wieder an einen Tisch. Verhandelt wird über das iranische Atomprogramm, die westlichen Sanktionen und die Straße von Hormus, eine schmale Meerenge am Ausgang des Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Der Weg ist holprig, die Gespräche wurden zwischenzeitlich unterbrochen, doch dass überhaupt geredet wird, ist die wichtigste Entspannung der Woche. Für uns in Europa zählt das doppelt, weil an dieser Meerenge auch die Energiepreise hängen."
-            },
-            {
-              "title": "USA feiern 250 Jahre, Irland übernimmt in Brüssel",
-              "text": "Zwei ruhigere Linien liefen nebenher. Die Vereinigten Staaten begingen am 4. Juli den 250. Jahrestag ihrer Unabhängigkeitserklärung von 1776, in den USA Semiquincentennial genannt, also 250-Jahr-Feier. Und seit dem 1. Juli führt Irland die EU-Ratspräsidentschaft, die alle sechs Monate wechselt und dem jeweiligen Land für ein halbes Jahr die Leitung der Sitzungen des Rats der Europäischen Union überträgt. Beide Ereignisse wirken im Alltag leise, prägen aber mit, welche Handels- und Bündnisfragen die kommenden Monate über den Atlantik hinweg bestimmen."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Die Notenbank bremst, während die Preise ohnehin schon nachgeben.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "EZB dreht die Zinsen erstmals seit 2023 wieder hoch",
-              "text": "Die geldpolitische Nachricht der Woche reicht in den 11. Juni zurück und wirkt weiter nach: Die Europäische Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, hob die Leitzinsen um 0,25 Prozentpunkte an, die erste Erhöhung seit September 2023. Der Leitzins ist der Zinssatz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen; er wirkt am Ende auf jeden Kredit, jeden Dispo und jedes Sparbuch. Der Einlagenzins liegt seither bei 2,25 Prozent. Hintergrund ist eine Teuerung, die auch vom Energiepreisdruck des Golf-Konflikts getrieben wird. Am 23. Juli entscheidet der Rat erneut, die Märkte rechnen mit einem möglichen zweiten Schritt."
-            },
-            {
-              "title": "Deutsche Inflation fällt überraschend auf 2,3 Prozent",
-              "text": "Zugleich kam von den Preisen ein versöhnliches Signal. Die deutsche Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, sank im Juni von 2,6 auf 2,3 Prozent, obwohl Fachleute mit Stillstand gerechnet hatten. Die sogenannte Kerninflation ohne die schwankenden Preise für Energie und Nahrungsmittel blieb allerdings zäh. Kühlere Preise bei gleichzeitig schwachem Wachstum stellen die Notenbank vor eine Zwickmühle: Zu viel Bremsen würgt die Erholung ab, zu wenig lässt die Inflation laufen. Für Selbstständige heißt das, Kredite und Anschlussfinanzierungen jetzt eher teurer einzuplanen."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Wind und Sonne überholen erstmals das Gas",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Micro-grid_using_small_wind_turbines%2C_solar_PV%2C_energy_storage..jpg",
-              "text": "Der stillste, aber vielleicht größte gute Umbruch der Woche: Zum ersten Mal überhaupt haben Windräder und Solaranlagen im April weltweit mehr Strom erzeugt als Gaskraftwerke, 22 gegenüber 20 Prozent der globalen Stromproduktion. Der Abstand klingt klein, markiert aber einen Wendepunkt, denn jahrzehntelang galt Erdgas als die flexible Brückentechnologie, an der die Erneuerbaren nicht vorbeikamen. Solche Kipppunkte bauen sich über Jahre leise auf und werden erst sichtbar, wenn sie überschritten sind."
-            },
-            {
-              "title": "Milliarden für den Schutz der Meere",
-              "text": "Auf der internationalen Meereskonferenz Our Ocean, zu Deutsch etwa Unser Ozean, sagten Staaten, Stiftungen und Unternehmen mehr als 6,4 Milliarden US-Dollar zu, um Korallenriffe, Küsten und Wale zu schützen. Korallenriffe sind unter Wasser gewachsene Kalkstrukturen, die einem großen Teil der Meereslebewesen als Kinderstube dienen und durch wärmeres Wasser stark bedroht sind. Zusagen sind noch keine Taten, doch die Summe zeigt, dass der Schutz der Meere international an Gewicht gewinnt."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Magnetwellen als Boten für Quantenrechner",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ice_Ih_Crystal_Lattice.png",
-              "text": "Physiker machten in dieser Woche sogenannte Magnonen erstmals zu brauchbaren Trägern von Quanteninformation. Magnonen sind winzige Wellen in der magnetischen Ordnung eines Materials, gewissermaßen ein Zittern der kleinsten Magnete im Inneren eines Kristalls. Bislang galten sie als zu kurzlebig, um Information zu halten. Gelingt es, sie zu bändigen, könnten sie in künftigen Quantencomputern Daten transportieren, also in Rechnern, die statt der üblichen Nullen und Einsen die Regeln der Quantenphysik nutzen und dadurch bestimmte Aufgaben ungleich schneller lösen. Noch ist das Grundlagenforschung, aber ein Schritt hin zu stabilerer Quantentechnik."
-            },
-            {
-              "title": "Der bislang größte Katalog der Gravitationswellen",
-              "img": "https://live.staticflickr.com/3188/2798315677_15d193b139_b.jpg",
-              "text": "Astronomen veröffentlichten zu Wochenbeginn den bislang größten Katalog von Gravitationswellen, mit 161 neu entdeckten Verschmelzungen Schwarzer Löcher, was die Gesamtzahl der Nachweise auf 390 hebt. Gravitationswellen sind winzige Kräuselungen in der Struktur von Raum und Zeit, die entstehen, wenn zwei extrem schwere Objekte umeinander stürzen; Albert Einstein hatte sie vor über hundert Jahren vorhergesagt. Jeder Eintrag im Katalog ist die Aufzeichnung einer kosmischen Kollision, die Millionen bis Milliarden Lichtjahre entfernt stattfand. Aus so vielen Ereignissen lernen die Forscher, wie Schwarze Löcher entstehen und wachsen."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Ein Wochenende voller Livemusik, und mehr kommt",
-              "img": "https://live.staticflickr.com/8100/8489948031_ae526a383f_b.jpg",
-              "text": "Vor Ort war es eine musikalische Woche: Am Freitag lockte der Einkaufs- und Musikabend in die Innenstadt, am Samstagabend spielte die Metallica-Tribute-Band MY'tallica open air, also unter freiem Himmel und im Programm einer berühmten Band nachempfunden. Beim heutigen Gewitter bleibt der Sonntag eher ein Tag für drinnen."
-            },
-            {
-              "title": "Der Veranstaltungssommer nimmt Fahrt auf",
-              "text": "Für die Planung der kommenden Wochen lohnt der Blick in den Kalender der Stadt: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Die vollständige Übersicht steht auf den Seiten der Stadt Horb."
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Eine Woche ist lang genug, dass sich das Wichtige vom Lauten trennt. Was bleibt, sind meist ein paar leise Wendepunkte."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Bis zu 4.500 Euro für KI-Weiterbildung",
-            "text": "Die Gelegenheit der Woche mit der längsten Halbwertszeit: Das Bundesprogramm KOMPASS fördert gezielt Solo-Selbstständige, also Selbstständige ohne eigene Angestellte, bei der Weiterbildung. KOMPASS steht für Kompetenzentwicklung über Plattformen für Solo-Selbstständige und ist ein Zuschuss der Bundesagentur für Arbeit, mitfinanziert aus dem Europäischen Sozialfonds der EU, einem Topf für Bildung und Beschäftigung. Gefördert werden bis zu 4.500 Euro je Person innerhalb von zwölf Monaten, ausdrücklich auch für Schulungen rund um künstliche Intelligenz. Voraussetzung ist unter anderem, dass man seit mindestens zwei Jahren hauptberuflich selbstständig ist.",
-            "why": "Mehrwert für dich: ein echter Zuschuss, kein Kredit, für genau die KI-Kompetenz, die dein Geschäft trägt. Der erste Schritt ist ein kostenloses Erstgespräch bei einer KOMPASS-Anlaufstelle, das lässt sich in unter einer Stunde anstoßen. Ein guter Punkt für die neue Woche.",
-            "source": "KOMPASS · Bundesagentur für Arbeit / ESF Plus",
-            "url": "https://www.esf.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlung der Woche",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "MCP wird erwachsen: jetzt die Weichen für Texura stellen",
-              "tag": "Strategischer Hebel",
-              "paras": [
-                "Der rote Faden der Woche für dein System heißt MCP, Model Context Protocol, ein offener Standard, über den KI-Agenten einheitlich auf Werkzeuge und Daten zugreifen, ähnlich wie ein USB-Anschluss die unterschiedlichsten Geräte verbindet. Ende Juni erschien der sogenannte Release Candidate der Version 2026-07-28, also die Vorschau-Fassung, die vor der endgültigen Freigabe am 28. Juli in der Praxis getestet wird. Es ist die größte Überarbeitung seit dem Start des Standards, und drei Bausteine der Woche gehören zusammen: ein staatenloser Kern, über den Server ohne aufwendige Sitzungsverwaltung laufen, das Muster, Regeln zentral als Dienst bereitzustellen statt sie zu kopieren, und die Möglichkeit, Agenten echte Weboberflächen bedienen zu lassen.",
-                "Die strategische Empfehlung für diese Woche ist keine Bastelei, sondern eine Weichenstellung: Lege für Texura, dein System, jetzt einen kleinen, zentralen Regel-Server als MCP-Baustein an und stelle ihn gleich auf das Beta-SDK der Version 2026-07-28, also den Vorab-Werkzeugkasten für Python oder TypeScript. Damit hast du eine einzige Quelle für dein verbindliches Regelwerk, aus der sich jede KI-Sitzung automatisch bedient, und du testest den neuen Standard, solange er sich noch bewegt und du ihn mitformen kannst. Wer bis zum 28. Juli einmal sauber gegen die Vorschau geprüft hat, steht am Tag der Freigabe nicht am Anfang, sondern schon im zweiten Schritt."
-              ],
-              "merk": "Standards testet man am besten, solange sie sich noch bewegen.",
-              "konkret": "Diese Woche nur ein Ziel: einen einzigen zentralen Regel-Server auf dem Beta-SDK 2026-07-28 zum Laufen bringen, den eine Testsitzung beim Start abfragt. Prüfe nur, ob er ohne Sitzungsverwaltung läuft. Erkenntnis sichern, dann über den Rest entscheiden.",
-              "snippetLabel": "Prompt-Snippet · „Wochen-Weichenstellung\"",
-              "snippet": "Du bist ein nüchterner Architektur-Berater für mein KI-System namens Texura.\nZiel dieser Woche: ein zentraler Regel-Server als MCP-Baustein auf dem Beta-SDK 2026-07-28.\n\n1) Entwirf die kleinste sinnvolle Struktur für einen zentralen Regel-Server, den jede Sitzung beim Start abfragt.\n2) Was ändert sich durch den staatenlosen Kern der Version 2026-07-28 gegenüber der alten Sitzungsverwaltung?\n3) Nenne die 3 kleinsten Schritte bis zu einem laufenden Testserver.\n4) Was diese Woche bewusst NICHT anfassen, um fokussiert zu bleiben.\n\n--- MEIN REGELWERK (KURZ) ---\n<span class=\"ph\">{ dein verbindliches Regelwerk in Stichworten }</span>\n--- MEINE UMGEBUNG ---\n<span class=\"ph\">{ Sprache, z. B. Python oder TypeScript, und wo es laufen soll }</span>",
-              "source": "Model Context Protocol Blog · Release Candidate 2026-07-28",
-              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
-              "score": "18,1"
-            }
-          ]
-        },
-        {
-          "type": "systemtips",
-          "eyebrow": "Systemanpassungen der Woche",
-          "intro": "Gebündelt die konkreten System- und Prompt-Tipps aus den Tagen dieser Woche, so, dass du sie in einem Zug in dein System einspielen kannst. Der kopierfertige Text unten fasst alles in nummerierten Schritten zusammen.",
-          "items": [
-            {
-              "title": "Regeln zentral bereitstellen statt kopieren",
-              "text": "Verbindliche Regeln nicht in jeden Arbeitszusammenhang hineinkopieren, sondern über einen kleinen zentralen Server bereitstellen, den jede KI-Sitzung beim Start abfragt. Eine einzige Quelle, aus der sich alles bedient."
-            },
-            {
-              "title": "Auf das Beta-SDK 2026-07-28 stellen",
-              "text": "Diesen Regel-Server gleich gegen die Vorschau-Fassung des neuen MCP-Standards (Version 2026-07-28) testen und prüfen, ob er ohne Sitzungsverwaltung, also staatenlos, läuft. So bist du am Freigabetag 28. Juli schon einen Schritt voraus."
-            },
-            {
-              "title": "Browser-Steuerung als Demo-Baustein ablegen",
-              "text": "Ein MCP-Server, über den ein Agent echte Webseiten bedienen kann (klicken, Formulare ausfüllen), ist als Referenz für spätere Kunden-Demos wertvoll. Diese Woche nur ablegen, nicht bauen."
-            },
-            {
-              "title": "Agenten klein und nachvollziehbar halten",
-              "text": "Als Haltung fürs ganze System: Ein nützlicher Agent ist eine überschaubare Schleife aus Denken, Handeln und Prüfen, kein schwergewichtiger Baukasten. Klein halten heißt Kontrolle behalten."
-            },
-            {
-              "title": "KOMPASS-Erstgespräch anstoßen",
-              "text": "Das kostenlose Erstgespräch beim Förderprogramm KOMPASS terminieren, um bis zu 4.500 Euro Zuschuss für KI-Weiterbildung zu prüfen. Voraussetzung: seit mindestens zwei Jahren hauptberuflich selbstständig."
-            }
-          ],
-          "copytext": "SYSTEMANPASSUNGEN DER WOCHE (05.07.2026) — in einem Zug einspielen\n\n1) ZENTRALER REGEL-SERVER\nLege einen kleinen, zentralen Regel-Server als MCP-Baustein an (MCP = Model Context Protocol, offener Standard zum Andocken von Werkzeugen und Daten). Verbindliche Regeln werden ab jetzt NICHT mehr in jede Sitzung kopiert, sondern zentral bereitgestellt. Jede KI-Sitzung fragt diesen Server beim Start ab. Ziel: eine einzige Quelle der Wahrheit fuer alle Regeln.\n\n2) AUF BETA-SDK 2026-07-28 TESTEN\nStelle den Regel-Server auf das Beta-SDK der MCP-Version 2026-07-28 (verfuegbar fuer Python, TypeScript, Go, C#). Pruefe NUR, ob er ohne Sitzungsverwaltung laeuft (staatenloser Kern). Endgueltige Freigabe des Standards ist der 28. Juli, daher jetzt testen, solange sich die Fassung noch bewegt.\n\n3) BROWSER-STEUERUNG ABLEGEN (NICHT BAUEN)\nNotiere einen MCP-Server zur Browser-Steuerung (Agent bedient echte Webseiten: klicken, Formulare ausfuellen) als Referenz fuer spaetere Kunden-Demos. Diese Woche nur ablegen.\n\n4) AGENTEN-PRINZIP\nHalte jeden Agenten als kleine, nachvollziehbare Schleife aus Denken, Handeln und Pruefen. Keine schwergewichtigen Baukaesten, solange eine schlanke Schleife reicht.\n\n5) FOERDERUNG ANSTOSSEN\nTerminiere ein kostenloses Erstgespraech beim Programm KOMPASS (bis zu 4.500 Euro Zuschuss fuer KI-Weiterbildung, Voraussetzung: seit mind. 2 Jahren hauptberuflich selbststaendig).\n\nPROMPT-SNIPPET FUER SCHRITT 1 UND 2:\nDu bist ein nuechterner Architektur-Berater fuer mein KI-System namens Texura.\nZiel dieser Woche: ein zentraler Regel-Server als MCP-Baustein auf dem Beta-SDK 2026-07-28.\n1) Entwirf die kleinste sinnvolle Struktur fuer einen zentralen Regel-Server, den jede Sitzung beim Start abfragt.\n2) Was aendert sich durch den staatenlosen Kern der Version 2026-07-28 gegenueber der alten Sitzungsverwaltung?\n3) Nenne die 3 kleinsten Schritte bis zu einem laufenden Testserver.\n4) Was diese Woche bewusst NICHT anfassen.\nMEIN REGELWERK (KURZ): { dein verbindliches Regelwerk in Stichworten }\nMEINE UMGEBUNG: { Sprache und Laufzeit }"
-        },
-        {
-          "type": "thought",
-          "text": "Die neue Woche beginnt nicht bei null. Sie beginnt bei dem einen Baustein, den du heute richtig setzt."
-        }
-      ]
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Die Notenbank bremst, während die Preise ohnehin schon nachgeben.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "EZB dreht die Zinsen erstmals seit 2023 wieder hoch",
+       "text": "Die geldpolitische Nachricht der Woche reicht in den 11. Juni zurück und wirkt weiter nach: Die Europäische Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, hob die Leitzinsen um 0,25 Prozentpunkte an, die erste Erhöhung seit September 2023. Der Leitzins ist der Zinssatz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen; er wirkt am Ende auf jeden Kredit, jeden Dispo und jedes Sparbuch. Der Einlagenzins liegt seither bei 2,25 Prozent. Hintergrund ist eine Teuerung, die auch vom Energiepreisdruck des Golf-Konflikts getrieben wird. Am 23. Juli entscheidet der Rat erneut, die Märkte rechnen mit einem möglichen zweiten Schritt."
+      },
+      {
+       "title": "Deutsche Inflation fällt überraschend auf 2,3 Prozent",
+       "text": "Zugleich kam von den Preisen ein versöhnliches Signal. Die deutsche Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, sank im Juni von 2,6 auf 2,3 Prozent, obwohl Fachleute mit Stillstand gerechnet hatten. Die sogenannte Kerninflation ohne die schwankenden Preise für Energie und Nahrungsmittel blieb allerdings zäh. Kühlere Preise bei gleichzeitig schwachem Wachstum stellen die Notenbank vor eine Zwickmühle: Zu viel Bremsen würgt die Erholung ab, zu wenig lässt die Inflation laufen. Für Selbstständige heißt das, Kredite und Anschlussfinanzierungen jetzt eher teurer einzuplanen."
+      }
+     ]
     },
     {
-      "label": "Montag, 6. Juli 2026",
-      "weather": "clouds",
-      "temp": "28°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Der Montag beginnt bewölkt und mild bei 28 Grad über Horb, ein Auftakt zur Woche der großen Runden: In Ankara treffen sich die Regierungschefs der westlichen Militärallianz, und in Genf beginnt zum ersten Mal ein weltweiter Dialog darüber, wie künstliche Intelligenz künftig geregelt werden soll. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "NATO-Gipfel in Ankara: Verteidigung und Ukraine",
-              "text": "Am 7. und 8. Juli kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte genannt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Erwartet wird zudem, dass die Runde über die Kritik von US-Präsident Donald Trump am Bündnis spricht. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
-              "source": "NATO · Gipfel in Ankara",
-              "url": "https://www.nato.int/"
-            },
-            {
-              "title": "Vereinte Nationen: erster Weltdialog zur KI-Regulierung",
-              "text": "In Genf beginnt der Globale Dialog zur Steuerung künstlicher Intelligenz, auf Englisch Global Dialogue on Artificial Intelligence Governance, eine neu geschaffene Gesprächsrunde der Vereinten Nationen. Governance meint hier die Regeln und Aufsicht, nach denen eine Technik entwickelt und eingesetzt wird. UN-Generalsekretär António Guterres, der frühere portugiesische Ministerpräsident und heutige oberste Repräsentant der Weltorganisation, nimmt an der Eröffnung teil. Ziel ist, dass sich Staaten erstmals gemeinsam über Chancen und Risiken von KI verständigen, statt jedes Land für sich. Für alle, die beruflich mit KI arbeiten, ist das der Beginn eines Rahmens, der die kommenden Jahre mitbestimmen dürfte.",
-              "source": "Vereinte Nationen · Genf",
-              "url": "https://press.un.org/en"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Vor dem nächsten Zinsentscheid hält die Notenbank die Füße still.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "Ruhige Datenwoche vor dem Zinsentscheid am 23. Juli",
-              "text": "Die Wirtschaftswoche vom 6. bis 12. Juli bringt vor allem Konjunkturdaten, aber keine große Weichenstellung: Die nächste Sitzung der Europäischen Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, ist erst am 23. Juli. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, bei der der Einlagenzins auf 2,25 Prozent stieg, dürfte die Notenbank vorerst abwarten. Der Einlagenzins ist der Satz, zu dem Banken überschüssiges Geld bei der Notenbank parken, und er wirkt am Ende auf Kredite und Sparzinsen. Die Teuerung im Euroraum liegt bei rund 2,8 Prozent und damit weiter über dem Ziel von 2 Prozent, während für 2026 nur ein schwaches Wachstum von etwa 0,8 Prozent erwartet wird. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
-              "source": "EZB · nächster Zinsentscheid 23. Juli",
-              "url": "https://www.ecb.europa.eu/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "800 Millionen Menschen mehr mit Strom",
-              "img": "https://live.staticflickr.com/162/394640345_ce93f0d70a_b.jpg",
-              "text": "Seit 2010 haben rund 800 Millionen Menschen zusätzlich Zugang zu Elektrizität bekommen, sodass die weltweite Versorgungsquote bis 2024 auf 92 Prozent gestiegen ist. Das geht aus einem Bericht hervor, an dem unter anderem die Weltgesundheitsorganisation WHO beteiligt war, die Sonderorganisation der Vereinten Nationen für Gesundheit. Strom ist die Grundlage für Licht zum Lernen, für gekühlte Medikamente und für kleine Betriebe. Getragen wird der Fortschritt vor allem von günstiger gewordener Solartechnik, mit der sich auch entlegene Dörfer versorgen lassen. Die letzten Prozente sind erfahrungsgemäß die schwersten, doch der Trend zeigt seit Jahren stetig nach oben.",
-              "source": "Positive News · WHO-Bericht",
-              "url": "https://www.positive.news/"
-            },
-            {
-              "title": "Europas Luft wird messbar sauberer",
-              "img": "https://live.staticflickr.com/209/450571955_578bb65125_b.jpg",
-              "text": "Neue Daten zeigen, dass die Luftverschmutzung in Europa seit Jahren zurückgeht: Der Ausstoß von Schwefel- und Stickoxiden, also von Gasen aus Industrie und Verkehr, die Atemwege und Umwelt belasten, ist seit 2010 jährlich um etwa 3 bis 5 Prozent gesunken. Die Zahlen stammen vom Copernicus Atmosphärenüberwachungsdienst CAMS, einem Erdbeobachtungsprogramm der Europäischen Union. Die größten Rückgänge kommen aus Industrie und Straßenverkehr, unter anderem durch strengere Abgasregeln und sauberere Technik. Bessere Luft bedeutet unmittelbar weniger Atemwegserkrankungen, ein leiser Gewinn, der sich über Jahrzehnte aufbaut.",
-              "source": "Copernicus CAMS · Positive News",
-              "url": "https://www.positive.news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Seeanemonen wehren Viren auf eigenem Weg ab",
-              "img": "https://live.staticflickr.com/1049/1004710143_54bd55e715_b.jpg",
-              "text": "Forscher der Hebräischen Universität Jerusalem haben in Seeanemonen, den festsitzenden, blumenartigen Verwandten der Quallen, ein bislang unbekanntes Abwehr-Eiweiß namens CARDIB entdeckt. Im Normalzustand bremst es die körpereigene Immunabwehr, ist aber unverzichtbar, sobald ein Virus angreift: Schalteten die Wissenschaftler das zugehörige Gen mit der Genschere CRISPR aus, einem Werkzeug zum gezielten Verändern des Erbguts, wurden die Tiere hochanfällig für Infektionen. Bemerkenswert ist, dass dieser Weg ganz anders funktioniert als das entsprechende System beim Menschen. Die im Fachblatt Nature Ecology and Evolution vorgestellte Arbeit legt nahe, dass die Natur die Virenabwehr mehrfach unabhängig erfunden hat, und zeigt, wie viel sich aus urtümlichen Lebewesen lernen lässt.",
-              "source": "ScienceDaily · Nature Ecology and Evolution",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
-            },
-            {
-              "title": "Wie tiefer Schlaf das Wachstumshormon steuert",
-              "text": "Ein Forschungsteam hat den Schaltkreis im Gehirn entschlüsselt, der den Tiefschlaf mit der Ausschüttung des Wachstumshormons verbindet. Das Wachstumshormon ist ein Botenstoff, der Zellen zur Erneuerung anregt und beim Menschen vor allem in den ersten Stunden des Nachtschlafs freigesetzt wird. Die Studie zeigt, dass Schlaf und Hormonausschüttung sich gegenseitig regeln, also nicht nur der Schlaf das Hormon anstößt, sondern das Hormon auch den Schlaf mitformt. Das erklärt, warum guter Tiefschlaf so eng mit Erholung und Regeneration zusammenhängt. Noch ist es Grundlagenforschung, doch es könnte langfristig helfen, Schlaf- und Hormonstörungen besser zu verstehen.",
-              "source": "ScienceDaily · Neurowissenschaft",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Der Veranstaltungssommer nimmt Fahrt auf",
-              "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-              "text": "Der Montag selbst bleibt in Horb ruhig, doch der Kalender der kommenden Wochen füllt sich: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Bei den milden, bewölkten 28 Grad dieser Woche lohnt es sich, den ersten Termin schon einzuplanen. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
-              "source": "Stadt Horb · Veranstaltungen",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Die großen Runden tagen weit weg, doch was sie beschließen, sickert am Ende bis auf den eigenen Schreibtisch durch."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Kostenlose Cloud- und KI-Guthaben für Gründer",
-            "text": "Der Microsoft for Startups Founders Hub ist ein Programm, das jungen Firmen kostenlose Guthaben und Werkzeuge bereitstellt, ausdrücklich auch Solo-Gründern und ohne dass ein Wagniskapitalgeber im Rücken stehen muss. Founders Hub bedeutet sinngemäß Gründer-Zentrale. Zur Aufnahme genügt eine Selbstregistrierung, die in der Regel sofort freigeschaltet wird. Enthalten sind unter anderem Guthaben für die Cloud-Plattform Azure, also Rechen- und Speicherleistung aus dem Netz, sowie Zugang zu KI-Modellen, die man sonst pro Nutzung bezahlt. Für ein System wie deines lassen sich damit erste Bausteine testen, ohne gleich laufende Kosten zu erzeugen.",
-            "why": "Mehrwert für dich: echte Guthaben statt einer Testphase mit Ablaufdatum, sofort nutzbar und ohne Investoren-Voraussetzung. In unter einer Stunde registriert, danach steht dir Rechenleistung für Experimente zur Verfügung, die sonst Geld kosten würde.",
-            "source": "Microsoft for Startups · Founders Hub",
-            "url": "https://www.microsoft.com/startups"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Passend dazu hat Simon Willison Anfang Juli eine erste Vorabversion namens llm-coding-agent 0.1a0 veröffentlicht, einen schlanken Programmier-Agenten, der Dateien liest, ändert und Befehle ausführt. Ausprobieren lässt er sich ohne feste Installation mit einem einzigen Kommandozeilen-Aufruf. Als Anschauungsmaterial abgelegt, kein Handlungsdruck.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Günstige Modelle für die Fleißarbeit, das starke fürs Denken",
-              "tag": "Strategischer Hebel",
-              "paras": [
-                "Simon Willison, einer der bekanntesten Entwickler und Autoren rund um KI-Werkzeuge, gibt Anfang Juli eine schlichte, aber wirksame Faustregel weiter: Für die eigentliche Programmierarbeit soll ein Agent nach eigenem Ermessen ein schwächeres, günstigeres Sprachmodell wählen und dieses in einem sogenannten Subagenten laufen lassen. Ein Subagent ist ein untergeordneter Arbeitsprozess, den das Hauptsystem für eine Teilaufgabe abspaltet. Das teure Spitzenmodell bleibt dabei für das, worauf es ankommt: Planung, Urteil und die abschließende Prüfung.",
-                "Für dein System ist das ein direkter Kosten- und Kontrollhebel. Reine Umsetzungsarbeit, etwa Textbausteine erzeugen oder Routineänderungen, braucht selten das stärkste Modell; Einordnung und Kontrolle bleiben oben. Wer diese Trennung sauber zieht, senkt die laufenden Kosten spürbar und behält zugleich die Qualität dort, wo sie zählt. Der Hebel ist heute klein einzurichten und wirkt bei jedem weiteren Auftrag."
-              ],
-              "merk": "Das teure Modell denkt, das günstige tippt.",
-              "konkret": "Suche in deinem System einen einzigen, klar abgegrenzten Routineschritt und leite ihn testweise an ein günstigeres Modell in einem Subagenten um. Vergleiche Ergebnis und Kosten mit dem bisherigen Weg, dann entscheiden.",
-              "snippetLabel": "Prompt-Snippet · „Modell-Zuteilung\"",
-              "snippet": "Du bist ein nüchterner Kosten-Architekt für mein KI-System.\nTeile die folgende Aufgabe in zwei Ebenen auf.\n\n1) Welche Teilschritte sind reine Umsetzung und können an ein günstigeres Modell in einem Subagenten gehen?\n2) Welche Schritte brauchen Planung, Urteil oder Endkontrolle und bleiben beim starken Modell?\n3) Nenne die Übergabepunkte zwischen beiden Ebenen.\n4) Schätze grob, wie viel Aufwand sich so verlagern lässt.\n\n--- AUFGABE ---\n<span class=\"ph\">{ deine Aufgabe kurz beschreiben }</span>\n--- VERFÜGBARE MODELLE ---\n<span class=\"ph\">{ dein starkes und dein günstiges Modell nennen }</span>",
-              "source": "Simon Willison · Juni-Newsletter und llm-coding-agent",
-              "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
-              "score": "16,9"
-            }
-          ]
-        }
-      ]
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Wind und Sonne überholen erstmals das Gas",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Micro-grid_using_small_wind_turbines%2C_solar_PV%2C_energy_storage..jpg",
+       "text": "Der stillste, aber vielleicht größte gute Umbruch der Woche: Zum ersten Mal überhaupt haben Windräder und Solaranlagen im April weltweit mehr Strom erzeugt als Gaskraftwerke, 22 gegenüber 20 Prozent der globalen Stromproduktion. Der Abstand klingt klein, markiert aber einen Wendepunkt, denn jahrzehntelang galt Erdgas als die flexible Brückentechnologie, an der die Erneuerbaren nicht vorbeikamen. Solche Kipppunkte bauen sich über Jahre leise auf und werden erst sichtbar, wenn sie überschritten sind."
+      },
+      {
+       "title": "Milliarden für den Schutz der Meere",
+       "text": "Auf der internationalen Meereskonferenz Our Ocean, zu Deutsch etwa Unser Ozean, sagten Staaten, Stiftungen und Unternehmen mehr als 6,4 Milliarden US-Dollar zu, um Korallenriffe, Küsten und Wale zu schützen. Korallenriffe sind unter Wasser gewachsene Kalkstrukturen, die einem großen Teil der Meereslebewesen als Kinderstube dienen und durch wärmeres Wasser stark bedroht sind. Zusagen sind noch keine Taten, doch die Summe zeigt, dass der Schutz der Meere international an Gewicht gewinnt."
+      }
+     ]
     },
     {
-      "label": "Dienstag, 7. Juli 2026",
-      "weather": "clouds",
-      "temp": "32°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Der Dienstag wird bewölkt, aber heiß bei 32 Grad über Horb, ein Tag für Schatten und Wasser. Zugleich tagen heute die großen Runden: In Ankara beginnt der Gipfel des westlichen Militärbündnisses, in Doha melden die Vermittler im Streit zwischen den USA und dem Iran erste Fortschritte. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "NATO-Gipfel in Ankara beginnt",
-              "text": "Heute und morgen kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Es ist der erste Gipfel in der Türkei seit 2004. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte gesetzt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Dem Entwurf der Abschlusserklärung zufolge wollen die Verbündeten sich zur Beistandspflicht nach Artikel 5 des NATO-Vertrags bekennen, Russland als langfristige Bedrohung benennen und zusätzliche Hilfen für die Ukraine zusagen. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
-              "source": "NATO · Gipfel in Ankara",
-              "url": "https://www.nato.int/"
-            },
-            {
-              "title": "USA und Iran: Fortschritte bei den Gesprächen in Doha",
-              "text": "Im Streit um das iranische Atomprogramm haben indirekte Gespräche zwischen den USA und dem Iran, vermittelt vom Golfstaat Katar in dessen Hauptstadt Doha, nach Angaben der Vermittler mit Fortschritten geendet. Indirekt heißt, dass beide Seiten nicht am selben Tisch sitzen, sondern über einen Vermittler miteinander reden. Verhandelt wird über das Atomprogramm, die westlichen Sanktionen und die Straße von Hormus, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Eine nächste Runde ist für später angekündigt, ein Abschluss steht aus. Für Europa zählt jede Entspannung an dieser Meerenge doppelt, weil an ihr auch die Energiepreise hängen.",
-              "source": "Reuters · US-Iran-Gespräche in Doha"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Die Teuerung im Euroraum zieht wieder an, während sie in Deutschland nachgibt.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "Inflation im Euroraum und in Deutschland laufen auseinander",
-              "text": "Vor dem nächsten Zinsentscheid richtet sich der Blick auf ein ungleiches Bild bei den Preisen. Die Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, ist im Euroraum zuletzt auf rund 3,2 Prozent gestiegen, während sie in Deutschland im Juni überraschend von 2,6 auf 2,3 Prozent gesunken ist. Der Euroraum umfasst die 20 Länder, die den Euro als Währung nutzen. Für die Europäische Zentralbank, kurz EZB, die für diese Länder die Geldpolitik festlegt, ist das eine Zwickmühle: Sie steuert nach dem Durchschnitt aller Euro-Länder, und der liegt weiter über ihrem Ziel von 2 Prozent. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, mit der der Einlagenzins auf 2,25 Prozent stieg, entscheidet der Rat am 23. Juli erneut. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
-              "source": "EZB · nächster Zinsentscheid 23. Juli",
-              "url": "https://www.ecb.europa.eu/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Irland zahlt Künstlern ein Grundeinkommen",
-              "img": "https://live.staticflickr.com/3312/3226375271_9998ac7530_b.jpg",
-              "text": "Irland macht ein zunächst befristetes Modellprojekt dauerhaft: Künstlerinnen und Künstler erhalten dort ein Grundeinkommen, also eine feste monatliche Zahlung ohne Gegenleistung, damit sie ihrer Arbeit nachgehen können, ohne ständig um die Miete bangen zu müssen. Hintergrund ist die Beobachtung, dass Kunst und Kultur die Wirtschaft stärken und das gesellschaftliche Leben bereichern, viele Kreative aber kaum von ihrer Arbeit leben können. Erste Auswertungen zeigen, dass die Geförderten mehr Zeit ins eigene Schaffen stecken und seltener aus Geldnot den Beruf wechseln. Für ein ganzes Land ist das ein bemerkenswerter Versuch, kulturelle Arbeit verlässlich abzusichern."
-            },
-            {
-              "title": "Mexiko: Fußball für sehbehinderte Frauen",
-              "img": "https://live.staticflickr.com/1/3545199_ee47f36ed1.jpg",
-              "text": "In Mexiko hat sich eine Fußballmannschaft gegründet, die blinden und sehbehinderten Frauen das Spielen ermöglicht, in einem Umfeld, das ausdrücklich auf Teilhabe setzt. Beim Blindenfußball orientieren sich die Spielerinnen am Geräusch eines mit Rasseln versehenen Balls und an Zurufen. Die Teilnehmerinnen berichten, dass sie über den Sport Selbstvertrauen, Selbstständigkeit, Freundschaften und Fitness gewinnen. Solche Angebote sind mehr als Freizeit: Sie öffnen einen Raum, in dem eine oft übersehene Gruppe sichtbar wird und Gemeinschaft erlebt."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Erstmals die Geburt eines Magnetars beobachtet",
-              "img": "https://live.staticflickr.com/7093/27744663791_f140fd684a_b.jpg",
-              "text": "Astronomen haben nach eigenen Angaben zum ersten Mal die Geburt eines Magnetars mitverfolgt, bestätigt durch ein eigentümliches, zwitscherndes Signal aus einer fernen Sternexplosion. Ein Magnetar ist eine besondere Art Neutronenstern, also der extrem dichte Überrest eines ausgebrannten, kollabierten Sterns, und trägt das stärkste Magnetfeld, das im Universum bekannt ist, milliardenfach stärker als alles, was auf der Erde erzeugbar wäre. Bisher kannte man Magnetare nur als fertige Objekte, ihre Entstehung war reine Theorie. Das aufgezeichnete Signal aus einer Supernova, dem hellen Aufleuchten eines sterbenden Sterns, liefert nun erstmals einen direkten Hinweis darauf, wie diese kosmischen Magnete entstehen. Für die Astrophysik ist das ein seltener Blick auf einen Moment, der sonst im Verborgenen abläuft."
-            },
-            {
-              "title": "Warum alternde Muskeln langsamer heilen",
-              "text": "Forschende an der Universität von Kalifornien in Los Angeles, kurz UCLA, haben einen molekularen Grund dafür gefunden, warum sich Muskeln im Alter schlechter erholen. In alten Muskel-Stammzellen, also den Reservezellen, aus denen der Körper geschädigtes Gewebe neu aufbaut, reichert sich ein Eiweiß namens NDRG1 an und wirkt wie eine Bremse: Es hält die Zellen davon ab, nach einer Verletzung in den Reparaturmodus zu schalten. Im Laborversuch ließ sich die Regeneration wieder verbessern, indem dieser Bremseffekt gelöst wurde. Noch ist das Grundlagenforschung an Zellen und Tieren, doch es weist einen möglichen Ansatzpunkt, um die Heilung im Alter zu unterstützen."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Heißer Sommertag, und der Kalender füllt sich",
-              "img": "https://live.staticflickr.com/7009/6564586837_eca110e72c_b.jpg",
-              "text": "Der Dienstag selbst bleibt in Horb ruhig, wird aber mit rund 32 Grad der heißeste Tag der Woche, auch wenn der Himmel bewölkt ist, weshalb viel Trinken und ein schattiges Plätzchen am Neckar heute die beste Empfehlung sind. Für die kommenden Wochen füllt sich der Veranstaltungskalender der Stadt: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend, und am 31. Juli spielt Andreas Kümmert mit seiner Band. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
-              "source": "Stadt Horb · Veranstaltungen",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Große Runden tagen an fernen Orten, doch das Wetter über dem eigenen Dach entscheidet, wie der Tag sich anfühlt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Kostenlose Rechenleistung aus Europas KI-Fabriken",
-            "text": "Die Europäische Union baut derzeit ein Netz sogenannter AI Factories auf, zu Deutsch KI-Fabriken, das sind auf künstliche Intelligenz zugeschnittene Hochleistungsrechenzentren, aufgebaut über die gemeinsame Initiative EuroHPC. EuroHPC steht für European High Performance Computing, den europäischen Zusammenschluss für Supercomputer. Über regelmäßige Zugangsaufrufe, im Fachjargon Access Calls, können auch Solo-Gründer und kleine Firmen kostenlose Rechenzeit beantragen, um KI-Modelle zu trainieren oder zu betreiben. Bis Ende 2026 sollen mindestens 15 dieser Standorte in Betrieb sein. Ein Supercomputer bündelt sehr viele Rechenkerne, um Aufgaben zu bewältigen, an denen ein normaler Rechner scheitert.",
-            "why": "Mehrwert für dich: echte Rechenleistung für rechenintensive Experimente, die du sonst teuer einkaufen müsstest, und das ohne Investor im Rücken. Der erste Schritt ist ein Blick in die offenen Zugangsaufrufe auf dem EuroHPC-Portal, um zu prüfen, welcher zu deinem Vorhaben passt.",
-            "source": "EuroHPC · AI Factories Access Calls",
-            "url": "https://eurohpc-ju.europa.eu/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Nebenbei ist die unternehmenstaugliche Rechteverwaltung des MCP-Standards, die Enterprise-Managed Authorization, stabil geworden, und der neue staatenlose Kern erlaubt es Clients, die Werkzeugliste eines Servers zwischenzuspeichern. Für dein eigenes System heute nur als Referenz ablegen, kein Handlungsdruck.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Ein starkes offenes Modell gratis testen, bis zum 21. Juli",
-              "tag": "Zeitfenster",
-              "paras": [
-                "Der Entwickler und KI-Autor Simon Willison weist darauf hin, dass der chinesische Technikkonzern Tencent sein neues, sehr großes Sprachmodell mit dem Namen Hy3 vorgestellt hat, ein sogenanntes Mixture-of-Experts-Modell mit rund 295 Milliarden Parametern. Mixture of Experts, sinngemäß Expertengemisch, bedeutet, dass ein solches Modell bei jeder Anfrage nur einen Teil seiner Bausteine aktiviert und dadurch trotz seiner Größe vergleichsweise günstig zu betreiben ist. Bis zum 21. Juli ist es kostenlos über OpenRouter erreichbar, eine Plattform, die viele KI-Modelle über eine einzige Schnittstelle zugänglich macht.",
-                "Das schließt genau an die Faustregel dieser Woche an, das teure Modell nur fürs Denken zu nutzen und die Fleißarbeit günstiger zu erledigen. Das kostenlose Zeitfenster ist die Gelegenheit, ein starkes offenes Modell an einem echten Routineschritt deines Systems auszuprobieren und mit deinem bisherigen Weg zu vergleichen, ohne dafür zu bezahlen. Am Ende steht eine belastbare Entscheidung statt eines Bauchgefühls."
-              ],
-              "merk": "Ein kostenloses Zeitfenster ist ein Test, den man sonst bezahlt.",
-              "konkret": "Nimm einen einzigen, klar abgegrenzten Routineschritt deines Systems, etwa das Erzeugen von Textbausteinen, und lasse ihn testweise über OpenRouter von Tencent Hy3 erledigen. Vergleiche Ergebnis, Tempo und spätere Kosten mit deinem bisherigen Modell und sichere die Erkenntnis, bevor das Zeitfenster am 21. Juli schließt.",
-              "snippetLabel": "Prompt-Snippet · „Modell-Vergleich\"",
-              "snippet": "Du bist ein nüchterner Test-Auswerter für KI-Modelle.\nIch habe denselben Routineschritt einmal mit meinem bisherigen Modell\nund einmal mit Tencent Hy3 (über OpenRouter) ausgeführt.\n\n1) Vergleiche die beiden Ergebnisse auf Korrektheit, Ton und Vollständigkeit.\n2) Wo ist Hy3 spürbar schwächer oder stärker?\n3) Taugt Hy3 für genau diesen Routineschritt als günstigerer Ersatz? Ja/Nein mit Begründung.\n4) Nenne einen einzigen nächsten Test, der die Entscheidung absichert.\n\n--- ROUTINESCHRITT ---\n<span class=\"ph\">{ den getesteten Schritt kurz beschreiben }</span>\n--- ERGEBNIS BISHERIGES MODELL ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>\n--- ERGEBNIS HY3 ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>",
-              "source": "Simon Willison · Tencent Hy3 auf OpenRouter",
-              "url": "https://simonwillison.net/",
-              "score": "16,2"
-            }
-          ]
-        }
-      ]
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Magnetwellen als Boten für Quantenrechner",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ice_Ih_Crystal_Lattice.png",
+       "text": "Physiker machten in dieser Woche sogenannte Magnonen erstmals zu brauchbaren Trägern von Quanteninformation. Magnonen sind winzige Wellen in der magnetischen Ordnung eines Materials, gewissermaßen ein Zittern der kleinsten Magnete im Inneren eines Kristalls. Bislang galten sie als zu kurzlebig, um Information zu halten. Gelingt es, sie zu bändigen, könnten sie in künftigen Quantencomputern Daten transportieren, also in Rechnern, die statt der üblichen Nullen und Einsen die Regeln der Quantenphysik nutzen und dadurch bestimmte Aufgaben ungleich schneller lösen. Noch ist das Grundlagenforschung, aber ein Schritt hin zu stabilerer Quantentechnik."
+      },
+      {
+       "title": "Der bislang größte Katalog der Gravitationswellen",
+       "img": "https://live.staticflickr.com/3188/2798315677_15d193b139_b.jpg",
+       "text": "Astronomen veröffentlichten zu Wochenbeginn den bislang größten Katalog von Gravitationswellen, mit 161 neu entdeckten Verschmelzungen Schwarzer Löcher, was die Gesamtzahl der Nachweise auf 390 hebt. Gravitationswellen sind winzige Kräuselungen in der Struktur von Raum und Zeit, die entstehen, wenn zwei extrem schwere Objekte umeinander stürzen; Albert Einstein hatte sie vor über hundert Jahren vorhergesagt. Jeder Eintrag im Katalog ist die Aufzeichnung einer kosmischen Kollision, die Millionen bis Milliarden Lichtjahre entfernt stattfand. Aus so vielen Ereignissen lernen die Forscher, wie Schwarze Löcher entstehen und wachsen."
+      }
+     ]
     },
     {
-      "label": "Mittwoch, 8. Juli 2026",
-      "weather": "clouds",
-      "temp": "27°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Nach der Hitze der letzten Tage wird der Mittwoch mit 27 Grad spürbar milder, der Himmel über Horb bleibt bewölkt, ein angenehmer Arbeitstag ohne die drückende Sonne. In der Welt geht der Gipfel des westlichen Militärbündnisses in Ankara in seinen zweiten Tag, während die Fußball-Weltmeisterschaft eine kurze Verschnaufpause einlegt. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "NATO-Gipfel in Ankara: zweiter Tag um die Lastenteilung",
-              "text": "Am zweiten und letzten Tag ihres Gipfels in Ankara, der Hauptstadt der Türkei, beraten die Staats- und Regierungschefs der NATO über die sogenannte Lastenteilung. NATO steht für North Atlantic Treaty Organization, das nordatlantische Verteidigungsbündnis mit 32 Mitgliedstaaten, in dem sich die Länder gegenseitigen Beistand zusichern. Lastenteilung, im Fachjargon Burden Sharing, meint die Frage, wie fair sich die Ausgaben für Verteidigung zwischen den Vereinigten Staaten und den übrigen Verbündeten verteilen. US-Präsident Donald Trump hat wiederholt beklagt, die europäischen Partner gäben zu wenig für ihre eigene Sicherheit aus, während diese betonen, ihre Investitionen zuletzt deutlich erhöht zu haben. Solche Gipfel zeigen, wie geschlossen der Westen auftritt, und ihre Beschlüsse wirken oft über Jahre nach.",
-              "source": "NATO · Gipfel in Ankara, zweiter Tag",
-              "url": "https://www.nato.int/"
-            },
-            {
-              "title": "Fußball-WM legt einen spielfreien Tag ein",
-              "text": "Bei der Fußball-Weltmeisterschaft 2026, die in diesem Jahr gemeinsam von den Vereinigten Staaten, Kanada und Mexiko ausgerichtet wird, gibt es heute erstmals seit Turnierbeginn einen Tag ganz ohne Spiel. Zuvor hatte Argentinien auch dank seines Stürmers Lionel Messi das Ausscheiden im Achtelfinale gegen Ägypten gerade noch abgewendet, während die Schweiz den Mitfavoriten Kolumbien nach einem Elfmeterschießen aus dem Wettbewerb warf. Das Achtelfinale ist die Runde der letzten sechzehn Mannschaften, ein Elfmeterschießen entscheidet ein Spiel, das nach regulärer Zeit unentschieden steht. Am Donnerstag eröffnen Frankreich und Marokko das Viertelfinale, die Runde der letzten acht. Sportliche Großereignisse dieser Art prägen für Wochen die Stimmung in vielen Ländern.",
-              "source": "Sportschau · WM 2026"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Die EZB rechnet für 2026 mit höherer Teuerung und schwächerem Wachstum zugleich.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "EZB vor dem Zinsentscheid: zähe Teuerung, schwache Konjunktur",
-              "text": "Vor dem nächsten Zinsentscheid der Europäischen Zentralbank, kurz EZB, am 23. Juli richtet sich der Blick auf ihre jüngsten Projektionen, also ihre eigenen Vorausberechnungen für Preise und Wirtschaft. Die EZB, die für die 20 Länder mit dem Euro als Währung die Geldpolitik festlegt, hat ihre erwartete Inflation für 2026 auf 3,0 Prozent angehoben und zugleich das erwartete Wirtschaftswachstum auf 0,8 Prozent gesenkt. Inflation ist der allgemeine Anstieg der Preise gegenüber dem Vorjahr, Geldpolitik die Steuerung von Zinsen und Geldmenge. Diese Mischung aus zäher Teuerung und schwacher Konjunktur, im Fachjargon eine Stagflation, ist für eine Notenbank besonders unangenehm, weil höhere Zinsen die Preise dämpfen, aber die Wirtschaft zusätzlich bremsen. In Deutschland ging die Teuerungsrate im Juni überraschend von 2,6 auf 2,3 Prozent zurück, was den Zwiespalt noch verschärft. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
-              "source": "EZB · Projektionen, Zinsentscheid 23. Juli",
-              "url": "https://www.ecb.europa.eu/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Pakistans Aufschwung beim Solarstrom vom Dach",
-              "img": "https://live.staticflickr.com/5212/5386929721_c9407be315_b.jpg",
-              "text": "In Pakistan haben Solaranlagen auf Hausdächern in den vergangenen Tagen große Teile der Stromversorgung gesichert, als die herkömmliche Versorgung aus fossilen Kraftwerken schwächelte. Solaranlagen wandeln Sonnenlicht direkt in Strom um, fossile Kraftwerke verbrennen dagegen Kohle, Öl oder Gas. Fachleute sprechen inzwischen von einem regelrechten Boom, der sich auch wirtschaftlich auszahlt, weil viele Haushalte und Betriebe unabhängiger und günstiger an Energie kommen. Möglich wurde das durch stark gefallene Preise für Solarmodule, die den Ausbau auch ohne große staatliche Programme antreiben. Das Beispiel zeigt, wie schnell sich eine Energieversorgung von unten verändern kann, wenn die Technik bezahlbar wird.",
-              "source": "Good News Network · Solarboom in Pakistan"
-            },
-            {
-              "title": "Stammzellen wecken neue Hoffnung fürs Augenlicht",
-              "img": "https://live.staticflickr.com/4132/4968163345_107c1c7f64.jpg",
-              "text": "Forschende haben mit Hilfe von Stammzellen erstmals beschädigte Blutgefäße in der Netzhaut des Auges nachwachsen lassen und damit einen möglichen Weg eröffnet, verlorenes Sehvermögen zurückzugewinnen. Stammzellen sind Ursprungszellen, aus denen der Körper verschiedene Gewebe neu bilden kann, die Netzhaut ist die lichtempfindliche Schicht im hinteren Teil des Auges, ohne die kein Sehen möglich ist. Weil viele Formen der Erblindung auf geschädigte Netzhautgefäße zurückgehen, könnte der Ansatz einer großen Gruppe Betroffener helfen. Noch handelt es sich um frühe Forschung an einzelnen Fällen, doch die Ergebnisse gelten als vielversprechender Schritt. Für Menschen, die ihr Augenlicht verlieren, ist schon die Aussicht auf eine Behandlung ein starkes Signal.",
-              "source": "Good News Network · Stammzellen und Netzhaut"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Quantenverschränkung in einem Kristall zum Anfassen",
-              "img": "https://live.staticflickr.com/74/167345135_3ba2578801_b.jpg",
-              "text": "An der Technischen Universität Wien, kurz TU Wien, haben Physiker nach eigenen Angaben zum ersten Mal eine starke Quantenverschränkung in einem zentimetergroßen Kristall nachgewiesen, also in einem Objekt, das man bequem in der Hand halten kann. Quantenverschränkung bezeichnet eine besonders enge Verbindung zwischen Teilchen, bei der sie sich wie ein einziges System verhalten, obwohl sie räumlich getrennt sind, ein Effekt, den man bisher vor allem im Allerkleinsten kannte. Der untersuchte Kristall besteht aus einem sogenannten seltsamen Metall, einem Werkstoff mit ungewöhnlichen elektrischen Eigenschaften, die sich mit der üblichen Physik nicht erklären lassen. Gemessen wurde die Verschränkung mit einer Größe aus der Quanteninformationstheorie, der Quanten-Fisher-Information, die anzeigt, wie stark ein System als Ganzes reagiert. Der Nachweis verbindet die Quantenphysik mit der Festkörperphysik und könnte helfen, das rätselhafte Verhalten solcher Metalle zu verstehen. Die Studie erschien im Fachblatt Nature Physics.",
-              "source": "ScienceDaily · TU Wien, Nature Physics",
-              "url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm"
-            },
-            {
-              "title": "Wie tiefer Schlaf den Körper repariert",
-              "text": "Ein Team der Universität von Kalifornien in Berkeley, kurz UC Berkeley, hat den Schaltkreis im Gehirn entschlüsselt, über den tiefer Schlaf die Ausschüttung des Wachstumshormons steuert. Das Wachstumshormon fördert den Aufbau von Muskeln und Knochen, den Abbau von Fett und die Reparatur von Gewebe, ein Schaltkreis ist dabei eine Verschaltung von Nervenzellen, die zusammenarbeiten. Im Versuch mit Mäusen zeigten die Forschenden, dass Nervenzellen im Hypothalamus, einer Steuerzentrale tief im Gehirn, die Hormonausschüttung über zwei gegenläufige Botenstoffe regeln, den einen, der sie anregt, und den anderen, der sie bremst. Zugleich fanden sie eine Rückkopplung: Steigt das Hormon im Schlaf an, meldet sich eine für Wachheit zuständige Hirnregion zu Wort. Das erklärt, warum schlechter Schlaf Muskelaufbau, Fettstoffwechsel und Hirnfunktion stören kann. Die Arbeit erschien im Fachblatt Cell.",
-              "source": "ScienceDaily · UC Berkeley, Cell"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Milderer Mittwoch am Neckar, der Sommerkalender wartet",
-              "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-              "text": "Nach den heißen Tagen bringt der Mittwoch in Horb mit rund 27 Grad und bewölktem Himmel spürbare Abkühlung, ein angenehmer Tag, um am Neckar, dem Fluss, an dem die Stadt liegt, ein paar ruhige Stunden zu verbringen. Der Veranstaltungskalender füllt sich für die kommenden Wochen: Am 19. Juli steht das Schlager-Open-Air Dolce Vita im Ländle an, also unter freiem Himmel, am 24. und 25. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Am 31. Juli spielt der Sänger Andreas Kümmert mit seiner Band. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
-              "source": "Stadt Horb · Veranstaltungen",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Nach heißen Tagen ist ein bewölkter, milder Morgen schon für sich eine kleine Erleichterung."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Bis zu 25.000 Dollar an Guthaben für Claude",
-            "text": "Der KI-Anbieter Anthropic, das Unternehmen hinter der Modellfamilie Claude, vergibt über sein Startup-Programm bis zu 25.000 US-Dollar an Guthaben für seine Programmierschnittstelle, im Fachjargon API genannt. Eine API, kurz für Application Programming Interface, ist die technische Schnittstelle, über die eigene Programme ein KI-Modell ansprechen. Anders als viele streng ausgewählte Angebote läuft dieses Programm rollierend, das heißt, Bewerbungen werden fortlaufend geprüft, und es steht ausdrücklich auch bootstrapped Gründern offen, also solchen, die ihr Vorhaben ohne Geldgeber aus eigener Kraft aufbauen. Die Bewerbung selbst ist kurz und fragt im Kern nach Firmen-E-Mail, Website und einer Beschreibung des Vorhabens.",
-            "why": "Mehrwert für dich: echtes Guthaben für ein KI-System wie deines, ohne Investor im Rücken und ohne langwieriges Antragsverfahren. Der erste Schritt ist ein Blick auf die Seite Claude for Startups, wo du in wenigen Minuten prüfen kannst, ob dein Vorhaben passt.",
-            "source": "Anthropic · Claude for Startups",
-            "url": "https://www.anthropic.com/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Nebenbei hat der Entwickler Simon Willison, ein bekannter Autor über künstliche Intelligenz und Werkzeuge für Entwickler, seine Faustregel für Programmieraufgaben bekräftigt: das teure Spitzenmodell nur fürs Urteilen einsetzen und die eigentliche Umsetzung von einem günstigeren Modell in einem Unterprozess erledigen lassen. Für dein System heute nur als Bestätigung deines Kurses, kein Handlungsdruck.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Agenten ihre Arbeit selbst vorführen lassen",
-              "tag": "Werkzeug",
-              "paras": [
-                "Simon Willison, Entwickler und vielgelesener Autor über KI-Werkzeuge, hat sein Programm shot-scraper in der Version 1.10 veröffentlicht. shot-scraper ist ein Kommandozeilenwerkzeug, das Webseiten automatisch aufruft und Bildschirmfotos anfertigt; neu ist ein video-Befehl, der eine kleine Ablaufdatei namens storyboard.yml liest und mit der Software Playwright ein Video einer Webanwendung aufzeichnet. Playwright ist ein Werkzeug, das einen Browser wie ein Mensch steuert, also klickt, tippt und Seiten öffnet.",
-                "Willison nennt einen konkreten Zweck: Programmier-Agenten sollen damit kurze Vorführungen ihrer eigenen Arbeit erzeugen, statt dass du jedes Ergebnis mühsam von Hand nachvollziehst. Für dein System ist das ein einfacher Hebel: Lass einen Agenten am Ende einer Aufgabe selbst einen kurzen Ablauf aufzeichnen, den du in Sekunden ansiehst, statt jeden Schritt im Protokoll nachzulesen. So verlagerst du deine Kontrolle vom langsamen Lesen auf schnelles Hinsehen."
-              ],
-              "merk": "Ein kurzes Video vom Ergebnis spart mehr Prüfzeit als jeder lange Bericht.",
-              "konkret": "Richte für einen wiederkehrenden Ablauf deines Systems eine kleine storyboard.yml ein und lass am Ende jeder Ausführung mit shot-scraper video ein kurzes Video erzeugen. Sieh dir statt der Protokolle nur dieses Video an und entscheide in Sekunden, ob das Ergebnis stimmt.",
-              "snippetLabel": "Prompt-Snippet · „Selbst-Vorführung\"",
-              "snippet": "Du bist mein Umsetzungs-Agent und arbeitest sparsam.\nNutze für die eigentliche Umsetzung ein günstigeres Modell in einem Unterprozess,\ndas teure Modell nur für Planung und Urteil.\n\n1) Erledige die folgende Aufgabe Schritt für Schritt.\n2) Zeichne zum Schluss mit shot-scraper video (storyboard.yml) einen kurzen Ablauf des Ergebnisses auf.\n3) Fasse in drei Zeilen zusammen, was zu sehen ist und was ich prüfen soll.\n\n--- AUFGABE ---\n<span class=\"ph\">{ Aufgabe kurz beschreiben }</span>",
-              "source": "Simon Willison · shot-scraper 1.10",
-              "url": "https://simonwillison.net/",
-              "score": "15,7"
-            }
-          ]
-        }
-      ]
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Ein Wochenende voller Livemusik, und mehr kommt",
+       "img": "https://live.staticflickr.com/8100/8489948031_ae526a383f_b.jpg",
+       "text": "Vor Ort war es eine musikalische Woche: Am Freitag lockte der Einkaufs- und Musikabend in die Innenstadt, am Samstagabend spielte die Metallica-Tribute-Band MY'tallica open air, also unter freiem Himmel und im Programm einer berühmten Band nachempfunden. Beim heutigen Gewitter bleibt der Sonntag eher ein Tag für drinnen."
+      },
+      {
+       "title": "Der Veranstaltungssommer nimmt Fahrt auf",
+       "text": "Für die Planung der kommenden Wochen lohnt der Blick in den Kalender der Stadt: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Die vollständige Übersicht steht auf den Seiten der Stadt Horb."
+      }
+     ]
     },
     {
-      "label": "Donnerstag, 9. Juli 2026",
-      "weather": "clouds",
-      "temp": "29°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Über Horb liegt heute eine bewölkte Decke, dazu warme 29 Grad, ein ruhiger Sommertag zum konzentrierten Arbeiten. In der Welt sorgt das Ende der Waffenruhe zwischen den Vereinigten Staaten und Iran für Unruhe an den Märkten, während in Boston am Abend das WM-Viertelfinale zwischen Frankreich und Marokko angepfiffen wird. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "Waffenruhe zwischen den USA und Iran für beendet erklärt",
-              "text": "Zum Abschluss des Gipfels des westlichen Verteidigungsbündnisses NATO in Ankara, der Hauptstadt der Türkei, hat US-Präsident Donald Trump die zuvor vereinbarte Waffenruhe mit Iran für beendet erklärt. NATO steht für North Atlantic Treaty Organization, das nordatlantische Bündnis von 32 Staaten, die sich gegenseitigen Beistand zusichern. Eine Waffenruhe ist eine Vereinbarung, die Kampfhandlungen vorübergehend einzustellen. Auslöser waren nach Darstellung mehrerer Beteiligter erneute Angriffe in der Meerenge von Hormuz, der schmalen Wasserstraße am Persischen Golf, durch die ein großer Teil des weltweiten Öls verschifft wird. An den Finanzmärkten stieg der Ölpreis daraufhin deutlich, während der bekannte US-Leitindex Dow Jones nachgab. Das zählt auch für Europa, weil ein höherer Ölpreis Energie und Transport verteuert und so die Inflation, also den allgemeinen Preisanstieg, zusätzlich antreiben kann.",
-              "source": "NPR · Trump erklärt Waffenruhe mit Iran für beendet",
-              "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference"
-            },
-            {
-              "title": "WM-Viertelfinale: Frankreich gegen Marokko in Boston",
-              "text": "Bei der Fußball-Weltmeisterschaft 2026, die gemeinsam von den Vereinigten Staaten, Kanada und Mexiko ausgerichtet wird, treffen heute Abend im Viertelfinale Frankreich und Marokko aufeinander. Das Viertelfinale ist die Runde der letzten acht Mannschaften eines Turniers. Anpfiff ist um 22 Uhr mitteleuropäischer Sommerzeit im Stadion von Boston, in Deutschland überträgt die ARD. Marokko hatte sich zuvor mit einem 3 zu 0 gegen den Mitgastgeber Kanada durchgesetzt und ist damit weit in das Turnier vorgedrungen. Solche Spiele prägen für Wochen die Stimmung in vielen Ländern und füllen am Abend die Gaststätten, auch wenn der sportliche Ausgang offen bleibt.",
-              "source": "Sportschau · WM 2026, Viertelfinale",
-              "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10714031/frankreich_marokko/info"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Heute legt die EZB das Protokoll ihrer Juni-Sitzung vor, bei der sie die Zinsen erstmals seit fast zwei Jahren wieder anhob.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "EZB legt Sitzungsprotokoll vor, IWF senkt Prognose für Deutschland",
-              "text": "Die Europäische Zentralbank, kurz EZB, veröffentlicht heute das Protokoll ihrer Sitzung vom 11. Juni, bei der sie den Einlagenzins von 2,00 auf 2,25 Prozent angehoben hat, die erste Zinserhöhung seit September 2023. Die EZB legt für die 20 Länder mit dem Euro als Währung die Geldpolitik fest, also die Steuerung von Zinsen und Geldmenge; der Einlagenzins ist der Satz, zu dem Banken überschüssiges Geld bei der Notenbank parken. Das Protokoll soll zeigen, wie entschlossen die Notenbank gegen die noch hohe Teuerung von erwartet 3,0 Prozent für 2026 vorgehen will. Zugleich hat der Internationale Währungsfonds, IWF, eine Organisation von rund 190 Staaten zur Stabilisierung der Weltwirtschaft, seine Wachstumsprognose für Deutschland auf 0,7 Prozent gesenkt und dies vor allem mit gestiegenen Energiepreisen infolge des Iran-Konflikts begründet. Für Selbstständige heißt diese Mischung aus zäher Teuerung und schwacher Konjunktur, Finanzierungen weiter eher teuer einzuplanen.",
-              "source": "EZB · Sitzungsprotokoll; IWF · Prognose Deutschland",
-              "url": "https://www.ecb.europa.eu/press/projections/html/index.de.html"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Rekord: rund 30.000 Silberlachse kehren an die kalifornische Küste zurück",
-              "text": "An der Mendocino-Küste im US-Bundesstaat Kalifornien sind in den vergangenen zwei Jahren rund 30.000 Silberlachse zurückgekehrt, so viele wie nie zuvor erfasst. Der Silberlachs, auf Englisch Coho Salmon, ist eine Wanderfischart, die im Meer heranwächst und zum Laichen, also zur Fortpflanzung, in die Flüsse ihrer Geburt zurückkehrt; die dortige Population gilt als stark gefährdet. Der neue Wert ist etwa doppelt so hoch wie der bisherige Rekord von rund 15.000 Tieren in der Saison zuvor. Fachleute führen die Erholung auf jahrelange Renaturierung der Bäche und den Rückbau von Hindernissen zurück, die den Fischen den Weg flussaufwärts versperrt hatten. Solche Erfolge zeigen, dass sich geduldige Naturschutzarbeit auch über viele Jahre auszahlen kann.",
-              "img": "https://live.staticflickr.com/7511/16148984560_3026a0d8f2_b.jpg",
-              "source": "Good News Network · Rückkehr der Silberlachse",
-              "url": "https://www.goodnewsnetwork.org/tag/conservation/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Künstliche Intelligenz spürt zwei neue Supraleiter auf",
-              "text": "Ein Forschungsteam hat maschinelles Lernen mit der Quantenphysik verbunden und damit zwei bislang unbekannte Supraleiter aufgespürt. Maschinelles Lernen ist ein Teilgebiet der künstlichen Intelligenz, bei dem ein Programm Muster aus großen Datenmengen erkennt. Supraleiter sind Materialien, die elektrischen Strom unterhalb einer bestimmten Temperatur ganz ohne Verlust leiten und dabei Magnetfelder verdrängen, weshalb Magnete über ihnen schweben können. Das neue Verfahren macht die Suche nach solchen Stoffen deutlich schneller, weil der Rechner aussichtsreiche Kandidaten vorschlägt, die anschließend gezielt im Labor geprüft werden. Bessere Supraleiter könnten eines Tages Stromnetze, Magnetschwebebahnen und Quantencomputer sparsamer machen.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/YBCO_high_temperature_superconductor.JPG",
-              "source": "ScienceDaily · Forschung zu Supraleitern",
-              "url": "https://www.sciencedaily.com/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Horb: Schlossgarten lädt zum Sommerabend",
-              "text": "In Horb am Neckar öffnet der Schlossgarten am Mittwoch, den 29. Juli, ab 17 Uhr zu einem sommerlichen Abend, bei dem der Garten zugänglich ist und für Speisen und Getränke gesorgt wird. Der Schlossgarten ist eine Gartenanlage oberhalb der Altstadt, von der aus sich der Blick über das Neckartal öffnet, das Tal des Flusses Neckar. Bei den warmen Temperaturen dieser Woche, heute rund 29 Grad bei bewölktem Himmel, lädt die laue Jahreszeit zu solchen Treffen unter freiem Himmel ein. Wer einen ruhigen Feierabend sucht, findet hier eine Gelegenheit, Nachbarn und Bekannte zu treffen. Ein Blick in den Veranstaltungskalender der Stadt lohnt sich, weil im Sommer regelmäßig weitere Termine hinzukommen.",
-              "img": "https://live.staticflickr.com/3187/2969566789_bd32b8bab2_b.jpg",
-              "source": "Stadt Horb · Veranstaltungskalender",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein Tag mit ruhigem Himmel eignet sich gut, um eine Sache in Ruhe zu Ende zu bringen, statt viele halb anzufangen."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "KOMPASS: bis zu 4.500 Euro Zuschuss für KI-Weiterbildung",
-            "text": "Das Bundesprogramm KOMPASS, kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige, fördert die berufliche Weiterbildung von Selbstständigen ohne Angestellte mit bis zu 4.500 Euro pro Förderjahr und übernimmt davon 90 Prozent der Kosten. Getragen wird es von der Bundesagentur für Arbeit, der staatlichen Stelle für Arbeitsförderung. Förderfähig sind unter anderem berufsbezogene Kurse zu künstlicher Intelligenz, Digitalisierung und Marketing bei zugelassenen, sogenannten AZAV-zertifizierten Bildungsträgern.",
-            "why": "Für einen Solo-Unternehmer sind das echte Zuschüsse für Wissen, das direkt in dein eigenes System einfließen kann. Wichtig ist das Timing: Die Ausgabe der Qualifizierungsschecks ist von Mai bis voraussichtlich Oktober 2026 bundesweit begrenzt und es gibt Wartelisten, es lohnt sich also, früh eine Erstberatung anzufragen.",
-            "source": "Bundesagentur für Arbeit · Programm KOMPASS"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale zeigen dasselbe Muster: Ein Agent ist nur so verlässlich wie der Prüfstein, gegen den er arbeitet, und die Grenzen, die du ihm setzt.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Testsuiten als Prüfstein für agentische Umbauten",
-              "tag": "Coding-Agenten",
-              "paras": [
-                "Der Entwickler Jarred Sumner hat die JavaScript-Laufzeitumgebung Bun, also die Software, die JavaScript-Programme ausführt, mit Hilfe von KI-Agenten von der Programmiersprache Zig nach Rust umgeschrieben. Entscheidend war dabei, dass eine bestehende Sammlung automatischer Tests, im Fachjargon Testsuite, als Maßstab diente: Der Agent baute so lange um, bis alle Tests wieder grün, also erfolgreich, waren. Das Projekt verbrauchte nach Angaben des Entwicklers rund 165.000 US-Dollar an Rechenkosten der KI-Schnittstelle.",
-                "Für dein System ist der übertragbare Hebel nicht die Größe des Vorhabens, sondern das Prinzip: Ein grüner Testlauf ist der verlässlichste Auftraggeber für einen Agenten. Wo du eine Funktion umbaust, schreibe zuerst Tests, die das gewünschte Verhalten festhalten, und lass den Agenten gegen diese Tests arbeiten, statt gegen eine vage Beschreibung."
-              ],
-              "konkret": "Definiere vor jedem größeren Umbau einen grünen Zielzustand, also die Tests, die am Ende erfolgreich laufen müssen.",
-              "snippetLabel": "Prompt für einen testgetriebenen Umbau",
-              "snippet": "Ziel: <span class=\"ph\">{Modul oder Funktion}</span> so umbauen, dass <span class=\"ph\">{gewuenschtes Verhalten}</span>.\nVorgehen:\n1. Fuehre zuerst die vorhandenen Tests aus und zeige mir das Ergebnis.\n2. Nimm die kleinstmoegliche Aenderung vor.\n3. Fuehre die Tests erneut aus und wiederhole, bis alle gruen sind.\n4. Aendere keine Tests, ohne vorher zu fragen.",
-              "source": "Simon Willison · Rewriting Bun in Rust",
-              "url": "https://simonwillison.net/"
-            },
-            {
-              "icon": "gauge",
-              "title": "Ein schlanker Coding-Agent mit Berechtigungsmodell",
-              "tag": "Werkzeug",
-              "paras": [
-                "Simon Willison, ein bekannter Entwickler und Autor zum Thema KI-Werkzeuge, hat eine erste, ausdrücklich experimentelle Version eines Coding-Agenten veröffentlicht. Ein Coding-Agent ist ein Programm, das eine Aufgabe selbstständig in mehreren Schritten löst, indem es Dateien liest und ändert und Befehle ausführt. Aufrufen lässt er sich mit dem Befehl uvx llm code; uvx ist dabei ein Werkzeug, das ein Python-Programm startet, ohne es dauerhaft zu installieren.",
-                "Bemerkenswert ist das Berechtigungsmodell: Mit der Option allow legst du vorab fest, welche Werkzeuge der Agent ohne Rückfrage nutzen darf, während die Option yolo ihm freie Hand lässt. Für dein System ist das ein gutes Vorbild, weil es die Kontrolle bei dir hält. Erlaube nur, was gefahrlos ist, und lass dir alles andere zur Bestätigung vorlegen."
-              ],
-              "konkret": "Prüfe bei jedem Agenten, den du einsetzt, welche Aktionen ohne Rückfrage erlaubt sind, und beschränke sie bewusst.",
-              "source": "Simon Willison · llm-coding-agent 0.1a0",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
+     "type": "thought",
+     "text": "Eine Woche ist lang genug, dass sich das Wichtige vom Lauten trennt. Was bleibt, sind meist ein paar leise Wendepunkte."
     },
     {
-      "label": "Freitag, 10. Juli 2026",
-      "weather": "clear",
-      "temp": "32°C · sonnig",
-      "greeting": "Guten Morgen, Gerik. Ein sonniger Hochsommertag mit bis zu 32 Grad liegt vor dir. In der Weltlage richtet sich der Blick nach Grossbritannien, in der Wirtschaft auf die Europaeische Zentralbank, und aus der Forschung kommt ein Fortschritt bei der Herstellung von Erbgut. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Grossbritannien: Labour-Partei sucht neue Fuehrung",
-              "text": "In Grossbritannien hat die regierende Labour-Partei, die sozialdemokratische Partei des Landes, am 9. Juli die Nominierungen fuer einen neuen Parteivorsitz eroeffnet. Ausloeser war die Ankuendigung von Premierminister Keir Starmer, der am 22. Juni seinen Ruecktritt als Parteichef und Regierungschef mitgeteilt hatte. Als bislang einziger erklaerter Bewerber gilt Andy Burnham, der Buergermeister der Region Greater Manchester im Norden Englands, der bereits die Unterstuetzung von mehr als 200 der 402 Labour-Abgeordneten hat. Gibt es keinen Gegenkandidaten, koennte Burnham am 17. Juli auf einem Sonderparteitag bestaetigt werden und Starmer wenige Tage spaeter im Regierungssitz Downing Street 10  abloesen. Warum das zaehlt: Ein Regierungswechsel in London beruehrt die Politik eines der wichtigsten Handelspartner Deutschlands.",
-              "source": "France 24",
-              "url": "https://www.france24.com/en/live-news/20260709-labour-leadership-contest-takes-burnham-closer-to-uk-pm-s-office"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "EZB haelt nach erster Zinserhoehung seit 2023 still",
-              "text": "Die Europaeische Zentralbank, kurz EZB, ist die gemeinsame Notenbank der Laender mit dem Euro und steuert unter anderem die Zinsen. Am 11. Juni hatte sie ihre Leitzinsen zum ersten Mal seit September 2023 wieder angehoben, und zwar um 0,25 Prozentpunkte, um dem anhaltenden Preisauftrieb entgegenzuwirken. Der sogenannte Einlagenzins, zu dem Banken kurzfristig Geld bei der EZB parken, liegt seither bei 2,25 Prozent. Fuer 2026 rechnet die EZB mit einer durchschnittlichen Inflation, also einer allgemeinen Teuerung, von rund 3,0 Prozent und damit ueber ihrem Ziel von 2 Prozent. Beobachter erwarten, dass die Notenbank die Zinsen bei ihrer naechsten Sitzung vorerst unveraendert laesst. Warum das zaehlt: Die Zinshoehe wirkt sich auf Kredite, Sparzinsen und die Finanzierungskosten von Unternehmen aus.",
-              "source": "European Central Bank",
-              "url": "https://www.ecb.europa.eu/press/projections/html/index.de.html"
-            }
-          ],
-          "merk": {
-            "text": "Fuer Deutschland wird 2026 weiter ein Wirtschaftswachstum von rund 1,5 Prozent erwartet, getragen unter anderem von staatlichen Investitionen in Infrastruktur und Verteidigung. Steigende Oel- und Gaspreise gelten dabei als Risiko.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Groesstes Meeresschutzgebiet der Welt waechst weiter",
-              "text": "Franzoesisch-Polynesien, ein franzoesisches Ueberseegebiet mit rund hundert Inseln im Suedpazifik, baut das groesste Meeresschutzgebiet der Welt weiter aus. Praesident Moetai Brotherson kuendigte am 8. Juni an, weitere rund 520.000 Quadratkilometer Meeresflaeche vollstaendig zu schuetzen, also vor Fischerei und anderer Rohstoffnutzung zu bewahren. Damit sind kuenftig etwa 30 Prozent der Gewaesser des Gebiets geschuetzt, insgesamt rund 1,4 Millionen Quadratkilometer, eine Flaeche groesser als Deutschland und Frankreich zusammen. Die Ankuendigung fiel auf der UN-Ozeankonferenz, einem Treffen der Vereinten Nationen zum Schutz der Meere. Warum das zaehlt: Grossflaechige Schutzgebiete geben ueberfischten Bestaenden und Korallenriffen Zeit, sich zu erholen.",
-              "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
-              "source": "UNEP-WCMC",
-              "url": "https://www.unep-wcmc.org/en/news/worlds-largest-marine-protected-area-french-polynesia"
-            },
-            {
-              "title": "Luft in Europa wird messbar sauberer",
-              "text": "Die Luftqualitaet in Europa hat sich ueber die vergangenen Jahre spuerbar verbessert. Nach Auswertungen sind die Emissionen von Schwefeloxiden und Stickoxiden, also von Schadgasen aus Verkehr und Industrie, seit 2010 im Schnitt um rund 3 bis 5 Prozent pro Jahr zurueckgegangen. Die groessten Rueckgaenge stammen aus Industrie und Strassenverkehr. Warum das zaehlt: Sauberere Luft senkt das Risiko fuer Atemwegs- und Herz-Kreislauf-Erkrankungen.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-27-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Silizium-Chip schreibt Erbgut mit Strom statt Chemie",
-              "text": "Forschende haben einen Chip aus Silizium, dem Grundmaterial gaengiger Computerchips, vorgestellt, der Dutzende DNA-Straenge gleichzeitig herstellen kann. DNA, die Desoxyribonukleinsaeure, ist das Molekuel, das die Erbinformationen aller Lebewesen speichert. Der Chip nutzt elektrischen Strom und wasserbasierte Enzyme, also natuerliche Eiweisse als Werkzeuge, statt der bisher ueblichen aggressiven Chemikalien. Das koennte die Herstellung kuenstlicher DNA sauberer, guenstiger und schneller machen. Warum das zaehlt: Massgeschneiderte DNA wird in Medizin, Biotechnologie und sogar zur langfristigen Datenspeicherung gebraucht.",
-              "img": "https://live.staticflickr.com/263/20468181866_d5c72f3984_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/engineering/"
-            },
-            {
-              "title": "Quanteninformation laenger haltbar gemacht",
-              "text": "Ein Forschungsteam hat sogenannte Magnonen, winzige Wellen in magnetischen Materialien, als moegliche Traeger von Quanteninformation nutzbar gemacht. Quanteninformation ist die Grundlage von Quantencomputern, also Rechnern, die bestimmte Aufgaben theoretisch weit schneller loesen koennen als heutige Computer. Den Forschenden gelang es, die Lebensdauer dieser empfindlichen Zustaende um fast das Hundertfache zu verlaengern. Warum das zaehlt: Je stabiler solche Zustaende sind, desto naeher rueckt der praktische Einsatz von Quantencomputern.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Sonniger Open-Air-Sommer in Horb",
-              "text": "Der Hochsommer bringt Horb am Neckar eine Reihe von Veranstaltungen unter freiem Himmel, und das heutige sonnige Wetter mit bis zu 32 Grad passt dazu. Am 19. Juli laedt das Open-Air 'Dolce Vita im Laendle' zu Schlagermusik ein, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Buehnen, und am 31. Juli gastiert der Saenger Andreas Kuemmert in der Stadt. Wer die Mittagshitze meiden moechte, findet in den schattigen Lagen entlang des Neckars und im Schlossgarten Abkuehlung. Warum das zaehlt: Ein Ueberblick der Termine hilft dir bei der Planung der kommenden Wochen.",
-              "img": "https://live.staticflickr.com/59/202917381_a7f5426953_b.jpg",
-              "source": "Stadt Horb am Neckar",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein sonniger Tag laedt dazu ein, kurz im Schatten innezuhalten, bevor die Aufgaben beginnen."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "KOMPASS: bis zu 4.500 Euro fuer Weiterbildung von Solo-Selbststaendigen",
-            "text": "KOMPASS steht fuer 'Kompakte Hilfe fuer Solo-Selbststaendige' und ist ein Foerderprogramm des Bundesministeriums fuer Arbeit und Soziales, kurz BMAS, finanziert aus dem Europaeischen Sozialfonds Plus (ESF Plus), einem Foerdertopf der Europaeischen Union. Es erstattet Solo-Selbststaendigen, also Selbststaendigen ohne Angestellte, bis zu 4.500 Euro fuer berufliche Weiterbildung. Die Foerderung kann einmal innerhalb von zwoelf Monaten in Anspruch genommen werden, und das Programm laeuft noch bis zum 28. Februar 2028.",
-            "why": "Fuer einen Solo-Unternehmer wie dich ist das ein konkreter Hebel, um Weiterbildung etwa zu KI, Vertrieb oder Buchhaltung weitgehend gefoerdert zu finanzieren. Erste Anlaufstelle sind die KOMPASS-Anlaufstellen; eine zeitweise Pause fuer Erstberatungen galt nur von Maerz bis Mai 2026 und ist damit vorbei.",
-            "source": "Bundesministerium fuer Arbeit und Soziales (KOMPASS, ESF Plus)"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale zielen auf Infrastruktur und Kostenkontrolle deines KI-Systems.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "MCP-Server auf die neue Spezifikation vom 28. Juli vorbereiten",
-              "tag": "Infrastruktur",
-              "paras": [
-                "Das Model Context Protocol, kurz MCP, ist der offene Standard, ueber den KI-Assistenten wie dein System mit externen Werkzeugen und Datenquellen sprechen. Am 28. Juli 2026 erscheint die bislang groesste Ueberarbeitung seit dem Start; aktuell liegt der Release Candidate vor, also die Vorabversion zur Erprobung.",
-                "Kernstueck ist ein zustandsloser Kern (stateless core): Ein MCP-Server, der bisher feste Sitzungen (sticky sessions) und einen gemeinsamen Sitzungsspeicher brauchte, kann kuenftig hinter einem einfachen Lastverteiler laufen und Antworten auf die Werkzeugliste vom Client zwischenspeichern lassen. Neu sind ausserdem MCP Apps fuer server-gerenderte Oberflaechen in einem abgeschotteten Rahmen (Sandbox-iframe) sowie eine Tasks-Erweiterung fuer langlaufende Aufgaben."
-              ],
-              "konkret": "Pruefe deine eigenen MCP-Server jetzt gegen den Release Candidate, damit du beim Erscheinen der finalen Fassung am 28. Juli nicht auf sticky sessions angewiesen bleibst und von der einfacheren Skalierung profitierst.",
-              "snippetLabel": "Prompt zum Pruefen eines MCP-Servers",
-              "snippet": "Analysiere die Implementierung meines MCP-Servers unter <span class=\"ph\">{Pfad}</span> gegen den MCP Release Candidate vom 2026-07-28.\nPruefe:\n1) Nutzt der Server sticky sessions oder einen zustandsbehafteten Sitzungsspeicher, den der neue stateless core ueberfluessig macht?\n2) Setzt er die Antwort auf tools/list cachebar (ttlMs), damit Clients sie zwischenspeichern koennen?\n3) Ist die Autorisierung mit OAuth und OpenID Connect vereinbar?\nGib eine nach Aufwand und Nutzen priorisierte Liste konkreter Aenderungen aus.",
-              "source": "Model Context Protocol Blog",
-              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
-            },
-            {
-              "icon": "gauge",
-              "title": "Ausgaben und Modellzugriff bei Claude im Blick behalten",
-              "tag": "Kostenkontrolle",
-              "paras": [
-                "Anthropic, das Unternehmen hinter der KI Claude, hat fuer Geschaeftskunden neue Verwaltungsfunktionen eingefuehrt: feinere Nutzungsauswertungen, Berechtigungen auf Modellebene (model-level entitlements) und Ausgabenwarnungen (spend alerts). Damit lassen sich Kosten, Verbrauch und Produktivitaetstrends genauer nachvollziehen.",
-                "Ausserdem ist Claude Cowork, die Arbeitsumgebung fuer laengere Aufgaben, jetzt zusaetzlich zum Desktop auch im Web und auf dem Mobilgeraet verfuegbar, zunaechst im hoechsten Tarif (Max)."
-              ],
-              "konkret": "Wenn du Claude produktiv einsetzt, richte Ausgabenwarnungen ein, um deine monatlichen KI-Kosten frueh zu begrenzen.",
-              "source": "Anthropic Release Notes",
-              "url": "https://support.claude.com/en/articles/12138966-release-notes"
-            }
-          ]
-        }
-      ]
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Bis zu 4.500 Euro für KI-Weiterbildung",
+      "text": "Die Gelegenheit der Woche mit der längsten Halbwertszeit: Das Bundesprogramm KOMPASS fördert gezielt Solo-Selbstständige, also Selbstständige ohne eigene Angestellte, bei der Weiterbildung. KOMPASS steht für Kompetenzentwicklung über Plattformen für Solo-Selbstständige und ist ein Zuschuss der Bundesagentur für Arbeit, mitfinanziert aus dem Europäischen Sozialfonds der EU, einem Topf für Bildung und Beschäftigung. Gefördert werden bis zu 4.500 Euro je Person innerhalb von zwölf Monaten, ausdrücklich auch für Schulungen rund um künstliche Intelligenz. Voraussetzung ist unter anderem, dass man seit mindestens zwei Jahren hauptberuflich selbstständig ist.",
+      "why": "Mehrwert für dich: ein echter Zuschuss, kein Kredit, für genau die KI-Kompetenz, die dein Geschäft trägt. Der erste Schritt ist ein kostenloses Erstgespräch bei einer KOMPASS-Anlaufstelle, das lässt sich in unter einer Stunde anstoßen. Ein guter Punkt für die neue Woche.",
+      "source": "KOMPASS · Bundesagentur für Arbeit / ESF Plus",
+      "url": "https://www.esf.de/portal/DE/ESF-Plus-2021-2027/Foerderprogramme/bmas/kompass.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlung der Woche",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "MCP wird erwachsen: jetzt die Weichen für Texura stellen",
+       "tag": "Strategischer Hebel",
+       "paras": [
+        "Der rote Faden der Woche für dein System heißt MCP, Model Context Protocol, ein offener Standard, über den KI-Agenten einheitlich auf Werkzeuge und Daten zugreifen, ähnlich wie ein USB-Anschluss die unterschiedlichsten Geräte verbindet. Ende Juni erschien der sogenannte Release Candidate der Version 2026-07-28, also die Vorschau-Fassung, die vor der endgültigen Freigabe am 28. Juli in der Praxis getestet wird. Es ist die größte Überarbeitung seit dem Start des Standards, und drei Bausteine der Woche gehören zusammen: ein staatenloser Kern, über den Server ohne aufwendige Sitzungsverwaltung laufen, das Muster, Regeln zentral als Dienst bereitzustellen statt sie zu kopieren, und die Möglichkeit, Agenten echte Weboberflächen bedienen zu lassen.",
+        "Die strategische Empfehlung für diese Woche ist keine Bastelei, sondern eine Weichenstellung: Lege für Texura, dein System, jetzt einen kleinen, zentralen Regel-Server als MCP-Baustein an und stelle ihn gleich auf das Beta-SDK der Version 2026-07-28, also den Vorab-Werkzeugkasten für Python oder TypeScript. Damit hast du eine einzige Quelle für dein verbindliches Regelwerk, aus der sich jede KI-Sitzung automatisch bedient, und du testest den neuen Standard, solange er sich noch bewegt und du ihn mitformen kannst. Wer bis zum 28. Juli einmal sauber gegen die Vorschau geprüft hat, steht am Tag der Freigabe nicht am Anfang, sondern schon im zweiten Schritt."
+       ],
+       "merk": "Standards testet man am besten, solange sie sich noch bewegen.",
+       "konkret": "Diese Woche nur ein Ziel: einen einzigen zentralen Regel-Server auf dem Beta-SDK 2026-07-28 zum Laufen bringen, den eine Testsitzung beim Start abfragt. Prüfe nur, ob er ohne Sitzungsverwaltung läuft. Erkenntnis sichern, dann über den Rest entscheiden.",
+       "snippetLabel": "Prompt-Snippet · „Wochen-Weichenstellung\"",
+       "snippet": "Du bist ein nüchterner Architektur-Berater für mein KI-System namens Texura.\nZiel dieser Woche: ein zentraler Regel-Server als MCP-Baustein auf dem Beta-SDK 2026-07-28.\n\n1) Entwirf die kleinste sinnvolle Struktur für einen zentralen Regel-Server, den jede Sitzung beim Start abfragt.\n2) Was ändert sich durch den staatenlosen Kern der Version 2026-07-28 gegenüber der alten Sitzungsverwaltung?\n3) Nenne die 3 kleinsten Schritte bis zu einem laufenden Testserver.\n4) Was diese Woche bewusst NICHT anfassen, um fokussiert zu bleiben.\n\n--- MEIN REGELWERK (KURZ) ---\n<span class=\"ph\">{ dein verbindliches Regelwerk in Stichworten }</span>\n--- MEINE UMGEBUNG ---\n<span class=\"ph\">{ Sprache, z. B. Python oder TypeScript, und wo es laufen soll }</span>",
+       "source": "Model Context Protocol Blog · Release Candidate 2026-07-28",
+       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+       "score": "18,1"
+      }
+     ]
+    },
+    {
+     "type": "systemtips",
+     "eyebrow": "Systemanpassungen der Woche",
+     "intro": "Gebündelt die konkreten System- und Prompt-Tipps aus den Tagen dieser Woche, so, dass du sie in einem Zug in dein System einspielen kannst. Der kopierfertige Text unten fasst alles in nummerierten Schritten zusammen.",
+     "items": [
+      {
+       "title": "Regeln zentral bereitstellen statt kopieren",
+       "text": "Verbindliche Regeln nicht in jeden Arbeitszusammenhang hineinkopieren, sondern über einen kleinen zentralen Server bereitstellen, den jede KI-Sitzung beim Start abfragt. Eine einzige Quelle, aus der sich alles bedient."
+      },
+      {
+       "title": "Auf das Beta-SDK 2026-07-28 stellen",
+       "text": "Diesen Regel-Server gleich gegen die Vorschau-Fassung des neuen MCP-Standards (Version 2026-07-28) testen und prüfen, ob er ohne Sitzungsverwaltung, also staatenlos, läuft. So bist du am Freigabetag 28. Juli schon einen Schritt voraus."
+      },
+      {
+       "title": "Browser-Steuerung als Demo-Baustein ablegen",
+       "text": "Ein MCP-Server, über den ein Agent echte Webseiten bedienen kann (klicken, Formulare ausfüllen), ist als Referenz für spätere Kunden-Demos wertvoll. Diese Woche nur ablegen, nicht bauen."
+      },
+      {
+       "title": "Agenten klein und nachvollziehbar halten",
+       "text": "Als Haltung fürs ganze System: Ein nützlicher Agent ist eine überschaubare Schleife aus Denken, Handeln und Prüfen, kein schwergewichtiger Baukasten. Klein halten heißt Kontrolle behalten."
+      },
+      {
+       "title": "KOMPASS-Erstgespräch anstoßen",
+       "text": "Das kostenlose Erstgespräch beim Förderprogramm KOMPASS terminieren, um bis zu 4.500 Euro Zuschuss für KI-Weiterbildung zu prüfen. Voraussetzung: seit mindestens zwei Jahren hauptberuflich selbstständig."
+      }
+     ],
+     "copytext": "SYSTEMANPASSUNGEN DER WOCHE (05.07.2026) — in einem Zug einspielen\n\n1) ZENTRALER REGEL-SERVER\nLege einen kleinen, zentralen Regel-Server als MCP-Baustein an (MCP = Model Context Protocol, offener Standard zum Andocken von Werkzeugen und Daten). Verbindliche Regeln werden ab jetzt NICHT mehr in jede Sitzung kopiert, sondern zentral bereitgestellt. Jede KI-Sitzung fragt diesen Server beim Start ab. Ziel: eine einzige Quelle der Wahrheit fuer alle Regeln.\n\n2) AUF BETA-SDK 2026-07-28 TESTEN\nStelle den Regel-Server auf das Beta-SDK der MCP-Version 2026-07-28 (verfuegbar fuer Python, TypeScript, Go, C#). Pruefe NUR, ob er ohne Sitzungsverwaltung laeuft (staatenloser Kern). Endgueltige Freigabe des Standards ist der 28. Juli, daher jetzt testen, solange sich die Fassung noch bewegt.\n\n3) BROWSER-STEUERUNG ABLEGEN (NICHT BAUEN)\nNotiere einen MCP-Server zur Browser-Steuerung (Agent bedient echte Webseiten: klicken, Formulare ausfuellen) als Referenz fuer spaetere Kunden-Demos. Diese Woche nur ablegen.\n\n4) AGENTEN-PRINZIP\nHalte jeden Agenten als kleine, nachvollziehbare Schleife aus Denken, Handeln und Pruefen. Keine schwergewichtigen Baukaesten, solange eine schlanke Schleife reicht.\n\n5) FOERDERUNG ANSTOSSEN\nTerminiere ein kostenloses Erstgespraech beim Programm KOMPASS (bis zu 4.500 Euro Zuschuss fuer KI-Weiterbildung, Voraussetzung: seit mind. 2 Jahren hauptberuflich selbststaendig).\n\nPROMPT-SNIPPET FUER SCHRITT 1 UND 2:\nDu bist ein nuechterner Architektur-Berater fuer mein KI-System namens Texura.\nZiel dieser Woche: ein zentraler Regel-Server als MCP-Baustein auf dem Beta-SDK 2026-07-28.\n1) Entwirf die kleinste sinnvolle Struktur fuer einen zentralen Regel-Server, den jede Sitzung beim Start abfragt.\n2) Was aendert sich durch den staatenlosen Kern der Version 2026-07-28 gegenueber der alten Sitzungsverwaltung?\n3) Nenne die 3 kleinsten Schritte bis zu einem laufenden Testserver.\n4) Was diese Woche bewusst NICHT anfassen.\nMEIN REGELWERK (KURZ): { dein verbindliches Regelwerk in Stichworten }\nMEINE UMGEBUNG: { Sprache und Laufzeit }"
+    },
+    {
+     "type": "thought",
+     "text": "Die neue Woche beginnt nicht bei null. Sie beginnt bei dem einen Baustein, den du heute richtig setzt."
     }
-  ]
+   ]
+  },
+  {
+   "label": "Montag, 6. Juli 2026",
+   "weather": "clouds",
+   "temp": "28°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Der Montag beginnt bewölkt und mild bei 28 Grad über Horb, ein Auftakt zur Woche der großen Runden: In Ankara treffen sich die Regierungschefs der westlichen Militärallianz, und in Genf beginnt zum ersten Mal ein weltweiter Dialog darüber, wie künstliche Intelligenz künftig geregelt werden soll. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "NATO-Gipfel in Ankara: Verteidigung und Ukraine",
+       "text": "Am 7. und 8. Juli kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte genannt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Erwartet wird zudem, dass die Runde über die Kritik von US-Präsident Donald Trump am Bündnis spricht. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
+       "source": "NATO · Gipfel in Ankara",
+       "url": "https://www.nato.int/"
+      },
+      {
+       "title": "Vereinte Nationen: erster Weltdialog zur KI-Regulierung",
+       "text": "In Genf beginnt der Globale Dialog zur Steuerung künstlicher Intelligenz, auf Englisch Global Dialogue on Artificial Intelligence Governance, eine neu geschaffene Gesprächsrunde der Vereinten Nationen. Governance meint hier die Regeln und Aufsicht, nach denen eine Technik entwickelt und eingesetzt wird. UN-Generalsekretär António Guterres, der frühere portugiesische Ministerpräsident und heutige oberste Repräsentant der Weltorganisation, nimmt an der Eröffnung teil. Ziel ist, dass sich Staaten erstmals gemeinsam über Chancen und Risiken von KI verständigen, statt jedes Land für sich. Für alle, die beruflich mit KI arbeiten, ist das der Beginn eines Rahmens, der die kommenden Jahre mitbestimmen dürfte.",
+       "source": "Vereinte Nationen · Genf",
+       "url": "https://press.un.org/en"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Vor dem nächsten Zinsentscheid hält die Notenbank die Füße still.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "Ruhige Datenwoche vor dem Zinsentscheid am 23. Juli",
+       "text": "Die Wirtschaftswoche vom 6. bis 12. Juli bringt vor allem Konjunkturdaten, aber keine große Weichenstellung: Die nächste Sitzung der Europäischen Zentralbank, kurz EZB, die für die Länder mit dem Euro die Geldpolitik festlegt, ist erst am 23. Juli. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, bei der der Einlagenzins auf 2,25 Prozent stieg, dürfte die Notenbank vorerst abwarten. Der Einlagenzins ist der Satz, zu dem Banken überschüssiges Geld bei der Notenbank parken, und er wirkt am Ende auf Kredite und Sparzinsen. Die Teuerung im Euroraum liegt bei rund 2,8 Prozent und damit weiter über dem Ziel von 2 Prozent, während für 2026 nur ein schwaches Wachstum von etwa 0,8 Prozent erwartet wird. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
+       "source": "EZB · nächster Zinsentscheid 23. Juli",
+       "url": "https://www.ecb.europa.eu/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "800 Millionen Menschen mehr mit Strom",
+       "img": "https://live.staticflickr.com/162/394640345_ce93f0d70a_b.jpg",
+       "text": "Seit 2010 haben rund 800 Millionen Menschen zusätzlich Zugang zu Elektrizität bekommen, sodass die weltweite Versorgungsquote bis 2024 auf 92 Prozent gestiegen ist. Das geht aus einem Bericht hervor, an dem unter anderem die Weltgesundheitsorganisation WHO beteiligt war, die Sonderorganisation der Vereinten Nationen für Gesundheit. Strom ist die Grundlage für Licht zum Lernen, für gekühlte Medikamente und für kleine Betriebe. Getragen wird der Fortschritt vor allem von günstiger gewordener Solartechnik, mit der sich auch entlegene Dörfer versorgen lassen. Die letzten Prozente sind erfahrungsgemäß die schwersten, doch der Trend zeigt seit Jahren stetig nach oben.",
+       "source": "Positive News · WHO-Bericht",
+       "url": "https://www.positive.news/"
+      },
+      {
+       "title": "Europas Luft wird messbar sauberer",
+       "img": "https://live.staticflickr.com/209/450571955_578bb65125_b.jpg",
+       "text": "Neue Daten zeigen, dass die Luftverschmutzung in Europa seit Jahren zurückgeht: Der Ausstoß von Schwefel- und Stickoxiden, also von Gasen aus Industrie und Verkehr, die Atemwege und Umwelt belasten, ist seit 2010 jährlich um etwa 3 bis 5 Prozent gesunken. Die Zahlen stammen vom Copernicus Atmosphärenüberwachungsdienst CAMS, einem Erdbeobachtungsprogramm der Europäischen Union. Die größten Rückgänge kommen aus Industrie und Straßenverkehr, unter anderem durch strengere Abgasregeln und sauberere Technik. Bessere Luft bedeutet unmittelbar weniger Atemwegserkrankungen, ein leiser Gewinn, der sich über Jahrzehnte aufbaut.",
+       "source": "Copernicus CAMS · Positive News",
+       "url": "https://www.positive.news/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Seeanemonen wehren Viren auf eigenem Weg ab",
+       "img": "https://live.staticflickr.com/1049/1004710143_54bd55e715_b.jpg",
+       "text": "Forscher der Hebräischen Universität Jerusalem haben in Seeanemonen, den festsitzenden, blumenartigen Verwandten der Quallen, ein bislang unbekanntes Abwehr-Eiweiß namens CARDIB entdeckt. Im Normalzustand bremst es die körpereigene Immunabwehr, ist aber unverzichtbar, sobald ein Virus angreift: Schalteten die Wissenschaftler das zugehörige Gen mit der Genschere CRISPR aus, einem Werkzeug zum gezielten Verändern des Erbguts, wurden die Tiere hochanfällig für Infektionen. Bemerkenswert ist, dass dieser Weg ganz anders funktioniert als das entsprechende System beim Menschen. Die im Fachblatt Nature Ecology and Evolution vorgestellte Arbeit legt nahe, dass die Natur die Virenabwehr mehrfach unabhängig erfunden hat, und zeigt, wie viel sich aus urtümlichen Lebewesen lernen lässt.",
+       "source": "ScienceDaily · Nature Ecology and Evolution",
+       "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
+      },
+      {
+       "title": "Wie tiefer Schlaf das Wachstumshormon steuert",
+       "text": "Ein Forschungsteam hat den Schaltkreis im Gehirn entschlüsselt, der den Tiefschlaf mit der Ausschüttung des Wachstumshormons verbindet. Das Wachstumshormon ist ein Botenstoff, der Zellen zur Erneuerung anregt und beim Menschen vor allem in den ersten Stunden des Nachtschlafs freigesetzt wird. Die Studie zeigt, dass Schlaf und Hormonausschüttung sich gegenseitig regeln, also nicht nur der Schlaf das Hormon anstößt, sondern das Hormon auch den Schlaf mitformt. Das erklärt, warum guter Tiefschlaf so eng mit Erholung und Regeneration zusammenhängt. Noch ist es Grundlagenforschung, doch es könnte langfristig helfen, Schlaf- und Hormonstörungen besser zu verstehen.",
+       "source": "ScienceDaily · Neurowissenschaft",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Der Veranstaltungssommer nimmt Fahrt auf",
+       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+       "text": "Der Montag selbst bleibt in Horb ruhig, doch der Kalender der kommenden Wochen füllt sich: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Bei den milden, bewölkten 28 Grad dieser Woche lohnt es sich, den ersten Termin schon einzuplanen. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
+       "source": "Stadt Horb · Veranstaltungen",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Die großen Runden tagen weit weg, doch was sie beschließen, sickert am Ende bis auf den eigenen Schreibtisch durch."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose Cloud- und KI-Guthaben für Gründer",
+      "text": "Der Microsoft for Startups Founders Hub ist ein Programm, das jungen Firmen kostenlose Guthaben und Werkzeuge bereitstellt, ausdrücklich auch Solo-Gründern und ohne dass ein Wagniskapitalgeber im Rücken stehen muss. Founders Hub bedeutet sinngemäß Gründer-Zentrale. Zur Aufnahme genügt eine Selbstregistrierung, die in der Regel sofort freigeschaltet wird. Enthalten sind unter anderem Guthaben für die Cloud-Plattform Azure, also Rechen- und Speicherleistung aus dem Netz, sowie Zugang zu KI-Modellen, die man sonst pro Nutzung bezahlt. Für ein System wie deines lassen sich damit erste Bausteine testen, ohne gleich laufende Kosten zu erzeugen.",
+      "why": "Mehrwert für dich: echte Guthaben statt einer Testphase mit Ablaufdatum, sofort nutzbar und ohne Investoren-Voraussetzung. In unter einer Stunde registriert, danach steht dir Rechenleistung für Experimente zur Verfügung, die sonst Geld kosten würde.",
+      "source": "Microsoft for Startups · Founders Hub",
+      "url": "https://www.microsoft.com/startups"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Passend dazu hat Simon Willison Anfang Juli eine erste Vorabversion namens llm-coding-agent 0.1a0 veröffentlicht, einen schlanken Programmier-Agenten, der Dateien liest, ändert und Befehle ausführt. Ausprobieren lässt er sich ohne feste Installation mit einem einzigen Kommandozeilen-Aufruf. Als Anschauungsmaterial abgelegt, kein Handlungsdruck.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Günstige Modelle für die Fleißarbeit, das starke fürs Denken",
+       "tag": "Strategischer Hebel",
+       "paras": [
+        "Simon Willison, einer der bekanntesten Entwickler und Autoren rund um KI-Werkzeuge, gibt Anfang Juli eine schlichte, aber wirksame Faustregel weiter: Für die eigentliche Programmierarbeit soll ein Agent nach eigenem Ermessen ein schwächeres, günstigeres Sprachmodell wählen und dieses in einem sogenannten Subagenten laufen lassen. Ein Subagent ist ein untergeordneter Arbeitsprozess, den das Hauptsystem für eine Teilaufgabe abspaltet. Das teure Spitzenmodell bleibt dabei für das, worauf es ankommt: Planung, Urteil und die abschließende Prüfung.",
+        "Für dein System ist das ein direkter Kosten- und Kontrollhebel. Reine Umsetzungsarbeit, etwa Textbausteine erzeugen oder Routineänderungen, braucht selten das stärkste Modell; Einordnung und Kontrolle bleiben oben. Wer diese Trennung sauber zieht, senkt die laufenden Kosten spürbar und behält zugleich die Qualität dort, wo sie zählt. Der Hebel ist heute klein einzurichten und wirkt bei jedem weiteren Auftrag."
+       ],
+       "merk": "Das teure Modell denkt, das günstige tippt.",
+       "konkret": "Suche in deinem System einen einzigen, klar abgegrenzten Routineschritt und leite ihn testweise an ein günstigeres Modell in einem Subagenten um. Vergleiche Ergebnis und Kosten mit dem bisherigen Weg, dann entscheiden.",
+       "snippetLabel": "Prompt-Snippet · „Modell-Zuteilung\"",
+       "snippet": "Du bist ein nüchterner Kosten-Architekt für mein KI-System.\nTeile die folgende Aufgabe in zwei Ebenen auf.\n\n1) Welche Teilschritte sind reine Umsetzung und können an ein günstigeres Modell in einem Subagenten gehen?\n2) Welche Schritte brauchen Planung, Urteil oder Endkontrolle und bleiben beim starken Modell?\n3) Nenne die Übergabepunkte zwischen beiden Ebenen.\n4) Schätze grob, wie viel Aufwand sich so verlagern lässt.\n\n--- AUFGABE ---\n<span class=\"ph\">{ deine Aufgabe kurz beschreiben }</span>\n--- VERFÜGBARE MODELLE ---\n<span class=\"ph\">{ dein starkes und dein günstiges Modell nennen }</span>",
+       "source": "Simon Willison · Juni-Newsletter und llm-coding-agent",
+       "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+       "score": "16,9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dienstag, 7. Juli 2026",
+   "weather": "clouds",
+   "temp": "32°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Der Dienstag wird bewölkt, aber heiß bei 32 Grad über Horb, ein Tag für Schatten und Wasser. Zugleich tagen heute die großen Runden: In Ankara beginnt der Gipfel des westlichen Militärbündnisses, in Doha melden die Vermittler im Streit zwischen den USA und dem Iran erste Fortschritte. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "NATO-Gipfel in Ankara beginnt",
+       "text": "Heute und morgen kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Es ist der erste Gipfel in der Türkei seit 2004. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte gesetzt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Dem Entwurf der Abschlusserklärung zufolge wollen die Verbündeten sich zur Beistandspflicht nach Artikel 5 des NATO-Vertrags bekennen, Russland als langfristige Bedrohung benennen und zusätzliche Hilfen für die Ukraine zusagen. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
+       "source": "NATO · Gipfel in Ankara",
+       "url": "https://www.nato.int/"
+      },
+      {
+       "title": "USA und Iran: Fortschritte bei den Gesprächen in Doha",
+       "text": "Im Streit um das iranische Atomprogramm haben indirekte Gespräche zwischen den USA und dem Iran, vermittelt vom Golfstaat Katar in dessen Hauptstadt Doha, nach Angaben der Vermittler mit Fortschritten geendet. Indirekt heißt, dass beide Seiten nicht am selben Tisch sitzen, sondern über einen Vermittler miteinander reden. Verhandelt wird über das Atomprogramm, die westlichen Sanktionen und die Straße von Hormus, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Eine nächste Runde ist für später angekündigt, ein Abschluss steht aus. Für Europa zählt jede Entspannung an dieser Meerenge doppelt, weil an ihr auch die Energiepreise hängen.",
+       "source": "Reuters · US-Iran-Gespräche in Doha"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Die Teuerung im Euroraum zieht wieder an, während sie in Deutschland nachgibt.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "Inflation im Euroraum und in Deutschland laufen auseinander",
+       "text": "Vor dem nächsten Zinsentscheid richtet sich der Blick auf ein ungleiches Bild bei den Preisen. Die Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, ist im Euroraum zuletzt auf rund 3,2 Prozent gestiegen, während sie in Deutschland im Juni überraschend von 2,6 auf 2,3 Prozent gesunken ist. Der Euroraum umfasst die 20 Länder, die den Euro als Währung nutzen. Für die Europäische Zentralbank, kurz EZB, die für diese Länder die Geldpolitik festlegt, ist das eine Zwickmühle: Sie steuert nach dem Durchschnitt aller Euro-Länder, und der liegt weiter über ihrem Ziel von 2 Prozent. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, mit der der Einlagenzins auf 2,25 Prozent stieg, entscheidet der Rat am 23. Juli erneut. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
+       "source": "EZB · nächster Zinsentscheid 23. Juli",
+       "url": "https://www.ecb.europa.eu/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Irland zahlt Künstlern ein Grundeinkommen",
+       "img": "https://live.staticflickr.com/3312/3226375271_9998ac7530_b.jpg",
+       "text": "Irland macht ein zunächst befristetes Modellprojekt dauerhaft: Künstlerinnen und Künstler erhalten dort ein Grundeinkommen, also eine feste monatliche Zahlung ohne Gegenleistung, damit sie ihrer Arbeit nachgehen können, ohne ständig um die Miete bangen zu müssen. Hintergrund ist die Beobachtung, dass Kunst und Kultur die Wirtschaft stärken und das gesellschaftliche Leben bereichern, viele Kreative aber kaum von ihrer Arbeit leben können. Erste Auswertungen zeigen, dass die Geförderten mehr Zeit ins eigene Schaffen stecken und seltener aus Geldnot den Beruf wechseln. Für ein ganzes Land ist das ein bemerkenswerter Versuch, kulturelle Arbeit verlässlich abzusichern."
+      },
+      {
+       "title": "Mexiko: Fußball für sehbehinderte Frauen",
+       "img": "https://live.staticflickr.com/1/3545199_ee47f36ed1.jpg",
+       "text": "In Mexiko hat sich eine Fußballmannschaft gegründet, die blinden und sehbehinderten Frauen das Spielen ermöglicht, in einem Umfeld, das ausdrücklich auf Teilhabe setzt. Beim Blindenfußball orientieren sich die Spielerinnen am Geräusch eines mit Rasseln versehenen Balls und an Zurufen. Die Teilnehmerinnen berichten, dass sie über den Sport Selbstvertrauen, Selbstständigkeit, Freundschaften und Fitness gewinnen. Solche Angebote sind mehr als Freizeit: Sie öffnen einen Raum, in dem eine oft übersehene Gruppe sichtbar wird und Gemeinschaft erlebt."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Erstmals die Geburt eines Magnetars beobachtet",
+       "img": "https://live.staticflickr.com/7093/27744663791_f140fd684a_b.jpg",
+       "text": "Astronomen haben nach eigenen Angaben zum ersten Mal die Geburt eines Magnetars mitverfolgt, bestätigt durch ein eigentümliches, zwitscherndes Signal aus einer fernen Sternexplosion. Ein Magnetar ist eine besondere Art Neutronenstern, also der extrem dichte Überrest eines ausgebrannten, kollabierten Sterns, und trägt das stärkste Magnetfeld, das im Universum bekannt ist, milliardenfach stärker als alles, was auf der Erde erzeugbar wäre. Bisher kannte man Magnetare nur als fertige Objekte, ihre Entstehung war reine Theorie. Das aufgezeichnete Signal aus einer Supernova, dem hellen Aufleuchten eines sterbenden Sterns, liefert nun erstmals einen direkten Hinweis darauf, wie diese kosmischen Magnete entstehen. Für die Astrophysik ist das ein seltener Blick auf einen Moment, der sonst im Verborgenen abläuft."
+      },
+      {
+       "title": "Warum alternde Muskeln langsamer heilen",
+       "text": "Forschende an der Universität von Kalifornien in Los Angeles, kurz UCLA, haben einen molekularen Grund dafür gefunden, warum sich Muskeln im Alter schlechter erholen. In alten Muskel-Stammzellen, also den Reservezellen, aus denen der Körper geschädigtes Gewebe neu aufbaut, reichert sich ein Eiweiß namens NDRG1 an und wirkt wie eine Bremse: Es hält die Zellen davon ab, nach einer Verletzung in den Reparaturmodus zu schalten. Im Laborversuch ließ sich die Regeneration wieder verbessern, indem dieser Bremseffekt gelöst wurde. Noch ist das Grundlagenforschung an Zellen und Tieren, doch es weist einen möglichen Ansatzpunkt, um die Heilung im Alter zu unterstützen."
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Heißer Sommertag, und der Kalender füllt sich",
+       "img": "https://live.staticflickr.com/7009/6564586837_eca110e72c_b.jpg",
+       "text": "Der Dienstag selbst bleibt in Horb ruhig, wird aber mit rund 32 Grad der heißeste Tag der Woche, auch wenn der Himmel bewölkt ist, weshalb viel Trinken und ein schattiges Plätzchen am Neckar heute die beste Empfehlung sind. Für die kommenden Wochen füllt sich der Veranstaltungskalender der Stadt: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend, und am 31. Juli spielt Andreas Kümmert mit seiner Band. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
+       "source": "Stadt Horb · Veranstaltungen",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Große Runden tagen an fernen Orten, doch das Wetter über dem eigenen Dach entscheidet, wie der Tag sich anfühlt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose Rechenleistung aus Europas KI-Fabriken",
+      "text": "Die Europäische Union baut derzeit ein Netz sogenannter AI Factories auf, zu Deutsch KI-Fabriken, das sind auf künstliche Intelligenz zugeschnittene Hochleistungsrechenzentren, aufgebaut über die gemeinsame Initiative EuroHPC. EuroHPC steht für European High Performance Computing, den europäischen Zusammenschluss für Supercomputer. Über regelmäßige Zugangsaufrufe, im Fachjargon Access Calls, können auch Solo-Gründer und kleine Firmen kostenlose Rechenzeit beantragen, um KI-Modelle zu trainieren oder zu betreiben. Bis Ende 2026 sollen mindestens 15 dieser Standorte in Betrieb sein. Ein Supercomputer bündelt sehr viele Rechenkerne, um Aufgaben zu bewältigen, an denen ein normaler Rechner scheitert.",
+      "why": "Mehrwert für dich: echte Rechenleistung für rechenintensive Experimente, die du sonst teuer einkaufen müsstest, und das ohne Investor im Rücken. Der erste Schritt ist ein Blick in die offenen Zugangsaufrufe auf dem EuroHPC-Portal, um zu prüfen, welcher zu deinem Vorhaben passt.",
+      "source": "EuroHPC · AI Factories Access Calls",
+      "url": "https://eurohpc-ju.europa.eu/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Nebenbei ist die unternehmenstaugliche Rechteverwaltung des MCP-Standards, die Enterprise-Managed Authorization, stabil geworden, und der neue staatenlose Kern erlaubt es Clients, die Werkzeugliste eines Servers zwischenzuspeichern. Für dein eigenes System heute nur als Referenz ablegen, kein Handlungsdruck.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Ein starkes offenes Modell gratis testen, bis zum 21. Juli",
+       "tag": "Zeitfenster",
+       "paras": [
+        "Der Entwickler und KI-Autor Simon Willison weist darauf hin, dass der chinesische Technikkonzern Tencent sein neues, sehr großes Sprachmodell mit dem Namen Hy3 vorgestellt hat, ein sogenanntes Mixture-of-Experts-Modell mit rund 295 Milliarden Parametern. Mixture of Experts, sinngemäß Expertengemisch, bedeutet, dass ein solches Modell bei jeder Anfrage nur einen Teil seiner Bausteine aktiviert und dadurch trotz seiner Größe vergleichsweise günstig zu betreiben ist. Bis zum 21. Juli ist es kostenlos über OpenRouter erreichbar, eine Plattform, die viele KI-Modelle über eine einzige Schnittstelle zugänglich macht.",
+        "Das schließt genau an die Faustregel dieser Woche an, das teure Modell nur fürs Denken zu nutzen und die Fleißarbeit günstiger zu erledigen. Das kostenlose Zeitfenster ist die Gelegenheit, ein starkes offenes Modell an einem echten Routineschritt deines Systems auszuprobieren und mit deinem bisherigen Weg zu vergleichen, ohne dafür zu bezahlen. Am Ende steht eine belastbare Entscheidung statt eines Bauchgefühls."
+       ],
+       "merk": "Ein kostenloses Zeitfenster ist ein Test, den man sonst bezahlt.",
+       "konkret": "Nimm einen einzigen, klar abgegrenzten Routineschritt deines Systems, etwa das Erzeugen von Textbausteinen, und lasse ihn testweise über OpenRouter von Tencent Hy3 erledigen. Vergleiche Ergebnis, Tempo und spätere Kosten mit deinem bisherigen Modell und sichere die Erkenntnis, bevor das Zeitfenster am 21. Juli schließt.",
+       "snippetLabel": "Prompt-Snippet · „Modell-Vergleich\"",
+       "snippet": "Du bist ein nüchterner Test-Auswerter für KI-Modelle.\nIch habe denselben Routineschritt einmal mit meinem bisherigen Modell\nund einmal mit Tencent Hy3 (über OpenRouter) ausgeführt.\n\n1) Vergleiche die beiden Ergebnisse auf Korrektheit, Ton und Vollständigkeit.\n2) Wo ist Hy3 spürbar schwächer oder stärker?\n3) Taugt Hy3 für genau diesen Routineschritt als günstigerer Ersatz? Ja/Nein mit Begründung.\n4) Nenne einen einzigen nächsten Test, der die Entscheidung absichert.\n\n--- ROUTINESCHRITT ---\n<span class=\"ph\">{ den getesteten Schritt kurz beschreiben }</span>\n--- ERGEBNIS BISHERIGES MODELL ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>\n--- ERGEBNIS HY3 ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>",
+       "source": "Simon Willison · Tencent Hy3 auf OpenRouter",
+       "url": "https://simonwillison.net/",
+       "score": "16,2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 8. Juli 2026",
+   "weather": "clouds",
+   "temp": "27°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Nach der Hitze der letzten Tage wird der Mittwoch mit 27 Grad spürbar milder, der Himmel über Horb bleibt bewölkt, ein angenehmer Arbeitstag ohne die drückende Sonne. In der Welt geht der Gipfel des westlichen Militärbündnisses in Ankara in seinen zweiten Tag, während die Fußball-Weltmeisterschaft eine kurze Verschnaufpause einlegt. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "NATO-Gipfel in Ankara: zweiter Tag um die Lastenteilung",
+       "text": "Am zweiten und letzten Tag ihres Gipfels in Ankara, der Hauptstadt der Türkei, beraten die Staats- und Regierungschefs der NATO über die sogenannte Lastenteilung. NATO steht für North Atlantic Treaty Organization, das nordatlantische Verteidigungsbündnis mit 32 Mitgliedstaaten, in dem sich die Länder gegenseitigen Beistand zusichern. Lastenteilung, im Fachjargon Burden Sharing, meint die Frage, wie fair sich die Ausgaben für Verteidigung zwischen den Vereinigten Staaten und den übrigen Verbündeten verteilen. US-Präsident Donald Trump hat wiederholt beklagt, die europäischen Partner gäben zu wenig für ihre eigene Sicherheit aus, während diese betonen, ihre Investitionen zuletzt deutlich erhöht zu haben. Solche Gipfel zeigen, wie geschlossen der Westen auftritt, und ihre Beschlüsse wirken oft über Jahre nach.",
+       "source": "NATO · Gipfel in Ankara, zweiter Tag",
+       "url": "https://www.nato.int/"
+      },
+      {
+       "title": "Fußball-WM legt einen spielfreien Tag ein",
+       "text": "Bei der Fußball-Weltmeisterschaft 2026, die in diesem Jahr gemeinsam von den Vereinigten Staaten, Kanada und Mexiko ausgerichtet wird, gibt es heute erstmals seit Turnierbeginn einen Tag ganz ohne Spiel. Zuvor hatte Argentinien auch dank seines Stürmers Lionel Messi das Ausscheiden im Achtelfinale gegen Ägypten gerade noch abgewendet, während die Schweiz den Mitfavoriten Kolumbien nach einem Elfmeterschießen aus dem Wettbewerb warf. Das Achtelfinale ist die Runde der letzten sechzehn Mannschaften, ein Elfmeterschießen entscheidet ein Spiel, das nach regulärer Zeit unentschieden steht. Am Donnerstag eröffnen Frankreich und Marokko das Viertelfinale, die Runde der letzten acht. Sportliche Großereignisse dieser Art prägen für Wochen die Stimmung in vielen Ländern.",
+       "source": "Sportschau · WM 2026"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Die EZB rechnet für 2026 mit höherer Teuerung und schwächerem Wachstum zugleich.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "EZB vor dem Zinsentscheid: zähe Teuerung, schwache Konjunktur",
+       "text": "Vor dem nächsten Zinsentscheid der Europäischen Zentralbank, kurz EZB, am 23. Juli richtet sich der Blick auf ihre jüngsten Projektionen, also ihre eigenen Vorausberechnungen für Preise und Wirtschaft. Die EZB, die für die 20 Länder mit dem Euro als Währung die Geldpolitik festlegt, hat ihre erwartete Inflation für 2026 auf 3,0 Prozent angehoben und zugleich das erwartete Wirtschaftswachstum auf 0,8 Prozent gesenkt. Inflation ist der allgemeine Anstieg der Preise gegenüber dem Vorjahr, Geldpolitik die Steuerung von Zinsen und Geldmenge. Diese Mischung aus zäher Teuerung und schwacher Konjunktur, im Fachjargon eine Stagflation, ist für eine Notenbank besonders unangenehm, weil höhere Zinsen die Preise dämpfen, aber die Wirtschaft zusätzlich bremsen. In Deutschland ging die Teuerungsrate im Juni überraschend von 2,6 auf 2,3 Prozent zurück, was den Zwiespalt noch verschärft. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
+       "source": "EZB · Projektionen, Zinsentscheid 23. Juli",
+       "url": "https://www.ecb.europa.eu/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Pakistans Aufschwung beim Solarstrom vom Dach",
+       "img": "https://live.staticflickr.com/5212/5386929721_c9407be315_b.jpg",
+       "text": "In Pakistan haben Solaranlagen auf Hausdächern in den vergangenen Tagen große Teile der Stromversorgung gesichert, als die herkömmliche Versorgung aus fossilen Kraftwerken schwächelte. Solaranlagen wandeln Sonnenlicht direkt in Strom um, fossile Kraftwerke verbrennen dagegen Kohle, Öl oder Gas. Fachleute sprechen inzwischen von einem regelrechten Boom, der sich auch wirtschaftlich auszahlt, weil viele Haushalte und Betriebe unabhängiger und günstiger an Energie kommen. Möglich wurde das durch stark gefallene Preise für Solarmodule, die den Ausbau auch ohne große staatliche Programme antreiben. Das Beispiel zeigt, wie schnell sich eine Energieversorgung von unten verändern kann, wenn die Technik bezahlbar wird.",
+       "source": "Good News Network · Solarboom in Pakistan"
+      },
+      {
+       "title": "Stammzellen wecken neue Hoffnung fürs Augenlicht",
+       "img": "https://live.staticflickr.com/4132/4968163345_107c1c7f64.jpg",
+       "text": "Forschende haben mit Hilfe von Stammzellen erstmals beschädigte Blutgefäße in der Netzhaut des Auges nachwachsen lassen und damit einen möglichen Weg eröffnet, verlorenes Sehvermögen zurückzugewinnen. Stammzellen sind Ursprungszellen, aus denen der Körper verschiedene Gewebe neu bilden kann, die Netzhaut ist die lichtempfindliche Schicht im hinteren Teil des Auges, ohne die kein Sehen möglich ist. Weil viele Formen der Erblindung auf geschädigte Netzhautgefäße zurückgehen, könnte der Ansatz einer großen Gruppe Betroffener helfen. Noch handelt es sich um frühe Forschung an einzelnen Fällen, doch die Ergebnisse gelten als vielversprechender Schritt. Für Menschen, die ihr Augenlicht verlieren, ist schon die Aussicht auf eine Behandlung ein starkes Signal.",
+       "source": "Good News Network · Stammzellen und Netzhaut"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Quantenverschränkung in einem Kristall zum Anfassen",
+       "img": "https://live.staticflickr.com/74/167345135_3ba2578801_b.jpg",
+       "text": "An der Technischen Universität Wien, kurz TU Wien, haben Physiker nach eigenen Angaben zum ersten Mal eine starke Quantenverschränkung in einem zentimetergroßen Kristall nachgewiesen, also in einem Objekt, das man bequem in der Hand halten kann. Quantenverschränkung bezeichnet eine besonders enge Verbindung zwischen Teilchen, bei der sie sich wie ein einziges System verhalten, obwohl sie räumlich getrennt sind, ein Effekt, den man bisher vor allem im Allerkleinsten kannte. Der untersuchte Kristall besteht aus einem sogenannten seltsamen Metall, einem Werkstoff mit ungewöhnlichen elektrischen Eigenschaften, die sich mit der üblichen Physik nicht erklären lassen. Gemessen wurde die Verschränkung mit einer Größe aus der Quanteninformationstheorie, der Quanten-Fisher-Information, die anzeigt, wie stark ein System als Ganzes reagiert. Der Nachweis verbindet die Quantenphysik mit der Festkörperphysik und könnte helfen, das rätselhafte Verhalten solcher Metalle zu verstehen. Die Studie erschien im Fachblatt Nature Physics.",
+       "source": "ScienceDaily · TU Wien, Nature Physics",
+       "url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm"
+      },
+      {
+       "title": "Wie tiefer Schlaf den Körper repariert",
+       "text": "Ein Team der Universität von Kalifornien in Berkeley, kurz UC Berkeley, hat den Schaltkreis im Gehirn entschlüsselt, über den tiefer Schlaf die Ausschüttung des Wachstumshormons steuert. Das Wachstumshormon fördert den Aufbau von Muskeln und Knochen, den Abbau von Fett und die Reparatur von Gewebe, ein Schaltkreis ist dabei eine Verschaltung von Nervenzellen, die zusammenarbeiten. Im Versuch mit Mäusen zeigten die Forschenden, dass Nervenzellen im Hypothalamus, einer Steuerzentrale tief im Gehirn, die Hormonausschüttung über zwei gegenläufige Botenstoffe regeln, den einen, der sie anregt, und den anderen, der sie bremst. Zugleich fanden sie eine Rückkopplung: Steigt das Hormon im Schlaf an, meldet sich eine für Wachheit zuständige Hirnregion zu Wort. Das erklärt, warum schlechter Schlaf Muskelaufbau, Fettstoffwechsel und Hirnfunktion stören kann. Die Arbeit erschien im Fachblatt Cell.",
+       "source": "ScienceDaily · UC Berkeley, Cell"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Milderer Mittwoch am Neckar, der Sommerkalender wartet",
+       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+       "text": "Nach den heißen Tagen bringt der Mittwoch in Horb mit rund 27 Grad und bewölktem Himmel spürbare Abkühlung, ein angenehmer Tag, um am Neckar, dem Fluss, an dem die Stadt liegt, ein paar ruhige Stunden zu verbringen. Der Veranstaltungskalender füllt sich für die kommenden Wochen: Am 19. Juli steht das Schlager-Open-Air Dolce Vita im Ländle an, also unter freiem Himmel, am 24. und 25. Juli folgt das Double Stage Festival mit mehreren Bühnen, und ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend. Am 31. Juli spielt der Sänger Andreas Kümmert mit seiner Band. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
+       "source": "Stadt Horb · Veranstaltungen",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Nach heißen Tagen ist ein bewölkter, milder Morgen schon für sich eine kleine Erleichterung."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Bis zu 25.000 Dollar an Guthaben für Claude",
+      "text": "Der KI-Anbieter Anthropic, das Unternehmen hinter der Modellfamilie Claude, vergibt über sein Startup-Programm bis zu 25.000 US-Dollar an Guthaben für seine Programmierschnittstelle, im Fachjargon API genannt. Eine API, kurz für Application Programming Interface, ist die technische Schnittstelle, über die eigene Programme ein KI-Modell ansprechen. Anders als viele streng ausgewählte Angebote läuft dieses Programm rollierend, das heißt, Bewerbungen werden fortlaufend geprüft, und es steht ausdrücklich auch bootstrapped Gründern offen, also solchen, die ihr Vorhaben ohne Geldgeber aus eigener Kraft aufbauen. Die Bewerbung selbst ist kurz und fragt im Kern nach Firmen-E-Mail, Website und einer Beschreibung des Vorhabens.",
+      "why": "Mehrwert für dich: echtes Guthaben für ein KI-System wie deines, ohne Investor im Rücken und ohne langwieriges Antragsverfahren. Der erste Schritt ist ein Blick auf die Seite Claude for Startups, wo du in wenigen Minuten prüfen kannst, ob dein Vorhaben passt.",
+      "source": "Anthropic · Claude for Startups",
+      "url": "https://www.anthropic.com/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Nebenbei hat der Entwickler Simon Willison, ein bekannter Autor über künstliche Intelligenz und Werkzeuge für Entwickler, seine Faustregel für Programmieraufgaben bekräftigt: das teure Spitzenmodell nur fürs Urteilen einsetzen und die eigentliche Umsetzung von einem günstigeren Modell in einem Unterprozess erledigen lassen. Für dein System heute nur als Bestätigung deines Kurses, kein Handlungsdruck.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Agenten ihre Arbeit selbst vorführen lassen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Simon Willison, Entwickler und vielgelesener Autor über KI-Werkzeuge, hat sein Programm shot-scraper in der Version 1.10 veröffentlicht. shot-scraper ist ein Kommandozeilenwerkzeug, das Webseiten automatisch aufruft und Bildschirmfotos anfertigt; neu ist ein video-Befehl, der eine kleine Ablaufdatei namens storyboard.yml liest und mit der Software Playwright ein Video einer Webanwendung aufzeichnet. Playwright ist ein Werkzeug, das einen Browser wie ein Mensch steuert, also klickt, tippt und Seiten öffnet.",
+        "Willison nennt einen konkreten Zweck: Programmier-Agenten sollen damit kurze Vorführungen ihrer eigenen Arbeit erzeugen, statt dass du jedes Ergebnis mühsam von Hand nachvollziehst. Für dein System ist das ein einfacher Hebel: Lass einen Agenten am Ende einer Aufgabe selbst einen kurzen Ablauf aufzeichnen, den du in Sekunden ansiehst, statt jeden Schritt im Protokoll nachzulesen. So verlagerst du deine Kontrolle vom langsamen Lesen auf schnelles Hinsehen."
+       ],
+       "merk": "Ein kurzes Video vom Ergebnis spart mehr Prüfzeit als jeder lange Bericht.",
+       "konkret": "Richte für einen wiederkehrenden Ablauf deines Systems eine kleine storyboard.yml ein und lass am Ende jeder Ausführung mit shot-scraper video ein kurzes Video erzeugen. Sieh dir statt der Protokolle nur dieses Video an und entscheide in Sekunden, ob das Ergebnis stimmt.",
+       "snippetLabel": "Prompt-Snippet · „Selbst-Vorführung\"",
+       "snippet": "Du bist mein Umsetzungs-Agent und arbeitest sparsam.\nNutze für die eigentliche Umsetzung ein günstigeres Modell in einem Unterprozess,\ndas teure Modell nur für Planung und Urteil.\n\n1) Erledige die folgende Aufgabe Schritt für Schritt.\n2) Zeichne zum Schluss mit shot-scraper video (storyboard.yml) einen kurzen Ablauf des Ergebnisses auf.\n3) Fasse in drei Zeilen zusammen, was zu sehen ist und was ich prüfen soll.\n\n--- AUFGABE ---\n<span class=\"ph\">{ Aufgabe kurz beschreiben }</span>",
+       "source": "Simon Willison · shot-scraper 1.10",
+       "url": "https://simonwillison.net/",
+       "score": "15,7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 9. Juli 2026",
+   "weather": "clouds",
+   "temp": "29°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb liegt heute eine bewölkte Decke, dazu warme 29 Grad, ein ruhiger Sommertag zum konzentrierten Arbeiten. In der Welt sorgt das Ende der Waffenruhe zwischen den Vereinigten Staaten und Iran für Unruhe an den Märkten, während in Boston am Abend das WM-Viertelfinale zwischen Frankreich und Marokko angepfiffen wird. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage · neutral",
+     "items": [
+      {
+       "title": "Waffenruhe zwischen den USA und Iran für beendet erklärt",
+       "text": "Zum Abschluss des Gipfels des westlichen Verteidigungsbündnisses NATO in Ankara, der Hauptstadt der Türkei, hat US-Präsident Donald Trump die zuvor vereinbarte Waffenruhe mit Iran für beendet erklärt. NATO steht für North Atlantic Treaty Organization, das nordatlantische Bündnis von 32 Staaten, die sich gegenseitigen Beistand zusichern. Eine Waffenruhe ist eine Vereinbarung, die Kampfhandlungen vorübergehend einzustellen. Auslöser waren nach Darstellung mehrerer Beteiligter erneute Angriffe in der Meerenge von Hormuz, der schmalen Wasserstraße am Persischen Golf, durch die ein großer Teil des weltweiten Öls verschifft wird. An den Finanzmärkten stieg der Ölpreis daraufhin deutlich, während der bekannte US-Leitindex Dow Jones nachgab. Das zählt auch für Europa, weil ein höherer Ölpreis Energie und Transport verteuert und so die Inflation, also den allgemeinen Preisanstieg, zusätzlich antreiben kann.",
+       "source": "NPR · Trump erklärt Waffenruhe mit Iran für beendet",
+       "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference"
+      },
+      {
+       "title": "WM-Viertelfinale: Frankreich gegen Marokko in Boston",
+       "text": "Bei der Fußball-Weltmeisterschaft 2026, die gemeinsam von den Vereinigten Staaten, Kanada und Mexiko ausgerichtet wird, treffen heute Abend im Viertelfinale Frankreich und Marokko aufeinander. Das Viertelfinale ist die Runde der letzten acht Mannschaften eines Turniers. Anpfiff ist um 22 Uhr mitteleuropäischer Sommerzeit im Stadion von Boston, in Deutschland überträgt die ARD. Marokko hatte sich zuvor mit einem 3 zu 0 gegen den Mitgastgeber Kanada durchgesetzt und ist damit weit in das Turnier vorgedrungen. Solche Spiele prägen für Wochen die Stimmung in vielen Ländern und füllen am Abend die Gaststätten, auch wenn der sportliche Ausgang offen bleibt.",
+       "source": "Sportschau · WM 2026, Viertelfinale",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10714031/frankreich_marokko/info"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "merk": {
+      "text": "Heute legt die EZB das Protokoll ihrer Juni-Sitzung vor, bei der sie die Zinsen erstmals seit fast zwei Jahren wieder anhob.",
+      "tone": "g"
+     },
+     "items": [
+      {
+       "title": "EZB legt Sitzungsprotokoll vor, IWF senkt Prognose für Deutschland",
+       "text": "Die Europäische Zentralbank, kurz EZB, veröffentlicht heute das Protokoll ihrer Sitzung vom 11. Juni, bei der sie den Einlagenzins von 2,00 auf 2,25 Prozent angehoben hat, die erste Zinserhöhung seit September 2023. Die EZB legt für die 20 Länder mit dem Euro als Währung die Geldpolitik fest, also die Steuerung von Zinsen und Geldmenge; der Einlagenzins ist der Satz, zu dem Banken überschüssiges Geld bei der Notenbank parken. Das Protokoll soll zeigen, wie entschlossen die Notenbank gegen die noch hohe Teuerung von erwartet 3,0 Prozent für 2026 vorgehen will. Zugleich hat der Internationale Währungsfonds, IWF, eine Organisation von rund 190 Staaten zur Stabilisierung der Weltwirtschaft, seine Wachstumsprognose für Deutschland auf 0,7 Prozent gesenkt und dies vor allem mit gestiegenen Energiepreisen infolge des Iran-Konflikts begründet. Für Selbstständige heißt diese Mischung aus zäher Teuerung und schwacher Konjunktur, Finanzierungen weiter eher teuer einzuplanen.",
+       "source": "EZB · Sitzungsprotokoll; IWF · Prognose Deutschland",
+       "url": "https://www.ecb.europa.eu/press/projections/html/index.de.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Rekord: rund 30.000 Silberlachse kehren an die kalifornische Küste zurück",
+       "text": "An der Mendocino-Küste im US-Bundesstaat Kalifornien sind in den vergangenen zwei Jahren rund 30.000 Silberlachse zurückgekehrt, so viele wie nie zuvor erfasst. Der Silberlachs, auf Englisch Coho Salmon, ist eine Wanderfischart, die im Meer heranwächst und zum Laichen, also zur Fortpflanzung, in die Flüsse ihrer Geburt zurückkehrt; die dortige Population gilt als stark gefährdet. Der neue Wert ist etwa doppelt so hoch wie der bisherige Rekord von rund 15.000 Tieren in der Saison zuvor. Fachleute führen die Erholung auf jahrelange Renaturierung der Bäche und den Rückbau von Hindernissen zurück, die den Fischen den Weg flussaufwärts versperrt hatten. Solche Erfolge zeigen, dass sich geduldige Naturschutzarbeit auch über viele Jahre auszahlen kann.",
+       "img": "https://live.staticflickr.com/7511/16148984560_3026a0d8f2_b.jpg",
+       "source": "Good News Network · Rückkehr der Silberlachse",
+       "url": "https://www.goodnewsnetwork.org/tag/conservation/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Künstliche Intelligenz spürt zwei neue Supraleiter auf",
+       "text": "Ein Forschungsteam hat maschinelles Lernen mit der Quantenphysik verbunden und damit zwei bislang unbekannte Supraleiter aufgespürt. Maschinelles Lernen ist ein Teilgebiet der künstlichen Intelligenz, bei dem ein Programm Muster aus großen Datenmengen erkennt. Supraleiter sind Materialien, die elektrischen Strom unterhalb einer bestimmten Temperatur ganz ohne Verlust leiten und dabei Magnetfelder verdrängen, weshalb Magnete über ihnen schweben können. Das neue Verfahren macht die Suche nach solchen Stoffen deutlich schneller, weil der Rechner aussichtsreiche Kandidaten vorschlägt, die anschließend gezielt im Labor geprüft werden. Bessere Supraleiter könnten eines Tages Stromnetze, Magnetschwebebahnen und Quantencomputer sparsamer machen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/YBCO_high_temperature_superconductor.JPG",
+       "source": "ScienceDaily · Forschung zu Supraleitern",
+       "url": "https://www.sciencedaily.com/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Horb: Schlossgarten lädt zum Sommerabend",
+       "text": "In Horb am Neckar öffnet der Schlossgarten am Mittwoch, den 29. Juli, ab 17 Uhr zu einem sommerlichen Abend, bei dem der Garten zugänglich ist und für Speisen und Getränke gesorgt wird. Der Schlossgarten ist eine Gartenanlage oberhalb der Altstadt, von der aus sich der Blick über das Neckartal öffnet, das Tal des Flusses Neckar. Bei den warmen Temperaturen dieser Woche, heute rund 29 Grad bei bewölktem Himmel, lädt die laue Jahreszeit zu solchen Treffen unter freiem Himmel ein. Wer einen ruhigen Feierabend sucht, findet hier eine Gelegenheit, Nachbarn und Bekannte zu treffen. Ein Blick in den Veranstaltungskalender der Stadt lohnt sich, weil im Sommer regelmäßig weitere Termine hinzukommen.",
+       "img": "https://live.staticflickr.com/3187/2969566789_bd32b8bab2_b.jpg",
+       "source": "Stadt Horb · Veranstaltungskalender",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Tag mit ruhigem Himmel eignet sich gut, um eine Sache in Ruhe zu Ende zu bringen, statt viele halb anzufangen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS: bis zu 4.500 Euro Zuschuss für KI-Weiterbildung",
+      "text": "Das Bundesprogramm KOMPASS, kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige, fördert die berufliche Weiterbildung von Selbstständigen ohne Angestellte mit bis zu 4.500 Euro pro Förderjahr und übernimmt davon 90 Prozent der Kosten. Getragen wird es von der Bundesagentur für Arbeit, der staatlichen Stelle für Arbeitsförderung. Förderfähig sind unter anderem berufsbezogene Kurse zu künstlicher Intelligenz, Digitalisierung und Marketing bei zugelassenen, sogenannten AZAV-zertifizierten Bildungsträgern.",
+      "why": "Für einen Solo-Unternehmer sind das echte Zuschüsse für Wissen, das direkt in dein eigenes System einfließen kann. Wichtig ist das Timing: Die Ausgabe der Qualifizierungsschecks ist von Mai bis voraussichtlich Oktober 2026 bundesweit begrenzt und es gibt Wartelisten, es lohnt sich also, früh eine Erstberatung anzufragen.",
+      "source": "Bundesagentur für Arbeit · Programm KOMPASS"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale zeigen dasselbe Muster: Ein Agent ist nur so verlässlich wie der Prüfstein, gegen den er arbeitet, und die Grenzen, die du ihm setzt.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Testsuiten als Prüfstein für agentische Umbauten",
+       "tag": "Coding-Agenten",
+       "paras": [
+        "Der Entwickler Jarred Sumner hat die JavaScript-Laufzeitumgebung Bun, also die Software, die JavaScript-Programme ausführt, mit Hilfe von KI-Agenten von der Programmiersprache Zig nach Rust umgeschrieben. Entscheidend war dabei, dass eine bestehende Sammlung automatischer Tests, im Fachjargon Testsuite, als Maßstab diente: Der Agent baute so lange um, bis alle Tests wieder grün, also erfolgreich, waren. Das Projekt verbrauchte nach Angaben des Entwicklers rund 165.000 US-Dollar an Rechenkosten der KI-Schnittstelle.",
+        "Für dein System ist der übertragbare Hebel nicht die Größe des Vorhabens, sondern das Prinzip: Ein grüner Testlauf ist der verlässlichste Auftraggeber für einen Agenten. Wo du eine Funktion umbaust, schreibe zuerst Tests, die das gewünschte Verhalten festhalten, und lass den Agenten gegen diese Tests arbeiten, statt gegen eine vage Beschreibung."
+       ],
+       "konkret": "Definiere vor jedem größeren Umbau einen grünen Zielzustand, also die Tests, die am Ende erfolgreich laufen müssen.",
+       "snippetLabel": "Prompt für einen testgetriebenen Umbau",
+       "snippet": "Ziel: <span class=\"ph\">{Modul oder Funktion}</span> so umbauen, dass <span class=\"ph\">{gewuenschtes Verhalten}</span>.\nVorgehen:\n1. Fuehre zuerst die vorhandenen Tests aus und zeige mir das Ergebnis.\n2. Nimm die kleinstmoegliche Aenderung vor.\n3. Fuehre die Tests erneut aus und wiederhole, bis alle gruen sind.\n4. Aendere keine Tests, ohne vorher zu fragen.",
+       "source": "Simon Willison · Rewriting Bun in Rust",
+       "url": "https://simonwillison.net/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Ein schlanker Coding-Agent mit Berechtigungsmodell",
+       "tag": "Werkzeug",
+       "paras": [
+        "Simon Willison, ein bekannter Entwickler und Autor zum Thema KI-Werkzeuge, hat eine erste, ausdrücklich experimentelle Version eines Coding-Agenten veröffentlicht. Ein Coding-Agent ist ein Programm, das eine Aufgabe selbstständig in mehreren Schritten löst, indem es Dateien liest und ändert und Befehle ausführt. Aufrufen lässt er sich mit dem Befehl uvx llm code; uvx ist dabei ein Werkzeug, das ein Python-Programm startet, ohne es dauerhaft zu installieren.",
+        "Bemerkenswert ist das Berechtigungsmodell: Mit der Option allow legst du vorab fest, welche Werkzeuge der Agent ohne Rückfrage nutzen darf, während die Option yolo ihm freie Hand lässt. Für dein System ist das ein gutes Vorbild, weil es die Kontrolle bei dir hält. Erlaube nur, was gefahrlos ist, und lass dir alles andere zur Bestätigung vorlegen."
+       ],
+       "konkret": "Prüfe bei jedem Agenten, den du einsetzt, welche Aktionen ohne Rückfrage erlaubt sind, und beschränke sie bewusst.",
+       "source": "Simon Willison · llm-coding-agent 0.1a0",
+       "url": "https://simonwillison.net/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Freitag, 10. Juli 2026",
+   "weather": "clear",
+   "temp": "32°C · sonnig",
+   "greeting": "Guten Morgen, Gerik. Ein sonniger Hochsommertag mit bis zu 32 Grad liegt vor dir. In der Weltlage richtet sich der Blick nach Grossbritannien, in der Wirtschaft auf die Europaeische Zentralbank, und aus der Forschung kommt ein Fortschritt bei der Herstellung von Erbgut. Hier ist deine Morgenlage.",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Grossbritannien: Labour-Partei sucht neue Fuehrung",
+       "text": "In Grossbritannien hat die regierende Labour-Partei, die sozialdemokratische Partei des Landes, am 9. Juli die Nominierungen fuer einen neuen Parteivorsitz eroeffnet. Ausloeser war die Ankuendigung von Premierminister Keir Starmer, der am 22. Juni seinen Ruecktritt als Parteichef und Regierungschef mitgeteilt hatte. Als bislang einziger erklaerter Bewerber gilt Andy Burnham, der Buergermeister der Region Greater Manchester im Norden Englands, der bereits die Unterstuetzung von mehr als 200 der 402 Labour-Abgeordneten hat. Gibt es keinen Gegenkandidaten, koennte Burnham am 17. Juli auf einem Sonderparteitag bestaetigt werden und Starmer wenige Tage spaeter im Regierungssitz Downing Street 10  abloesen. Warum das zaehlt: Ein Regierungswechsel in London beruehrt die Politik eines der wichtigsten Handelspartner Deutschlands.",
+       "source": "France 24",
+       "url": "https://www.france24.com/en/live-news/20260709-labour-leadership-contest-takes-burnham-closer-to-uk-pm-s-office"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "EZB haelt nach erster Zinserhoehung seit 2023 still",
+       "text": "Die Europaeische Zentralbank, kurz EZB, ist die gemeinsame Notenbank der Laender mit dem Euro und steuert unter anderem die Zinsen. Am 11. Juni hatte sie ihre Leitzinsen zum ersten Mal seit September 2023 wieder angehoben, und zwar um 0,25 Prozentpunkte, um dem anhaltenden Preisauftrieb entgegenzuwirken. Der sogenannte Einlagenzins, zu dem Banken kurzfristig Geld bei der EZB parken, liegt seither bei 2,25 Prozent. Fuer 2026 rechnet die EZB mit einer durchschnittlichen Inflation, also einer allgemeinen Teuerung, von rund 3,0 Prozent und damit ueber ihrem Ziel von 2 Prozent. Beobachter erwarten, dass die Notenbank die Zinsen bei ihrer naechsten Sitzung vorerst unveraendert laesst. Warum das zaehlt: Die Zinshoehe wirkt sich auf Kredite, Sparzinsen und die Finanzierungskosten von Unternehmen aus.",
+       "source": "European Central Bank",
+       "url": "https://www.ecb.europa.eu/press/projections/html/index.de.html"
+      }
+     ],
+     "merk": {
+      "text": "Fuer Deutschland wird 2026 weiter ein Wirtschaftswachstum von rund 1,5 Prozent erwartet, getragen unter anderem von staatlichen Investitionen in Infrastruktur und Verteidigung. Steigende Oel- und Gaspreise gelten dabei als Risiko.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Groesstes Meeresschutzgebiet der Welt waechst weiter",
+       "text": "Franzoesisch-Polynesien, ein franzoesisches Ueberseegebiet mit rund hundert Inseln im Suedpazifik, baut das groesste Meeresschutzgebiet der Welt weiter aus. Praesident Moetai Brotherson kuendigte am 8. Juni an, weitere rund 520.000 Quadratkilometer Meeresflaeche vollstaendig zu schuetzen, also vor Fischerei und anderer Rohstoffnutzung zu bewahren. Damit sind kuenftig etwa 30 Prozent der Gewaesser des Gebiets geschuetzt, insgesamt rund 1,4 Millionen Quadratkilometer, eine Flaeche groesser als Deutschland und Frankreich zusammen. Die Ankuendigung fiel auf der UN-Ozeankonferenz, einem Treffen der Vereinten Nationen zum Schutz der Meere. Warum das zaehlt: Grossflaechige Schutzgebiete geben ueberfischten Bestaenden und Korallenriffen Zeit, sich zu erholen.",
+       "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
+       "source": "UNEP-WCMC",
+       "url": "https://www.unep-wcmc.org/en/news/worlds-largest-marine-protected-area-french-polynesia"
+      },
+      {
+       "title": "Luft in Europa wird messbar sauberer",
+       "text": "Die Luftqualitaet in Europa hat sich ueber die vergangenen Jahre spuerbar verbessert. Nach Auswertungen sind die Emissionen von Schwefeloxiden und Stickoxiden, also von Schadgasen aus Verkehr und Industrie, seit 2010 im Schnitt um rund 3 bis 5 Prozent pro Jahr zurueckgegangen. Die groessten Rueckgaenge stammen aus Industrie und Strassenverkehr. Warum das zaehlt: Sauberere Luft senkt das Risiko fuer Atemwegs- und Herz-Kreislauf-Erkrankungen.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-27-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Silizium-Chip schreibt Erbgut mit Strom statt Chemie",
+       "text": "Forschende haben einen Chip aus Silizium, dem Grundmaterial gaengiger Computerchips, vorgestellt, der Dutzende DNA-Straenge gleichzeitig herstellen kann. DNA, die Desoxyribonukleinsaeure, ist das Molekuel, das die Erbinformationen aller Lebewesen speichert. Der Chip nutzt elektrischen Strom und wasserbasierte Enzyme, also natuerliche Eiweisse als Werkzeuge, statt der bisher ueblichen aggressiven Chemikalien. Das koennte die Herstellung kuenstlicher DNA sauberer, guenstiger und schneller machen. Warum das zaehlt: Massgeschneiderte DNA wird in Medizin, Biotechnologie und sogar zur langfristigen Datenspeicherung gebraucht.",
+       "img": "https://live.staticflickr.com/263/20468181866_d5c72f3984_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/matter_energy/engineering/"
+      },
+      {
+       "title": "Quanteninformation laenger haltbar gemacht",
+       "text": "Ein Forschungsteam hat sogenannte Magnonen, winzige Wellen in magnetischen Materialien, als moegliche Traeger von Quanteninformation nutzbar gemacht. Quanteninformation ist die Grundlage von Quantencomputern, also Rechnern, die bestimmte Aufgaben theoretisch weit schneller loesen koennen als heutige Computer. Den Forschenden gelang es, die Lebensdauer dieser empfindlichen Zustaende um fast das Hundertfache zu verlaengern. Warum das zaehlt: Je stabiler solche Zustaende sind, desto naeher rueckt der praktische Einsatz von Quantencomputern.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Sonniger Open-Air-Sommer in Horb",
+       "text": "Der Hochsommer bringt Horb am Neckar eine Reihe von Veranstaltungen unter freiem Himmel, und das heutige sonnige Wetter mit bis zu 32 Grad passt dazu. Am 19. Juli laedt das Open-Air 'Dolce Vita im Laendle' zu Schlagermusik ein, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Buehnen, und am 31. Juli gastiert der Saenger Andreas Kuemmert in der Stadt. Wer die Mittagshitze meiden moechte, findet in den schattigen Lagen entlang des Neckars und im Schlossgarten Abkuehlung. Warum das zaehlt: Ein Ueberblick der Termine hilft dir bei der Planung der kommenden Wochen.",
+       "img": "https://live.staticflickr.com/59/202917381_a7f5426953_b.jpg",
+       "source": "Stadt Horb am Neckar",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein sonniger Tag laedt dazu ein, kurz im Schatten innezuhalten, bevor die Aufgaben beginnen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS: bis zu 4.500 Euro fuer Weiterbildung von Solo-Selbststaendigen",
+      "text": "KOMPASS steht fuer 'Kompakte Hilfe fuer Solo-Selbststaendige' und ist ein Foerderprogramm des Bundesministeriums fuer Arbeit und Soziales, kurz BMAS, finanziert aus dem Europaeischen Sozialfonds Plus (ESF Plus), einem Foerdertopf der Europaeischen Union. Es erstattet Solo-Selbststaendigen, also Selbststaendigen ohne Angestellte, bis zu 4.500 Euro fuer berufliche Weiterbildung. Die Foerderung kann einmal innerhalb von zwoelf Monaten in Anspruch genommen werden, und das Programm laeuft noch bis zum 28. Februar 2028.",
+      "why": "Fuer einen Solo-Unternehmer wie dich ist das ein konkreter Hebel, um Weiterbildung etwa zu KI, Vertrieb oder Buchhaltung weitgehend gefoerdert zu finanzieren. Erste Anlaufstelle sind die KOMPASS-Anlaufstellen; eine zeitweise Pause fuer Erstberatungen galt nur von Maerz bis Mai 2026 und ist damit vorbei.",
+      "source": "Bundesministerium fuer Arbeit und Soziales (KOMPASS, ESF Plus)"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale zielen auf Infrastruktur und Kostenkontrolle deines KI-Systems.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "MCP-Server auf die neue Spezifikation vom 28. Juli vorbereiten",
+       "tag": "Infrastruktur",
+       "paras": [
+        "Das Model Context Protocol, kurz MCP, ist der offene Standard, ueber den KI-Assistenten wie dein System mit externen Werkzeugen und Datenquellen sprechen. Am 28. Juli 2026 erscheint die bislang groesste Ueberarbeitung seit dem Start; aktuell liegt der Release Candidate vor, also die Vorabversion zur Erprobung.",
+        "Kernstueck ist ein zustandsloser Kern (stateless core): Ein MCP-Server, der bisher feste Sitzungen (sticky sessions) und einen gemeinsamen Sitzungsspeicher brauchte, kann kuenftig hinter einem einfachen Lastverteiler laufen und Antworten auf die Werkzeugliste vom Client zwischenspeichern lassen. Neu sind ausserdem MCP Apps fuer server-gerenderte Oberflaechen in einem abgeschotteten Rahmen (Sandbox-iframe) sowie eine Tasks-Erweiterung fuer langlaufende Aufgaben."
+       ],
+       "konkret": "Pruefe deine eigenen MCP-Server jetzt gegen den Release Candidate, damit du beim Erscheinen der finalen Fassung am 28. Juli nicht auf sticky sessions angewiesen bleibst und von der einfacheren Skalierung profitierst.",
+       "snippetLabel": "Prompt zum Pruefen eines MCP-Servers",
+       "snippet": "Analysiere die Implementierung meines MCP-Servers unter <span class=\"ph\">{Pfad}</span> gegen den MCP Release Candidate vom 2026-07-28.\nPruefe:\n1) Nutzt der Server sticky sessions oder einen zustandsbehafteten Sitzungsspeicher, den der neue stateless core ueberfluessig macht?\n2) Setzt er die Antwort auf tools/list cachebar (ttlMs), damit Clients sie zwischenspeichern koennen?\n3) Ist die Autorisierung mit OAuth und OpenID Connect vereinbar?\nGib eine nach Aufwand und Nutzen priorisierte Liste konkreter Aenderungen aus.",
+       "source": "Model Context Protocol Blog",
+       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Ausgaben und Modellzugriff bei Claude im Blick behalten",
+       "tag": "Kostenkontrolle",
+       "paras": [
+        "Anthropic, das Unternehmen hinter der KI Claude, hat fuer Geschaeftskunden neue Verwaltungsfunktionen eingefuehrt: feinere Nutzungsauswertungen, Berechtigungen auf Modellebene (model-level entitlements) und Ausgabenwarnungen (spend alerts). Damit lassen sich Kosten, Verbrauch und Produktivitaetstrends genauer nachvollziehen.",
+        "Ausserdem ist Claude Cowork, die Arbeitsumgebung fuer laengere Aufgaben, jetzt zusaetzlich zum Desktop auch im Web und auf dem Mobilgeraet verfuegbar, zunaechst im hoechsten Tarif (Max)."
+       ],
+       "konkret": "Wenn du Claude produktiv einsetzt, richte Ausgabenwarnungen ein, um deine monatlichen KI-Kosten frueh zu begrenzen.",
+       "source": "Anthropic Release Notes",
+       "url": "https://support.claude.com/en/articles/12138966-release-notes"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Samstag, 11. Juli 2026",
+   "weather": "clear",
+   "temp": "32°C · sonnig",
+   "greeting": "Guten Morgen, Gerik. Der Hochsommer bleibt Horb treu: ein sonniger Tag mit bis zu 32 Grad steht bevor. In der Weltlage geht es um die schwierige Suche nach einem Atomabkommen mit dem Iran, in der Wirtschaft um eine gesenkte Wachstumsprognose fuer Deutschland, und aus der Forschung kommt eine ueberraschende Spur zur Suche nach ausserirdischen Zivilisationen. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Zukunft eines Atomabkommens mit dem Iran bleibt offen",
+       "text": "Nach den juengsten Spannungen zwischen dem Iran und den Vereinigten Staaten ist unklar, ob es zu einem neuen Rahmenabkommen ueber das iranische Atomprogramm kommt. Ein Rahmenabkommen ist eine grundsaetzliche Verstaendigung, die die Eckpunkte fuer einen spaeteren, ausfuehrlichen Vertrag festlegt. Die US-Regierung verlangt von Teheran, der Hauptstadt und Regierungssitz des Iran, ein klares Bekenntnis dazu, das Programm zu begrenzen und internationale Kontrollen zuzulassen. Der Iran wiederum pocht auf sein Recht auf eine zivile Nutzung der Kernenergie. Warum das zaehlt: Ob eine diplomatische Loesung gelingt, beeinflusst die Stabilitaet im Nahen Osten und damit auch die Energiepreise, die zuletzt die deutsche Inflation getrieben haben.",
+       "source": "Pravda Deutschland",
+       "url": "https://germany.news-pravda.com/world/2026/07/11/296782.html"
+      },
+      {
+       "title": "NATO-Anrainer verlaengern Minensuche im Schwarzen Meer",
+       "text": "Rumaenien, Bulgarien und die Tuerkei, die drei Mitglieder des westlichen Verteidigungsbuendnisses NATO am Schwarzen Meer, haben am 8. Juli das Mandat einer gemeinsamen Gruppe verlaengert, die dort nach Seeminen sucht. Seeminen sind im Wasser treibende oder verankerte Sprengkoerper, die seit dem Krieg in der Ukraine eine Gefahr fuer die zivile Schifffahrt darstellen. Das Buendnis dieser drei Staaten war Anfang 2024 gegruendet worden, um die wichtigen Handelswege im Schwarzen Meer sicherer zu machen. Warum das zaehlt: Ueber das Schwarze Meer laufen bedeutende Getreide- und Rohstofftransporte, deren Sicherheit auch fuer die Versorgung Europas wichtig ist.",
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "IWF senkt Wachstumsprognose fuer Deutschland",
+       "text": "Der Internationale Waehrungsfonds, kurz IWF, eine Organisation von rund 190 Staaten zur Ueberwachung der Weltwirtschaft, hat seine Wachstumsprognose fuer die deutsche Wirtschaft im Jahr 2026 auf etwa 0,7 Prozent gesenkt. Als Grund nennt der Fonds vor allem hoehere Energiepreise, die im Zuge der Spannungen im Nahen Osten gestiegen sind und die verfuegbaren Einkommen der Haushalte sowie das Vertrauen der Unternehmen belasten. Fuer das zweite Quartal droht der deutschen Wirtschaftsleistung, dem Bruttoinlandsprodukt (BIP), sogar eine leichte Schrumpfung. Die Erholung wird 2026 vor allem von staatlichen Investitionen getragen. Warum das zaehlt: Eine schwache Konjunktur bremst Auftraege, Investitionen und die Bereitschaft von Kunden, Geld auszugeben.",
+       "source": "ad-hoc-news / IWF",
+       "url": "https://www.ad-hoc-news.de/wirtschaft/deutschland-wachstum-iwf-senkt-prognose-auf-0-7-prozent-2026/69725039"
+      }
+     ],
+     "merk": {
+      "text": "Als groesstes Risiko fuer die Prognose gelten weiter steigende Oel- und Gaspreise. Fuer Solo-Unternehmer heisst das: Kalkuliere bei laengeren Angeboten einen Puffer fuer schwankende Energie- und Betriebskosten ein.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Grossbritannien: mehr neue E-Autos als Benziner verkauft",
+       "text": "In Grossbritannien wurden erstmals ueber einen Zeitraum von zwoelf Monaten mehr neue reine Elektroautos verkauft als neue Benziner. Reine Elektroautos, auch batterieelektrische Fahrzeuge genannt, fahren ausschliesslich mit Strom aus einem Akku und stossen im Betrieb keine Abgase aus. Im Jahr bis Mai 2026 kamen rund 516.500 neu zugelassene Elektroautos auf etwa 504.000 neue Benziner. Damit ueberholt der Stromantrieb den klassischen Verbrennungsmotor im wichtigen britischen Automarkt erstmals dauerhaft. Warum das zaehlt: Ein wachsender Anteil an Elektroautos senkt langfristig Abgase und die Abhaengigkeit vom Erdoel.",
+       "img": "https://live.staticflickr.com/3285/2492684025_7d3e73e682_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-27-of-2026/"
+      },
+      {
+       "title": "HPV-Impfung draengt Gebaermutterhalskrebs zurueck",
+       "text": "Eine Auswertung aus England zeigt einen deutlichen Erfolg der Impfung gegen humane Papillomviren, kurz HPV. Diese Viren werden ueber Hautkontakt uebertragen und gelten als Hauptausloeser von Gebaermutterhalskrebs, einer haeufigen Krebsart bei Frauen. Nach den Daten starb zwischen 2020 und 2024 erstmals keine Frau Anfang zwanzig in England an dieser Krebsart. Das Risiko, vor dem 30. Lebensjahr daran zu sterben, sank damit praktisch auf null. Grundlage ist ein breites Impfprogramm, das jungen Menschen die Impfung frueh anbietet. Warum das zaehlt: Es zeigt, dass eine konsequente Vorsorge eine ganze Krebsart weitgehend verdraengen kann.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Neue Hinweise fuer die Suche nach einer Dyson-Sphaere",
+       "text": "Astronomen haben neue Anhaltspunkte beschrieben, mit denen sich eine sogenannte Dyson-Sphaere aufspueren liesse. Eine Dyson-Sphaere ist eine bislang rein hypothetische Grossbauwerk-Idee: eine gedachte Huelle, mit der eine hochentwickelte ausserirdische Zivilisation einen ganzen Stern umschliessen koennte, um dessen Energie fast vollstaendig zu nutzen. Benannt ist sie nach dem Physiker Freeman Dyson, der das Konzept 1960 vorschlug. Die Forschenden zeigen, an welchen ungewoehnlichen Waerme- und Lichtsignaturen sich ein solches Bauwerk von natuerlichen Himmelskoerpern unterscheiden liesse. Warum das zaehlt: Solche Kriterien geben der Suche nach ausserirdischer Technik eine ueberpruefbare Grundlage, auch wenn ein Fund voellig offen ist.",
+       "img": "https://live.staticflickr.com/8237/8407694793_d96ae99aa9_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Krebsimpfung aktiviert unerwartete Immunzelle",
+       "text": "Ein Forschungsteam hat entdeckt, dass Krebsimpfstoffe auf Basis von mRNA eine bislang unerwartete Art von Immunzelle in den Kampf gegen Tumoren einbeziehen. mRNA, die Boten-Ribonukleinsaeure, ist ein Molekuel, das der Koerper als Bauanleitung fuer Eiweisse nutzt; in der Impfung dient sie als Anleitung, um das Immunsystem auf Krebszellen aufmerksam zu machen. Die Beobachtung stellt eine langjaehrige Annahme darueber infrage, wie diese Impfstoffe wirken. Warum das zaehlt: Ein besseres Verstaendnis der Wirkweise kann helfen, kuenftige Krebsimpfstoffe gezielter und wirksamer zu gestalten.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/health_medicine/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Schlossgarten und Festivalsommer bei bestem Wetter",
+       "text": "Zum sonnigen Wochenende mit bis zu 32 Grad zeigt sich Horb am Neckar von seiner sommerlichen Seite. Mittwochs oeffnet der Schlossgarten oberhalb der Altstadt ab 17 Uhr mit Speisen und Getraenken, zuletzt angekuendigt bis in den Juli hinein. In den kommenden Wochen folgen groessere Termine unter freiem Himmel: am 19. Juli das Schlager-Open-Air 'Dolce Vita im Laendle' und vom 24. bis 26. Juli das Double Stage Festival mit mehreren Buehnen. Bei der Hitze bieten die schattigen Uferwege am Neckar und die Gassen der historischen Altstadt Abkuehlung. Warum das zaehlt: Wer die Termine kennt, kann Ausfluege und ruhige Stunden in der Stadt gut planen.",
+       "img": "https://live.staticflickr.com/2306/2171370057_1e36ab05a4_b.jpg",
+       "source": "meinestadt / Stadt Horb",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Auch an einem vollen Sommertag lohnt der kurze Moment am schattigen Ufer, bevor die Arbeit beginnt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "L-Bank Digitalisierungspraemie Plus fuer kleine Betriebe",
+      "text": "Die Digitalisierungspraemie Plus ist ein Foerderprogramm des Landes Baden-Wuerttemberg, das gemeinsam mit der Landesfoerderbank L-Bank vergeben wird. Sie unterstuetzt kleine und mittlere Unternehmen bei Digitalisierungsvorhaben und bei Massnahmen fuer IT-Sicherheit, also den Schutz von Computern und Daten. Neben einer frueheren Zuschussvariante gibt es eine Darlehensvariante mit verguenstigtem Zins, ueber die auch kleine Betriebe Investitionen etwa in Software, Online-Auftritte oder Sicherheitstechnik finanzieren koennen.",
+      "why": "Fuer dich als Solo-Unternehmer in Baden-Wuerttemberg ist das ein passgenauer Hebel, um Investitionen in dein digitales System guenstiger zu finanzieren. Pruefe auf der Seite des Wirtschaftsministeriums die aktuell offene Variante und deren Konditionen, bevor du eine groessere Anschaffung planst.",
+      "source": "Wirtschaftsministerium Baden-Wuerttemberg / L-Bank",
+      "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme-und-aufrufe/liste-foerderprogramme/digitalisierungspraemie"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale betreffen die naechste Ausbaustufe deines KI-Systems: neue Bausteine und ein stabiler Standard.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Beta-SDKs der neuen MCP-Spezifikation ausprobieren",
+       "tag": "Infrastruktur",
+       "paras": [
+        "Das Model Context Protocol, kurz MCP, ist der offene Standard, ueber den KI-Assistenten wie dein System mit externen Werkzeugen und Datenquellen sprechen. Zur kommenden Fassung vom 28. Juli 2026, der bislang groessten Ueberarbeitung, stehen jetzt Beta-Versionen der Software-Entwicklungsbausteine bereit, der sogenannten SDKs (Software Development Kits), mit denen Entwickler MCP in ihre Programme einbauen.",
+        "Damit kannst du die Neuerungen schon vor dem endgueltigen Erscheinen an deinen eigenen Diensten erproben: den zustandslosen Kern (stateless core), der feste Sitzungen ueberfluessig macht, sowie die neuen Erweiterungen fuer server-gerenderte Oberflaechen (MCP Apps) und langlaufende Aufgaben (Tasks). Die vorrangig gepflegten SDKs sollen die Aenderungen innerhalb eines Zehn-Wochen-Fensters unterstuetzen."
+       ],
+       "konkret": "Ziehe in einer Testumgebung das Beta-SDK deiner Programmiersprache und pruefe deinen wichtigsten MCP-Server dagegen, damit du am 28. Juli ohne Ueberraschungen auf die finale Fassung umstellen kannst.",
+       "snippetLabel": "Prompt zur Migrationsplanung",
+       "snippet": "Lies die Beta-SDK-Ankuendigung zur MCP-Spezifikation 2026-07-28 und meinen MCP-Server unter <span class=\"ph\">{Pfad}</span>.\nErstelle einen Migrationsplan:\n1) Welche Teile meines Servers haengen am alten, sitzungsbehafteten Modell und muessen fuer den stateless core angepasst werden?\n2) Wo koennte ich die neuen Erweiterungen MCP Apps oder Tasks sinnvoll nutzen?\n3) Gib die Schritte in der Reihenfolge aus, in der ich sie testen sollte, mit Aufwandsschaetzung.",
+       "source": "Model Context Protocol Blog",
+       "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Claude Sonnet 5 mit grossem Kontextfenster testen",
+       "tag": "Modellwahl",
+       "paras": [
+        "Anthropic, das Unternehmen hinter der KI Claude, hat Claude Sonnet 5 als neues Standardmodell in seiner Entwicklerumgebung eingefuehrt. Das Modell verfuegt ueber ein Kontextfenster von einer Million Token; das Kontextfenster ist die Menge an Text, die das Modell auf einmal verarbeiten kann, und ein Token ist ein kurzer Wort- oder Zeichenbaustein. Fuer dieses Modell gilt zunaechst ein verguenstigter Einfuehrungspreis, laut Ankuendigung bis zum 31. August.",
+        "Ein grosses Kontextfenster erlaubt es, ganze Projektakten, lange Protokolle oder umfangreiche Quelltexte in einem Rutsch auszuwerten, ohne sie muehsam zu zerteilen. Zugleich wurden die Nutzungsgrenzen (Rate Limits) der Claude-Schnittstelle angehoben."
+       ],
+       "konkret": "Wenn du bei einer Aufgabe bisher lange Texte in Haeppchen an das Modell geben musstest, teste sie einmal in einem Durchgang mit Sonnet 5 und dem grossen Kontextfenster, solange der Einfuehrungspreis gilt.",
+       "source": "Anthropic / Releasebot",
+       "url": "https://releasebot.io/updates/anthropic/claude-code",
+       "score": 3
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }
