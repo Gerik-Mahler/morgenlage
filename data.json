@@ -2,139 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Dienstag, 7. Juli 2026",
-      "weather": "clouds",
-      "temp": "32°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Der Dienstag wird bewölkt, aber heiß bei 32 Grad über Horb, ein Tag für Schatten und Wasser. Zugleich tagen heute die großen Runden: In Ankara beginnt der Gipfel des westlichen Militärbündnisses, in Doha melden die Vermittler im Streit zwischen den USA und dem Iran erste Fortschritte. Erst die Lage, <b>ganz unten dann, was du daraus für dein System machst.</b>",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage · neutral",
-          "items": [
-            {
-              "title": "NATO-Gipfel in Ankara beginnt",
-              "text": "Heute und morgen kommen die Staats- und Regierungschefs der NATO, des westlichen Militärbündnisses aus 32 Mitgliedstaaten, in der türkischen Hauptstadt Ankara zusammen. NATO steht für North Atlantic Treaty Organization, ein Verteidigungsbündnis, in dem sich die Mitglieder gegenseitigen Beistand zusichern. Es ist der erste Gipfel in der Türkei seit 2004. Generalsekretär Mark Rutte, der frühere niederländische Ministerpräsident, hat drei Schwerpunkte gesetzt: höhere Verteidigungsausgaben, eine gestärkte Rüstungsproduktion beiderseits des Atlantiks und weitere Unterstützung für die Ukraine. Dem Entwurf der Abschlusserklärung zufolge wollen die Verbündeten sich zur Beistandspflicht nach Artikel 5 des NATO-Vertrags bekennen, Russland als langfristige Bedrohung benennen und zusätzliche Hilfen für die Ukraine zusagen. Solche Gipfel sind Wegmarken, an denen sich zeigt, wie geschlossen der Westen auftritt.",
-              "source": "NATO · Gipfel in Ankara",
-              "url": "https://www.nato.int/"
-            },
-            {
-              "title": "USA und Iran: Fortschritte bei den Gesprächen in Doha",
-              "text": "Im Streit um das iranische Atomprogramm haben indirekte Gespräche zwischen den USA und dem Iran, vermittelt vom Golfstaat Katar in dessen Hauptstadt Doha, nach Angaben der Vermittler mit Fortschritten geendet. Indirekt heißt, dass beide Seiten nicht am selben Tisch sitzen, sondern über einen Vermittler miteinander reden. Verhandelt wird über das Atomprogramm, die westlichen Sanktionen und die Straße von Hormus, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des Welt-Öls verschifft wird. Eine nächste Runde ist für später angekündigt, ein Abschluss steht aus. Für Europa zählt jede Entspannung an dieser Meerenge doppelt, weil an ihr auch die Energiepreise hängen.",
-              "source": "Reuters · US-Iran-Gespräche in Doha"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "merk": {
-            "text": "Die Teuerung im Euroraum zieht wieder an, während sie in Deutschland nachgibt.",
-            "tone": "g"
-          },
-          "items": [
-            {
-              "title": "Inflation im Euroraum und in Deutschland laufen auseinander",
-              "text": "Vor dem nächsten Zinsentscheid richtet sich der Blick auf ein ungleiches Bild bei den Preisen. Die Teuerungsrate, also der Anstieg der allgemeinen Preise gegenüber dem Vorjahr, ist im Euroraum zuletzt auf rund 3,2 Prozent gestiegen, während sie in Deutschland im Juni überraschend von 2,6 auf 2,3 Prozent gesunken ist. Der Euroraum umfasst die 20 Länder, die den Euro als Währung nutzen. Für die Europäische Zentralbank, kurz EZB, die für diese Länder die Geldpolitik festlegt, ist das eine Zwickmühle: Sie steuert nach dem Durchschnitt aller Euro-Länder, und der liegt weiter über ihrem Ziel von 2 Prozent. Nach der ersten Zinsanhebung seit September 2023 am 11. Juni, mit der der Einlagenzins auf 2,25 Prozent stieg, entscheidet der Rat am 23. Juli erneut. Für Selbstständige heißt das, Finanzierungen weiter eher teurer einzuplanen.",
-              "source": "EZB · nächster Zinsentscheid 23. Juli",
-              "url": "https://www.ecb.europa.eu/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Irland zahlt Künstlern ein Grundeinkommen",
-              "img": "https://live.staticflickr.com/3312/3226375271_9998ac7530_b.jpg",
-              "text": "Irland macht ein zunächst befristetes Modellprojekt dauerhaft: Künstlerinnen und Künstler erhalten dort ein Grundeinkommen, also eine feste monatliche Zahlung ohne Gegenleistung, damit sie ihrer Arbeit nachgehen können, ohne ständig um die Miete bangen zu müssen. Hintergrund ist die Beobachtung, dass Kunst und Kultur die Wirtschaft stärken und das gesellschaftliche Leben bereichern, viele Kreative aber kaum von ihrer Arbeit leben können. Erste Auswertungen zeigen, dass die Geförderten mehr Zeit ins eigene Schaffen stecken und seltener aus Geldnot den Beruf wechseln. Für ein ganzes Land ist das ein bemerkenswerter Versuch, kulturelle Arbeit verlässlich abzusichern."
-            },
-            {
-              "title": "Mexiko: Fußball für sehbehinderte Frauen",
-              "img": "https://live.staticflickr.com/1/3545199_ee47f36ed1.jpg",
-              "text": "In Mexiko hat sich eine Fußballmannschaft gegründet, die blinden und sehbehinderten Frauen das Spielen ermöglicht, in einem Umfeld, das ausdrücklich auf Teilhabe setzt. Beim Blindenfußball orientieren sich die Spielerinnen am Geräusch eines mit Rasseln versehenen Balls und an Zurufen. Die Teilnehmerinnen berichten, dass sie über den Sport Selbstvertrauen, Selbstständigkeit, Freundschaften und Fitness gewinnen. Solche Angebote sind mehr als Freizeit: Sie öffnen einen Raum, in dem eine oft übersehene Gruppe sichtbar wird und Gemeinschaft erlebt."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Erstmals die Geburt eines Magnetars beobachtet",
-              "img": "https://live.staticflickr.com/7093/27744663791_f140fd684a_b.jpg",
-              "text": "Astronomen haben nach eigenen Angaben zum ersten Mal die Geburt eines Magnetars mitverfolgt, bestätigt durch ein eigentümliches, zwitscherndes Signal aus einer fernen Sternexplosion. Ein Magnetar ist eine besondere Art Neutronenstern, also der extrem dichte Überrest eines ausgebrannten, kollabierten Sterns, und trägt das stärkste Magnetfeld, das im Universum bekannt ist, milliardenfach stärker als alles, was auf der Erde erzeugbar wäre. Bisher kannte man Magnetare nur als fertige Objekte, ihre Entstehung war reine Theorie. Das aufgezeichnete Signal aus einer Supernova, dem hellen Aufleuchten eines sterbenden Sterns, liefert nun erstmals einen direkten Hinweis darauf, wie diese kosmischen Magnete entstehen. Für die Astrophysik ist das ein seltener Blick auf einen Moment, der sonst im Verborgenen abläuft."
-            },
-            {
-              "title": "Warum alternde Muskeln langsamer heilen",
-              "text": "Forschende an der Universität von Kalifornien in Los Angeles, kurz UCLA, haben einen molekularen Grund dafür gefunden, warum sich Muskeln im Alter schlechter erholen. In alten Muskel-Stammzellen, also den Reservezellen, aus denen der Körper geschädigtes Gewebe neu aufbaut, reichert sich ein Eiweiß namens NDRG1 an und wirkt wie eine Bremse: Es hält die Zellen davon ab, nach einer Verletzung in den Reparaturmodus zu schalten. Im Laborversuch ließ sich die Regeneration wieder verbessern, indem dieser Bremseffekt gelöst wurde. Noch ist das Grundlagenforschung an Zellen und Tieren, doch es weist einen möglichen Ansatzpunkt, um die Heilung im Alter zu unterstützen."
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Heißer Sommertag, und der Kalender füllt sich",
-              "img": "https://live.staticflickr.com/7009/6564586837_eca110e72c_b.jpg",
-              "text": "Der Dienstag selbst bleibt in Horb ruhig, wird aber mit rund 32 Grad der heißeste Tag der Woche, auch wenn der Himmel bewölkt ist, weshalb viel Trinken und ein schattiges Plätzchen am Neckar heute die beste Empfehlung sind. Für die kommenden Wochen füllt sich der Veranstaltungskalender der Stadt: Am 19. Juli steigt das Schlager-Open-Air Dolce Vita im Ländle, also unter freiem Himmel, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen, ab dem 29. Juli öffnet mittwochs wieder der Schlossgarten mit Bewirtung ab 17 Uhr, ein erhöht über dem Neckar gelegener Ort für einen ruhigen Sommerabend, und am 31. Juli spielt Andreas Kümmert mit seiner Band. Die vollständige Übersicht steht auf den Seiten der Stadt Horb.",
-              "source": "Stadt Horb · Veranstaltungen",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Große Runden tagen an fernen Orten, doch das Wetter über dem eigenen Dach entscheidet, wie der Tag sich anfühlt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Kostenlose Rechenleistung aus Europas KI-Fabriken",
-            "text": "Die Europäische Union baut derzeit ein Netz sogenannter AI Factories auf, zu Deutsch KI-Fabriken, das sind auf künstliche Intelligenz zugeschnittene Hochleistungsrechenzentren, aufgebaut über die gemeinsame Initiative EuroHPC. EuroHPC steht für European High Performance Computing, den europäischen Zusammenschluss für Supercomputer. Über regelmäßige Zugangsaufrufe, im Fachjargon Access Calls, können auch Solo-Gründer und kleine Firmen kostenlose Rechenzeit beantragen, um KI-Modelle zu trainieren oder zu betreiben. Bis Ende 2026 sollen mindestens 15 dieser Standorte in Betrieb sein. Ein Supercomputer bündelt sehr viele Rechenkerne, um Aufgaben zu bewältigen, an denen ein normaler Rechner scheitert.",
-            "why": "Mehrwert für dich: echte Rechenleistung für rechenintensive Experimente, die du sonst teuer einkaufen müsstest, und das ohne Investor im Rücken. Der erste Schritt ist ein Blick in die offenen Zugangsaufrufe auf dem EuroHPC-Portal, um zu prüfen, welcher zu deinem Vorhaben passt.",
-            "source": "EuroHPC · AI Factories Access Calls",
-            "url": "https://eurohpc-ju.europa.eu/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Nebenbei ist die unternehmenstaugliche Rechteverwaltung des MCP-Standards, die Enterprise-Managed Authorization, stabil geworden, und der neue staatenlose Kern erlaubt es Clients, die Werkzeugliste eines Servers zwischenzuspeichern. Für dein eigenes System heute nur als Referenz ablegen, kein Handlungsdruck.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Ein starkes offenes Modell gratis testen, bis zum 21. Juli",
-              "tag": "Zeitfenster",
-              "paras": [
-                "Der Entwickler und KI-Autor Simon Willison weist darauf hin, dass der chinesische Technikkonzern Tencent sein neues, sehr großes Sprachmodell mit dem Namen Hy3 vorgestellt hat, ein sogenanntes Mixture-of-Experts-Modell mit rund 295 Milliarden Parametern. Mixture of Experts, sinngemäß Expertengemisch, bedeutet, dass ein solches Modell bei jeder Anfrage nur einen Teil seiner Bausteine aktiviert und dadurch trotz seiner Größe vergleichsweise günstig zu betreiben ist. Bis zum 21. Juli ist es kostenlos über OpenRouter erreichbar, eine Plattform, die viele KI-Modelle über eine einzige Schnittstelle zugänglich macht.",
-                "Das schließt genau an die Faustregel dieser Woche an, das teure Modell nur fürs Denken zu nutzen und die Fleißarbeit günstiger zu erledigen. Das kostenlose Zeitfenster ist die Gelegenheit, ein starkes offenes Modell an einem echten Routineschritt deines Systems auszuprobieren und mit deinem bisherigen Weg zu vergleichen, ohne dafür zu bezahlen. Am Ende steht eine belastbare Entscheidung statt eines Bauchgefühls."
-              ],
-              "merk": "Ein kostenloses Zeitfenster ist ein Test, den man sonst bezahlt.",
-              "konkret": "Nimm einen einzigen, klar abgegrenzten Routineschritt deines Systems, etwa das Erzeugen von Textbausteinen, und lasse ihn testweise über OpenRouter von Tencent Hy3 erledigen. Vergleiche Ergebnis, Tempo und spätere Kosten mit deinem bisherigen Modell und sichere die Erkenntnis, bevor das Zeitfenster am 21. Juli schließt.",
-              "snippetLabel": "Prompt-Snippet · „Modell-Vergleich\"",
-              "snippet": "Du bist ein nüchterner Test-Auswerter für KI-Modelle.\nIch habe denselben Routineschritt einmal mit meinem bisherigen Modell\nund einmal mit Tencent Hy3 (über OpenRouter) ausgeführt.\n\n1) Vergleiche die beiden Ergebnisse auf Korrektheit, Ton und Vollständigkeit.\n2) Wo ist Hy3 spürbar schwächer oder stärker?\n3) Taugt Hy3 für genau diesen Routineschritt als günstigerer Ersatz? Ja/Nein mit Begründung.\n4) Nenne einen einzigen nächsten Test, der die Entscheidung absichert.\n\n--- ROUTINESCHRITT ---\n<span class=\"ph\">{ den getesteten Schritt kurz beschreiben }</span>\n--- ERGEBNIS BISHERIGES MODELL ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>\n--- ERGEBNIS HY3 ---\n<span class=\"ph\">{ Ausgabe einfügen }</span>",
-              "source": "Simon Willison · Tencent Hy3 auf OpenRouter",
-              "url": "https://simonwillison.net/",
-              "score": "16,2"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Mittwoch, 8. Juli 2026",
       "weather": "clouds",
       "temp": "27°C · bewölkt",
@@ -1012,6 +879,163 @@
               "snippet": "Lies meine Anleitung unter <span class=\"ph\">{Pfad zur Anleitung}</span>.\nEntwirf daraus einen Agent Skill:\n1) Ein knapper Titel und eine Beschreibung, wann der Skill laden soll.\n2) Die eigentliche Schritt-für-Schritt-Anleitung, ohne Füllwörter.\n3) Hinweise, welche Werkzeuge oder Quellen der Skill braucht.",
               "source": "Anthropic Engineering",
               "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+              "score": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mittwoch, 15. Juli 2026",
+      "weather": "thunder",
+      "temp": "28°C · Gewitter",
+      "greeting": "Guten Morgen, Gerik. Der Hochsommer bleibt kräftig: In Horb am Neckar werden heute bis zu 28 Grad erwartet, dazu können im Tagesverlauf Gewitter aufziehen. In der Weltlage geht es um die weitere Zuspitzung des Konflikts um die Straße von Hormus, in der Wirtschaft um eine vorsichtige Stabilisierung der deutschen Konjunktur bei sinkender Inflation, und aus der Forschung kommt die Nachricht, dass künstliche Intelligenz die Suche nach neuen Supraleitern beschleunigt. Hier ist deine Morgenlage.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "USA und Iran verschärfen den Konflikt um die Straße von Hormus",
+              "text": "Der Streit um die Straße von Hormus, die enge Meerenge zwischen dem Iran und der Arabischen Halbinsel, durch die ein großer Teil des weltweit verschifften Erdöls fließt, hat sich weiter zugespitzt. Nachdem der Iran nach eigenen Angaben ein Handelsschiff beschossen und die Wasserstraße für gesperrt erklärt hatte, griffen die Vereinigten Staaten in mehreren aufeinanderfolgenden Nächten Ziele im Iran an. Zusätzlich setzten die USA eine Seeblockade gegen Schiffe in Kraft, die iranische Häfen anlaufen oder verlassen. Nach Angaben des Analyseunternehmens Kpler, das weltweite Rohstoff- und Schiffsbewegungen auswertet, ging die Zahl der Durchfahrten durch die Meerenge gegenüber der Vorwoche um mehr als die Hälfte zurück. US-Präsident Donald Trump kündigte in einem Fernsehinterview weitere Angriffe an, sollte Teheran, die Hauptstadt und Regierungssitz des Iran, nicht an den Verhandlungstisch zurückkehren. Warum das zählt: Eine anhaltende Störung dieser Wasserstraße kann die Energiepreise weltweit in die Höhe treiben und damit auch Sprit-, Heiz- und Betriebskosten in Deutschland verteuern.",
+              "source": "NPR / CNN / Al Jazeera",
+              "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates"
+            },
+            {
+              "title": "USA verschärfen Einreiseregeln wegen Ebola-Ausbruch im Kongo",
+              "text": "Wegen eines Ausbruchs der Ebola-Krankheit in der Demokratischen Republik Kongo, einem großen Land in Zentralafrika, haben die USA neue Reisevorgaben erlassen. Ebola ist eine seltene, aber oft schwer verlaufende Viruserkrankung, die hohes Fieber und innere Blutungen auslösen kann. Nach den neuen Regeln müssen auch US-Bürger, die sich in dem betroffenen Land aufgehalten haben, vor der Einreise in die USA zunächst 21 Tage in einem anderen Land verbringen. Diese Frist entspricht in etwa der längsten Zeitspanne, in der die Krankheit nach einer Ansteckung noch ausbrechen kann. Warum das zählt: Solche Vorsichtsmaßnahmen zeigen, wie eng die Gesundheitslage in einzelnen Regionen und der weltweite Reiseverkehr zusammenhängen.",
+              "source": "CBS News",
+              "url": "https://www.cbsnews.com/news/us-citizens-ebola-democratic-republic-congo-travel-restrictions/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Deutsche Wirtschaft stabilisiert sich vorsichtig, Inflation sinkt auf 2,3 Prozent",
+              "text": "Das Bundesministerium für Wirtschaft, das für die Wirtschaftspolitik zuständige Regierungsressort, sieht die deutsche Konjunktur in einem fragilen weltweiten Umfeld auf einem Weg der vorsichtigen Stabilisierung. Nachdem hohe Energiepreise die Wirtschaft im Frühjahr belastet hatten, deuten die jüngsten Indikatoren auf eine leichte Erholung hin, unterstützt durch zwischenzeitlich gesunkene Ölpreise. Die Inflationsrate, also der Anstieg der Verbraucherpreise binnen eines Jahres, fiel im Juni auf 2,3 Prozent nach 2,6 Prozent im Mai; die Kernrate ohne Energie und Nahrungsmittel blieb mit 2,5 Prozent aber erhöht. Am Arbeitsmarkt zeigt sich ein noch schwaches Bild, die Zahl der Kurzarbeiter lag zuletzt bei rund 133.000. Die Europäische Zentralbank (EZB), die gemeinsame Notenbank der Länder mit dem Euro, hatte die Leitzinsen Mitte Juni erstmals seit Herbst 2023 wieder leicht angehoben; für die kommenden Wochen gilt eine weitere Änderung als unwahrscheinlich. Warum das zählt: Eine niedrigere Inflation entlastet Verbraucher und Betriebe, während stabile Zinsen die Finanzierung und Planung erleichtern.",
+              "source": "Bundesministerium für Wirtschaft / LBBW",
+              "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260714-wirt-lage-deutschland-juli-2026.html"
+            }
+          ],
+          "merk": {
+            "text": "Das größte Preisrisiko bleibt die Lage an der Straße von Hormus. Bleibt die Meerenge länger gestört und steigt der Ölpreis wieder deutlich, schlägt das rasch auf Sprit-, Heiz- und Betriebskosten durch. Für dich als Solo-Unternehmer heißt das: Kalkuliere bei längerfristigen Angeboten weiterhin einen Puffer für schwankende Energiekosten ein.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Europäischer Erfinderpreis für einen günstigen Malaria-Impfstoff",
+              "text": "Der britische Wissenschaftler Sir Adrian Hill ist mit dem Europäischen Erfinderpreis 2026 ausgezeichnet worden, einer jährlichen Auszeichnung des Europäischen Patentamts für herausragende Erfindungen. Geehrt wird er für den Malaria-Impfstoff mit dem Namen R21/Matrix-M. Malaria ist eine von Stechmücken übertragene Tropenkrankheit, an der weltweit noch immer jedes Jahr Hunderttausende Menschen sterben, vor allem Kinder in Afrika. Der Impfstoff bietet nach den vorliegenden Daten einen Schutz von etwa 75 bis 80 Prozent und kostet pro Dosis nur rund 2,50 Pfund, was ihn auch für ärmere Länder erschwinglich macht. Warum das zählt: Ein wirksamer und zugleich günstiger Impfstoff kann viele Menschen erreichen und zeigt, dass medizinischer Fortschritt und Bezahlbarkeit zusammengehen können.",
+              "img": "https://live.staticflickr.com/2933/14127499779_d1ee3f2ef3.jpg",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
+            },
+            {
+              "title": "Paris öffnet nach über hundert Jahren wieder Badestellen in der Seine",
+              "text": "In Paris sind erneut drei offizielle Badezonen in der Seine geöffnet worden, dem Fluss, der die französische Hauptstadt durchquert. Das Baden im Fluss war dort mehr als hundert Jahre lang verboten, vor allem wegen der Wasserverschmutzung. Nach jahrelangen und aufwendigen Maßnahmen zur Verbesserung der Wasserqualität, unter anderem im Umfeld der Olympischen Spiele, ist das Wasser inzwischen an vielen Tagen sauber genug zum Schwimmen. An heißen Sommertagen können Einheimische wie Gäste die ausgewiesenen Stellen nun kostenlos nutzen. Warum das zählt: Das Beispiel zeigt, dass sich auch stark belastete Gewässer mit langfristigem Einsatz wieder beleben lassen.",
+              "img": "https://live.staticflickr.com/3536/3277552538_a452578dfa.jpg",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Neue Bauteile machen MRT-Aufnahmen schärfer und schneller",
+              "text": "Forschende haben die Magnetresonanztomographie, kurz MRT, mit sogenannten Metamaterialien verbessert. Die MRT ist ein bildgebendes Verfahren, das mit starken Magnetfeldern detaillierte Schnittbilder aus dem Körperinneren erzeugt, ohne Röntgenstrahlung einzusetzen. Metamaterialien sind künstlich aufgebaute Strukturen, deren besondere innere Anordnung ihnen Eigenschaften verleiht, die natürliche Stoffe nicht besitzen. Mit ihnen ließen sich bestehende Geräte so ergänzen, dass sie schwer einsehbare Körperregionen klarer und in kürzerer Zeit abbilden. Warum das zählt: Schnellere und schärfere Aufnahmen können Diagnosen erleichtern und die Zeit verkürzen, die Patienten in der engen Röhre verbringen müssen.",
+              "img": "https://live.staticflickr.com/4022/4222033719_24f2121b36_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/health_medicine/"
+            },
+            {
+              "title": "Künstliche Intelligenz hilft, neue Supraleiter zu finden",
+              "text": "Ein Forschungsteam hat maschinelles Lernen, eine Form der künstlichen Intelligenz, mit den Gesetzen der Quantenphysik verknüpft und damit zwei bislang unbekannte Supraleiter entdeckt. Supraleiter sind Werkstoffe, die elektrischen Strom unterhalb einer bestimmten Temperatur völlig ohne Widerstand und damit ohne Verluste leiten. Das neue Verfahren beschleunigt zugleich die Suche nach weiteren solchen Materialien erheblich. Warum das zählt: Bessere Supraleiter gelten als Schlüssel für verlustarme Stromnetze, stärkere Magnete und leistungsfähigere Rechner, und schnellere Suchmethoden bringen dieses Ziel ein Stück näher.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Schwüler Sommertag mit Gewitterneigung und ein voller Veranstaltungskalender",
+              "text": "Bei bis zu 28 Grad und aufziehenden Gewittern zeigt sich Horb am Neckar heute von seiner schwül-warmen Seite. Der Veranstaltungskalender bleibt gut gefüllt: Am Freitag, dem 17. Juli, lädt das Kulturhaus Kloster zu einem Abendprogramm ein, am Sonntag, dem 19. Juli, folgt das Schlager-Open-Air 'Dolce Vita im Ländle', und vom 24. bis 26. Juli spielt das Double Stage Festival auf mehreren Bühnen. Ab dem 29. Juli öffnet zudem mittwochs ab 17 Uhr der Schlossgarten mit Bewirtung. An einem Tag mit Gewitterneigung empfiehlt es sich, Ausflüge in die frühen, meist noch trockeneren Stunden zu legen und bei aufziehenden Wolken die schützenden Gassen der historischen Altstadt oder ein Café aufzusuchen. Warum das zählt: Wer Wetter und Termine kennt, kann Ausflüge und ruhige Stunden in der Stadt gut planen.",
+              "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
+              "source": "regioactive / meinestadt",
+              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ruhe entsteht selten von außen; oft ist es der klar geordnete eigene Tag, der den unruhigen Nachrichten etwas Festes entgegensetzt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Codex Open Source Fund: bis zu 25.000 Dollar Guthaben für Open-Source-Pflege",
+            "text": "OpenAI, das Unternehmen hinter dem KI-System ChatGPT, betreibt einen Förderfonds für quelloffene Software, den Codex Open Source Fund. Quelloffene oder Open-Source-Software ist Software, deren Quelltext frei einsehbar ist und von jedem genutzt und verbessert werden darf. Der Fonds vergibt an Personen, die ein bedeutendes Open-Source-Projekt betreuen, ein Guthaben von bis zu 25.000 US-Dollar für die Nutzung des Programmierwerkzeugs Codex. Voraussetzung ist ein Nachweis, dass man tatsächlich ein solches Projekt pflegt.",
+            "why": "Falls du ein eigenes Open-Source-Projekt pflegst oder zu einem beiträgst, ist das ein konkreter Hebel, um Entwicklungsarbeit ohne eigene Kosten zu beschleunigen. Auch wenn dein System im Alltag auf Claude läuft, lohnt ein prüfender Blick auf die Bedingungen, denn das Guthaben ist an die nachweisbare Pflege eines Projekts gebunden und lässt sich unabhängig davon einordnen.",
+            "source": "Übersicht KI-Guthaben 2026 (klymentiev.com)",
+            "url": "https://klymentiev.com/blog/openai-free-credits"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Beide Neuerungen zielen darauf, Arbeitsschritte, die du bisher zwischen Assistent und Browser hin und her getragen hast, in einer Umgebung zu bündeln.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Der neue eingebaute Browser in Claude Code Desktop",
+              "tag": "Werkzeug",
+              "paras": [
+                "Claude Code, das Entwicklerwerkzeug, mit dem du dein System betreibst, hat in der Desktop-Version einen eingebauten Browser bekommen. Damit kann der Assistent selbst Webseiten öffnen, Dokumentationen nachschlagen und sich durch Seiten klicken, statt dass du Inhalte manuell kopierst und einfügst.",
+                "Der Browser läuft in einer abgeschirmten Umgebung, und Sicherheitsprüfungen kontrollieren die Aktionen auf fremden Seiten. Für dich heißt das: Rechercheschritte, das Prüfen von Quellen oder das Ablesen von Werten aus einer Weboberfläche lassen sich künftig direkt im Assistenten erledigen, ohne den Arbeitsfluss zu unterbrechen."
+              ],
+              "konkret": "Wenn du die Desktop-Version nutzt, probiere den eingebauten Browser an einem echten Rechercheschritt aus, etwa dem Nachschlagen einer Dokumentationsseite, und prüfe, ob er einen deiner bisherigen manuellen Zwischenschritte ersetzt.",
+              "snippetLabel": "Prompt zum Ausprobieren",
+              "snippet": "Öffne im eingebauten Browser die Seite <span class=\"ph\">{URL der Dokumentation}</span>.\nSuche dort die Angaben zu <span class=\"ph\">{gesuchtes Thema}</span> und fasse mir die relevanten Schritte knapp zusammen.",
+              "source": "Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/whats-new",
+              "score": 3
+            },
+            {
+              "icon": "layers",
+              "title": "Ergebnisse als Artifact direkt aus Claude Code teilen",
+              "tag": "Automatisierung",
+              "paras": [
+                "Claude Code kann jetzt sogenannte Artifacts erzeugen, also in sich geschlossene, teilbare Seiten, die der Assistent aus dem vollen Zusammenhang deiner Sitzung baut, einschließlich deines Projektcodes und deiner Datenquellen. Aktualisiert der Assistent ein Artifact, lädt die geöffnete Seite an Ort und Stelle neu.",
+                "Für einen Ablauf wie deine tägliche Morgenlage ist das nützlich, wenn du ein Ergebnis nicht nur als Datei ablegen, sondern als übersichtliche Seite betrachten oder weitergeben willst. So lässt sich etwa eine Auswertung mit einem festen Verweis bereitstellen, der sich bei jeder Aktualisierung von selbst erneuert."
+              ],
+              "konkret": "Nimm ein wiederkehrendes Ergebnis, das du bisher nur als Textdatei erzeugst, und lass es einmal zusätzlich als Artifact darstellen, um zu sehen, ob dir die Seitenansicht den Überblick erleichtert.",
+              "snippetLabel": "Prompt zum Entwurf",
+              "snippet": "Erzeuge aus <span class=\"ph\">{Pfad zur Datei oder Datenquelle}</span> ein übersichtliches Artifact.\nGliedere es klar nach <span class=\"ph\">{gewünschte Abschnitte}</span> und halte es schlicht und gut lesbar.",
+              "source": "Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/whats-new",
               "score": 2
             }
           ]
