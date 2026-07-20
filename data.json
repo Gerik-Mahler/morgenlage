@@ -2,161 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Montag, 13. Juli 2026",
-      "weather": "clouds",
-      "temp": "32°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Der Hochsommer bleibt heiss, zeigt sich in Horb aber von der bedeckten Seite: ein bewölkter, aber warmer Tag mit bis zu 32 Grad steht bevor. In der Weltlage geht es um die gefährliche Zuspitzung am Persischen Golf, in der Wirtschaft um die weiter sinkende Inflation im Euroraum, und aus der Forschung kommt ein Fortschritt bei sichereren Batterien. Hier ist deine Morgenlage.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Zuspitzung am Persischen Golf: Straße von Hormus für gesperrt erklärt",
-              "text": "Die Marine der iranischen Revolutionsgarden, einer eigenständigen und mächtigen Teilstreitkraft der iranischen Streitkräfte, hat am 12. Juli die Straße von Hormus für gesperrt erklärt. Die Straße von Hormus ist eine enge Meerenge zwischen dem Iran und der Arabischen Halbinsel, durch die ein erheblicher Teil des weltweit per Schiff transportierten Erdöls und Flüssigerdgases fährt. Zuvor hatte das US-Militär nach eigenen Angaben militärische Ziele im Iran angegriffen, nachdem in den Tagen davor mehrere Öltanker in der Meerenge beschossen worden waren. Beobachter betonen, dass der Ölmarkt bislang keine vollständige, dauerhafte Sperrung einpreist, sondern eher wechselnde Phasen von Konflikt und Ruhe erwartet. Warum das zählt: Eine längere Sperrung der Meerenge könnte die Energiepreise weltweit steigen lassen und damit auch Sprit-, Heiz- und Betriebskosten in Deutschland spürbar erhöhen.",
-              "source": "Al Jazeera / Wikipedia",
-              "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
-            },
-            {
-              "title": "US-Senator Lindsey Graham im Alter von 71 Jahren gestorben",
-              "text": "Der langjährige US-Senator Lindsey Graham aus dem Bundesstaat South Carolina ist im Alter von 71 Jahren gestorben. Graham gehörte der Republikanischen Partei an, war ein enger Verbündeter von Präsident Donald Trump und galt außenpolitisch als Verfechter einer harten Linie. Nach vorläufigen Angaben der Gerichtsmedizin starb er an einer Aortendissektion, einem plötzlichen Einriss der Hauptschlagader. Er war Vorsitzender des Haushaltsausschusses des Senats und wollte im November erneut kandidieren. Warum das zählt: Sein Tod verändert die Mehrheitsverhältnisse und die außenpolitischen Stimmen im US-Senat in einer ohnehin angespannten weltpolitischen Lage.",
-              "source": "NPR / Washington Post",
-              "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Inflation im Euroraum sinkt im Juni auf 2,8 Prozent",
-              "text": "Die Inflation im Euroraum, also der Anstieg der Verbraucherpreise in den derzeit 20 Ländern mit dem Euro als Währung, ist im Juni stärker als erwartet auf 2,8 Prozent gesunken. Damit nähert sie sich dem Ziel der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank dieser Länder, die eine Teuerung von rund zwei Prozent anstrebt. Am 23. Juli entscheidet die EZB erneut über die Leitzinsen, also den Preis, zu dem sich Banken bei ihr Geld leihen; nach der Anhebung im Juni rechnen viele Beobachter mit einer Pause, um weitere Daten abzuwarten. Zugleich droht der deutschen Wirtschaftsleistung im zweiten Quartal eine leichte Schrumpfung. Warum das zählt: Sinkende Inflation und stabile Zinsen erleichtern Planung und Finanzierung, während eine schwache Konjunktur zugleich die Auftragslage bremsen kann.",
-              "source": "WirtschaftsWoche / EZB",
-              "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-inflation-im-euroraum-schwaecht-sich-im-juni-merklich-ab/100237150.html"
-            }
-          ],
-          "merk": {
-            "text": "Größtes Risiko für die Preisberuhigung bleibt die Lage am Persischen Golf: Der Preis für Brent, die wichtigste internationale Rohölsorte, liegt bei rund 76 US-Dollar je Barrel (ein Barrel sind etwa 159 Liter). Für dich als Solo-Unternehmer heißt das: Kalkuliere bei längeren Angeboten weiter einen Puffer für schwankende Energie- und Betriebskosten ein.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Europäischer Erfinderpreis für einen Malaria-Impfstoff",
-              "text": "Der Wissenschaftler Sir Adrian Hill hat den Europäischen Erfinderpreis 2026 erhalten, eine jährliche Auszeichnung des Europäischen Patentamts. Geehrt wurde er für die Entwicklung des Malaria-Impfstoffs mit dem Namen R21/Matrix-M an der Universität Oxford. Malaria ist eine von Mücken übertragene Infektionskrankheit, an der vor allem in Afrika jährlich sehr viele Menschen sterben. Der Impfstoff erreichte in Studien einen Schutz von rund 80 Prozent, kostet weniger als drei Euro je Dosis und bleibt auch unter einfachen Bedingungen haltbar, was den Einsatz in abgelegenen Regionen erleichtert. Warum das zählt: Er zeigt, dass beharrliche Forschung eine über Jahrzehnte kaum beherrschbare Krankheit breit zurückdrängen kann.",
-              "img": "https://live.staticflickr.com/7355/9209367266_10357eb4bb_b.jpg",
-              "source": "Positive News / Universität Oxford",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            },
-            {
-              "title": "Luftverschmutzung in Europa geht deutlich zurück",
-              "text": "Neue Daten zeigen, dass die Luftverschmutzung in Europa spürbar sinkt. Der Ausstoß von Schwefeloxiden und Stickoxiden, also von Gasen, die vor allem beim Verbrennen von Kohle, Öl und Kraftstoffen entstehen und Atemwege wie Umwelt belasten, ist seit dem Jahr 2010 jährlich um etwa drei bis fünf Prozent zurückgegangen. Ursachen sind strengere Vorgaben, sauberere Fahrzeuge und ein wachsender Anteil erneuerbarer Energien. Warum das zählt: Sauberere Luft bedeutet weniger Atemwegserkrankungen und ist ein Beleg dafür, dass langfristige Umweltpolitik messbar wirkt.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Rätsel um Kurzschlüsse in Feststoffbatterien gelöst",
-              "text": "Forschende haben aufgeklärt, wie sogenannte Lithium-Dendriten die harte Keramik im Inneren von Feststoffbatterien beschädigen. Feststoffbatterien sind Akkus, bei denen der flüssige Innenteil heutiger Batterien durch einen festen Stoff ersetzt ist; sie gelten als sicherer und leistungsfähiger. Dendriten sind winzige, nadelförmige Auswüchse aus Metall, die im Betrieb wachsen und Kurzschlüsse auslösen können. Das Team zeigte im Detail, wie diese Auswüchse die feste Keramik von innen aufsprengen und so den Ausfall verursachen. Warum das zählt: Wer das Problem versteht, kann langlebigere und sicherere Batterien für Elektroautos und Stromspeicher entwickeln.",
-              "img": "https://live.staticflickr.com/2635/4029430691_78cda77b00.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
-            },
-            {
-              "title": "Silizium-Chip stellt DNA sauberer her",
-              "text": "Ein anderes Forschungsteam hat einen Silizium-Chip entwickelt, der Dutzende von DNA-Abschnitten gleichzeitig herstellen kann. DNA ist das Molekül, das die Erbinformation aller Lebewesen trägt. Der Chip nutzt dazu elektrischen Strom und wasserbasierte Enzyme, also Eiweiße, die chemische Reaktionen beschleunigen, und kommt ohne die aggressiven Chemikalien der bisherigen Verfahren aus. Warum das zählt: Günstig und sauber hergestellte DNA ist ein Grundstoff für Medizin, Biotechnik und sogar für die Speicherung von Daten.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Warmer, bedeckter Sommertag und ein voller Festivalkalender",
-              "text": "Bei schwülwarmen bis zu 32 Grad und dichter Bewölkung zeigt sich Horb am Neckar heute von seiner ruhigeren Sommerseite. In den kommenden Tagen füllt sich der Terminkalender: Am 19. Juli steht das Schlager-Open-Air 'Dolce Vita im Ländle' an, vom 24. bis 26. Juli folgt das Double Stage Festival mit mehreren Bühnen. Wer Konzerte im Grünen mag, findet zudem beim Musiksommer im nahe gelegenen Altensteig am 15. Juli den Auftritt eines Kammerorchesters, also eines kleinen Orchesters. An bedeckten, warmen Tagen bieten die schattigen Uferwege am Neckar und die Gassen der historischen Altstadt eine angenehme Abkühlung. Warum das zählt: Wer die Termine kennt, kann Ausflüge und ruhige Stunden in der Stadt gut planen.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dornstetten-p01.jpg",
-              "source": "meinestadt / regioactive",
-              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Zwischen fernen Krisen und dem eigenen Schreibtisch hilft der Blick auf das, was heute wirklich in deiner Hand liegt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "BAFA-Zuschuss für Unternehmensberatung noch bis Jahresende",
-            "text": "Die Förderung für Unternehmensberatung ist ein Bundesprogramm des Bundesamts für Wirtschaft und Ausfuhrkontrolle, kurz BAFA. Sie bezuschusst professionelle Beratungsleistungen für kleine und mittlere Unternehmen, zu denen ausdrücklich auch Solo-Selbstständige und Kleinstbetriebe zählen, unter anderem zu Digitalisierung und Organisation. Für die alten Bundesländer wie Baden-Württemberg werden bis zu 50 Prozent der Beratungskosten übernommen, höchstens 1.750 Euro. Das Programm läuft nach derzeitigem Stand bis zum 31. Dezember 2026.",
-            "why": "Für dich als Solo-Unternehmer ist das ein konkreter Hebel, um einmalig fundierten externen Rat zu einem digitalen Vorhaben mitfinanzieren zu lassen. Prüfe die Voraussetzungen und die Liste zugelassener Berater direkt auf der BAFA-Seite, bevor ein Beratungsauftrag beginnt, denn gefördert wird nur, was vorher beantragt wurde.",
-            "source": "BAFA",
-            "url": "https://www.bafa.de/DE/Wirtschaft/Beratung/Unternehmensberatung/unternehmensberatung_node.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale zielen auf denselben Punkt: dein KI-System zugleich stabil und kostenbewusst weiterzuentwickeln.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "MCP-Release-Candidate gegen deinen Server testen",
-              "tag": "Infrastruktur",
-              "paras": [
-                "Das Model Context Protocol, kurz MCP, ist der offene Standard, über den KI-Assistenten wie dein System mit externen Werkzeugen und Datenquellen sprechen. Für die kommende Fassung vom 28. Juli 2026, der bislang größten Überarbeitung, steht jetzt ein Release Candidate bereit, also eine Vorabversion, die schon dem endgültigen Stand entsprechen soll und nur noch getestet wird.",
-                "Die Neuerungen umfassen einen zustandslosen Kern (stateless core), der feste Sitzungen überflüssig macht und sich leichter auf gewöhnlicher Web-Technik betreiben lässt, sowie Erweiterungen für server-gerenderte Oberflächen (MCP Apps) und langlaufende Aufgaben (Tasks). Zusätzlich wurde die zentrale Rechteverwaltung für Unternehmen (Enterprise-Managed Authorization) für stabil erklärt."
-              ],
-              "konkret": "Zieh in einer Testumgebung den Release Candidate und prüfe deinen wichtigsten MCP-Server dagegen, damit die Umstellung auf die endgültige Fassung am 28. Juli ohne Überraschungen gelingt.",
-              "snippetLabel": "Prompt zur Migrationsprüfung",
-              "snippet": "Lies die Ankündigung zum MCP-Release-Candidate 2026-07-28 und meinen MCP-Server unter <span class=\"ph\">{Pfad}</span>.\nErstelle einen Prüfbericht:\n1) Welche Teile meines Servers hängen am alten, sitzungsbehafteten Modell und müssen für den stateless core angepasst werden?\n2) Bricht mit dem Release Candidate etwas an meinen bestehenden Tools?\n3) Gib eine geordnete Schrittliste mit Aufwandsschätzung bis zum 28. Juli aus.",
-              "source": "Model Context Protocol Blog",
-              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
-              "score": 3
-            },
-            {
-              "icon": "gauge",
-              "title": "Reine Umsetzungsarbeit an ein günstigeres Modell auslagern",
-              "tag": "Effizienz",
-              "paras": [
-                "Der Entwickler Simon Willison, ein bekannter Fachautor zu Sprachmodellen, empfiehlt, für reine Programmier- und Umsetzungsaufgaben bewusst ein kleineres, günstigeres Modell in einem Subagenten zu verwenden. Ein Subagent ist ein untergeordneter KI-Prozess, den das Hauptsystem für eine abgegrenzte Teilaufgabe startet.",
-                "Die Begründung: Das teuerste Spitzenmodell lohnt sich vor allem für Urteil, Planung und die abschließende Prüfung; das eigentliche Schreiben von Code gelingt oft auch einem schwächeren Modell zuverlässig. Wer Aufgaben so aufteilt, spart Kosten, ohne bei den wichtigen Entscheidungen an Qualität zu verlieren."
-              ],
-              "konkret": "Lege in deinem System eine Regel an, die klar abgegrenzte Umsetzungsschritte an ein günstigeres Modell im Subagenten gibt und Urteil, Prüfung und Zusammenführung beim stärkeren Hauptmodell behält.",
-              "snippetLabel": "Regel für deine Systemanweisung",
-              "snippet": "Für klar umrissene Umsetzungsaufgaben (Code schreiben, Textbausteine, mechanische Umformungen) nutze ein günstigeres Modell in einem Subagenten.\nBehalte beim Hauptmodell: Aufgabenzerlegung, Entscheidungen, Prüfung des Ergebnisses und die Zusammenführung.\nBegründe kurz, warum eine Aufgabe an den Subagenten geht oder beim Hauptmodell bleibt.",
-              "source": "Simon Willison's Weblog",
-              "url": "https://simonwillison.net/",
-              "score": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Dienstag, 14. Juli 2026",
       "weather": "rain",
       "temp": "33°C · Regenschauer",
@@ -784,7 +629,6 @@
       "weather": "clouds",
       "temp": "26°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Der Samstag beginnt in Horb am Neckar wolkig und trüb, im Tagesverlauf werden bis zu 26 Grad erreicht, ein ruhiger Sommertag ohne die Gewitter des Vortags. In der Weltlage haben sich die USA und der Iran am Freitag die heftigsten gegenseitigen Angriffe seit dem erneuten Kriegsausbruch geliefert, während in der Ukraine Proteste gegen die Personalpolitik von Präsident Selenskyj aufkommen. In der Wirtschaft blickt alles auf die Zinssitzung der Europäischen Zentralbank am kommenden Mittwoch, aus der Forschung kommt die Entdeckung einer neuen Affenart im Kongo, und die Sonne ist im Juni erstmals zur größten Stromquelle Europas geworden. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -943,7 +787,6 @@
       "weather": "rain",
       "temp": "23°C · Regenschauer",
       "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: Außen wurde es unruhiger, denn der Streit zwischen den USA und dem Iran um die Straße von Hormus, eine schmale Meerenge am Persischen Golf, durch die ein großer Teil des weltweit gehandelten Erdöls verschifft wird, spitzte sich zu und trieb den Ölpreis zeitweise auf ein Monatshoch. Nach innen wurde es ruhiger, denn die Teuerung im Euroraum ging zurück und die Stimmung in der deutschen Wirtschaft hellte sich vorsichtig weiter auf, sodass am kommenden Mittwoch alle Augen auf die Zinssitzung der Europäischen Zentralbank (EZB) gerichtet sind. Und im Kleinen kehrt heute nach einer heißen, gewittrigen Woche ein kühler Sonntag mit Regenschauern und rund 23 Grad ein, ein guter Tag, um das Liegengebliebene in Ruhe zu ordnen. Dieser Rückblick fasst das Wichtigste der Woche zusammen und bündelt ganz unten alle System-Anpassungen zu einem einzigen, kopierfertigen Text.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1108,6 +951,163 @@
         {
           "type": "thought",
           "text": "Drei Bewegungen, eine Woche: Draußen mehr Unruhe, in der Wirtschaft etwas mehr Ruhe, und in deinem System ein paar Handgriffe, die es leiser und stabiler machen. Nimm dir heute die stille Stunde, sie trägt in die neue Woche."
+        }
+      ]
+    },
+    {
+      "label": "Montag, 20. Juli 2026",
+      "weather": "clouds",
+      "temp": "23°C · bewölkt",
+      "greeting": "Guten Morgen, Gerik. Nach den heißen und teils gewittrigen Vorwochen beginnt die Woche in Horb am Neckar deutlich milder: ein trüber, bewölkter Tag mit bis zu 23 Grad steht bevor. In der Weltlage geht es um die weitere Zuspitzung des Konflikts zwischen den USA und dem Iran sowie die anhaltenden Angriffe in der Ukraine, in der Wirtschaft um den mit Spannung erwarteten Zinsentscheid der Europäischen Zentralbank am Mittwoch, und aus der Forschung kommt ein mit künstlicher Intelligenz ausgewerteter Bluttest, der Herzprobleme früh erkennen soll. Hier ist deine Morgenlage.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Konflikt zwischen USA und Iran fordert weitere Todesopfer",
+              "text": "Der seit über einer Woche andauernde Konflikt zwischen den USA und dem Iran hat sich am Wochenende weiter verschärft. Nach Angaben des US-Zentralkommandos, kurz CENTCOM, des für den Nahen Osten zuständigen Regionalkommandos der US-Streitkräfte, wurden bei einem iranischen Angriff im Nachbarland Jordanien zwei amerikanische Soldaten getötet. Auslöser der gegenseitigen Schläge war der Streit um die Straße von Hormus, die schmale Meerenge am Persischen Golf, durch die ein großer Teil des weltweit verschifften Erdöls fährt. Teheran, die Hauptstadt und Regierungssitz des Iran, setzt den Konflikt nach eigenen Angaben unvermindert fort. Warum das zählt: Jede weitere Eskalation an dieser Wasserstraße kann die Energiepreise weltweit anheizen und damit auch die Sprit- und Betriebskosten in Deutschland spürbar verteuern.",
+              "source": "CENTCOM / Al Jazeera",
+              "url": "https://www.aljazeera.com/where/iran/"
+            },
+            {
+              "title": "Anhaltende russische Luftangriffe auf ukrainische Städte",
+              "text": "In der Ukraine gehen die schweren russischen Luftangriffe unvermindert weiter. Bei nächtlichen Angriffen auf die Hauptstadt Kiew sowie auf die Städte Charkiw und Saporischschja kamen nach ukrainischen Angaben mehrere Menschen ums Leben, unter den Verletzten waren auch Kinder. Die Ukraine wiederum traf mit Drohnen, also unbemannten Fluggeräten, mehrere Öldepots im Süden Russlands, unter anderem in der Region Stawropol, wo Großbrände ausbrachen. Innenpolitisch sorgt zugleich der jüngste Umbau der Regierung durch Präsident Wolodymyr Selenskyj, das Staatsoberhaupt des Landes, für Diskussionen. Warum das zählt: Verlauf und Kosten dieses Krieges bleiben ein wichtiger Faktor für die Energiepreise und die politische Planung in ganz Europa.",
+              "source": "ZDF / tagesschau",
+              "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Alle Augen auf den EZB-Zinsentscheid am Mittwoch",
+              "text": "Im Mittelpunkt der Woche steht der Zinsentscheid der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der 20 Länder mit dem Euro, am Mittwoch, dem 23. Juli. Die EZB hatte die Leitzinsen, also den Preis, zu dem sich Banken bei ihr Geld leihen, Mitte Juni erstmals seit Ende 2023 wieder leicht angehoben; der Einlagensatz, zu dem Banken Geld bei der Notenbank parken, liegt seither bei 2,25 Prozent. Die Inflation, also der Anstieg der Verbraucherpreise binnen eines Jahres, hat sich zuletzt abgeschwächt und lag in Deutschland bei rund 2,3 Prozent, während für die deutsche Wirtschaft 2026 nur ein schwaches Wachstum von etwa 0,8 Prozent erwartet wird. Viele Beobachter rechnen deshalb mit einer Zinspause, bei der die Notenbank weitere Daten abwartet. Warum das zählt: Die Leitzinsen bestimmen mit, wie teuer Kredite und wie hoch Sparzinsen sind, und stabile Zinsen erleichtern Planung und Finanzierung.",
+              "source": "LBBW / Deutsche Bundesbank",
+              "url": "https://www.lbbw.de/artikel/maerkte-verstehen/ezb-zinsentscheid-leitzins-prognosen_ait4bfmrfe_d.html"
+            }
+          ],
+          "merk": {
+            "text": "Größtes Risiko für die Preisberuhigung bleibt die Lage am Persischen Golf: Steigt der Ölpreis wegen der Spannungen in der Straße von Hormus länger an, schlägt das rasch auf Sprit-, Heiz- und Betriebskosten durch. Für dich als Solo-Unternehmer heißt das: Kalkuliere bei längerfristigen Angeboten weiterhin einen Puffer für schwankende Energiekosten ein.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Kambodscha erreicht als erstes Land Asiens die 95-95-95-Ziele gegen HIV",
+              "text": "Kambodscha, ein Land in Südostasien, ist nach Angaben der Weltgesundheitsorganisation (WHO), der Gesundheitsbehörde der Vereinten Nationen, das erste Land Asiens, das die sogenannten 95-95-95-Ziele im Kampf gegen HIV erreicht hat. HIV ist das Virus, das unbehandelt zur Immunschwächekrankheit Aids führen kann. Die drei Werte bedeuten: 95 Prozent der Infizierten kennen ihren Status, 95 Prozent von ihnen werden behandelt, und bei 95 Prozent der Behandelten ist das Virus so weit unterdrückt, dass es nicht mehr übertragbar ist. Möglich machten das vor allem gemeindenahe Beratungs- und Testangebote, bei denen Betroffene andere Betroffene begleiten. Warum das zählt: Das Beispiel zeigt, dass sich auch eine über Jahrzehnte gefürchtete Krankheit mit konsequenten Programmen weit zurückdrängen lässt.",
+              "source": "Positive News / WHO",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/"
+            },
+            {
+              "title": "Großbritannien ratifiziert das globale Hochseeabkommen",
+              "text": "Großbritannien hat das globale Hochseeabkommen der Vereinten Nationen offiziell ratifiziert, also rechtsverbindlich in Kraft gesetzt. Das Abkommen schafft erstmals rechtliche Grundlagen, um Meeresgebiete jenseits der nationalen Hoheitsgewässer zu schützen, die rund zwei Drittel aller Ozeane ausmachen. Bisher steht nur etwa ein Prozent dieser internationalen Gewässer unter Schutz. Das im Jahr 2023 von 84 Staaten unterzeichnete Abkommen tritt in Kraft, sobald genügend Länder es ratifiziert haben. Warum das zählt: Geschützte Meeresgebiete geben überfischten und belasteten Ökosystemen die Chance, sich zu erholen, und sind ein Beleg dafür, dass internationaler Umweltschutz vorankommt.",
+              "img": "https://live.staticflickr.com/886/40566997600_1a872f114a_b.jpg",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "KI-gestützter Bluttest warnt früh vor Herz- und Kreislaufproblemen",
+              "text": "Forschende haben einen Bluttest entwickelt, der mit Hilfe künstlicher Intelligenz (KI) ernste Herz- und Kreislaufprobleme sehr früh erkennen soll. Künstliche Intelligenz bezeichnet Computerverfahren, die aus großen Datenmengen selbstständig Muster ableiten. Der Test wertet feine Signale in einer gewöhnlichen Blutprobe aus und kann so auf ein erhöhtes Risiko für Herzinfarkt oder andere Gefäßerkrankungen hinweisen, oft lange bevor spürbare Beschwerden auftreten. Warum das zählt: Wer solche Risiken früh kennt, kann rechtzeitig gegensteuern, und einfache Bluttests entlasten zugleich Patienten wie Gesundheitssysteme.",
+              "img": "https://live.staticflickr.com/10/13107953_463b39146b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/health_medicine/"
+            },
+            {
+              "title": "Selbstzerstörender lebender Kunststoff aus veränderten Bakterien",
+              "text": "Ein anderes Forschungsteam hat einen selbstzerstörenden, sogenannten lebenden Kunststoff vorgestellt. In das Material sind eigens veränderte Bakterien eingebettet, also winzige Lebewesen, die sich gezielt aktivieren lassen. Wird ein bestimmter Auslöser gesetzt, zersetzen diese Bakterien den Kunststoff vollständig von innen, sodass keine dauerhaften Reste zurückbleiben. Warum das zählt: Kunststoffe, die sich auf Kommando restlos abbauen, könnten einen Teil des weltweiten Plastikmülls vermeiden und einen Baustein für eine sauberere Kreislaufwirtschaft liefern.",
+              "img": "https://live.staticflickr.com/3021/2967859329_733bab6453_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Milder, bewölkter Wochenstart und ein volles kommendes Wochenende",
+              "text": "Zum Wochenbeginn zeigt sich Horb am Neckar bei bis zu 23 Grad von seiner ruhigen, bewölkten Seite; nach den heißen und teils gewittrigen Vorwochen bringt die kühlere Luft eine angenehme Verschnaufpause. Der Veranstaltungskalender in der Region füllt sich zum kommenden Wochenende wieder: Am Freitag, dem 24. Juli, beginnt im benachbarten Nagold das Double Stage Festival, ein Musikfestival mit mehreren Bühnen, und im nahe gelegenen Starzach lädt am selben Abend das Starzach-Fest ein. In Horb selbst öffnet ab Mittwoch, dem 29. Juli, mittwochs ab 17 Uhr wieder der Schlossgarten mit Bewirtung. Ein bewölkter, milder Wochenstart eignet sich gut, um Liegengebliebenes in Ruhe zu ordnen und die Ausflüge der kommenden Tage zu planen. Warum das zählt: Wer Wetter und Termine kennt, kann Arbeit und freie Stunden gut aufeinander abstimmen.",
+              "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+              "source": "meinestadt / regioactive",
+              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Der Wochenanfang unter einem grauen Himmel ist eine leise Einladung, das Wichtige zuerst zu tun und den Rest ruhig folgen zu lassen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Digitalisierungsfinanzierung des Landes Baden-Württemberg",
+            "text": "Das Land Baden-Württemberg, in dem auch Horb liegt, fördert Digitalisierungsvorhaben kleiner und mittlerer Unternehmen über das Programm Digitalisierungsfinanzierung. Es bündelt seit Mitte 2025 die frühere Digitalisierungsprämie und wird über die Förderbank des Landes, die L-Bank, in Zusammenarbeit mit der eigenen Hausbank abgewickelt. Gefördert wird über ein zinsgünstiges Darlehen, also einen verbilligten Kredit; bei kleineren Vorhaben mit förderfähigen Ausgaben zwischen 5.000 und 15.000 Euro gibt es zusätzlich einen Zuschuss von 30 Prozent, höchstens 3.000 Euro. Ausdrücklich angesprochen sind auch Kleinstunternehmen und Solo-Selbstständige; das Programm läuft nach derzeitigem Stand bis zum 30. Juni 2027.",
+            "why": "Für dich als Solo-Unternehmer kann das ein Hebel sein, eine geplante Investition in deine digitale Infrastruktur teilweise fördern zu lassen, statt sie allein zu tragen. Der Antrag läuft über die Hausbank und muss vor Beginn des Vorhabens gestellt werden; ein kurzer Blick auf die genauen Bedingungen bei der L-Bank lohnt sich, bevor du etwas anschaffst.",
+            "source": "L-Bank / Wirtschaftsministerium Baden-Württemberg",
+            "url": "https://www.l-bank.de/produkte/finanzhilfen/digiplus-zuschuss.html"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Beide Signale zielen auf denselben Punkt: große, KI-gestützte Änderungen an deinem System kontrolliert und überprüfbar zu halten.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Große KI-Umbauten mit einer Konformitäts-Testsuite absichern",
+              "tag": "Qualität",
+              "paras": [
+                "Der Entwickler Simon Willison, ein bekannter Fachautor zu Sprachmodellen, beschreibt am Beispiel eines vollständigen Umbaus der Software Bun (einer Laufzeitumgebung, die JavaScript-Programme ausführt), wie sich sehr große, von KI erzeugte Codeänderungen zuverlässig prüfen lassen. Der Schlüssel war nicht das Lesen von über einer Million geänderter Zeilen, was praktisch unmöglich ist, sondern eine umfangreiche Testsuite, also eine Sammlung automatischer Prüfungen mit Millionen von Einzelabfragen.",
+                "Solche Konformitätstests messen unabhängig von der konkreten Umsetzung, ob das Ergebnis korrekt ist. Traten Fehler auf, wurde nicht jede Einzelstelle von Hand korrigiert, sondern der Erzeugungsprozess selbst verbessert. Ergänzt wurde das durch eine bewusst kritische, gegenprüfende Durchsicht, im Englischen adversarial review genannt, die gezielt nach systematischen Schwächen sucht."
+              ],
+              "konkret": "Bevor du einen KI-Agenten eine größere Umstellung an deinem System vornehmen lässt, lege zuerst eine Testsuite an, die das gewünschte Verhalten unabhängig von der Umsetzung prüft, und lass den Agenten gegen diese Tests arbeiten, statt den Code nur durchzulesen.",
+              "snippetLabel": "Prompt für einen abgesicherten Umbau",
+              "snippet": "Ich will <span class=\"ph\">{geplante Umstellung}</span> von einem Agenten durchführen lassen.\nErstelle zuerst eine Testsuite, die das gewünschte Verhalten unabhängig von der Umsetzung prüft.\nArbeite dann in kleinen Schritten gegen diese Tests und melde nach jedem Schritt, welche Tests bestehen.\nKorrigiere bei Fehlern den Vorgehensweg, nicht nur die betroffene Einzelstelle.",
+              "source": "Simon Willison's Weblog",
+              "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+              "score": 3
+            },
+            {
+              "icon": "layers",
+              "title": "MCP-Umstellung vor dem 28. Juli abschließen",
+              "tag": "Infrastruktur",
+              "paras": [
+                "Das Model Context Protocol, kurz MCP, ist der offene Standard, über den KI-Assistenten wie dein System mit externen Werkzeugen und Datenquellen sprechen. Die bislang größte Überarbeitung dieses Standards erscheint am 28. Juli 2026 in ihrer endgültigen Fassung, also in gut einer Woche.",
+                "Zu den Neuerungen zählen ein zustandsloser Kern (stateless core), der feste Sitzungen überflüssig macht und sich leichter auf gewöhnlicher Web-Technik betreiben lässt, sowie Erweiterungen für server-gerenderte Oberflächen und langlaufende Aufgaben. Wer eigene MCP-Anbindungen betreibt, sollte die verbleibenden Tage nutzen, um sie gegen die Vorabfassung zu testen, damit der Umstieg ohne Unterbrechung gelingt."
+              ],
+              "konkret": "Prüfe in einer Testumgebung deinen wichtigsten MCP-Server gegen die aktuelle Vorabfassung und behebe offene Punkte jetzt, damit deine Abläufe wie MORGENLAGE auch nach dem 28. Juli reibungslos weiterlaufen.",
+              "snippetLabel": "Prompt zur Abschlussprüfung",
+              "snippet": "Prüfe meinen MCP-Server unter <span class=\"ph\">{Pfad}</span> gegen die MCP-Fassung vom 28. Juli 2026.\n1) Welche Stellen hängen noch am alten, sitzungsbehafteten Modell?\n2) Was muss bis zum 28. Juli zwingend angepasst werden?\n3) Gib eine kurze, geordnete Restliste mit Aufwandsschätzung aus.",
+              "source": "Model Context Protocol Blog",
+              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+              "score": 2
+            }
+          ]
         }
       ]
     }
