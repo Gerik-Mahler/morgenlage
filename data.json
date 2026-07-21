@@ -2,161 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Dienstag, 14. Juli 2026",
-      "weather": "rain",
-      "temp": "33°C · Regenschauer",
-      "greeting": "Guten Morgen, Gerik. Der Hochsommer bleibt heiß: In Horb am Neckar werden heute bis zu 33 Grad erwartet, dazu ziehen im Tagesverlauf einzelne Regenschauer durch, die kurz Abkühlung bringen können. In der Weltlage geht es um eine erneute Zuspitzung in der Straße von Hormus, in der Wirtschaft um die gesenkte Wachstumsprognose für Deutschland vor der nächsten Zinssitzung, und aus der Forschung kommt eine überraschende Erkenntnis darüber, wie früh unser Gehirn Entscheidungen vorbereitet. Hier ist deine Morgenlage.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Erneuter Angriff in der Straße von Hormus fordert Todesopfer",
-              "text": "Die Spannungen am Persischen Golf haben sich weiter verschärft. Nach Angaben der Vereinigten Arabischen Emirate, eines mit den USA verbündeten Golfstaats, wurden zwei ihrer Tanker in der Straße von Hormus angegriffen, der engen Meerenge zwischen dem Iran und der Arabischen Halbinsel, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird. Die Schiffe seien in den Hoheitsgewässern des Nachbarlands Oman von zwei Marschflugkörpern getroffen worden, also von unbemannten Flugkörpern, die tief und zielgenau über weite Strecken fliegen. Dabei kam ein indisches Besatzungsmitglied ums Leben, acht weitere wurden verletzt. Warum das zählt: Jede weitere Eskalation an dieser Wasserstraße kann die Energiepreise weltweit anheizen und damit auch die Sprit- und Betriebskosten in Deutschland spürbar verteuern.",
-              "source": "Euronews / ZDF",
-              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-            },
-            {
-              "title": "Eigenanteile im Pflegeheim steigen weiter auf im Schnitt 3.364 Euro",
-              "text": "Die selbst zu zahlenden Kosten für einen Platz im Pflegeheim sind in Deutschland erneut gestiegen. Der sogenannte Eigenanteil, also der Betrag, den Heimbewohner nach den Leistungen der Pflegeversicherung noch aus eigener Tasche tragen müssen, lag zum 1. Juli im bundesweiten Durchschnitt bei 3.364 Euro im Monat. Das sind 119 Euro mehr als zu Jahresbeginn und 256 Euro mehr als ein Jahr zuvor. Als Gründe gelten höhere Löhne in der Pflege sowie gestiegene Sach- und Energiekosten. Warum das zählt: Die Entwicklung betrifft viele Familien direkt und hält die Debatte über eine Reform der Pflegefinanzierung in Gang.",
-              "source": "ZDF",
-              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Wachstumsprognose für Deutschland gesenkt, EZB tagt am 23. Juli",
-              "text": "Die Aussichten für die deutsche Konjunktur haben sich weiter eingetrübt. Für das laufende Jahr 2026 wurde die erwartete Wirtschaftsleistung auf ein Wachstum von nur noch 0,8 Prozent gesenkt, weil höhere Energiepreise die realen Einkommen und das Vertrauen von Verbrauchern wie Unternehmen belasten. Für das zweite Quartal droht der deutschen Wirtschaft sogar eine leichte Schrumpfung. Am 23. Juli entscheidet die Europäische Zentralbank (EZB), die gemeinsame Notenbank der 20 Euro-Länder, erneut über die Leitzinsen, also den Preis, zu dem sich Banken bei ihr Geld leihen. Viele Beobachter rechnen mit einer Pause, weil die Notenbank weitere Daten abwarten dürfte. Warum das zählt: Eine schwache Konjunktur bremst die Auftragslage, während stabile Zinsen wenigstens die Planung und Finanzierung erleichtern.",
-              "source": "LBBW / Morningstar",
-              "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-juli-2026_am4innwm2g_d.html"
-            }
-          ],
-          "merk": {
-            "text": "Größtes Risiko für die Preise bleibt die Lage am Persischen Golf: Steigt der Ölpreis wegen der Spannungen in der Straße von Hormus länger an, schlägt das rasch auf Sprit-, Heiz- und Betriebskosten durch. Für dich als Solo-Unternehmer heißt das: Kalkuliere bei längerfristigen Angeboten weiter einen Puffer für schwankende Energiekosten ein.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Bluttest erkennt Gebärmutterkrebs mit 99 Prozent Treffsicherheit",
-              "text": "Ein neuer Bluttest mit dem Namen PinPoint hat in einer Untersuchung eine Treffsicherheit von 99 Prozent beim Aufspüren von Gebärmutterkrebs erreicht. Gebärmutterkrebs ist eine der häufigeren Krebsarten bei Frauen; bisher folgt auf einen Verdacht meist eine belastende Gewebeentnahme. Nach den vorliegenden Daten könnte der Test allein in Großbritannien mehr als 90.000 Frauen im Jahr solche eingreifenden Untersuchungen ersparen, weil sich ein Verdacht schon anhand einer Blutprobe zuverlässig ausräumen lässt. Warum das zählt: Einfache, verlässliche Tests entlasten Patientinnen und Gesundheitssysteme zugleich und können Diagnosen beschleunigen.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            },
-            {
-              "title": "Größte Waldrückkehr der Geschichte im Nordosten der USA",
-              "text": "Im Nordosten der USA erholt sich der Wald in einem Ausmaß, das Fachleute als die größte Waldrückkehr der Geschichte bezeichnen. Der Bundesstaat Massachusetts, der einst zu rund 90 Prozent entwaldet war, ist heute wieder zu etwa 60 Prozent bewaldet; ähnliche Entwicklungen gibt es in ganz Neuengland, der Region der sechs nördlichen Neu-England-Staaten. Aufgegebene Weide- und Ackerflächen wurden über Jahrzehnte von Natur aus wieder von Bäumen zurückerobert. Warum das zählt: Das Beispiel zeigt, dass sich geschundene Landschaften erholen können, wenn man ihnen Zeit und Raum lässt, und dass Wald wieder wächst, wo der Nutzungsdruck nachlässt.",
-              "img": "https://pd.w.org/2026/06/4696a210cfd745315.79594534-2048x1151.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Das Gehirn beginnt früher mit Entscheidungen als gedacht",
-              "text": "Eine neue Studie legt nahe, dass unser Gehirn Entscheidungen deutlich früher vorbereitet als bislang angenommen. Lange galten die primären Sinnesregionen, also die Hirnareale, die als erste Reize von Augen oder Ohren verarbeiten, als reine Durchgangsstationen für Information. Die Forschenden fanden jedoch, dass diese Areale schon sehr früh über schnelle Rückkopplungsschleifen von höheren, planenden Hirnregionen beeinflusst werden. Wahrnehmung und Entscheidung greifen damit enger und früher ineinander als das gängige Bild vermuten ließ. Warum das zählt: Ein genaueres Verständnis davon, wie Entscheidungen entstehen, kann langfristig helfen, Lernen, Aufmerksamkeit und neurologische Störungen besser zu begreifen.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nerve-cell-neuron-brain-neurons.png",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            },
-            {
-              "title": "Strom lenkt den Wärmefluss in Keramik gezielt um",
-              "text": "Ein Forschungsteam hat gezeigt, dass sich der Wärmefluss in bestimmten keramischen Werkstoffen mit elektrischem Strom erstaunlich stark steuern lässt. Keramiken sind harte, hitzebeständige Materialien, wie man sie etwa in der Elektronik und im Motorenbau nutzt. Im Versuch stieg die Wärmeleitung in einer bevorzugten Richtung um fast das Dreifache, sobald Strom angelegt wurde. Damit ließe sich Wärme künftig gezielt dorthin lenken, wo sie abgeführt werden soll. Warum das zählt: Ein besseres Wärmemanagement ist ein Schlüssel für leistungsfähigere und langlebigere Elektronik, von Rechenchips bis zu Stromspeichern.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Heißer Sommertag mit Schauern und ein voller Veranstaltungskalender",
-              "text": "Bei bis zu 33 Grad und einzelnen Regenschauern zeigt sich Horb am Neckar heute von seiner schwül-warmen Seite. Der Veranstaltungskalender füllt sich weiter: Am Freitag, dem 17. Juli, lädt das Kulturhaus Kloster zu einem Abendprogramm ein, am 19. Juli folgt das Schlager-Open-Air 'Dolce Vita im Ländle', und vom 24. bis 26. Juli spielt das Double Stage Festival auf mehreren Bühnen. Ab dem 29. Juli öffnet zudem mittwochs ab 17 Uhr der Schlossgarten mit Bewirtung. An einem Tag wie heute bieten die schattigen Uferwege am Neckar und die Gassen der historischen Altstadt eine angenehme Zuflucht, wenn zwischendurch ein Schauer durchzieht. Warum das zählt: Wer die Termine und das Wetter kennt, kann Ausflüge und ruhige Stunden in der Stadt gut planen.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-              "source": "regioactive / meinestadt",
-              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Wenn die großen Linien der Welt heute unruhig verlaufen, ist der ruhigste Hebel oft der eigene, gut geordnete Arbeitstag."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Anthropic Startups: Community und Guthaben für Entwickler mit Claude",
-            "text": "Anthropic, das Unternehmen hinter dem KI-System Claude, betreibt ein eigenes Programm für Startups. Wer damit baut, kann dem Programm beitreten und erhält Zugang zu einer Community und zu frühen Funktionen. Guthaben in Form kostenloser Claude-Credits, im Spitzenfall bis zu 100.000 US-Dollar, sind allerdings an Bedingungen geknüpft: Sie setzen in der Regel eine Finanzierung durch einen institutionellen Investor und eine Gründung innerhalb der letzten vier Jahre voraus. Für die Bewerbung genügen ein Konto in der Claude-Console, eine Firmen-E-Mail, die Website und eine kurze Beschreibung des Vorhabens.",
-            "why": "Für dich als eigenfinanzierten Solo-Unternehmer liegt der unmittelbare Wert in Community und frühem Zugang zu neuen Funktionen; das große Guthaben bleibt an eine Investorenfinanzierung gebunden. Es lohnt sich, die offiziellen Bedingungen kurz zu prüfen, damit du weißt, was ohne Fremdkapital tatsächlich für dich möglich ist.",
-            "source": "Anthropic",
-            "url": "https://claude.com/programs/startups"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale zielen auf denselben Punkt: dein KI-System schlank und wartbar zu halten und wiederkehrende Arbeit sauber zu verpacken.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Mit /checkup den eigenen Claude-Code-Aufbau durchleuchten",
-              "tag": "Systempflege",
-              "paras": [
-                "Claude Code, das Entwicklerwerkzeug, mit dem du dein System betreibst, hat einen vollständigen Selbsttest bekommen. Der Befehl /doctor, kurz auch als /checkup aufrufbar, diagnostiziert Probleme im Aufbau und kann viele davon direkt beheben.",
-                "Nützlich ist das vor allem, um ungenutzte Skills, MCP-Server und Plugins zu finden. Ein MCP-Server ist eine Anbindung, über die dein Assistent externe Werkzeuge und Datenquellen erreicht; jede solche Anbindung kostet aber Platz im Arbeitsspeicher des Modells, dem sogenannten Kontext. Wer selten Genutztes entfernt, macht das System schneller und übersichtlicher."
-              ],
-              "konkret": "Führe in deinem Projekt einmal /checkup aus und arbeite die Vorschläge ab: entferne ungenutzte Skills, MCP-Server und Plugins und räume doppelte CLAUDE.md-Anweisungen auf.",
-              "snippetLabel": "Aufruf im Terminal",
-              "snippet": "/checkup\n\nDanach als Prompt:\nFasse den Checkup-Bericht zusammen und schlage in einer geordneten Liste vor, welche Skills, MCP-Server und Plugins ich entfernen kann, weil ich sie im Projekt <span class=\"ph\">{Projektname}</span> praktisch nicht nutze. Begründe jeden Vorschlag kurz mit dem Kontext-Nutzen.",
-              "source": "Claude Code Docs",
-              "url": "https://code.claude.com/docs/en/whats-new",
-              "score": 3
-            },
-            {
-              "icon": "layers",
-              "title": "Wiederkehrende Abläufe als Agent Skill verpacken",
-              "tag": "Automatisierung",
-              "paras": [
-                "Anthropic beschreibt mit den Agent Skills einen einfachen Weg, wiederkehrende Aufgaben fest zu verankern. Ein Skill ist im Kern ein Ordner mit einer klaren Anleitung, die der Assistent nur dann lädt, wenn die Aufgabe gerade ansteht, statt sie dauerhaft im Kontext mitzuschleppen.",
-                "Das passt genau zu Abläufen wie deiner täglichen Morgenlage: Statt die Anweisungen jedes Mal neu bereitzustellen, bündelst du Redaktionsstandard, Schema und Quellen in einem Skill. Der Assistent zieht sich die Anleitung selbst, wenn die Aufgabe läuft, und der übrige Kontext bleibt frei für die eigentliche Arbeit."
-              ],
-              "konkret": "Nimm einen Ablauf, den du regelmäßig wiederholst, und lege dafür einen Skill mit einer knappen, klaren Anleitung an, damit der Assistent ihn bei Bedarf selbst lädt.",
-              "snippetLabel": "Prompt zum Entwurf eines Skills",
-              "snippet": "Lies meine Anleitung unter <span class=\"ph\">{Pfad zur Anleitung}</span>.\nEntwirf daraus einen Agent Skill:\n1) Ein knapper Titel und eine Beschreibung, wann der Skill laden soll.\n2) Die eigentliche Schritt-für-Schritt-Anleitung, ohne Füllwörter.\n3) Hinweise, welche Werkzeuge oder Quellen der Skill braucht.",
-              "source": "Anthropic Engineering",
-              "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-              "score": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Mittwoch, 15. Juli 2026",
       "weather": "thunder",
       "temp": "28°C · Gewitter",
@@ -959,7 +804,6 @@
       "weather": "clouds",
       "temp": "23°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Nach den heißen und teils gewittrigen Vorwochen beginnt die Woche in Horb am Neckar deutlich milder: ein trüber, bewölkter Tag mit bis zu 23 Grad steht bevor. In der Weltlage geht es um die weitere Zuspitzung des Konflikts zwischen den USA und dem Iran sowie die anhaltenden Angriffe in der Ukraine, in der Wirtschaft um den mit Spannung erwarteten Zinsentscheid der Europäischen Zentralbank am Mittwoch, und aus der Forschung kommt ein mit künstlicher Intelligenz ausgewerteter Bluttest, der Herzprobleme früh erkennen soll. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1110,6 +954,169 @@
           ]
         }
       ]
+    },
+    {
+      "label": "Dienstag, 21. Juli 2026",
+      "weather": "clouds",
+      "temp": "22°C · bewölkt",
+      "greeting": "Guten Morgen, Gerik. Nach den Extremen der Vorwochen bleibt es in Horb am Neckar heute ruhig und mild: Ein trüber, bewölkter Tag mit bis zu 22 Grad steht bevor. In der Weltlage geht es um die anhaltenden Angriffe zwischen den USA und dem Iran und einen Ölpreis über 90 Dollar, in der Wirtschaft um den Zinsentscheid der Europäischen Zentralbank an diesem Donnerstag, und aus der Forschung kommt die überraschende Erkenntnis, warum die Alzheimer-Krankheit den Schlaf raubt. Hier ist deine Morgenlage.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "USA und Iran setzen Angriffe fort, Ölpreis steigt über 90 Dollar",
+              "text": "Der Konflikt zwischen den USA und dem Iran um die Straße von Hormus, die schmale Meerenge am Persischen Golf, durch die ein großer Teil des weltweit verschifften Erdöls fährt, dauert an. Nach Angaben des US-Militärs setzten die USA in den vergangenen Tagen eine neue Welle von Luftangriffen gegen militärische Ziele im Iran fort. Der Preis für die Rohölsorte Brent, den wichtigsten Preismaßstab für europäisches Öl, stieg dadurch am 20. Juli auf über 90 US-Dollar je Barrel, wobei ein Barrel rund 159 Liter fasst. Indien, dessen Seeleute einen großen Teil der weltweiten Handelsflotte stellen, wies Reedereien an, keine indischen Besatzungen mehr auf Schiffen durch die Meerenge einzusetzen, nachdem dort Mitte Juli ein indisches Besatzungsmitglied getötet worden war. Warum das zählt: Ein anhaltend hoher Ölpreis verteuert Sprit, Heizung und Betriebskosten auch in Deutschland und erschwert der Notenbank die Einschätzung der Inflation.",
+              "source": "CNN / Al Jazeera",
+              "url": "https://www.cnn.com/2026/07/17/world/live-news/iran-war-trump"
+            },
+            {
+              "title": "Krieg in der Ukraine gerät trotz Nahost-Krise nicht aus dem Blick",
+              "text": "Während der Konflikt im Nahen Osten die weltweite Aufmerksamkeit bindet, geht der Krieg in der Ukraine unvermindert weiter. Vertreter der Europäischen Union, des Staatenverbunds von 27 Ländern, warnten, dass die Ukraine über der Zuspitzung am Persischen Golf nicht in Vergessenheit geraten dürfe. Beide Kriege sind nach Einschätzung von Fachleuten eng verflochten, weil Russland unter anderem Angriffsdrohnen iranischer Bauart einsetzt, also unbemannte Fluggeräte, gegen deren Angriffe sich ukrainische Einheiten seit Langem verteidigen und dabei Erfahrungen sammeln. Warum das zählt: Verlauf und Kosten beider Kriege bleiben zentrale Faktoren für die Energiepreise und die politische Planung in ganz Europa.",
+              "source": "Euronews",
+              "url": "https://euronews.com/tag/iran"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "EZB entscheidet am Donnerstag, Markt erwartet eine Zinspause",
+              "text": "Im Mittelpunkt der Woche steht der Zinsentscheid der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der 20 Länder mit dem Euro, an diesem Donnerstag, dem 23. Juli. Nach einer Umfrage der Nachrichtenagentur Reuters unter 74 Fachleuten rechnen alle Befragten damit, dass die Notenbank ihren Einlagensatz, also den Zins, zu dem Banken überschüssiges Geld bei ihr parken, bei 2,25 Prozent belässt, nachdem sie ihn im Juni angehoben hatte. Rund 70 Prozent der Befragten erwarten allerdings eine weitere Anhebung im September. Die Inflation im Euroraum, also der Anstieg der Verbraucherpreise binnen eines Jahres, sank im Juni auf 2,8 Prozent nach 3,2 Prozent im Mai, liegt damit aber weiter über dem Ziel der EZB von 2 Prozent; die Energiepreise lagen um 8,5 Prozent höher als ein Jahr zuvor. Warum das zählt: Die Leitzinsen bestimmen mit, wie teuer Kredite und wie hoch Sparzinsen sind, und die Signale der EZB für den Herbst sind fast wichtiger als die Entscheidung selbst.",
+              "source": "Reuters / LBBW",
+              "url": "https://www.lbbw.de/artikel/maerkte-verstehen/ezb-zinsentscheid-leitzins-prognosen_ait4bfmrfe_d.html"
+            },
+            {
+              "title": "Deutsche Stahlproduktion legt im ersten Halbjahr zu",
+              "text": "Ein Lichtblick kommt aus der Industrie: Die deutschen Stahlwerke stellten im ersten Halbjahr 2026 rund 18,6 Millionen Tonnen Rohstahl her, etwa 9 Prozent mehr als im gleichen Zeitraum des Vorjahres. Rohstahl ist die erste feste Stufe, aus der später Bleche, Träger und Rohre entstehen; die hergestellte Menge gilt als Gradmesser für die Nachfrage aus Bau, Auto- und Maschinenbau. Nach schwachen Vorjahren deutet der Zuwachs auf eine vorsichtige Belebung wichtiger Abnehmerbranchen hin. Warum das zählt: Eine anziehende Stahlnachfrage ist ein frühes Zeichen dafür, dass die Industriekonjunktur wieder etwas Tritt fassen könnte.",
+              "source": "ZDF / Wirtschaftsvereinigung Stahl",
+              "url": "https://www.zdfheute.de/wirtschaft"
+            }
+          ],
+          "merk": {
+            "text": "Das größte Risiko für die Preisberuhigung bleibt der Ölpreis: Steigt die Sorte Brent wegen der Lage an der Straße von Hormus länger über 90 Dollar, schlägt das über Sprit-, Heiz- und Betriebskosten rasch auf viele Angebote durch. Für dich als Solo-Unternehmer heißt das: Kalkuliere bei längerfristigen Zusagen weiterhin einen Puffer für schwankende Energiekosten ein und behalte den Zinspfad der EZB im Blick, bevor du größere Finanzierungen fest zusagst.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Solarstrom wächst weltweit kräftig, Batteriespeicher noch schneller",
+              "text": "Nach einer Auswertung, über die das Nachrichtenportal Positive News berichtet, das gezielt über konstruktive Entwicklungen schreibt, ist die weltweite Erzeugung sauberen Stroms im Jahr 2025 deutlich gewachsen. Allein die Solarenergie, also Strom aus Sonnenlicht, legte um rund 30 Prozent zu. Noch stärker stieg die Kapazität der Batteriespeicher, die überschüssigen Strom für sonnen- und windarme Zeiten aufbewahren, um etwa 66 Prozent. Warum das zählt: Speicher sind der Schlüssel, damit wetterabhängiger Strom aus Sonne und Wind rund um die Uhr verfügbar wird, und ihr rascher Ausbau macht die Energieversorgung Schritt für Schritt verlässlicher und sauberer.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
+              "source": "Positive News",
+              "url": "https://www.positive.news/"
+            },
+            {
+              "title": "Kühlung ohne Strom nach dem Vorbild alter Eiskeller",
+              "text": "Findige Ingenieure haben ein Kühlsystem vorgestellt, das ohne Strom auskommt und sich an den historischen Eiskellern orientiert, in denen früher Lebensmittel unter der Erde kühl gehalten wurden. Das Verfahren nutzt die gleichmäßig niedrige Temperatur des Erdreichs in einigen Metern Tiefe, um Räume und Vorräte selbst während einer Hitzewelle kühl zu halten. Weil kein Kompressor und kein Kältemittel nötig sind, verbraucht die Anlage im Betrieb keine Energie und stößt keine klimaschädlichen Gase aus. Warum das zählt: Solche einfachen, stromlosen Lösungen können gerade in heißen Regionen helfen, Lebensmittel zu bewahren und Menschen vor Hitze zu schützen, ohne die Stromnetze zusätzlich zu belasten.",
+              "source": "Positive News",
+              "url": "https://www.positive.news/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Warum Alzheimer den Schlaf raubt, und wie sich zwei Stunden zurückholen ließen",
+              "text": "Ein Forschungsteam hat einen überraschenden Grund dafür gefunden, warum Menschen mit der Alzheimer-Krankheit, der häufigsten Form der Demenz, oft schlecht schlafen. Lange galten die typischen Eiweißablagerungen im Gehirn, die sogenannten Plaques, als Hauptursache. Im Tierversuch zeigte sich jedoch, dass vor allem die eigenen Abwehrzellen des Gehirns, die Mikroglia genannt werden, den Schlaf stören. Als die Forschenden gezielt in diesen Vorgang eingriffen, kehrten rund zwei Stunden Schlaf zurück, ohne dass die Plaques beseitigt werden mussten. Warum das zählt: Guter Schlaf gilt als wichtig für Gedächtnis und Erholung, und ein neuer Ansatzpunkt könnte die Lebensqualität Betroffener verbessern, noch bevor sich die Krankheit selbst aufhalten lässt.",
+              "img": "https://live.staticflickr.com/3772/11763686274_7d6094143c_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Licht und Magnetismus in hauchdünnen Materialien verknüpft",
+              "text": "Physikern ist es gelungen, Licht und Magnetismus in atomar dünnen Materialien auf eine bislang unmögliche Weise miteinander zu koppeln. Gemeint sind Schichten, die nur wenige Atome dick sind, also millionenfach dünner als ein Blatt Papier. In diesen Materialien ließ sich mit Licht der magnetische Zustand gezielt steuern und umgekehrt der Magnetismus über das Licht auslesen. Warum das zählt: Eine steuerbare Verbindung von Licht und Magnetismus könnte langfristig neue, besonders schnelle und sparsame Datenspeicher und Sensoren ermöglichen.",
+              "img": "https://live.staticflickr.com/6155/6149325136_a9995fb22e_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Milder, bewölkter Sommertag und ein volles Festivalwochenende voraus",
+              "text": "In Horb am Neckar bleibt es heute mild und trüb: Bei bis zu 22 Grad hält sich die bewölkte, kühlere Luft, die nach den heißen Vorwochen für eine angenehme Verschnaufpause sorgt. Der Veranstaltungskalender der Region steuert auf ein volles Wochenende zu: Am Freitag und Samstag, dem 24. und 25. Juli, spielt das Double Stage Festival, ein Musikfestival mit mehreren Bühnen, im benachbarten Nagold. In Horb selbst öffnet ab Mittwoch, dem 29. Juli, mittwochs ab 17 Uhr wieder der Schlossgarten mit Bewirtung, und am 31. Juli gastiert der Sänger Andreas Kümmert mit seiner Band The Electric Circus in der Region. Ein bewölkter, milder Tag wie heute eignet sich gut, um Liegengebliebenes in Ruhe zu ordnen und die Ausflüge der kommenden Tage zu planen. Warum das zählt: Wer Wetter und Termine kennt, kann Arbeit und freie Stunden gut aufeinander abstimmen.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+              "source": "meinestadt / regioactive",
+              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein stiller, grauer Tag ist keine Pause vom Wichtigen, sondern oft die beste Gelegenheit, es ohne Eile zu Ende zu bringen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "KOMPASS: bis zu 4.500 Euro Zuschuss für die Weiterbildung von Solo-Selbstständigen",
+            "text": "Das Bundesprogramm KOMPASS, gefördert vom Bundesministerium für Arbeit und Soziales, unterstützt gezielt Solo-Selbstständige, also Selbstständige ohne eigene Angestellte, bei der beruflichen Weiterbildung. Übernommen werden bis zu 90 Prozent der Kosten, höchstens 4.500 Euro je Person, unter anderem für Qualifizierungen zu digitalen Themen und zu künstlicher Intelligenz. Beratung und Antrag laufen über regionale Anlaufstellen, die zunächst gemeinsam mit dir den Weiterbildungsbedarf klären. Die Zahl der Plätze ist begrenzt und die Anmeldefenster öffnen und schließen im Jahresverlauf, weshalb sich ein Blick auf den aktuellen Stand lohnt.",
+            "why": "Für dich als Solo-Unternehmer ist das ein konkreter Hebel, um eine gezielte Weiterbildung, etwa im sicheren Umgang mit KI-Werkzeugen, zu großen Teilen fördern zu lassen, statt sie allein zu tragen. Weil das Programm ausdrücklich auf Selbstständige ohne Angestellte zugeschnitten ist, passt es genau auf deine Situation; prüfe kurz, ob gerade ein Anmeldefenster offen ist und welche Anlaufstelle für die Region zuständig ist.",
+            "source": "Übersicht KOMPASS-Förderung 2026 (skill-sprinters.de)",
+            "url": "https://skill-sprinters.de/blog/foerderung/kompass-foerderung-solo-selbststaendige-2026-ki-weiterbildung/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Beide Hinweise betreffen, wie du dein KI-System steuerst: den einen Ablauf bewusst selbst auslösen, den anderen von Anfang an sauber beschreiben.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "/verify und /code-review jetzt bewusst selbst aufrufen",
+              "tag": "Systempflege",
+              "paras": [
+                "Claude Code, das Entwicklerwerkzeug, mit dem du dein System betreibst, führt zwei nützliche Prüf-Skills nicht mehr von selbst aus: Die Befehle /verify, eine Selbstprüfung der Ergebnisse, und /code-review, eine Durchsicht des Codes, starten nur noch, wenn du sie ausdrücklich aufrufst. Ein Skill ist dabei eine fest verpackte Anleitung, die der Assistent bei Bedarf lädt.",
+                "Der Vorteil ist, dass der Assistent nicht mehr ungefragt Zeit und Kontext für Prüfungen verbraucht, die du gerade nicht brauchst. Der Preis ist, dass diese Prüfungen jetzt ausbleiben, wenn du nicht daran denkst. Für einen verlässlichen Ablauf wie deine tägliche Morgenlage lohnt es sich daher, feste Punkte zu bestimmen, an denen du /verify oder /code-review von Hand auslöst."
+              ],
+              "konkret": "Lege in deiner Anleitung fest, an welchen Stellen du /verify und /code-review bewusst aufrufst, zum Beispiel /verify direkt vor dem Commit der fertigen data.json, damit die Prüfung nicht mehr zufällig, sondern an einem festen Punkt geschieht.",
+              "snippetLabel": "Aufruf im Ablauf",
+              "snippet": "Nach dem Bau der data.json:\n/verify\n\nDanach als Prompt:\nPrüfe die erzeugte <span class=\"ph\">{Datei}</span> gegen meine Vorgaben: gültiges JSON, richtige Reihenfolge der Abschnitte, echte Umlaute, keine erfundenen Fakten. Melde knapp nur, was nicht passt.",
+              "source": "Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/whats-new",
+              "score": 3
+            },
+            {
+              "icon": "layers",
+              "title": "Neue Abläufe erst als spec.md beschreiben, dann bauen lassen",
+              "tag": "Automatisierung",
+              "paras": [
+                "Der Entwickler Simon Willison, ein bekannter Fachautor zum Einsatz von Sprachmodellen, hat einen kleinen, quelloffenen Programmier-Assistenten gebaut und dabei ein Vorgehen betont, das sich gut übertragen lässt: Er beschrieb die gewünschte Lösung zuerst in einer einfachen Textdatei namens spec.md, einer klaren Spezifikation, und ließ den Assistenten dann Schritt für Schritt gegen diese Beschreibung arbeiten.",
+                "Der Nutzen liegt darin, dass die Absicht schwarz auf weiß festgehalten ist, bevor auch nur eine Zeile Code entsteht. Der Assistent hat eine feste Vorlage, an der er sich messen lässt, und du erkennst Abweichungen früh. Für neue Bausteine deines Systems ist das ein einfacher Weg, Ergebnisse berechenbarer zu machen, statt sie im Dialog Stück für Stück zu erraten."
+              ],
+              "konkret": "Bevor du einen neuen Ablauf automatisierst, schreibe zuerst eine kurze spec.md, die Zweck, Eingaben, Ausgaben und Erfolgskriterien festhält, und lass den Assistenten erst danach gegen diese Datei bauen.",
+              "snippetLabel": "Prompt für die Spezifikation",
+              "snippet": "Ich will <span class=\"ph\">{geplanter Ablauf}</span> automatisieren.\nSchreibe zuerst eine spec.md mit:\n1) Zweck in einem Satz.\n2) Eingaben und Quellen.\n3) Genaue Ausgabe und Format.\n4) Erfolgskriterien, an denen sich das Ergebnis prüfen lässt.\nFrag nach, wo etwas unklar ist, bevor du baust.",
+              "source": "Simon Willison’s Weblog",
+              "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+              "score": 2
+            }
+          ]
+        }
+      ],
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
     }
   ]
 }
