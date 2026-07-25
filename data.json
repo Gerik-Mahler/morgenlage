@@ -2,162 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Samstag, 18. Juli 2026",
-   "weather": "clouds",
-   "temp": "26°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Der Samstag beginnt in Horb am Neckar wolkig und trüb, im Tagesverlauf werden bis zu 26 Grad erreicht, ein ruhiger Sommertag ohne die Gewitter des Vortags. In der Weltlage haben sich die USA und der Iran am Freitag die heftigsten gegenseitigen Angriffe seit dem erneuten Kriegsausbruch geliefert, während in der Ukraine Proteste gegen die Personalpolitik von Präsident Selenskyj aufkommen. In der Wirtschaft blickt alles auf die Zinssitzung der Europäischen Zentralbank am kommenden Mittwoch, aus der Forschung kommt die Entdeckung einer neuen Affenart im Kongo, und die Sonne ist im Juni erstmals zur größten Stromquelle Europas geworden. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "USA und Iran mit heftigsten gegenseitigen Angriffen seit Kriegsausbruch",
-       "text": "Im Nahen Osten haben sich die USA und der Iran am Freitag die schwersten gegenseitigen Angriffe seit dem erneuten Ausbruch der Kämpfe geliefert. Nach Angaben iranischer Medien kamen bei US-Angriffen im Iran acht Menschen ums Leben; bei Angriffen des Iran auf Stellungen iranisch-kurdischer Oppositionsgruppen in der kurdischen Region des Nachbarlandes Irak starben neun Menschen. Die iranisch-kurdische Opposition sind bewaffnete Gruppen der kurdischen Minderheit, die sich gegen die Führung in Teheran wenden und sich teils in den Irak zurückgezogen haben. Die Zuspitzung schürt erneut Sorgen um die Straße von Hormus, eine schmale Meerenge am Persischen Golf, durch die ein großer Teil des weltweit gehandelten Erdöls verschifft wird. Warum das zählt: Eine weitere Eskalation in der Golfregion kann die Ölpreise und damit die Energiekosten in Europa rasch nach oben treiben und eine gerade beginnende wirtschaftliche Erholung bremsen.",
-       "source": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/ausland"
-      },
-      {
-       "title": "Proteste in der Ukraine gegen die Personalpolitik von Präsident Selenskyj",
-       "text": "In der Ukraine ist es zu erneuten Protesten gegen die Personalentscheidungen von Präsident Wolodymyr Selenskyj gekommen, dem Staatsoberhaupt des von Russland angegriffenen Landes. Demonstranten forderten die Rückkehr eines entlassenen Ministers sowie personelle Änderungen an der militärischen Führung. Zugleich verschärft sich nach ukrainischen und russischen Angaben die Versorgungslage auf der von Russland kontrollierten Halbinsel Krim: Ukrainische Angriffe auf Treibstofflager und Nachschubwege führen dort zu Engpässen bei Benzin, Diesel und Strom. Warum das zählt: Innenpolitische Spannungen in Kiew und eine sich zuspitzende Versorgungslage auf der Krim zeigen, dass der Krieg auch im vierten Jahr weit von einer Beruhigung entfernt ist und die Lage in Bewegung bleibt.",
-       "source": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Alle Augen auf die EZB-Zinssitzung am kommenden Mittwoch",
-       "text": "In der kommenden Woche richtet sich der Blick der Finanzmärkte auf die Sitzung der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der Länder mit dem Euro, am Mittwoch, dem 23. Juli. Die EZB hatte am 11. Juni erstmals seit drei Jahren die Leitzinsen wieder angehoben, den Einlagensatz auf 2,25 Prozent, und dies vor allem mit dem durch den Iran-Krieg ausgelösten Preisdruck begründet. Nach den Projektionen des Eurosystems, also der EZB und der nationalen Notenbanken, dürfte die Inflation 2026 im Schnitt bei rund 3,0 Prozent liegen und erst 2028 wieder das Ziel von 2,0 Prozent erreichen; in Deutschland lag die Teuerung Anfang Juli bei etwa 2,3 Prozent. Ob die EZB am Mittwoch erneut erhöht, hängt nach eigenen Angaben von Dauer und Ausmaß des Energiepreisschocks ab; die Märkte halten einen weiteren Schritt für möglich. Warum das zählt: Die Zinsentscheidung bestimmt mit, wie teuer Kredite und Finanzierungen in den kommenden Monaten bleiben.",
-       "source": "Deutsche Bundesbank / LBBW",
-       "url": "https://www.bundesbank.de/de/aufgaben/themen/ezb-rat-leitzinsen-angehoben-999316"
-      }
-     ],
-     "merk": {
-      "text": "Für dich als Solo-Unternehmer heißt das: Plane vor Mittwoch keine unumkehrbaren Finanzierungsschritte, sondern warte die Entscheidung ab. Steigen die Zinsen weiter, bleiben Kredite teuer; im umgekehrten Fall kann sich ein kurzes Zuwarten lohnen. Halte in deinen Kalkulationen weiterhin einen Puffer für erneut steigende Energiekosten bereit.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Sonne wird erstmals zur größten Stromquelle Europas",
-       "text": "In der Europäischen Union, dem Zusammenschluss von 27 Mitgliedstaaten, hat die Sonnenenergie im Juni 2026 nach Angaben des Nachrichtenportals Positive News, das gezielt über konstruktive Entwicklungen berichtet, ein Viertel des Stroms geliefert und ist damit erstmals zur größten einzelnen Stromquelle des Staatenbunds aufgestiegen. Sie lag vor der Kernkraft mit 21 Prozent, dem Erdgas mit 15 Prozent und der Windkraft mit 14 Prozent. Es war erst der dritte Monat überhaupt, in dem Solarstrom die europäische Stromerzeugung anführte, was vor allem an den langen, sonnenreichen Sommertagen liegt. Warum das zählt: Je mehr Strom aus Sonne und Wind stammt, desto unabhängiger wird Europa von teuren und schwankungsanfälligen fossilen Brennstoffen wie Öl und Gas.",
-       "img": "https://live.staticflickr.com/2491/4160370798_3ca24273ea.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/"
-      },
-      {
-       "title": "El Salvador besiegt das Trachom, eine der häufigsten Ursachen für Erblindung",
-       "text": "Das mittelamerikanische Land El Salvador hat nach Angaben der Weltgesundheitsorganisation (WHO), der für Gesundheit zuständigen Sonderorganisation der Vereinten Nationen, das Trachom als Gesundheitsproblem beseitigt. Das Trachom ist eine durch Bakterien ausgelöste Augenerkrankung und weltweit die häufigste durch Infektionen verursachte Ursache für Erblindung. Die WHO sprach von einer bemerkenswerten Leistung und wies darauf hin, dass die Zahl der weltweit gefährdeten Menschen seit dem Jahr 2002 um rund 94 Prozent zurückgegangen ist. Warum das zählt: Wo eine vermeidbare Krankheit zurückgedrängt wird, bleiben vielen Menschen ihr Augenlicht und die Möglichkeit erhalten, zu arbeiten und ihren Alltag selbstständig zu bewältigen.",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Neue Affenart im Regenwald des Kongo bestätigt",
-       "text": "Forschende haben im Lomami-Nationalpark in der Demokratischen Republik Kongo, einem großen Land in Zentralafrika, eine bislang unbekannte Affenart bestätigt. Das schwarze Tier mit auffälligen orangefarbenen Flecken im Gesicht erhielt den wissenschaftlichen Namen Colobus congoensis und gehört zu den Stummelaffen, einer Gruppe blattfressender Affen mit stark zurückgebildetem Daumen. Es ist erst die fünfte neu beschriebene Primatenart in Afrika seit 75 Jahren; Primaten sind die Ordnung der Herren- oder Vortiere, zu der auch Affen und der Mensch zählen. Warum das zählt: Dass in einem der letzten großen Regenwälder der Erde noch heute unbekannte Säugetiere entdeckt werden, zeigt, wie viel unerforschtes Leben es dort gibt und wie wichtig der Schutz solcher Wälder ist.",
-       "img": "https://live.staticflickr.com/3803/10549264174_9b553cf584_b.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/"
-      },
-      {
-       "title": "Neues Material lässt sich wie ein Speicher für Wärme programmieren",
-       "text": "Ein Forschungsteam hat ein Material entwickelt, das Wärmestrahlung gezielt lenken und seine einmal gewählte Einstellung behalten kann, ohne dass dafür fortlaufend Energie zugeführt werden muss. Das Material kann zwischen verschiedenen Zuständen umschalten und gibt Wärme mal stärker, mal schwächer ab, ähnlich wie ein Speicher, der sich einmal einstellen und dann sich selbst überlassen lässt. Solche Werkstoffe könnten eines Tages helfen, Gebäude, Satelliten oder elektronische Bauteile ohne aufwendige Technik vor Überhitzung zu schützen oder gezielt warm zu halten. Warum das zählt: Wer Wärme steuern kann, ohne dauerhaft Strom aufzuwenden, spart Energie und macht Geräte einfacher und langlebiger.",
-       "img": "https://live.staticflickr.com/8365/8489345587_dd0a832f29_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Ruhiger, bewölkter Sommertag und ein Wochenende mit Schlager-Open-Air",
-       "text": "In Horb am Neckar bleibt es heute mit bis zu 26 Grad sommerlich, der Himmel zeigt sich aber überwiegend bewölkt und trüb, nach den kräftigen Gewittern des Vortags ein deutlich ruhigerer Tag. Wer das Wochenende plant, findet in der Region ein volles Programm: Am morgigen Sonntag, dem 19. Juli, steigt ab 18 Uhr das Schlager-Open-Air 'Dolce Vita im Ländle', und vom 24. bis 26. Juli spielt das Double Stage Festival auf mehreren Bühnen. Ab Mittwoch, dem 29. Juli, öffnet zudem der Schlossgarten mittwochs ab 17 Uhr mit Bewirtung. Warum das zählt: Ein trockener, bewölkter Samstag eignet sich gut für Erledigungen im Freien oder einen Spaziergang am Neckar, bevor am Wochenende die Konzerte in der Umgebung beginnen.",
-       "img": "https://live.staticflickr.com/6032/5880394237_5d5200dc42_b.jpg",
-       "source": "meinestadt / regioactive",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Nach dem Gewitter kommt ein stiller, grauer Tag; er verlangt nichts Großes, sondern lädt ein, das Liegengebliebene in Ruhe zu ordnen und Kraft für die Woche zu sammeln."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Kostenlose KI-Startguthaben stapeln: mehrere Programme laufen parallel",
-      "text": "Für Solo-Unternehmer, die mit großen Sprachmodellen arbeiten, gibt es derzeit mehrere Programme, die kostenlose Rechenguthaben (englisch 'credits', also Startguthaben zum Ausprobieren) vergeben. Anbieterübergreifend berichten Fachportale, dass sich Guthaben verschiedener Anbieter stapeln lassen, weil es sich um getrennte Töpfe handelt, die sich nicht gegenseitig aufheben. Für Einzelkämpfer ohne Risikokapital gilt das Startprogramm von Anthropic, dem Unternehmen hinter der KI Claude, als vergleichsweise leicht zugänglich; daneben vergeben Anbieter wie Together AI kleinere Probeguthaben. Wichtig ist, den Ablauf im Blick zu behalten: Fast alle Guthaben verfallen, meist zwölf Monate nach Ausstellung, ohne Verlängerung und ohne Barwert.",
-      "why": "Weil dein System auf großen Sprachmodellen aufsetzt, senken kostenlose Startguthaben deine laufenden Kosten spürbar und erlauben es, teurere Modelle oder größere Läufe risikolos zu testen. Wer die Programme jetzt prüft und passende beantragt, verschafft sich Spielraum, ohne an anderer Stelle sparen zu müssen.",
-      "source": "creditforstartups.com",
-      "url": "https://creditforstartups.com/credits/ai"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Empfehlungen zielen darauf, dein System günstiger und robuster zu machen: die eine spart Kosten, indem einfache Arbeit an schwächere Modelle geht, die andere schärft, wann ein automatischer Lauf selbst entscheiden darf und wann er nachfragt.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "Einfache Arbeit an ein schwächeres Modell in einem Unteragenten auslagern",
-       "tag": "Effizienz",
-       "paras": [
-        "Der Entwickler Simon Willison, der seit Jahren praxisnah über den Einsatz großer Sprachmodelle schreibt, empfiehlt als Kostenregel: 'Nutze für Programmieraufgaben dein eigenes Urteil, um ein passendes, schwächeres Modell zu wählen, und lass dieses in einem Unteragenten laufen.' Ein Unteragent ist dabei ein eigenständiger Hilfslauf, der eine abgegrenzte Teilaufgabe erledigt und nur das Ergebnis zurückmeldet.",
-        "Der Grundgedanke: Die eigentliche Umsetzungsarbeit, etwa das Schreiben von Code nach klarer Vorgabe, übernimmt ein günstigeres Modell, während das teurere Hauptmodell für Planung, Urteil und die Prüfung der Ergebnisse zuständig bleibt. Für dein System, das ohnehin mit mehreren Läufen arbeitet, senkt das die Kosten deutlich, ohne dass die Qualität an den entscheidenden Stellen leidet."
-       ],
-       "konkret": "Lege in deinem System fest, dass reine Umsetzungsaufgaben an ein günstigeres Modell in einem Unteragenten gehen, während das stärkere Modell die Aufgabe zerlegt, das Ergebnis prüft und die Entscheidungen trifft.",
-       "snippetLabel": "Anweisung fürs System",
-       "snippet": "Für Umsetzungsaufgaben: waehle nach eigenem Urteil ein passendes, guenstigeres Modell und fuehre es in einem Unteragenten aus. Das Hauptmodell bleibt fuer <span class=\"ph\">{Planung, Pruefung, Entscheidungen}</span> zustaendig.",
-       "source": "Simon Willison’s Weblog",
-       "url": "https://simonwillison.net/",
-       "score": 3
-      },
-      {
-       "icon": "terminal",
-       "title": "Agenten nur mit klar begrenzten Rechten arbeiten lassen",
-       "tag": "Sicherheit",
-       "paras": [
-        "Ein Agent, also ein Programm, das ein Sprachmodell in einer Schleife Werkzeuge benutzen lässt, um ein Ziel zu erreichen, sollte nicht uneingeschränkt handeln dürfen. Statt eines Modus, in dem alles ohne Rückfrage erlaubt ist, lassen sich mit sogenannten Freigabemustern gezielt nur bestimmte Befehle zulassen, etwa nur das Anzeigen von Änderungen oder das Ausführen von Tests.",
-        "Für dein System, das ebenfalls mit Agenten und Befehlen arbeitet, ist das ein direkt übertragbarer Grundsatz, gerade weil deine Läufe teils ohne Aufsicht ablaufen: Wer die Rechte eines Agenten von vornherein eng fasst, verhindert, dass ein Missverständnis oder ein fehlgeleiteter Schritt größeren Schaden anrichtet, ohne die nützliche Automatik aufzugeben."
-       ],
-       "konkret": "Lege für automatisierte Läufe fest, welche Befehle ohne Rückfrage erlaubt sind, und halte alles Übrige unter einem Bestätigungsvorbehalt, statt einen uneingeschränkten Modus zu verwenden.",
-       "snippetLabel": "Beispiel für Freigabemuster",
-       "snippet": "erlaube nur: <span class=\"ph\">{pytest*}</span>, <span class=\"ph\">{git diff*}</span>\n# statt: alles ohne Rueckfrage erlaubt",
-       "source": "Simon Willison’s Weblog",
-       "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
-       "score": 2
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Sonntag, 19. Juli 2026",
    "kind": "weekly",
    "sub": "Wochenrückblick",
@@ -1129,8 +973,154 @@
       }
      ]
     }
-   ],
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
+   ]
+  },
+  {
+   "label": "Samstag, 25. Juli 2026",
+   "weather": "clouds",
+   "temp": "31°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. In Horb am Neckar wird es heute ein warmer, stark bewölkter Sommertag mit bis zu 31 Grad, schwül, aber ohne klaren Himmel. In der Weltlage kämpfen Spanien und Frankreich weiter gegen große Waldbrände, in der Wirtschaft hat die Europäische Zentralbank ihren Leitzins vorerst unverändert gelassen, und aus der Forschung kommt die Meldung, dass Astronomen erstmals eine Atmosphäre um einen Gesteinsplaneten in der habitablen Zone eines fremden Sterns nachgewiesen haben. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Schwere Waldbrände in Spanien und Frankreich außer Kontrolle",
+       "text": "In Südwesteuropa kämpfen die Behörden derzeit gegen mehrere große Waldbrände. In Frankreich wüten in der Region Nouvelle-Aquitaine, dem Südwesten des Landes, zwei heftige Feuer, die bislang nicht unter Kontrolle gebracht werden konnten, und knapp 30.000 Menschen mussten ihre Häuser verlassen. In Spanien wurde für die Regionen rund um die Hauptstadt Madrid und die Provinz Ávila der Notstand ausgerufen, allein rund um Madrid mussten etwa 10.000 Menschen in Sicherheit gebracht werden. Ursache ist eine anhaltende Hitzewelle, also eine längere Phase ungewöhnlich hoher Temperaturen, die die Vegetation austrocknet. Warum das zählt: Solche Großbrände zeigen, wie stark heiße, trockene Sommer den Süden Europas belasten, und sie können über Ernteausfälle, Tourismus und Versicherungskosten auch die Wirtschaft in ganz Europa berühren.",
+       "source": "20 Minuten",
+       "url": "https://www.20min.ch/story/notstand-waldbraende-in-europa-voellig-ausser-kontrolle-103608014"
+      },
+      {
+       "title": "Salzburger Festspiele stehen vor ihrer Eröffnung",
+       "text": "In der österreichischen Stadt Salzburg stehen die Salzburger Festspiele vor ihrer offiziellen Eröffnung, eines der bekanntesten Klassik- und Theaterfestivals der Welt, das jeden Sommer zahlreiche Besucherinnen und Besucher aus vielen Ländern anzieht. Zur Eröffnung reisen traditionell auch Vertreterinnen und Vertreter der Politik an, in diesem Jahr unter anderem aus der österreichischen Bundesregierung. Das Festival verbindet Opern, Konzerte und Schauspiel über mehrere Wochen und gilt als kultureller Höhepunkt des europäischen Sommers. Warum das zählt: Große Kulturereignisse wie dieses sind nicht nur künstlerisch bedeutsam, sondern auch ein spürbarer Wirtschaftsfaktor für die gastgebende Region und ein Zeichen dafür, dass Europa neben Krisen auch seine gemeinsame Kultur pflegt.",
+       "source": "OTS / Salzburger Festspiele",
+       "url": "https://www.ots.at/presseaussendung/OTS_20260717_OTS0057/spoe-termine-von-20-bis-26-juli-2026"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Europäische Zentralbank lässt den Leitzins vorerst unverändert",
+       "text": "Der Rat der Europäischen Zentralbank, kurz EZB, also der obersten Währungsbehörde für die 20 Länder mit dem Euro, hat auf seiner Sitzung am 23. Juli die Leitzinsen unverändert gelassen. Der wichtigste Satz, der Einlagenzins, zu dem Banken Geld bei der EZB parken, bleibt bei 2,25 Prozent. Damit legt die Notenbank nach der ersten Zinserhöhung seit Jahren im Juni eine Pause ein und beobachtet zunächst, wie sich Inflation und Konjunktur entwickeln, auch mit Blick auf die Folgen des Konflikts im Nahen Osten für die Energiepreise. Warum das zählt: Der Leitzins bestimmt, wie teuer Kredite und wie attraktiv Erspartes sind, und eine Zinspause bedeutet für dich als Selbstständigen vorerst planbare, stabile Finanzierungsbedingungen ohne weitere Verteuerung.",
+       "source": "LBBW / EZB",
+       "url": "https://www.lbbw.de/artikel/news-und-einschaetzungen/ezb-zinsentscheid-juli-2026_am6zch3ggt_d.html"
+      },
+      {
+       "title": "Deutsche Wirtschaft hellt sich zur Jahresmitte leicht auf",
+       "text": "Nach Einschätzung des Bundesministeriums für Wirtschaft und Energie zeigt sich die Lage der deutschen Wirtschaft zur Jahresmitte etwas freundlicher. Nachdem die Zuspitzung des Krieges im Nahen Osten im Frühjahr über steigende Energiepreise und Störungen in den Lieferketten, also den Wegen, auf denen Waren und Vorprodukte zu den Betrieben gelangen, belastet hatte, deuten die jüngsten Indikatoren nun auf eine vorsichtige Stabilisierung hin. Als nächste wichtige Signale gelten das ifo-Geschäftsklima, ein viel beachteter Stimmungswert unter Unternehmen, sowie die anstehenden Zahlen zur Wirtschaftsleistung von Deutschland und dem Euroraum. Warum das zählt: Eine Stabilisierung ist noch kein Aufschwung, aber sie senkt das Risiko, dass Kundinnen und Kunden Aufträge zurückstellen, und schafft etwas mehr Planungssicherheit.",
+       "source": "BMWE / DATEV magazin",
+       "url": "https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/die-wirtschaftliche-lage-in-deutschland-im-juli-2026-147829"
+      }
+     ],
+     "merk": {
+      "text": "Die Zinspause der EZB ist für dich vor allem eine gute Nachricht zur Planbarkeit: Die Finanzierungskosten steigen vorerst nicht weiter, und wer eine größere Anschaffung oder einen Kredit erwägt, muss nicht mit einer kurzfristigen Verteuerung rechnen. Gleichzeitig lohnt es sich, Angebote für Tages- oder Festgeld im Blick zu behalten, denn bei stabilen Zinsen bleiben auch die Konditionen für Erspartes eine Weile berechenbar.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Welthunger geht das dritte Jahr in Folge zurück",
+       "text": "Nach einem Bericht der Vereinten Nationen, dem Zusammenschluss fast aller Staaten der Welt, litten im Jahr 2025 rund 7,8 Prozent der Weltbevölkerung an Hunger, nach 8,1 Prozent im Jahr 2024. Es ist das dritte Jahr in Folge mit einem Rückgang, nachdem die Zahlen während der Corona-Pandemie stark gestiegen waren. Besonders deutliche Fortschritte verzeichneten Asien, Lateinamerika und die Karibik, während die Lage in Afrika stabil blieb, dort aber weiter am höchsten ist. Warum das zählt: Auch wenn die Erholung langsam und ungleich verläuft, bedeutet jeder Rückgang, dass Millionen Menschen zuverlässiger genug zu essen haben, ein Fundament für Gesundheit, Bildung und Stabilität.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wheat_field_harvest_-_geograph.org.uk_-_1432901.jpg",
+       "source": "Positive News / Vereinte Nationen",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
+      },
+      {
+       "title": "Schonende Prostatakrebs-Therapie so wirksam wie eine Operation",
+       "text": "Eine große Langzeitstudie mit rund 3.500 Männern über zehn Jahre zeigt, dass die sogenannte fokale Therapie beim Prostatakrebs, der häufigsten Krebsart bei Männern, ebenso wirksam sein kann wie eine vollständige Operation oder eine Bestrahlung. Fokal bedeutet, dass gezielt nur der erkrankte Bereich der Vorsteherdrüse behandelt wird und nicht das ganze Organ. Der Vorteil: Das Risiko für belastende Nebenwirkungen wie unfreiwilligen Urinverlust oder Störungen der Sexualfunktion sank um etwa die Hälfte. Warum das zählt: Eine gleich wirksame, aber schonendere Behandlung kann vielen Betroffenen die Lebensqualität erhalten und zeigt, wie moderne Medizin zunehmend gezielter statt radikaler vorgeht.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Erstmals Atmosphäre um einen Gesteinsplaneten in der habitablen Zone entdeckt",
+       "text": "Astronominnen und Astronomen haben nach eigenen Angaben erstmals eine Atmosphäre um einen Gesteinsplaneten nachgewiesen, der in der habitablen Zone seines Sterns liegt. Als habitable Zone, wörtlich bewohnbare Zone, bezeichnet man den Abstandsbereich um einen Stern, in dem Wasser flüssig bleiben könnte, eine Grundvoraussetzung für Leben, wie wir es kennen. Der Planet trägt die Katalogbezeichnung LHS 1140 b und umkreist einen kleinen, kühlen Stern in einiger Entfernung von der Erde. Eine Atmosphäre ist die Gashülle um einen Himmelskörper. Warum das zählt: Der Nachweis einer Gashülle an einem solchen Planeten ist ein wichtiger Schritt in der Suche nach möglicherweise lebensfreundlichen Welten und zeigt, wie präzise moderne Teleskope inzwischen ferne Planeten untersuchen können.",
+       "img": "https://live.staticflickr.com/5521/9444601107_c0d1def231_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/space_time/"
+      },
+      {
+       "title": "Der Asteroid, der die Dinosaurier auslöschte, war ein besonders seltener Typ",
+       "text": "Eine neue Analyse hat den Himmelskörper näher bestimmt, dessen Einschlag vor rund 66 Millionen Jahren das Aussterben der Dinosaurier auslöste. Nach den Ergebnissen handelte es sich um einen sogenannten CO-Chondriten, eine besonders seltene Art von Asteroid, dessen Ursprung in einer weit entfernten Region unseres Sonnensystems liegt. Chondriten sind ursprüngliche Gesteinsbrocken aus der Frühzeit des Sonnensystems, die kaum verändert wurden und deshalb Rückschlüsse auf ihre Herkunft erlauben. Warum das zählt: Je genauer sich die Herkunft solcher Einschlagskörper bestimmen lässt, desto besser verstehen Fachleute, wie oft und aus welchen Regionen gefährliche Asteroiden auf die Erde treffen können, eine Grundlage auch für die heutige Vorsorge.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/space_time/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Festival-Samstag bei warmem, bewölktem Wetter",
+       "text": "In Horb am Neckar wird es heute ein warmer, stark bewölkter Tag mit bis zu 31 Grad, schwül und sommerlich. Passend dazu läuft das Wochenende auf seinen musikalischen Höhepunkt zu: Am heutigen Samstag, dem 25. Juli, spielt beim Double Stage Festival am Abend die Band Big Balls, eine Tribut-Band, die die Musik der australischen Rockgruppe AC/DC nachspielt. Am morgigen Sonntag, dem 26. Juli, folgt eine Operngala auf dem Marktplatz mit bekannten Stücken wie Nessun Dorma, La Donna e Mobile und Melodien aus West Side Story und Das Phantom der Oper. Warum das zählt: Ein schwüler, bewölkter Sommerabend eignet sich gut für ein Open-Air-Konzert, und wer die Termine kennt, kann Arbeit und freie Stunden am Wochenende bewusst aufeinander abstimmen.",
+       "img": "https://live.staticflickr.com/8144/7631272708_7f6826e556_b.jpg",
+       "source": "regioactive / meinestadt",
+       "url": "https://www.regioactive.de/events/18653/horb/veranstaltungen-party-konzerte"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein schwüler, grauer Sommertag lädt weniger zur Hektik als zur ruhigen Sammlung ein, bevor am Abend Musik und Wochenende den Ton übernehmen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Innovationsgutschein Hightech Baden-Württemberg: 50 Prozent Zuschuss für externe Innovationsleistungen",
+      "text": "Das Land Baden-Württemberg fördert mit dem Innovationsgutschein Hightech kleine und mittlere Unternehmen, die externe Fachleistungen für anspruchsvolle Entwicklungs- oder Innovationsvorhaben einkaufen, etwa für Forschung, Softwareentwicklung oder technische Konzepte. Gefördert werden bis zu 50 Prozent der Kosten und bis zu 20.000 Euro je Vorhaben, und das Programm läuft fortlaufend, also ohne feste Antragsfrist. Zuständig ist das Land beziehungsweise die betreuende Landesagentur; die genauen Bedingungen und ob du als Solo-Selbstständiger antragsberechtigt bist, solltest du vor einer Bewerbung direkt dort prüfen.",
+      "why": "Für dich als Solo-Unternehmer kann ein solcher Gutschein die Kosten für zugekaufte Technik- oder Softwareleistungen halbieren, etwa wenn du ein KI-gestütztes Werkzeug oder eine Automatisierung nicht selbst umsetzen willst. Wichtig ist die Reihenfolge: erst die Förderfähigkeit und das Vorhaben klären, dann den Antrag vor Auftragsvergabe stellen, denn rückwirkend wird in der Regel nicht gefördert. Da sich Programmdetails ändern können, lohnt vorab ein Blick auf die aktuellen Konditionen.",
+      "source": "Baden-Württemberg / Innovationsgutschein",
+      "url": "https://neckar.it/blog/digitalisierung-kmu-foerderung-2026"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Ergänzend interessant: Simon Willison hat mit shot-scraper video ein Werkzeug vorgestellt, mit dem ein Coding-Agent per Storyboard-Datei kurze Video-Demos einer Weboberfläche aufnehmen kann, nützlich, um Arbeitsergebnisse automatisch vorzeigbar zu machen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Neue MCP-Spezifikation (2026-07-28) im Blick behalten",
+       "tag": "MCP · Architektur",
+       "paras": [
+        "Das Model Context Protocol, kurz MCP, ist der offene Standard, über den dein Assistenzsystem externe Werkzeuge und Datenquellen anbindet. Am 28. Juli erscheint die nächste große Fassung der Spezifikation (Version 2026-07-28), deren Release Candidate, also die kurz vor der Freigabe stehende Testfassung, bereits vorliegt.",
+        "Die wichtigste Änderung ist ein zustandsloser Kern (stateless core): MCP-Server müssen sich künftig keine Sitzungsdaten mehr merken und laufen dadurch schon hinter einem einfachen Lastverteiler statt komplexer Sitzungsverwaltung. Dazu kommen ein Erweiterungs-Rahmen (Extensions) mit server-gerenderten Oberflächen (MCP Apps) und lang laufenden Aufgaben (Tasks) sowie eine an OAuth angelehnte, strengere Absicherung der Zugriffsrechte. Für dich heißt das: Wenn dein System eigene MCP-Server nutzt, prüfe früh, ob deine SDK-Version die neue Fassung unterstützt, bevor der zehnwöchige Übergangszeitraum abläuft."
+       ],
+       "konkret": "Notiere dir den 28. Juli als Stichtag und prüfe nach Erscheinen, welche deiner MCP-Server-Bibliotheken bereits eine kompatible Version anbieten, damit spätere Anpassungen nicht überraschen.",
+       "snippetLabel": "Prompt, um deine MCP-Anbindung gegen die neue Fassung zu prüfen",
+       "snippet": "Analysiere meine MCP-Server-Konfiguration:\n1. Liste alle genutzten MCP-Server und ihre SDK-Version auf.\n2. Markiere, welche noch auf einer zustandsbehafteten (stateful) Sitzung beruhen.\n3. Nenne pro Server, was für die Umstellung auf die Spezifikation <span class=\"ph\">{2026-07-28}</span> zu tun ist.\n4. Priorisiere nach Aufwand und Risiko.",
+       "source": "Model Context Protocol Blog",
+       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+       "score": "hoch relevant, wenn dein System MCP-Server einsetzt"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
