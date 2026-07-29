@@ -20,9 +20,18 @@
      Darum: keine Punkte, keine Serie, kein Lob. Wer eine Zahl eintraegt,
      soll nicht bewertet werden, sondern kurz nachdenken.
 
-     Farbe traegt hier Bedeutung statt Dekoration: Energie ist warm (Ton),
-     Stimmung ist kuehl (Indigo). So sind die beiden Regler unterscheidbar,
-     ohne dass die Beschriftung lauter werden muss.
+     Erweitert am 29.07.: nicht "mehr Fragen", sondern Fragen, die etwas
+     ENTSCHEIDEN. Regler sind fast gratis (ein Wisch), Text kostet Minuten -
+     also waechst die Seite in die Breite bei den Reglern und bleibt schmal
+     beim Schreiben. Die Tiefe steckt in EINER rotierenden Frage je
+     Wochentag: sieben tiefe Fragen pro Woche, aber nie mehr als eine am Tag.
+
+     Gefragt wird nur, was kein Geraet messen kann. Schritte, Schlaf,
+     Termine und Kalorien liegen laengst vor - eine ueberfluessige Frage ist
+     der sicherste Weg, eine taegliche Routine sterben zu lassen.
+
+     Farbe traegt Bedeutung statt Dekoration: warm fuer den Koerper
+     (Energie, Anspannung), kuehl fuer den Kopf (Stimmung, Fokus).
      ------------------------------------------------------------------ */
 
   :root {
@@ -31,8 +40,8 @@
     --tinte: #232831;
     --gedaempft: #6d7480;
     --linie: #2328311a;
-    --energie: #a9784e;
-    --stimmung: #5d6c8d;
+    --warm: #a9784e;
+    --kuehl: #5d6c8d;
     --ruhe: 0.55s;
   }
 
@@ -43,8 +52,8 @@
       --tinte: #dfe3e9;
       --gedaempft: #8b94a1;
       --linie: #dfe3e926;
-      --energie: #c69a6e;
-      --stimmung: #8b9ac0;
+      --warm: #c69a6e;
+      --kuehl: #8b9ac0;
     }
   }
 
@@ -54,8 +63,8 @@
     --tinte: #dfe3e9;
     --gedaempft: #8b94a1;
     --linie: #dfe3e926;
-    --energie: #c69a6e;
-    --stimmung: #8b9ac0;
+    --warm: #c69a6e;
+    --kuehl: #8b9ac0;
   }
 
   :root[data-theme="light"] {
@@ -64,8 +73,8 @@
     --tinte: #232831;
     --gedaempft: #6d7480;
     --linie: #2328311a;
-    --energie: #a9784e;
-    --stimmung: #5d6c8d;
+    --warm: #a9784e;
+    --kuehl: #5d6c8d;
   }
 
   * { box-sizing: border-box; }
@@ -89,7 +98,7 @@
     max-width: 30rem;
     display: flex;
     flex-direction: column;
-    gap: clamp(2.25rem, 7vw, 3.25rem);
+    gap: clamp(2rem, 6vw, 2.75rem);
     animation: auftauchen var(--ruhe) ease-out both;
   }
 
@@ -140,16 +149,14 @@
     transition: color 0.2s, background 0.2s;
   }
 
-  .tagwahl button[aria-pressed="true"] {
-    background: var(--tinte);
-    color: var(--grund);
-  }
+  .tagwahl button[aria-pressed="true"] { background: var(--tinte); color: var(--grund); }
 
   .tagwahl button:focus-visible,
   .senden:focus-visible,
-  .satz:focus-visible,
+  textarea:focus-visible,
+  .schalter button:focus-visible,
   input[type="range"]:focus-visible {
-    outline: 2px solid var(--stimmung);
+    outline: 2px solid var(--kuehl);
     outline-offset: 3px;
   }
 
@@ -173,9 +180,23 @@
     margin: 0;
   }
 
+  /* --- Abschnitte --- */
+
+  .gruppe { display: flex; flex-direction: column; gap: 1.5rem; }
+
+  .marke {
+    font-size: 0.7rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--gedaempft);
+    border-bottom: 1px solid var(--linie);
+    padding-bottom: 0.6rem;
+    margin: 0;
+  }
+
   /* --- Regler --- */
 
-  .frage { display: flex; flex-direction: column; gap: 0.9rem; }
+  .frage { display: flex; flex-direction: column; gap: 0.55rem; }
 
   .frage-kopf {
     display: flex;
@@ -184,12 +205,7 @@
     gap: 1rem;
   }
 
-  .frage-text {
-    font-family: var(--serif);
-    font-size: 1.15rem;
-    line-height: 1.35;
-    margin: 0;
-  }
+  .frage-text { font-family: var(--serif); font-size: 1.1rem; line-height: 1.35; margin: 0; }
 
   .wert {
     text-align: right;
@@ -202,23 +218,14 @@
 
   .frage[data-gesetzt="ja"] .wert { color: var(--ton); }
 
-  .zahl {
-    font-size: 1.5rem;
-    font-variant-numeric: tabular-nums;
-    line-height: 1;
-    font-weight: 500;
-  }
-
-  .wortlaut {
-    font-size: 0.78rem;
-    letter-spacing: 0.04em;
-  }
+  .zahl { font-size: 1.4rem; font-variant-numeric: tabular-nums; line-height: 1; font-weight: 500; }
+  .wortlaut { font-size: 0.76rem; letter-spacing: 0.04em; }
 
   input[type="range"] {
     -webkit-appearance: none;
     appearance: none;
     width: 100%;
-    height: 2.75rem;
+    height: 2.5rem;
     background: transparent;
     margin: 0;
     cursor: pointer;
@@ -227,31 +234,18 @@
   input[type="range"]::-webkit-slider-runnable-track {
     height: 0.35rem;
     border-radius: 999px;
-    background: linear-gradient(
-      to right,
-      var(--ton) 0 var(--fuellung, 0%),
-      var(--linie) var(--fuellung, 0%) 100%
-    );
+    background: linear-gradient(to right, var(--ton) 0 var(--fuellung, 0%), var(--linie) var(--fuellung, 0%) 100%);
   }
 
-  input[type="range"]::-moz-range-track {
-    height: 0.35rem;
-    border-radius: 999px;
-    background: var(--linie);
-  }
-
-  input[type="range"]::-moz-range-progress {
-    height: 0.35rem;
-    border-radius: 999px;
-    background: var(--ton);
-  }
+  input[type="range"]::-moz-range-track { height: 0.35rem; border-radius: 999px; background: var(--linie); }
+  input[type="range"]::-moz-range-progress { height: 0.35rem; border-radius: 999px; background: var(--ton); }
 
   input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
-    width: 1.6rem;
-    height: 1.6rem;
-    margin-top: -0.625rem;
+    width: 1.55rem;
+    height: 1.55rem;
+    margin-top: -0.6rem;
     border-radius: 50%;
     background: var(--flaeche);
     border: 1.5px solid var(--ton);
@@ -260,12 +254,8 @@
   }
 
   input[type="range"]::-moz-range-thumb {
-    width: 1.6rem;
-    height: 1.6rem;
-    border-radius: 50%;
-    background: var(--flaeche);
-    border: 1.5px solid var(--ton);
-    box-shadow: 0 1px 4px #0000001f;
+    width: 1.55rem; height: 1.55rem; border-radius: 50%;
+    background: var(--flaeche); border: 1.5px solid var(--ton);
   }
 
   input[type="range"]:active::-webkit-slider-thumb { transform: scale(1.12); }
@@ -273,34 +263,87 @@
   .skala-enden {
     display: flex;
     justify-content: space-between;
-    font-size: 0.7rem;
-    letter-spacing: 0.06em;
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
     color: var(--gedaempft);
-    margin-top: -0.35rem;
+    margin-top: -0.5rem;
   }
 
-  .frage-energie { --ton: var(--energie); }
-  .frage-stimmung { --ton: var(--stimmung); }
+  .ton-warm { --ton: var(--warm); }
+  .ton-kuehl { --ton: var(--kuehl); }
 
-  /* --- Satz --- */
+  /* --- Ja/Nein --- */
 
-  .satz-block { display: flex; flex-direction: column; gap: 0.9rem; }
+  .schalter { display: flex; flex-direction: column; gap: 0.9rem; }
 
-  .satz {
+  .schalter-zeile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .schalter-text { font-family: var(--serif); font-size: 1rem; line-height: 1.4; margin: 0; }
+  .schalter-text small { display: block; font-family: var(--sans); font-size: 0.75rem; color: var(--gedaempft); margin-top: 0.15rem; }
+
+  .schalter-paar {
+    display: inline-flex;
+    flex: 0 0 auto;
+    border: 1px solid var(--linie);
+    border-radius: 999px;
+    padding: 0.15rem;
+    background: var(--flaeche);
+  }
+
+  .schalter-paar button {
+    font: inherit;
+    font-size: 0.85rem;
+    border: 0;
+    background: transparent;
+    color: var(--gedaempft);
+    padding: 0.4rem 0.95rem;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+  }
+
+  .schalter-paar button[aria-pressed="true"] { background: var(--tinte); color: var(--grund); }
+
+  /* --- Text --- */
+
+  textarea {
     font-family: var(--serif);
-    font-size: 1.05rem;
+    font-size: 1.02rem;
     line-height: 1.6;
     color: var(--tinte);
     background: var(--flaeche);
     border: 1px solid var(--linie);
     border-radius: 0.5rem;
-    padding: 1rem 1.1rem;
-    min-height: 7rem;
+    padding: 0.9rem 1rem;
     resize: vertical;
     width: 100%;
   }
 
-  .satz::placeholder { color: var(--gedaempft); opacity: 0.75; }
+  textarea::placeholder { color: var(--gedaempft); opacity: 0.75; }
+
+  .kurz { min-height: 4.5rem; }
+  .lang { min-height: 6.5rem; }
+
+  .tiefe-frage {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    line-height: 1.45;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .tiefe-tag {
+    font-size: 0.7rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--kuehl);
+    margin: 0 0 0.35rem;
+  }
 
   /* --- Abschluss --- */
 
@@ -325,13 +368,7 @@
     color: var(--gedaempft);
     min-height: 1.6rem;
     margin: 0;
-  }
-
-  .rueckmeldung code {
-    font-family: ui-monospace, "SF Mono", Menlo, monospace;
-    font-size: 0.8rem;
-    color: var(--tinte);
-    word-break: break-all;
+    overflow-wrap: anywhere;
   }
 
   .fuss {
@@ -358,46 +395,104 @@
       <p class="gestern" id="rueckblick" hidden></p>
     </header>
 
-    <section class="frage frage-energie" data-gesetzt="nein">
-      <div class="frage-kopf">
-        <p class="frage-text"><label for="energie">Energie</label></p>
-        <span class="wert">
-          <span class="zahl" id="energie-zahl">–</span>
-          <span class="wortlaut" id="energie-wort">noch offen</span>
+    <section class="gruppe">
+      <p class="marke">Wie es dir ging</p>
+
+      <div class="frage ton-warm" data-gesetzt="nein">
+        <div class="frage-kopf">
+          <p class="frage-text"><label for="energie">Energie</label></p>
+          <span class="wert"><span class="zahl" id="energie-zahl">–</span><span class="wortlaut" id="energie-wort">offen</span></span>
+        </div>
+        <input type="range" id="energie" min="1" max="10" step="1" value="5" />
+        <div class="skala-enden"><span>leer</span><span>hellwach</span></div>
+      </div>
+
+      <div class="frage ton-kuehl" data-gesetzt="nein">
+        <div class="frage-kopf">
+          <p class="frage-text"><label for="stimmung">Stimmung</label></p>
+          <span class="wert"><span class="zahl" id="stimmung-zahl">–</span><span class="wortlaut" id="stimmung-wort">offen</span></span>
+        </div>
+        <input type="range" id="stimmung" min="1" max="10" step="1" value="5" />
+        <div class="skala-enden"><span>schwer</span><span>leicht</span></div>
+      </div>
+
+      <div class="frage ton-kuehl" data-gesetzt="nein">
+        <div class="frage-kopf">
+          <p class="frage-text"><label for="fokus">Klarheit im Kopf</label></p>
+          <span class="wert"><span class="zahl" id="fokus-zahl">–</span><span class="wortlaut" id="fokus-wort">offen</span></span>
+        </div>
+        <input type="range" id="fokus" min="1" max="10" step="1" value="5" />
+        <div class="skala-enden"><span>zerstreut</span><span>klar</span></div>
+      </div>
+
+      <div class="frage ton-warm" data-gesetzt="nein">
+        <div class="frage-kopf">
+          <p class="frage-text"><label for="anspannung">Anspannung</label></p>
+          <span class="wert"><span class="zahl" id="anspannung-zahl">–</span><span class="wortlaut" id="anspannung-wort">offen</span></span>
+        </div>
+        <input type="range" id="anspannung" min="1" max="10" step="1" value="5" />
+        <div class="skala-enden"><span>ruhig</span><span>unter Strom</span></div>
+      </div>
+    </section>
+
+    <section class="gruppe schalter">
+      <p class="marke">Drei Fragen, die nichts messen kann</p>
+
+      <div class="schalter-zeile">
+        <p class="schalter-text">Etwas nach aussen getan?<small>Verschickt, angerufen, veröffentlicht. Wo jemand nein sagen könnte.</small></p>
+        <span class="schalter-paar" role="group" data-schalter="nach_aussen">
+          <button type="button" data-wert="1" aria-pressed="false">Ja</button>
+          <button type="button" data-wert="0" aria-pressed="false">Nein</button>
         </span>
       </div>
-      <input type="range" id="energie" min="1" max="10" step="1" value="5"
-             aria-describedby="energie-wort" />
-      <div class="skala-enden"><span>leer</span><span>hellwach</span></div>
-    </section>
 
-    <section class="frage frage-stimmung" data-gesetzt="nein">
-      <div class="frage-kopf">
-        <p class="frage-text"><label for="stimmung">Stimmung</label></p>
-        <span class="wert">
-          <span class="zahl" id="stimmung-zahl">–</span>
-          <span class="wortlaut" id="stimmung-wort">noch offen</span>
+      <div class="schalter-zeile">
+        <p class="schalter-text">Draussen gewesen?<small>Tageslicht, nicht nur Weg zum Auto.</small></p>
+        <span class="schalter-paar" role="group" data-schalter="draussen">
+          <button type="button" data-wert="1" aria-pressed="false">Ja</button>
+          <button type="button" data-wert="0" aria-pressed="false">Nein</button>
         </span>
       </div>
-      <input type="range" id="stimmung" min="1" max="10" step="1" value="5"
-             aria-describedby="stimmung-wort" />
-      <div class="skala-enden"><span>schwer</span><span>leicht</span></div>
+
+      <div class="schalter-zeile">
+        <p class="schalter-text">Echtes Gespräch gehabt?<small>Von Angesicht oder am Telefon. Chat zählt nicht.</small></p>
+        <span class="schalter-paar" role="group" data-schalter="gespraech">
+          <button type="button" data-wert="1" aria-pressed="false">Ja</button>
+          <button type="button" data-wert="0" aria-pressed="false">Nein</button>
+        </span>
+      </div>
     </section>
 
-    <section class="satz-block">
-      <p class="frage-text"><label for="satz">Ein Satz dazu</label></p>
-      <textarea class="satz" id="satz" rows="4"
-                placeholder="Was heute wirklich passiert ist. Kein Bericht, ein Satz."></textarea>
+    <section class="gruppe">
+      <p class="marke">Zwei Zeilen</p>
+      <div>
+        <p class="frage-text" style="margin-bottom:0.6rem"><label for="vermieden">Was hast du heute vor dir hergeschoben?</label></p>
+        <textarea class="kurz" id="vermieden" rows="2" placeholder="Auch wenn es klein war. Besonders wenn es klein war."></textarea>
+      </div>
+      <div>
+        <p class="frage-text" style="margin-bottom:0.6rem"><label for="notiz">Ein Satz zum Tag</label></p>
+        <textarea class="kurz" id="notiz" rows="2" placeholder="Was heute wirklich passiert ist. Kein Bericht, ein Satz."></textarea>
+      </div>
     </section>
 
-    <div class="satz-block">
+    <section class="gruppe">
+      <p class="marke" id="tiefe-marke">Die Frage des Tages</p>
+      <div>
+        <p class="tiefe-tag" id="tiefe-tag"></p>
+        <p class="tiefe-frage" id="tiefe-frage"><label for="tiefe"></label></p>
+      </div>
+      <textarea class="lang" id="tiefe" rows="3" placeholder="Kein Aufsatz. Was zuerst kommt, ist meist das Richtige."></textarea>
+    </section>
+
+    <div class="gruppe" style="gap:0.9rem">
       <button type="button" class="senden" id="senden" disabled>Eintragen</button>
       <p class="rueckmeldung" id="rueckmeldung"></p>
     </div>
 
     <p class="fuss">
       Keine Punkte, keine Serie, keine Bewertung. Die Zahlen sind Material für das
-      Wochengespräch, kein Zeugnis über den Tag.
+      Wochengespräch, kein Zeugnis über den Tag. Pflicht sind nur die vier Regler,
+      alles andere darf leer bleiben.
     </p>
   </main>
 </div>
@@ -406,16 +501,33 @@
   (function () {
     "use strict";
 
-    // Beschreibende Worte, keine bewertenden. "matt" sagt, wie es ist; "schlecht" waere ein Urteil,
-    // und Urteile sind genau das, was diese Seite nicht produzieren soll.
+    // Beschreibende Worte, keine bewertenden. "matt" sagt, wie es ist; "schlecht" waere ein
+    // Urteil, und Urteile sind genau das, was diese Seite nicht produzieren soll.
     const WORTE = {
       energie: ["leer", "leer", "matt", "matt", "mittel", "mittel", "wach", "wach", "hellwach", "hellwach"],
       stimmung: ["schwer", "schwer", "gedrückt", "gedrückt", "neutral", "neutral", "gut", "gut", "leicht", "leicht"],
+      fokus: ["zerstreut", "zerstreut", "diffus", "diffus", "mittel", "mittel", "klar", "klar", "scharf", "scharf"],
+      anspannung: ["ruhig", "ruhig", "gelöst", "gelöst", "mittel", "mittel", "angespannt", "angespannt", "unter Strom", "unter Strom"],
     };
 
+    // Eine tiefe Frage je Wochentag. Sieben pro Woche, nie mehr als eine am Tag - so entsteht
+    // Tiefe, ohne dass die Routine taeglich laenger wird. Index 0 ist Sonntag (JS-Konvention).
+    const TIEFENFRAGEN = [
+      { tag: "Sonntag", frage: "Was nimmst du aus dieser Woche mit, und was lässt du hier?" },
+      { tag: "Montag", frage: "Was steht diese Woche an, das du jetzt schon nicht machen willst?" },
+      { tag: "Dienstag", frage: "Wann warst du heute am meisten du selbst?" },
+      { tag: "Mittwoch", frage: "Was hättest du heute gesagt, wenn du keine Angst gehabt hättest?" },
+      { tag: "Donnerstag", frage: "Wofür hast du dich heute entschuldigt oder klein gemacht?" },
+      { tag: "Freitag", frage: "Was hat diese Woche funktioniert, das du dir vorher nicht zugetraut hättest?" },
+      { tag: "Samstag", frage: "Was hast du heute für dich gemacht, nicht für ein Ziel?" },
+    ];
+
     const SPEICHER = "innenbau-abendnotiz";
+    const SKALEN = ["energie", "stimmung", "fokus", "anspannung"];
+    const SCHALTER = ["nach_aussen", "draussen", "gespraech"];
     const el = (id) => document.getElementById(id);
-    const zustand = { versatz: 0, energie: null, stimmung: null };
+    const zustand = { versatz: 0, energie: null, stimmung: null, fokus: null, anspannung: null };
+    SCHALTER.forEach((n) => (zustand[n] = null));
 
     function datumString(versatzTage) {
       const d = new Date();
@@ -424,21 +536,21 @@
       return d.getFullYear() + "-" + p(d.getMonth() + 1) + "-" + p(d.getDate());
     }
 
-    function langesDatum(versatzTage) {
+    function tagesObjekt(versatzTage) {
       const d = new Date();
       d.setDate(d.getDate() - versatzTage);
-      return d.toLocaleDateString("de-DE", { weekday: "long", day: "numeric", month: "long" });
+      return d;
     }
 
     function reglerZeichnen(name) {
       const regler = el(name);
       const wert = Number(regler.value);
-      const anteil = ((wert - Number(regler.min)) / (Number(regler.max) - Number(regler.min))) * 100;
+      const anteil = ((wert - 1) / 9) * 100;
       regler.style.setProperty("--fuellung", anteil + "%");
       const feld = regler.closest(".frage");
       if (zustand[name] === null) {
         el(name + "-zahl").textContent = "–";
-        el(name + "-wort").textContent = "noch offen";
+        el(name + "-wort").textContent = "offen";
         feld.dataset.gesetzt = "nein";
       } else {
         el(name + "-zahl").textContent = String(wert);
@@ -448,12 +560,12 @@
     }
 
     function pruefen() {
-      // Erst wenn beide Regler bewusst angefasst wurden. Ein Vorgabewert waere eine Antwort,
-      // die er nie gegeben hat - und genau die verdirbt spaeter jede Auswertung.
-      el("senden").disabled = zustand.energie === null || zustand.stimmung === null;
+      // Nur die vier Regler sind Pflicht, und erst wenn sie BEWUSST angefasst wurden. Ein
+      // Vorgabewert waere eine Antwort, die er nie gegeben hat - und die verdirbt jede Auswertung.
+      el("senden").disabled = SKALEN.some((n) => zustand[n] === null);
     }
 
-    ["energie", "stimmung"].forEach(function (name) {
+    SKALEN.forEach(function (name) {
       const regler = el(name);
       const setzen = function () {
         zustand[name] = Number(regler.value);
@@ -465,11 +577,43 @@
       reglerZeichnen(name);
     });
 
+    document.querySelectorAll(".schalter-paar").forEach(function (paar) {
+      const name = paar.dataset.schalter;
+      paar.querySelectorAll("button").forEach(function (knopf) {
+        knopf.addEventListener("click", function () {
+          const wert = Number(knopf.dataset.wert);
+          // Nochmal derselbe Knopf hebt die Wahl wieder auf - eine Fehlberuehrung soll nicht
+          // stundenlang eine falsche Antwort festhalten.
+          zustand[name] = zustand[name] === wert ? null : wert;
+          paar.querySelectorAll("button").forEach(function (b) {
+            b.setAttribute("aria-pressed", zustand[name] !== null && Number(b.dataset.wert) === zustand[name] ? "true" : "false");
+          });
+        });
+      });
+    });
+
+    function tiefeSetzen() {
+      const d = tagesObjekt(zustand.versatz);
+      const eintrag = TIEFENFRAGEN[d.getDay()];
+      el("tiefe-tag").textContent = eintrag.tag;
+      el("tiefe-frage").innerHTML = "";
+      const label = document.createElement("label");
+      label.setAttribute("for", "tiefe");
+      label.textContent = eintrag.frage;
+      el("tiefe-frage").appendChild(label);
+      zustand.tiefeFrage = eintrag.frage;
+    }
+
     function tagSetzen(versatz) {
       zustand.versatz = versatz;
       el("btn-heute").setAttribute("aria-pressed", versatz === 0 ? "true" : "false");
       el("btn-gestern").setAttribute("aria-pressed", versatz === 1 ? "true" : "false");
-      el("datumsanzeige").textContent = langesDatum(versatz);
+      el("datumsanzeige").textContent = tagesObjekt(versatz).toLocaleDateString("de-DE", {
+        weekday: "long",
+        day: "numeric",
+        month: "long",
+      });
+      tiefeSetzen();
       rueckblickZeigen();
     }
     el("btn-heute").addEventListener("click", function () { tagSetzen(0); });
@@ -487,43 +631,46 @@
     // waere das Gegenteil von dem, wozu diese Seite einlaedt.
     function rueckblickZeigen() {
       const vortag = datumString(zustand.versatz + 1);
-      const treffer = alleEintraege().filter(function (e) { return e.datum === vortag && e.satz; }).pop();
+      const treffer = alleEintraege().filter(function (e) { return e.datum === vortag && e.notiz; }).pop();
       const feld = el("rueckblick");
-      if (!treffer) {
-        feld.hidden = true;
-        return;
-      }
+      if (!treffer) { feld.hidden = true; return; }
       feld.hidden = false;
-      feld.textContent = "Gestern: " + treffer.satz;
+      feld.textContent = "Gestern: " + treffer.notiz;
     }
 
     el("senden").addEventListener("click", function () {
+      const sauber = function (id) { return el(id).value.trim().replace(/\s+/g, " "); };
       const datum = datumString(zustand.versatz);
-      const satz = el("satz").value.trim().replace(/[\r\n]+/g, " ");
-      const zeile = datum + "|" + zustand.energie + "|" + zustand.stimmung + "|" + satz;
+
+      // JSON statt Trennzeichen: so wachsen die Felder, ohne dass ein Format neu verhandelt
+      // werden muss - und ein Text mit Strichen darin kann nichts mehr zerlegen.
+      const satz = { datum: datum };
+      SKALEN.forEach(function (n) { satz[n] = zustand[n]; });
+      SCHALTER.forEach(function (n) { if (zustand[n] !== null) satz[n] = zustand[n]; });
+      if (sauber("vermieden")) satz.vermieden = sauber("vermieden");
+      if (sauber("notiz")) satz.notiz = sauber("notiz");
+      if (sauber("tiefe")) { satz.tiefe = sauber("tiefe"); satz.tiefe_frage = zustand.tiefeFrage; }
+      const zeile = JSON.stringify(satz);
 
       // Immer zuerst lokal sichern. Was danach kommt, kann scheitern; der Eintrag darf es nicht.
-      const eintraege = alleEintraege().filter(function (e) { return e.datum !== datum; });
-      eintraege.push({ datum: datum, energie: zustand.energie, stimmung: zustand.stimmung, satz: satz, zeile: zeile });
+      const bisher = alleEintraege().filter(function (e) { return e.datum !== datum; });
+      bisher.push(satz);
       try {
-        localStorage.setItem(SPEICHER, JSON.stringify(eintraege.slice(-120)));
+        localStorage.setItem(SPEICHER, JSON.stringify(bisher.slice(-120)));
       } catch (e) { /* privater Modus: dann bleibt der Kurzbefehl der einzige Weg */ }
 
       const melden = el("rueckmeldung");
-      melden.innerHTML = "Notiert. Übergebe an den Kurzbefehl …";
-
+      melden.textContent = "Notiert. Übergebe an den Kurzbefehl …";
       if (navigator.clipboard) navigator.clipboard.writeText(zeile).catch(function () {});
 
-      // Der Kurzbefehl macht nur noch das stumpfe Anhaengen an die Datei im Drive.
-      // Klappt der Aufruf nicht (anderes Geraet, kein Kurzbefehl), steht die Zeile unten
-      // und liegt in der Zwischenablage - verloren geht sie nie.
-      const ziel = "shortcuts://x-callback-url/run-shortcut?name=" +
-        encodeURIComponent("Innenbau") + "&input=text&text=" + encodeURIComponent(zeile);
-      window.location.href = ziel;
+      // Der Kurzbefehl macht nur noch das stumpfe Anhaengen an die Datei im Drive. Klappt der
+      // Aufruf nicht, steht die Zeile unten und liegt in der Zwischenablage - verloren geht sie nie.
+      window.location.href =
+        "shortcuts://x-callback-url/run-shortcut?name=" + encodeURIComponent("Innenbau") +
+        "&input=text&text=" + encodeURIComponent(zeile);
 
       setTimeout(function () {
-        melden.innerHTML = "Notiert und in der Zwischenablage:<br><code>" +
-          zeile.replace(/&/g, "&amp;").replace(/</g, "&lt;") + "</code>";
+        melden.textContent = "Notiert und in der Zwischenablage. " + Object.keys(satz).length + " Angaben.";
       }, 1200);
     });
 
