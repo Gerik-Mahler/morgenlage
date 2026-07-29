@@ -2,168 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Mittwoch, 22. Juli 2026",
-      "weather": "clouds",
-      "temp": "25°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. In Horb am Neckar wird es heute mild und stark bewölkt bei bis zu 25 Grad, ein ruhiger Sommertag ohne Extreme. In der Weltlage treffen sich in Südostasien die Außenminister der großen Mächte, in der Wirtschaft richtet sich alles auf den Zinsentscheid der Europäischen Zentralbank an diesem Donnerstag, und aus der Forschung kommt ein Kunststoff, der sich mithilfe von Bakterien in sechs Tagen selbst auflöst. Hier ist deine Morgenlage.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Außenminister der USA, Russlands und Chinas treffen sich beim ASEAN-Gipfel",
-              "text": "In den Philippinen geht das Treffen der Außenminister der ASEAN-Staaten weiter, also des Verbands Südostasiatischer Nationen, eines Zusammenschlusses von zehn Ländern der Region. Als internationale Gäste werden unter anderem der US-Außenminister Marco Rubio, der russische Außenminister Sergej Lawrow und der chinesische Außenminister Wang Yi erwartet. Solche Zusammenkünfte gelten als seltene Gelegenheit, bei der Vertreter verfeindeter Großmächte am Rande der offiziellen Sitzungen direkt miteinander sprechen können. Warum das zählt: Südostasien ist zu einem zentralen Schauplatz im Wettbewerb zwischen den USA und China geworden, und schon der Ton dieser Begegnungen kann anzeigen, ob sich Spannungen eher verschärfen oder entspannen.",
-              "source": "finanznachrichten.de / Terminvorschau",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69088100-tagesvorschau-termine-am-22-juli-2026-016.htm"
-            },
-            {
-              "title": "EU-Kommission legt in Brüssel ein Energie-Paket vor",
-              "text": "Die Europäische Kommission, die oberste Verwaltungsbehörde der Europäischen Union mit Sitz in Brüssel, will heute ein Paket zur Energiepolitik vorstellen. Solche Pakete bündeln in der Regel mehrere Gesetzesvorschläge und Ziele, etwa zum Ausbau erneuerbarer Energien, zur Versorgungssicherheit und zu den Preisen für Verbraucher und Betriebe. Die genauen Inhalte werden erst mit der Vorstellung offiziell. Warum das zählt: Entscheidungen auf europäischer Ebene geben oft den Rahmen vor, in dem sich später deutsche Energiepreise und Förderregeln bewegen, was für jeden Betrieb die Kosten mitbestimmt.",
-              "source": "finanznachrichten.de / Terminvorschau",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69088100-tagesvorschau-termine-am-22-juli-2026-016.htm"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "EZB entscheidet am Donnerstag, die Erwartungen sind geteilt",
-              "text": "Der große Wirtschaftstermin der Woche ist der Zinsentscheid der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der 20 Länder mit dem Euro, an diesem Donnerstag, dem 23. Juli. Die Entscheidung wird um 14:15 Uhr bekannt gegeben, um 14:45 Uhr folgt die Pressekonferenz mit EZB-Präsidentin Christine Lagarde. Der wichtigste Leitzins, der Einlagensatz, zu dem Banken überschüssiges Geld bei der Notenbank parken, liegt seit dem 17. Juni bei 2,25 Prozent, nachdem die EZB ihn erstmals seit einem Jahr wieder angehoben hatte. Die Fachleute sind sich diesmal uneinig: Manche erwarten eine Pause, um die Wirkung der letzten Anhebung abzuwarten, andere eine weitere Erhöhung um 0,25 Prozentpunkte; bis Jahresende halten einige einen Satz von 2,75 Prozent für möglich. Warum das zählt: Die Leitzinsen bestimmen mit, wie teuer Kredite und wie hoch Sparzinsen sind, und die Signale für den Herbst wiegen oft schwerer als die Entscheidung selbst.",
-              "source": "LBBW / Finanztip",
-              "url": "https://www.lbbw.de/artikel/maerkte-verstehen/ezb-zinsentscheid-leitzins-prognosen_ait4bfmrfe_d.html"
-            },
-            {
-              "title": "Quartalszahlen großer Technologiekonzerne stehen an",
-              "text": "Zugleich läuft die Woche der Quartalsbilanzen: Große Technologie- und Industriekonzerne wie der Elektroautohersteller Tesla, der Google-Mutterkonzern Alphabet und der Computerkonzern IBM legen ihre Zahlen für das zweite Quartal vor. Ein Quartal ist ein Vierteljahr, und die Berichte zeigen, wie viel die Unternehmen in diesen drei Monaten verdient haben. Weil diese Konzerne als Gradmesser für die weltweite Nachfrage nach Technik und Werbung gelten, achten die Finanzmärkte genau auf ihre Aussichten. Warum das zählt: Fallen die Zahlen und Prognosen dieser Schwergewichte schwach aus, kann das die Stimmung an den Börsen und damit indirekt auch das Investitionsklima in Europa dämpfen.",
-              "source": "finanznachrichten.de / Terminvorschau",
-              "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69088100-tagesvorschau-termine-am-22-juli-2026-016.htm"
-            }
-          ],
-          "merk": {
-            "text": "Vor dem Zinsentscheid am Donnerstag lohnt sich Zurückhaltung bei fest verzinsten Verpflichtungen: Solange offen ist, ob die EZB pausiert oder weiter anhebt, kann sich die Lage bei Krediten und Sparzinsen kurzfristig verschieben. Für dich als Solo-Unternehmer heißt das, größere Finanzierungen wenn möglich bis nach der Pressekonferenz am Donnerstagnachmittag zu vertagen und dann mit klarerem Bild zu entscheiden.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Die Seine in Paris ist wieder zum Schwimmen geöffnet",
-              "text": "In Paris ist die Seine, der große Fluss, der durch die französische Hauptstadt fließt, den zweiten Sommer in Folge zum Baden freigegeben. Nach mehr als hundert Jahren, in denen das Schwimmen wegen verschmutzten Wassers verboten war, gibt es nun drei ausgewiesene Badezonen, unter anderem nahe der Kathedrale Notre-Dame und dem Eiffelturm. Möglich wurde das durch einen umfangreichen Umbau der Kanalisation, also des unterirdischen Abwassersystems, sodass bei Regen deutlich weniger ungeklärtes Abwasser in den Fluss gelangt. Warum das zählt: Das Beispiel zeigt, dass sich selbst über Generationen verschmutzte Gewässer mit gezielten Investitionen wieder in einen Zustand bringen lassen, in dem Menschen und Natur sie nutzen können.",
-              "img": "https://live.staticflickr.com/7172/6681110843_548ab3c77b_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            },
-            {
-              "title": "Estland führt den Umwelt-Index von 177 Ländern an",
-              "text": "Estland, ein kleiner Staat im Nordosten Europas an der Ostsee, steht an der Spitze des Environmental Performance Index, eines internationalen Vergleichs der Umweltleistung von 177 Ländern. Für das Ranking wurden 47 Kennzahlen ausgewertet, etwa zu Treibhausgasen, sauberer Luft und dem Schutz der Natur; hervorgehoben wird Estlands deutlicher Rückgang der klimaschädlichen Emissionen. Auf den weiteren Plätzen folgen Luxemburg und das Vereinigte Königreich. Warum das zählt: Solche Vergleiche machen sichtbar, welche Länder beim Umweltschutz vorankommen, und liefern anderen konkrete Vorbilder, an denen sie sich orientieren können.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Ein lebender Kunststoff, der sich in sechs Tagen selbst auflöst",
-              "text": "Forschende haben einen Kunststoff entwickelt, der lebende Bakterien enthält und sich dadurch nach Gebrauch vollständig selbst zersetzt. Bakterien sind winzige Lebewesen, die hier so verändert wurden, dass sie das Material von innen abbauen. In Versuchen zerfiel der Kunststoff innerhalb von nur sechs Tagen restlos, ohne die winzigen Kunststoffreste zu hinterlassen, die man als Mikroplastik bezeichnet und die sich sonst in Böden, Gewässern und Lebewesen anreichern. Warum das zählt: Ein Werkstoff, der seine Aufgabe erfüllt und danach spurlos verschwindet, könnte helfen, eines der hartnäckigsten Umweltprobleme zu entschärfen, ohne auf die Vorzüge von Kunststoff ganz verzichten zu müssen.",
-              "img": "https://live.staticflickr.com/3213/3075268200_419b9e73b7_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/materials_science/"
-            },
-            {
-              "title": "Computer spürt zwei neue Supraleiter auf",
-              "text": "Mit einer Kombination aus maschinellem Lernen und Quantenphysik hat ein Forschungsteam zwei bislang unbekannte Supraleiter entdeckt. Maschinelles Lernen ist ein Verfahren, bei dem ein Computer aus großen Datenmengen selbst Muster erkennt; Supraleiter sind besondere Materialien, die elektrischen Strom unterhalb einer bestimmten Temperatur ganz ohne Verluste leiten. Statt neue Werkstoffe mühsam im Labor durchzuprobieren, ließ das Team den Computer vielversprechende Kandidaten vorhersagen, die anschließend bestätigt wurden. Warum das zählt: Verlustfreie Stromleiter gelten als Schlüssel für sparsamere Elektronik, Magnetschwebebahnen und leistungsfähige Rechner, und der rechnergestützte Weg könnte die Suche nach solchen Materialien deutlich beschleunigen.",
-              "img": "https://live.staticflickr.com/4623/40086966251_d58416cb5e_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/quantum_physics/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Milder, bewölkter Tag und ein Festivalwochenende in der Nähe",
-              "text": "In Horb am Neckar bleibt es heute mild und stark bewölkt bei bis zu 25 Grad, ein angenehmer Sommertag ohne Hitze. Im Veranstaltungskalender der Region steuert alles auf das kommende Wochenende zu: Am Freitag und Samstag, dem 24. und 25. Juli, spielt im benachbarten Nagold das Double Stage Festival, ein Musikfestival mit mehreren Bühnen. In Horb selbst öffnet ab Mittwoch, dem 29. Juli, mittwochs ab 17 Uhr wieder der Schlossgarten mit Bewirtung, und am 31. Juli gastiert der Sänger Andreas Kümmert mit seiner Band The Electric Circus in der Region. Ein bewölkter, milder Tag wie heute eignet sich gut, um Liegengebliebenes in Ruhe abzuarbeiten und die Ausflüge der kommenden Tage zu planen. Warum das zählt: Wer Wetter und Termine kennt, kann Arbeit und freie Stunden gut aufeinander abstimmen.",
-              "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
-              "source": "meinestadt / regioactive",
-              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein milder, grauer Tag verlangt nichts Besonderes und schenkt gerade deshalb die Ruhe, das Wichtige gründlich zu tun."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Baden-Württemberg: Digitalisierungsfinanzierung mit Zuschuss, jetzt schon ab 5.000 Euro Investition",
-            "text": "Das Land Baden-Württemberg bündelt seine Hilfen für Digitalisierungsvorhaben seit Juli 2025 im Programm Digitalisierungsfinanzierung. Es besteht aus einem zinsgünstigen Förderkredit und, für bestimmte Vorhaben, einem einmaligen Tilgungszuschuss, also einem Teil des Kredits, den man nicht zurückzahlen muss. Ausdrücklich in den Blick genommen werden nun auch Solo-Selbstständige und Kleinstbetriebe: Die Mindestsumme für ein gefördertes Vorhaben wurde von 10.000 auf 5.000 Euro gesenkt. Der Antrag kann jederzeit über die eigene Hausbank gestellt werden, das Programm läuft bis zum 30. Juni 2027.",
-            "why": "Für dich als Solo-Unternehmer in Baden-Württemberg ist das ein regional passender Hebel, um Investitionen in Software, Automatisierung oder KI-Werkzeuge günstiger zu finanzieren, seit die Einstiegshürde bei 5.000 Euro liegt. Wichtig ist die Reihenfolge: Der Antrag muss vor dem Start des Vorhabens gestellt werden, deshalb lohnt ein früher Blick auf die Bedingungen der L-Bank und ein kurzes Gespräch mit der Hausbank, bevor du etwas beauftragst.",
-            "source": "Wirtschaftsministerium Baden-Württemberg / L-Bank",
-            "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme-und-aufrufe/liste-foerderprogramme/digitalisierungspraemie"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Hinweise betreffen, wie robust und wie sparsam dein KI-System arbeitet: der eine die Technik im Hintergrund, der andere die kluge Verteilung der Arbeit.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Deine MCP-Anbindungen auf den neuen zustandslosen Standard vorbereiten",
-              "tag": "Systempflege",
-              "paras": [
-                "Das Model Context Protocol (MCP), die offene Schnittstelle, über die dein Assistent externe Werkzeuge und Datenquellen anspricht, bekommt Ende Juli mit dem Entwurf vom 28. Juli 2026 seine größte Überarbeitung seit dem Start. Kern der Änderung ist ein zustandsloser Aufbau: Server müssen sich pro Anfrage keine laufende Sitzung mehr merken, ähnlich wie gewöhnliche Webseiten. Jede Anfrage steht für sich.",
-                "Der praktische Nutzen ist, dass sich MCP-Server dadurch einfacher betreiben lassen, etwa hinter einem Lastverteiler, der Anfragen auf mehrere Maschinen aufteilt, und dass der Betrieb im größeren Maßstab weniger fehleranfällig wird. Für dich heißt das nicht, sofort alles umzustellen, aber es lohnt sich, deine vorhandenen MCP-Anbindungen jetzt zu sichten und zu prüfen, welche noch von einer festen Sitzung ausgehen, damit du bei einem späteren Umstieg nicht überrascht wirst."
-              ],
-              "konkret": "Lass dir eine kurze Bestandsaufnahme deiner MCP-Server erstellen: welche du nutzt, ob sie eine feste Sitzung voraussetzen und was ein Umstieg auf den zustandslosen Standard vom 28. Juli bedeuten würde, bevor du Änderungen vornimmst.",
-              "snippetLabel": "Prompt für die Bestandsaufnahme",
-              "snippet": "Sieh dir meine MCP-Konfiguration in <span class=\"ph\">{Pfad oder Datei}</span> an.\nListe je Server:\n1) Wofür er genutzt wird.\n2) Ob er eine feste Sitzung (session id) voraussetzt.\n3) Was der zustandslose MCP-Standard vom 28. Juli 2026 hier ändern würde.\nMarkiere, wo Handlungsbedarf besteht, und schlage nichts vor, was du nicht belegen kannst.",
-              "source": "TechCrunch / Model Context Protocol Blog",
-              "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-              "score": 3
-            },
-            {
-              "icon": "layers",
-              "title": "Einfache Arbeit an ein kleineres, günstigeres Modell abgeben",
-              "tag": "Effizienz",
-              "paras": [
-                "Der Entwickler Simon Willison, ein bekannter Fachautor zum Einsatz von Sprachmodellen, weist darauf hin, dass reine Umsetzungsarbeit selten das leistungsstärkste und teuerste Modell braucht. Sein Rat: Mechanische oder klar umrissene Aufgaben an einen sogenannten Subagenten mit einem kleineren Modell abgeben, während Urteil, Prüfung und das Zusammenführen der Ergebnisse beim Hauptmodell bleiben. Ein Subagent ist dabei ein zusätzlicher Assistent, der eine abgegrenzte Teilaufgabe eigenständig erledigt.",
-                "Der Nutzen ist doppelt: Du sparst Rechenkosten und hältst den Arbeitsspeicher des Hauptmodells frei für die Entscheidungen, auf die es ankommt. Für deine tägliche Morgenlage könnte das bedeuten, das reine Einsammeln und Formatieren von Rohdaten an ein kleineres Modell zu delegieren, während die redaktionelle Bewertung, also was wichtig ist und wie es erklärt wird, beim stärkeren Modell bleibt."
-              ],
-              "konkret": "Prüfe deinen Ablauf darauf, welche Schritte reine Fleißarbeit sind, etwa Daten abrufen, sortieren, in ein Format bringen, und lagere diese an einen Subagenten mit kleinerem Modell aus, während die inhaltlichen Entscheidungen beim Hauptmodell bleiben.",
-              "snippetLabel": "Prompt für die Aufgabenteilung",
-              "snippet": "Teile den folgenden Ablauf in zwei Ebenen auf: <span class=\"ph\">{Ablauf}</span>.\n1) Mechanische Schritte (abrufen, sortieren, formatieren), die ein kleineres Modell in einem Subagenten erledigen kann.\n2) Schritte, die Urteil oder Einordnung brauchen und beim Hauptmodell bleiben.\nSchlage vor, wie ich die mechanischen Schritte konkret delegiere.",
-              "source": "Simon Willison’s Weblog",
-              "url": "https://simonwillison.net/tags/agentic-engineering/",
-              "score": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Donnerstag, 23. Juli 2026",
       "weather": "clouds",
       "temp": "23°C · bewölkt",
@@ -1103,6 +941,147 @@
               "snippet": "Analysiere die Teilschritte meiner Routine in <span class=\"ph\">{Pfad oder Datei}</span>.\n1) Welche Schritte sind reine Umsetzungsarbeit (Datenabruf, Formatierung, Validierung) und brauchen kein Spitzenmodell?\n2) Schlage fuer jeden dieser Schritte vor, ihn per Subagent auf einem guenstigeren Modell auszufuehren, und nenne ein geeignetes Modell.\n3) Welche Schritte (redaktionelle Auswahl, Gewichtung, Einordnung) sollten bewusst beim Hauptmodell bleiben?\nBegruende jede Zuordnung kurz mit dem Anspruch der jeweiligen Aufgabe.",
               "source": "simonwillison.net",
               "url": "https://simonwillison.net/2026/Jul/3/judgement/",
+              "score": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mittwoch, 29. Juli 2026",
+      "weather": "clear",
+      "temp": "35°C · sonnig",
+      "greeting": "Guten Morgen, Gerik. Über Horb liegt heute ein heißer, sonniger Hochsommertag bei rund 35 Grad, der angenehmste Teil des Tages liegt am kühleren Morgen. In der Weltlage bleibt der Nahe Osten angespannt: Iranische Kräfte feuerten nach US-Angaben erstmals seit einer vorläufigen Feuerpause wieder mehrere Raketen auf US-Truppen in der Region, die abgefangen wurden. Wirtschaftlich richtet sich der Blick auf morgen, wenn das Statistische Bundesamt die offizielle Wachstumszahl für das zweite Quartal veröffentlicht; ein technischer Frühindikator deutet auf ein leichtes Plus von 0,3 Prozent hin. Nutze den frühen Vormittag, bevor die Hitze kommt, für die konzentrierte Arbeit.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "USA sagen der Ukraine Lizenzen zum Bau von Patriot-Systemen zu",
+              "text": "Nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj hat US-Präsident Donald Trump zugesagt, der Ukraine Lizenzen für die eigene Herstellung von Patriot-Systemen bereitzustellen. Patriot ist ein US-amerikanisches Boden-Luft-Abwehrsystem, das anfliegende Raketen und Flugzeuge abfangen soll und das die Ukraine seit Langem verstärkt anfordert. Mit einer Lizenz zur eigenen Fertigung könnte das Land solche Systeme oder Teile davon künftig selbst produzieren, statt allein auf Lieferungen aus dem Ausland angewiesen zu sein. Das zählt, weil eine eigenständige Produktion die Luftverteidigung der Ukraine langfristig unabhängiger machen würde, auch wenn der Aufbau einer solchen Fertigung viel Zeit braucht.",
+              "source": "Tagesspiegel",
+              "url": "https://www.tagesspiegel.de/internationales/archiv/2026/07/29"
+            },
+            {
+              "title": "Erneute Spannungen zwischen den USA und dem Iran",
+              "text": "Zum ersten Mal seit einer vorläufigen Aussetzung der amerikanischen Angriffe auf iranische Ziele haben iranische Kräfte nach Angaben des US-Militärs wieder mehrere Raketen auf US-Truppen in der Region abgefeuert. Alle Geschosse wurden den Angaben zufolge abgefangen, ein Schaden wurde nicht gemeldet. Hintergrund ist der seit Monaten schwelende Konflikt um das iranische Atomprogramm und die militärische Präsenz der USA im Nahen Osten. Das zählt, weil eine erneute Zuspitzung die ohnehin fragile Lage in der Region belastet und über steigende Energiepreise bis nach Europa wirken kann.",
+              "source": "ZDFheute / US-Militär",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Morgen kommt die offizielle Wachstumszahl für das zweite Quartal",
+              "text": "Das Statistische Bundesamt, die zentrale amtliche Statistikbehörde Deutschlands, veröffentlicht am morgigen 30. Juli seine erste Schätzung für das Wirtschaftswachstum im zweiten Quartal 2026. Ein modellbasierter Frühindikator des Bundeswirtschaftsministeriums, ein sogenannter Nowcast, der laufende Daten hochrechnet, deutet auf ein leichtes Plus von rund 0,3 Prozent gegenüber dem Vorquartal hin, getragen vor allem von der Industrieproduktion im Euroraum. Die Behörde selbst betont die hohe statistische Unsicherheit solcher Schätzungen. Zugleich bleiben die Investitionen der Unternehmen schwach, und mehrere Forschungsinstitute haben ihre Jahresprognosen zuletzt gesenkt, unter anderem mit Verweis auf den Konflikt mit dem Iran und die dadurch gestiegenen Energiepreise. Das zählt, weil die morgige Zahl zeigt, ob die deutsche Wirtschaft nach schwachen Quartalen tatsächlich wieder leicht wächst.",
+              "source": "Bundeswirtschaftsministerium / Statistisches Bundesamt",
+              "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/06-bip-nowcast.html"
+            }
+          ],
+          "merk": {
+            "text": "Für dich als Solo-Unternehmer ist weniger die eine Quartalszahl entscheidend als die Richtung: Ein kleines Plus bei gleichzeitig schwachen Investitionen spricht für eine zähe, aber nicht abrutschende Konjunktur, in der vorsichtige Planung auf stabiler Grundlage sinnvoll bleibt.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Erneuerbare Energien erreichen in Großbritannien einen Rekordwert",
+              "text": "In Großbritannien deckten erneuerbare Energien im ersten Quartal 2026 erstmals 53,1 Prozent des Strombedarfs, ein Anstieg um 7,4 Prozent gegenüber dem Vorjahr. Allein die Windkraft steuerte rund 29 Prozent der gesamten Stromerzeugung bei und erreichte mit 43,7 Terawattstunden einen Höchstwert. Eine Terawattstunde entspricht einer Milliarde Kilowattstunden, einer Einheit für sehr große Strommengen. Ähnlich rasch wächst die Sonnenenergie: Im US-Bundesstaat New York sind inzwischen mehr als 276.000 Solaranlagen mit acht Gigawatt Leistung in Betrieb, genug, um über 1,3 Millionen Haushalte und Betriebe zu versorgen. Das zählt, weil solche Rekorde zeigen, dass der Umstieg auf saubere Stromquellen in großen Volkswirtschaften bereits messbare Anteile erreicht.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-july-18-2026"
+            },
+            {
+              "title": "Nachwuchs bei den seltenen Rotwölfen in North Carolina",
+              "text": "Im US-Bundesstaat North Carolina sind in diesem Jahr vier Würfe des extrem seltenen Rotwolfs zur Welt gekommen, von denen zwölf bis sechzehn Jungtiere die ersten Monate überlebt haben. North Carolina beherbergt die weltweit einzige frei lebende Population dieser Art, die 1987 wieder ausgewildert wurde, nachdem sie in freier Wildbahn als ausgestorben galt. Es war das erste Mal, dass eine ausgestorbene Raubtierart erfolgreich in die Natur zurückgeführt wurde. Das zählt, weil jeder gesunde Wurf die kleine Population stabiler macht und zeigt, dass geduldige Schutzarbeit selbst bei fast verlorenen Arten Wirkung entfaltet.",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-july-18-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Längster Nonstopflug der Luftfahrtgeschichte gelungen",
+              "text": "Ein Test-Flugzeug des Typs Airbus A350-1000ULR ist nonstop von Melbourne in Australien nach Toulouse in Frankreich geflogen und hat dabei mit 24 Stunden und rund 23 Minuten den längsten je von einem Verkehrsflugzeug absolvierten Flug hingelegt. Die Maschine legte dabei mehr als 14.000 Meilen zurück und flog über den Pazifik, Nordamerika und den Nordatlantik. Der Flug gehört zum Projekt Sunrise der australischen Fluggesellschaft Qantas, mit dem künftig Direktverbindungen etwa von Australien nach London und New York möglich werden sollen. Verfolgt wurde die Reise von Millionen Menschen über das Flugverfolgungsportal Flightradar24, wo sie zum zweithäufigst beobachteten Flug in der Geschichte der Plattform wurde. Das zählt, weil der Testflug zeigt, dass technisch selbst extrem lange Interkontinentalstrecken ohne Zwischenstopp machbar werden.",
+              "source": "Simple Flying / Qantas",
+              "url": "https://simpleflying.com/qantas-airbus-a350-1000ulr-nonstop-melbourne-toulouse-test-flight/"
+            },
+            {
+              "title": "Forschende beschreiben eine bislang unbekannte Schuppentier-Art",
+              "text": "Ein Forschungsteam hat eine neue Art des Schuppentiers beschrieben, das sogenannte Himalaya-Schuppentier, das sich fast 200 Jahre lang unerkannt in Sammlungen verborgen hatte. Schuppentiere, auch Pangoline genannt, sind die einzigen Säugetiere mit einem Panzer aus echten Hornschuppen und gelten weltweit als stark bedroht, vor allem wegen illegaler Jagd. Durch den Abgleich von Museumsexemplaren und genetischen Daten konnten die Forschenden zeigen, dass es sich um eine eigenständige Art handelt. Das zählt, weil eine genaue Kenntnis der Arten die Grundlage jedes wirksamen Schutzes ist, denn nur wer weiß, welche Tiere es gibt, kann sie gezielt bewahren.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pangolin_borneo.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-july-18-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Marktplatzsommer in Horb startet morgen mit Open-Air-Theater",
+              "text": "In Horb beginnt am morgigen Donnerstag der Marktplatzsommer, eine Veranstaltungsreihe unter freiem Himmel mitten in der Altstadt. Vom 30. Juli bis zum 2. August wird auf dem Marktplatz das Freilichtstück Wilhelm Klink und das Horber Bilderbuch aufgeführt, eine Inszenierung mit Bezug zur Geschichte der Stadt. Nach dem heißen, sonnigen Tag mit rund 35 Grad versprechen die kühleren Abendstunden angenehmere Bedingungen für einen Theaterbesuch. Das zählt, weil solche Aufführungen vor der Haustür einen leichten Einstieg in kulturelle Sommerabende ohne weite Anfahrt bieten.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Open_Air_Theatre_-_stage_-_Regent%27s_Park%2C_London_-_2005-06-22.jpg",
+              "source": "regioactive / Stadt Horb",
+              "url": "https://www.regioactive.de/events/18653/horb/veranstaltungen-party-konzerte"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein heißer Sommertag lädt dazu ein, die anspruchsvollste Aufgabe in die kühlen Morgenstunden zu legen und den Nachmittag ruhiger anzugehen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Kostenfreie, anbieterneutrale KI-Beratung über die Mittelstand-Digital Zentren",
+            "text": "Die Mittelstand-Digital Zentren sind ein bundesweites Netzwerk von Anlaufstellen, das vom Bundeswirtschaftsministerium gefördert wird und kleine Unternehmen sowie Selbstständige kostenfrei und anbieterneutral zu Digitalisierung und künstlicher Intelligenz berät. Anbieterneutral bedeutet, dass die Beratung kein bestimmtes Produkt verkaufen will, sondern unabhängig informiert. Angeboten werden Sprechstunden, praxisnahe Workshops und konkrete Umsetzungsprojekte, in denen etwa der sinnvolle Einsatz von KI im eigenen Arbeitsalltag erprobt wird.",
+            "why": "Für dich als KI-nahen Solo-Unternehmer ist das eine kostenlose Möglichkeit, eigene Ansätze mit unabhängigen Fachleuten zu spiegeln und neue Werkzeuge kennenzulernen, ohne Beratungskosten zu tragen oder an einen Anbieter gebunden zu sein.",
+            "source": "Mittelstand-Digital / Bundeswirtschaftsministerium",
+            "url": "https://www.mittelstand-digital.de/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Stabile Projektregeln als Gedächtnis deines KI-Systems pflegen",
+              "tag": "KI-System · Kontext",
+              "paras": [
+                "In der Entwickler-Gemeinschaft gilt 2026 als das Jahr, in dem die Arbeit mit KI-Assistenten in eine Phase des bewussten Kontext-Managements eintritt, also der gezielten Steuerung dessen, was ein Modell in seinem begrenzten Arbeitsspeicher, dem sogenannten Kontextfenster, überhaupt sieht. Die zentrale Erkenntnis lautet: Reale Aufgaben lassen sich nicht dadurch lösen, dass man einfach jede verfügbare Datei in die Anfrage kippt. Stattdessen braucht ein Assistent klare Aufgabengrenzen, stabile Projektregeln und wiederverwendbares Fachwissen, das nicht bei jedem Lauf neu erklärt werden muss.",
+                "Das wichtigste Werkzeug dafür ist eine feste Regeldatei, oft CLAUDE.md genannt, die als dauerhaftes Gedächtnis dient: Sie hält Standards, Vorgaben und wiederkehrende Anweisungen an einer einzigen Stelle fest, sodass das Modell sie bei jedem Lauf verlässlich vorfindet. Ergänzt wird das durch das gezielte Zusammenfassen und Verdichten langer Verläufe, damit der begrenzte Kontext nicht mit Nebensächlichem volläuft.",
+                "Für deine MORGENLAGE-Routine hast du mit generate.md bereits genau eine solche Regeldatei. Es lohnt sich, sie regelmäßig darauf zu prüfen, ob sie Lücken oder Mehrdeutigkeiten enthält, an denen das Modell raten muss, und ob wiederkehrende Sonderfälle klar geregelt sind. Je präziser und stabiler diese eine Datei ist, desto zuverlässiger und günstiger läuft die Routine, weil weniger nachgefragt und weniger korrigiert werden muss."
+              ],
+              "konkret": "Nimm dir deine generate.md vor und lass sie von deinem System auf unklare oder fehlende Regeln durchsehen. Trage jede wiederkehrende Korrektur, die du zuletzt von Hand gemacht hast, als feste Regel nach, damit sie nicht erneut nötig wird.",
+              "snippetLabel": "Prompt für den Regel-Check",
+              "snippet": "Lies die Datei <span class=\"ph\">{generate.md}</span> als dauerhafte Regelbasis meiner Routine.\n1) Wo ist die Anweisung mehrdeutig oder unvollstaendig, sodass ein Modell raten muesste?\n2) Welche wiederkehrenden Sonderfaelle sind nicht klar geregelt?\n3) Schlage praezise, knappe Formulierungen vor, die diese Luecken schliessen, ohne die Datei aufzublaehen.\nGib die Vorschlaege als konkrete Vorher-Nachher-Paare aus.",
+              "source": "teamday.ai / Community",
+              "url": "https://www.teamday.ai/blog/complete-guide-agentic-coding-2026",
               "score": 4
             }
           ]
