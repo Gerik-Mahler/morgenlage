@@ -2,165 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Freitag, 24. Juli 2026",
-   "weather": "clouds",
-   "temp": "26°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. In Horb am Neckar bleibt es heute wechselnd bis stark bewölkt bei bis zu 26 Grad, ein milder Sommertag ohne Hitze. In der Weltlage beraten die Energieminister der Europäischen Union informell in Irland, in der Wirtschaft legt heute Volkswagen als größter deutscher Autobauer seine Halbjahreszahlen vor, und aus der Forschung kommt ein Hinweis, dass sich der gestörte Schlaf bei Alzheimer im Tierversuch teilweise umkehren lässt. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Energieminister der EU beraten informell in Irland",
-       "text": "In Irland kommen heute die Energieminister der Mitgliedsländer der Europäischen Union, also des Zusammenschlusses von 27 europäischen Staaten, zu einem informellen Treffen zusammen. Informell bedeutet, dass keine bindenden Beschlüsse gefasst werden, sondern die Minister in vertraulicher Runde ihre Positionen abgleichen und die nächsten Schritte vorbereiten. Parallel tagen am selben Ort die Umweltminister der EU zum zweiten Tag ihres eigenen informellen Treffens, sodass Energie- und Klimafragen dicht beieinander liegen. Warum das zählt: Was hier vorbesprochen wird, fließt später in europäische Gesetzgebung ein, die den Rahmen für deutsche Energiepreise und Förderregeln setzt und damit die Kosten jedes kleinen Betriebs mitbestimmt.",
-       "source": "onvista / Tagesvorschau",
-       "url": "https://www.onvista.de/news/2026/07-23-tagesvorschau-termine-am-24-juli-2026-0-10-26535429"
-      },
-      {
-       "title": "Luftfahrtmesse Farnborough in England geht heute zu Ende",
-       "text": "In der südenglischen Stadt Farnborough endet heute die Farnborough International Airshow, eine der beiden weltweit größten Fachmessen der Luft- und Raumfahrt, die alle zwei Jahre stattfindet und seit Montag lief. Auf solchen Messen stellen Flugzeughersteller und Zulieferer ihre neuesten Modelle vor, und es werden häufig milliardenschwere Bestellungen über neue Passagier- und Frachtflugzeuge bekannt gegeben. Neben der zivilen Luftfahrt spielt zunehmend auch die Verteidigungs- und Raumfahrttechnik eine Rolle. Warum das zählt: Die auf der Messe angekündigten Aufträge gelten als Gradmesser dafür, wie zuversichtlich die Luftfahrtbranche in die kommenden Jahre blickt, einem wichtigen Industriezweig auch für die deutschen Zulieferer.",
-       "source": "onvista / Tagesvorschau",
-       "url": "https://www.onvista.de/news/2026/07-23-tagesvorschau-termine-am-24-juli-2026-0-10-26535429"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Volkswagen legt heute früh seine Halbjahreszahlen vor",
-       "text": "Der wichtigste Unternehmenstermin des Tages ist die Bilanz des Volkswagen-Konzerns, des nach Absatz größten deutschen Automobilherstellers. Um 07:30 Uhr veröffentlicht das Unternehmen seine Zahlen für das zweite Quartal, also das zweite Vierteljahr, gefolgt von einer Analysten- und Pressekonferenz um 09:00 Uhr. Weil die Autoindustrie zu den tragenden Säulen der deutschen Wirtschaft gehört und Volkswagen zugleich stark vom Umbau hin zum Elektroantrieb und vom Geschäft in China abhängt, achten die Finanzmärkte genau auf Gewinn und Ausblick. Warum das zählt: Fallen die Zahlen oder die Prognosen schwach aus, kann das als Signal für die Verfassung der gesamten deutschen Industrie gelesen werden und die Börsenstimmung dämpfen.",
-       "source": "onvista / finanznachrichten",
-       "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69106520-tagesvorschau-24-juli-die-boersentermine-des-freitags-volkswagen-trifft-auf-globale-konjunkturdaten-088.htm"
-      },
-      {
-       "title": "Neue Konjunkturdaten: Bauhauptgewerbe und Konsumklima",
-       "text": "Am Vormittag veröffentlicht das Statistische Bundesamt um 08:00 Uhr die Zahlen zum deutschen Bauhauptgewerbe, also zu Auftragseingang und Umsatz der großen Baufirmen, für den Monat Mai. Zeitgleich erscheint das GfK-Konsumklima für August, ein regelmäßig erhobener Stimmungswert, der anzeigt, wie kauffreudig die Verbraucherinnen und Verbraucher in Deutschland in den kommenden Wochen voraussichtlich sind. GfK steht für das Nürnberger Marktforschungsinstitut, das diesen Wert erhebt. Warum das zählt: Bauwirtschaft und Konsumlaune sind zwei empfindliche Fühler der Binnenwirtschaft, und schwache Werte deuten darauf hin, dass Investitionen und private Ausgaben vorsichtig bleiben.",
-       "source": "onvista / Tagesvorschau",
-       "url": "https://www.onvista.de/news/2026/07-23-tagesvorschau-termine-am-24-juli-2026-0-10-26535429"
-      }
-     ],
-     "merk": {
-      "text": "Volkswagens Zahlen und vor allem der Ausblick sind heute der Stimmungsgeber für die deutsche Industrie. Für dich als Solo-Unternehmer ist das weniger eine Aktienfrage als ein Frühindikator: Ein vorsichtiger Ausblick des Konzerns spricht dafür, größere eigene Anschaffungen eher zu strecken und Angebote breiter einzuholen, während ein zuversichtlicher Ton auf ein stabileres Investitionsklima im zweiten Halbjahr hindeutet.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Abholzung im Amazonasgebiet fällt auf den niedrigsten Stand seit zehn Jahren",
-       "text": "In Brasilien ist die Rodung des Amazonas-Regenwaldes, des größten zusammenhängenden Regenwaldes der Erde, im ersten Halbjahr 2026 deutlich zurückgegangen. Nach Auswertung der brasilianischen Weltraumbehörde wurden rund 500 Quadratmeilen Wald gerodet, nach etwa 807 Quadratmeilen im gleichen Zeitraum des Vorjahres, ein Rückgang um etwa 38 Prozent und der niedrigste Wert seit zehn Jahren. Die Behörde führt dies auf den politischen Willen zur Bekämpfung der Entwaldung unter der Regierung von Präsident Lula da Silva zurück. Warum das zählt: Der Amazonas bindet gewaltige Mengen des Treibhausgases Kohlendioxid, und jeder Rückgang der Rodung hilft, das Weltklima zu stabilisieren, von dem am Ende auch Ernten und Wetter in Europa abhängen.",
-       "img": "https://live.staticflickr.com/2472/3543276157_4f08c359bd_b.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
-      },
-      {
-       "title": "Zahl der Verkehrstoten weltweit sinkt trotz vieler neuer Fahrzeuge",
-       "text": "Obwohl seit 2011 rund eine Milliarde Kraftfahrzeuge zusätzlich auf die Straßen gekommen sind, ist die Zahl der Verkehrstoten weltweit im selben Zeitraum um etwa 21 Prozent gesunken, das geht aus Daten der Weltgesundheitsorganisation WHO hervor, der für Gesundheit zuständigen Organisation der Vereinten Nationen. Für das Jahr 2025 verzeichnet die WHO rund 1,16 Millionen Verkehrstote; eine neue Erklärung der Vereinten Nationen verpflichtet die Staaten, diese Zahl bis 2030 zu halbieren. Die finnische Hauptstadt Helsinki kam sogar ein volles Jahr ohne einen einzigen tödlichen Verkehrsunfall aus. Warum das zählt: Sicherere Straßen sind ein stilles, aber handfestes Beispiel dafür, dass gezielte Regeln und Technik über die Jahre viele Leben retten können.",
-       "source": "Positive News / WHO",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Bei Alzheimer lässt sich der gestörte Schlaf im Tierversuch teilweise zurückholen",
-       "text": "Forschende der Universität Kentucky in den USA haben herausgefunden, dass nicht die Eiweißablagerungen im Gehirn, sondern überaktive Immunzellen, sogenannte Mikroglia, der Hauptgrund für den gestörten Schlaf bei der Alzheimer-Krankheit sind. Alzheimer ist die häufigste Form der Demenz, eines fortschreitenden Verlusts von Gedächtnis und Denkvermögen. Als das Team bei erkrankten Mäusen rund 87 Prozent dieser Immunzellen vorübergehend mit einem Medikament entfernte, gewannen die Tiere mehr als zwei Stunden Schlaf pro Nacht zurück, obwohl die Eiweißablagerungen unverändert blieben. Warum das zählt: Schlechter Schlaf verschlechtert bei Alzheimer den Krankheitsverlauf, und der Befund weckt die Hoffnung, dass sich diese Störung gezielt behandeln lässt, ohne zuerst die Ablagerungen beseitigen zu müssen.",
-       "img": "https://live.staticflickr.com/6192/6125657777_7401dcb33b_b.jpg",
-       "source": "ScienceDaily / Alzheimer's & Dementia",
-       "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm"
-      },
-      {
-       "title": "Silizium-Chip schreibt viele DNA-Bausteine gleichzeitig",
-       "text": "Ein Forschungsteam hat einen Chip aus Silizium entwickelt, der Dutzende von DNA-Sequenzen zugleich herstellen kann, und zwar mit Hilfe von elektrischem Strom und wasserbasierten Enzymen. DNA ist der Trägerstoff der Erbinformation, und Enzyme sind Eiweiße, die chemische Reaktionen beschleunigen. Bisher ist das gezielte Schreiben, also die künstliche Herstellung solcher Erbgut-Abschnitte, langsam und teuer; der neue Ansatz könnte das deutlich beschleunigen. Warum das zählt: Schnelleres und günstigeres Herstellen von DNA ist ein Werkzeug für Medizin und Biotechnologie, etwa für die Entwicklung von Impfstoffen, Diagnosetests und neuen Materialien.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Milder Wochenendauftakt und ein volles Festival- und Konzertprogramm",
-       "text": "In Horb am Neckar bleibt es heute wechselnd bis stark bewölkt bei bis zu 26 Grad, ein angenehmer Sommertag ohne Hitze. Im Veranstaltungskalender der Region steuert alles auf ein dichtes Wochenende zu: Am Samstag, dem 25. Juli, spielt beim Double Stage Festival unter anderem die Band Big Balls, eine Tribut-Band, die die Musik der australischen Rockgruppe AC/DC nachspielt. Am Sonntag, dem 26. Juli, folgen eine Operngala mit bekannten Stücken wie Nessun Dorma sowie am Abend ein Konzert des Sängers Andreas Kümmert mit seiner Band The Electric Circus. Ein milder, bewölkter Freitag wie heute eignet sich gut, um Liegengebliebenes in Ruhe abzuarbeiten und die Ausflüge fürs Wochenende zu planen. Warum das zählt: Wer Wetter und Termine kennt, kann Arbeit und freie Stunden gut aufeinander abstimmen.",
-       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-       "source": "regioactive / meinestadt",
-       "url": "https://www.regioactive.de/events/18653/horb/veranstaltungen-party-konzerte"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein grauer, milder Tag verlangt nichts und schenkt gerade dadurch die Ruhe, das Wichtige gründlich vorzubereiten, bevor das Wochenende beginnt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "BAFA-Beratungsförderung: bis zu 50 Prozent Zuschuss für Unternehmensberatung, auch zu KI",
-      "text": "Das Bundesprogramm Förderung unternehmerischen Know-hows der BAFA, also des Bundesamts für Wirtschaft und Ausfuhrkontrolle, bezuschusst professionelle Unternehmensberatungen für kleine Firmen. In den alten Bundesländern, zu denen auch Baden-Württemberg gehört, werden 50 Prozent der Beratungskosten übernommen, bei Bestandsunternehmen auf bis zu 3.000 Euro förderfähige Kosten je Beratung. Ausdrücklich antragsberechtigt sind auch hauptberuflich tätige Solo-Selbstständige, und gefördert werden neben klassischen Themen der Unternehmensführung auch Beratungen zu Digitalisierung und Künstlicher Intelligenz. Die aktuelle Förderrichtlinie läuft bis zum 31. Dezember 2026, pro Jahr sind höchstens zwei Beratungen möglich.",
-      "why": "Für dich als Solo-Unternehmer ist das ein Hebel, um externes Fachwissen etwa zu KI-Einsatz oder Prozessen zur Hälfte gefördert einzukaufen. Wichtig ist die Reihenfolge: Erst einen für die BAFA-Förderung zugelassenen Berater und ein klar umrissenes Thema wählen, dann den Antrag vor Beginn der Beratung stellen, denn rückwirkend wird nicht gefördert. Ein Blick auf die aktuellen Konditionen der BAFA lohnt sich, da sich Details regelmäßig ändern.",
-      "source": "BAFA / Förderung unternehmerischen Know-hows",
-      "url": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Hinweise betreffen dein KI-System von zwei Seiten: der eine die Zuverlässigkeit der Werkzeuge, der andere den sparsamen Umgang mit Rechenkosten.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Bei neuen Modellen auf einfache, gängige Werkzeug-Schnittstellen setzen",
-       "tag": "Zuverlässigkeit",
-       "paras": [
-        "Der Entwickler Armin Ronacher hat Anfang Juli beobachtet, dass die neuesten Modelle der Claude-Familie, also Opus 4.8 und Sonnet 5, bei selbst definierten Werkzeug-Schnittstellen mehr Fehler machen als ihre älteren Vorgänger. Eine Werkzeug-Schnittstelle, im Fachjargon Tool-Schema, beschreibt genau, welche Felder ein Modell beim Aufruf eines Werkzeugs ausfüllen darf. Die neuen Modelle erfinden dabei bisweilen zusätzliche Felder. Ronachers Erklärung: Die Modelle wurden offenbar stark auf die eingebauten Werkzeuge von Claude Code trainiert und übertragen dieses Muster fälschlich auf fremde Schnittstellen.",
-        "Für dich ist die Lehre praktischer als der Einzelfall. Wenn deine Automatisierungen eigene Werkzeuge mit ungewöhnlichen Feldern nutzen, kann ein Modellwechsel unbemerkt zu falschen Aufrufen führen. Halte Werkzeug-Schnittstellen deshalb möglichst nah an gängigen, einfachen Mustern, prüfe nach jedem Modellwechsel einmal gezielt, ob die Aufrufe noch sauber funktionieren, und fange fehlerhafte Felder in deinem Ablauf sichtbar ab, statt sie stillschweigend zu übernehmen."
-       ],
-       "konkret": "Geh die Werkzeuge durch, die deine KI-Abläufe selbst aufrufen, und notiere, welche ungewöhnlichen oder optionalen Felder sie erwarten. Baue eine kurze Prüfung ein, die einen Aufruf mit unerwarteten Feldern meldet, und teste sie nach jedem Wechsel des zugrunde liegenden Modells einmal bewusst.",
-       "snippetLabel": "Prompt für die Werkzeug-Prüfung",
-       "snippet": "Sieh dir die Werkzeugdefinitionen in <span class=\"ph\">{Pfad oder Datei}</span> an.\nBeantworte:\n1) Welche Werkzeuge haben ungewöhnliche oder optionale Felder im Schema?\n2) Wo würde ein erfundenes Zusatzfeld im Aufruf unbemerkt durchrutschen?\n3) An welcher Stelle kann ich eine Validierung ergänzen, die solche Aufrufe meldet statt sie zu übernehmen?\nBelege jede Aussage mit der betreffenden Stelle.",
-       "source": "Simon Willison’s Weblog / Armin Ronacher",
-       "url": "https://simonwillison.net/2026/Jul/4/",
-       "score": 3
-      },
-      {
-       "icon": "layers",
-       "title": "Einfache Teilaufgaben an ein kleineres Modell abgeben",
-       "tag": "Kostenpflege",
-       "paras": [
-        "In seinem Juli-Newsletter empfiehlt der Fachautor Simon Willison, einfache Teilaufgaben bewusst an günstigere, kleinere Modelle abzugeben, statt jeden Schritt vom teuersten Spitzenmodell erledigen zu lassen. In agentenbasierten Abläufen, bei denen ein Hauptmodell die Regie führt und Teilschritte an sogenannte Subagenten verteilt, lässt sich so viel Rechenbudget sparen, ohne dass die Qualität am Ende leidet. Ein Subagent ist dabei eine untergeordnete Instanz, die eine klar umrissene Teilaufgabe übernimmt.",
-        "Für deine Morgenlage-Routine und ähnliche Abläufe heißt das konkret: Nicht jede Zeile braucht das stärkste Modell. Aufgaben wie das Ordnen von Rohtext, das Ziehen einzelner Zahlen aus einer Quelle oder das Umformatieren kann ein kleineres, schnelleres Modell übernehmen, während das Spitzenmodell nur die anspruchsvolle Einordnung und die Endredaktion macht. Das senkt die Kosten je Durchlauf spürbar und beschleunigt zugleich die einfachen Schritte."
-       ],
-       "konkret": "Zerlege einen deiner KI-Abläufe gedanklich in einfache und anspruchsvolle Schritte. Weise die einfachen, klar umrissenen Schritte einem kleineren Modell wie Haiku zu und behalte das Spitzenmodell nur für Einordnung und Endredaktion.",
-       "source": "Simon Willison’s Weblog",
-       "url": "https://simonwillison.net/2026/Jul/",
-       "score": 2
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Samstag, 25. Juli 2026",
    "weather": "clouds",
    "temp": "31°C · bewölkt",
@@ -928,7 +769,6 @@
    "weather": "clouds",
    "temp": "38°C · bewölkt",
    "greeting": "Guten Morgen, Gerik. Über Horb wird es heute hochsommerlich heiß bei rund 38 Grad, der Himmel bleibt dabei überwiegend bewölkt und schwül, sodass der frühe Morgen die angenehmste Zeit ist. In der Weltlage stimmt heute der UN-Sicherheitsrat, das mächtigste Gremium der Vereinten Nationen, erstmals in einer Probeabstimmung über die Nachfolge von Generalsekretär António Guterres ab. Wirtschaftlich hellt sich die Stimmung in Deutschland leicht auf: Der viel beachtete Erwartungsindex des Mannheimer Forschungsinstituts ZEW ist deutlich gestiegen. Nutze bitte den kühleren Vormittag für die konzentrierte Arbeit und trinke bei der Hitze ausreichend.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1059,6 +899,148 @@
        "snippet": "Analysiere die MCP-Quelle <span class=\"ph\">{quelle}</span>.\nListe die verfügbaren Werkzeuge auf und erkläre je Werkzeug in einem Satz,\nwelchen manuellen Schritt in meinem Briefing-Ablauf es ersetzen könnte.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Jul/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Freitag, 31. Juli 2026",
+   "weather": "thunder",
+   "temp": "33°C · Gewitter",
+   "greeting": "Guten Morgen, Gerik. Über Horb kündigt sich ein schwül-heißer Tag mit rund 33 Grad an, dazu sind im Tagesverlauf kräftige Gewitter möglich, weshalb der Vormittag die verlässlichste Zeit für Vorhaben im Freien bleibt. In der Weltlage machen die Gespräche über eine dauerhafte Waffenruhe im Gazastreifen laut Vermittlern seltene Fortschritte. Wirtschaftlich zeigt sich die Stimmung in Deutschland zur Jahresmitte vorsichtig aufgehellt, während die Europäische Zentralbank ihre Leitzinsen zuletzt unverändert ließ. Halte bei aufziehenden Gewittern kurz inne, sichere Gartenmöbel und plane die konzentrierte Arbeit lieber in den ruhigen Morgen.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Seltene Fortschritte bei den Gaza-Verhandlungen in Kairo",
+       "text": "Bei den Gesprächen über eine dauerhafte Waffenruhe im Gazastreifen, dem dicht besiedelten Küstenstreifen am östlichen Mittelmeer, berichten die Vermittler von seltenen Fortschritten. In Kairo, der Hauptstadt Ägyptens, haben die islamistische Palästinenserbewegung Hamas und weitere Gruppen nach Angaben von Beteiligten einem Dokument zugestimmt, das einen Plan zu ihrer Entwaffnung festlegt; ein genauer Fahrplan soll demnach binnen vierzehn Tagen ausgearbeitet und von einem internationalen Prüfgremium bestätigt werden. Vermittelt wird von Ägypten, dem Golfstaat Katar und der Türkei, es geht um die zweite Phase eines von US-Präsident Donald Trump vorgelegten Friedensplans. Offen bleibt, wie Israel reagiert, wie viele Kräfte eine geplante internationale Stabilisierungstruppe stellen und wann sich israelische Truppen zurückziehen. Das zählt, weil ein tragfähiger Waffenstillstand über Leben, Versorgung und die Stabilität der gesamten Region entscheidet.",
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza"
+      },
+      {
+       "title": "Anhaltende Hitze und Waldbrände im Süden Europas",
+       "text": "Eine ausgeprägte Hitzewelle hält weite Teile Südeuropas in Atem und facht neue Wald- und Buschbrände an. In Spanien kehrten Bewohnerinnen und Bewohner in den Ort Navas del Rey westlich von Madrid zurück und fanden zerstörte Häuser vor, auch aus Frankreich, Griechenland und der Türkei werden weiterhin Brände gemeldet. Meteorologen führen die Häufung solcher Extreme auf die fortschreitende Erwärmung des Klimas zurück, die trockene und heiße Wetterlagen begünstigt. Das zählt, weil solche Brände Menschen, Landschaft und Infrastruktur unmittelbar bedrohen und die Einsatzkräfte über Wochen binden.",
+       "source": "Euronews",
+       "url": "https://www.euronews.com/news/international"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Deutsche Wirtschaft stabilisiert sich zur Jahresmitte",
+       "text": "Die Lage der deutschen Wirtschaft hat sich zur Jahresmitte 2026 leicht aufgehellt. Nachdem eine Zuspitzung des Konflikts im Nahen Osten die Konjunktur im Frühjahr über steigende Energiepreise und gestörte Lieferketten belastet hatte, deuten die jüngsten Indikatoren auf eine vorsichtige Stabilisierung hin; die Wirtschaftsleistung dürfte im zweiten Quartal wieder etwas zugelegt haben. Das teilt das Bundesministerium für Wirtschaft in seinem Monatsbericht mit, der regelmäßig die konjunkturelle Lage einordnet. Zugleich bleiben die Erwartungen der Unternehmen und Haushalte hinter den Werten vor der Krise zurück, und die reale Kaufkraft der Einkommen ist weiter geschmälert. Das zählt, weil sich an solchen Frühindikatoren ablesen lässt, ob Investitionen und Aufträge in den kommenden Monaten wieder anziehen.",
+       "source": "Bundeswirtschaftsministerium",
+       "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260714-wirt-lage-deutschland-juli-2026.html"
+      }
+     ],
+     "merk": {
+      "text": "Die Europäische Zentralbank, kurz EZB, hat am 23. Juli alle Leitzinsen unverändert gelassen: Der Einlagenzins, zu dem Banken Geld bei ihr parken, bleibt bei 2,25 Prozent. Für 2026 erwartet das Eurosystem im Schnitt eine Inflation von 3,0 Prozent, also noch klar über dem Zielwert von 2 Prozent.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Neue UN-Erklärung soll Verkehrstote weltweit halbieren",
+       "text": "Zahlreiche Staaten haben eine neue Erklärung der Vereinten Nationen zur Verkehrssicherheit angenommen, die dazu verpflichtet, die Zahl der Verkehrstoten bis 2030 zu halbieren. Die Vereinten Nationen, kurz UN, sind der weltweite Zusammenschluss von fast allen Staaten der Erde zur Zusammenarbeit in Frieden, Recht und Entwicklung. Als Vorbild gilt Finnland: In der Hauptstadt Helsinki kam ein ganzes Jahr lang kein einziger Mensch im Straßenverkehr ums Leben, unter anderem dank Tempolimits, sicherer Radwege und übersichtlicher Kreuzungen. Das zählt, weil im Straßenverkehr jedes Jahr über eine Million Menschen sterben und sich viele dieser Todesfälle mit bekannten, bezahlbaren Maßnahmen vermeiden lassen.",
+       "img": "https://live.staticflickr.com/3376/3444788311_98845939d2_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
+      },
+      {
+       "title": "Zahl der hungernden Menschen sinkt das dritte Jahr in Folge",
+       "text": "Die Zahl der Menschen, die weltweit Hunger leiden, ist das dritte Jahr in Folge zurückgegangen. Nach den jüngsten Daten waren 2025 rund 7,8 Prozent der Weltbevölkerung von Hunger betroffen, nach 8,1 Prozent im Jahr 2024 und 8,6 Prozent im Jahr 2022. Fachleute führen den Rückgang unter anderem auf sich erholende Lieferketten, bessere Ernten und gezielte Hilfsprogramme zurück. Das zählt, weil hinter jedem Zehntelpunkt Millionen Menschen stehen und die Entwicklung zeigt, dass gemeinsame Anstrengungen messbar wirken.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Bakterien liefern den Bauplan für bessere Krebsmedikamente",
+       "text": "Ein Forschungsteam hat entschlüsselt, wie bestimmte Bakterien auf natürliche Weise gleich mehrere Varianten wirksamer Krebsmedikamente herstellen. Bakterien sind winzige Lebewesen, die aus einer einzigen Zelle bestehen; manche von ihnen erzeugen Stoffe, die sich in der Medizin gegen Tumore einsetzen lassen. Bislang war unklar, wie die Zellen diese eng verwandten Wirkstoffe so gezielt produzieren, ein Rätsel, das Fachleute seit Jahrzehnten beschäftigt hat. Die neuen Erkenntnisse könnten es ermöglichen, solche Substanzen im Labor gezielter und in mehr Abwandlungen nachzubauen. Das zählt, weil eine größere Auswahl an Wirkstoffen die Chance erhöht, für einzelne Krebsarten das jeweils passende Mittel zu finden.",
+       "img": "https://iiif.wellcomecollection.org/image/V0030716.jpg/full/512,/0/default.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm"
+      },
+      {
+       "title": "Metamaterialien schärfen die Bilder von MRT-Geräten",
+       "text": "Forscher haben ein zentrales Bauteil der Magnetresonanztomografie mithilfe sogenannter Metamaterialien neu entworfen. Die Magnetresonanztomografie, kurz MRT, ist ein Untersuchungsverfahren, das mit starken Magnetfeldern und Radiowellen ohne Röntgenstrahlung Schnittbilder aus dem Körperinneren erzeugt. Metamaterialien sind künstlich aufgebaute Stoffe, deren feine innere Struktur ihnen Eigenschaften verleiht, die natürliche Materialien nicht besitzen. Mit dem neuen Bauteil liefern vorhandene Geräte klarere Aufnahmen von schwer einsehbaren Körperregionen und das in kürzerer Zeit. Das zählt, weil schnellere und schärfere Bilder Diagnosen erleichtern und Untersuchungen für Patientinnen und Patienten angenehmer machen.",
+       "img": "https://live.staticflickr.com/3320/3565473585_038f294508.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/06/260626125712.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Sommermusik im Oberen Nagold startet mit Eröffnungskonzert",
+       "text": "In der Region um Horb am Neckar beginnt heute die 37. Sommermusik im Oberen Nagold, eine traditionsreiche Konzertreihe mit klassischer Kammermusik in den Sommerwochen. Das Eröffnungskonzert ist für Freitag, den 31. Juli, um 19:30 Uhr angekündigt. Weil für den Nachmittag kräftige Gewitter bei rund 33 Grad möglich sind, empfiehlt es sich, den Weg zum Konzert am Abend einzuplanen und Aktivitäten im Freien in den ruhigeren Vormittag zu legen. Das zählt, weil sich der Tag mit etwas Planung trotz Hitze und Gewitterneigung angenehm und mit Kultur gestalten lässt.",
+       "img": "https://live.staticflickr.com/8451/8018416692_c2de8b9495.jpg",
+       "source": "meinestadt.de",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Wenn draußen ein Gewitter aufzieht, ist der beste Ort oft der Schreibtisch, an dem eine Sache in Ruhe fertig wird."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose KI-Startguthaben als Reserve sichern",
+      "text": "Mehrere Anbieter von KI-Schnittstellen, also Programmierzugängen, über die eigene Software Sprachmodelle nutzen kann, vergeben 2026 weiterhin kostenlose Startguthaben. Neu registrierte Konten erhalten je nach Anbieter Beträge im niedrigen zweistelligen bis dreistelligen Dollarbereich, dazu bieten einige Dienste einen dauerhaft kostenlosen Basiszugang ohne Kreditkarte. Für Gründer und junge Firmen legen eigene Startprogramme darüber hinaus deutlich größere Guthaben obendrauf.",
+      "why": "Für dein System ein risikofreier Weg, ein zweites oder drittes Modell parallel bereitzuhalten, um bei Ausfällen oder Lastspitzen sofort umschalten zu können, ohne vorab Kosten zu tragen.",
+      "source": "getaiperks.com",
+      "url": "https://www.getaiperks.com/en/blogs/27-ai-api-free-tier-credits-2026"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Notiere dir beim Anbinden jeder externen Quelle in einem Satz, welche Daten sie sieht und wohin sie schreiben darf.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Eigenen MCP-Server sauber an Claude anbinden",
+       "tag": "Werkzeug",
+       "paras": [
+        "Der Entwickler Simon Willison, ein bekannter Beobachter der KI-Entwicklung und Autor des Kommandozeilenwerkzeugs LLM, hat am 29. Juli beschrieben, wie sich ein eigener MCP-Server an die Standard-Oberflächen von Claude und ChatGPT anbinden lässt. MCP steht für Model Context Protocol, einen offenen Standard, über den KI-Assistenten kontrolliert auf externe Werkzeuge und Datenquellen zugreifen können.",
+        "Seine Erfahrung: Es ist grundsätzlich möglich, kostet aber mehrere Schritte und ist nicht auf Anhieb selbsterklärend. Für dein Briefing-System kann sich der Aufwand lohnen, wenn du deine kuratierten Quellen künftig als sauber abgegrenzten MCP-Dienst einbindest, statt Inhalte lose einzusammeln, und so den Abruf nachvollziehbar und wiederholbar machst."
+       ],
+       "merk": "Achte beim Anbinden externer Quellen auf die sogenannte lethal trifecta, die riskante Kombination aus Zugriff auf private Daten, unkontrolliertem Fremdinhalt und der Möglichkeit, Daten nach außen zu senden. Fehlt eine dieser drei Zutaten, sinkt das Risiko deutlich.",
+       "konkret": "Richte einen kleinen MCP-Server für eine einzige, unkritische Quelle ein und binde ihn testweise in Claude ein, bevor du ihn auf deine Rubriken ausweitest.",
+       "snippetLabel": "Prompt zum Einstieg",
+       "snippet": "Ich möchte einen eigenen MCP-Server für die Quelle <span class=\"ph\">{quelle}</span> anbinden.\nNenne mir die nötigen Schritte in der richtigen Reihenfolge\nund weise mich auf die Stellen hin, an denen private Daten\nund Fremdinhalt zusammentreffen könnten.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Jul/29/"
       }
      ]
     }
