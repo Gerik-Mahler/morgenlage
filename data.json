@@ -2,152 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Samstag, 25. Juli 2026",
-   "weather": "clouds",
-   "temp": "31°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. In Horb am Neckar wird es heute ein warmer, stark bewölkter Sommertag mit bis zu 31 Grad, schwül, aber ohne klaren Himmel. In der Weltlage kämpfen Spanien und Frankreich weiter gegen große Waldbrände, in der Wirtschaft hat die Europäische Zentralbank ihren Leitzins vorerst unverändert gelassen, und aus der Forschung kommt die Meldung, dass Astronomen erstmals eine Atmosphäre um einen Gesteinsplaneten in der habitablen Zone eines fremden Sterns nachgewiesen haben. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Schwere Waldbrände in Spanien und Frankreich außer Kontrolle",
-       "text": "In Südwesteuropa kämpfen die Behörden derzeit gegen mehrere große Waldbrände. In Frankreich wüten in der Region Nouvelle-Aquitaine, dem Südwesten des Landes, zwei heftige Feuer, die bislang nicht unter Kontrolle gebracht werden konnten, und knapp 30.000 Menschen mussten ihre Häuser verlassen. In Spanien wurde für die Regionen rund um die Hauptstadt Madrid und die Provinz Ávila der Notstand ausgerufen, allein rund um Madrid mussten etwa 10.000 Menschen in Sicherheit gebracht werden. Ursache ist eine anhaltende Hitzewelle, also eine längere Phase ungewöhnlich hoher Temperaturen, die die Vegetation austrocknet. Warum das zählt: Solche Großbrände zeigen, wie stark heiße, trockene Sommer den Süden Europas belasten, und sie können über Ernteausfälle, Tourismus und Versicherungskosten auch die Wirtschaft in ganz Europa berühren.",
-       "source": "20 Minuten",
-       "url": "https://www.20min.ch/story/notstand-waldbraende-in-europa-voellig-ausser-kontrolle-103608014"
-      },
-      {
-       "title": "Salzburger Festspiele stehen vor ihrer Eröffnung",
-       "text": "In der österreichischen Stadt Salzburg stehen die Salzburger Festspiele vor ihrer offiziellen Eröffnung, eines der bekanntesten Klassik- und Theaterfestivals der Welt, das jeden Sommer zahlreiche Besucherinnen und Besucher aus vielen Ländern anzieht. Zur Eröffnung reisen traditionell auch Vertreterinnen und Vertreter der Politik an, in diesem Jahr unter anderem aus der österreichischen Bundesregierung. Das Festival verbindet Opern, Konzerte und Schauspiel über mehrere Wochen und gilt als kultureller Höhepunkt des europäischen Sommers. Warum das zählt: Große Kulturereignisse wie dieses sind nicht nur künstlerisch bedeutsam, sondern auch ein spürbarer Wirtschaftsfaktor für die gastgebende Region und ein Zeichen dafür, dass Europa neben Krisen auch seine gemeinsame Kultur pflegt.",
-       "source": "OTS / Salzburger Festspiele",
-       "url": "https://www.ots.at/presseaussendung/OTS_20260717_OTS0057/spoe-termine-von-20-bis-26-juli-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Europäische Zentralbank lässt den Leitzins vorerst unverändert",
-       "text": "Der Rat der Europäischen Zentralbank, kurz EZB, also der obersten Währungsbehörde für die 20 Länder mit dem Euro, hat auf seiner Sitzung am 23. Juli die Leitzinsen unverändert gelassen. Der wichtigste Satz, der Einlagenzins, zu dem Banken Geld bei der EZB parken, bleibt bei 2,25 Prozent. Damit legt die Notenbank nach der ersten Zinserhöhung seit Jahren im Juni eine Pause ein und beobachtet zunächst, wie sich Inflation und Konjunktur entwickeln, auch mit Blick auf die Folgen des Konflikts im Nahen Osten für die Energiepreise. Warum das zählt: Der Leitzins bestimmt, wie teuer Kredite und wie attraktiv Erspartes sind, und eine Zinspause bedeutet für dich als Selbstständigen vorerst planbare, stabile Finanzierungsbedingungen ohne weitere Verteuerung.",
-       "source": "LBBW / EZB",
-       "url": "https://www.lbbw.de/artikel/news-und-einschaetzungen/ezb-zinsentscheid-juli-2026_am6zch3ggt_d.html"
-      },
-      {
-       "title": "Deutsche Wirtschaft hellt sich zur Jahresmitte leicht auf",
-       "text": "Nach Einschätzung des Bundesministeriums für Wirtschaft und Energie zeigt sich die Lage der deutschen Wirtschaft zur Jahresmitte etwas freundlicher. Nachdem die Zuspitzung des Krieges im Nahen Osten im Frühjahr über steigende Energiepreise und Störungen in den Lieferketten, also den Wegen, auf denen Waren und Vorprodukte zu den Betrieben gelangen, belastet hatte, deuten die jüngsten Indikatoren nun auf eine vorsichtige Stabilisierung hin. Als nächste wichtige Signale gelten das ifo-Geschäftsklima, ein viel beachteter Stimmungswert unter Unternehmen, sowie die anstehenden Zahlen zur Wirtschaftsleistung von Deutschland und dem Euroraum. Warum das zählt: Eine Stabilisierung ist noch kein Aufschwung, aber sie senkt das Risiko, dass Kundinnen und Kunden Aufträge zurückstellen, und schafft etwas mehr Planungssicherheit.",
-       "source": "BMWE / DATEV magazin",
-       "url": "https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/die-wirtschaftliche-lage-in-deutschland-im-juli-2026-147829"
-      }
-     ],
-     "merk": {
-      "text": "Die Zinspause der EZB ist für dich vor allem eine gute Nachricht zur Planbarkeit: Die Finanzierungskosten steigen vorerst nicht weiter, und wer eine größere Anschaffung oder einen Kredit erwägt, muss nicht mit einer kurzfristigen Verteuerung rechnen. Gleichzeitig lohnt es sich, Angebote für Tages- oder Festgeld im Blick zu behalten, denn bei stabilen Zinsen bleiben auch die Konditionen für Erspartes eine Weile berechenbar.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Welthunger geht das dritte Jahr in Folge zurück",
-       "text": "Nach einem Bericht der Vereinten Nationen, dem Zusammenschluss fast aller Staaten der Welt, litten im Jahr 2025 rund 7,8 Prozent der Weltbevölkerung an Hunger, nach 8,1 Prozent im Jahr 2024. Es ist das dritte Jahr in Folge mit einem Rückgang, nachdem die Zahlen während der Corona-Pandemie stark gestiegen waren. Besonders deutliche Fortschritte verzeichneten Asien, Lateinamerika und die Karibik, während die Lage in Afrika stabil blieb, dort aber weiter am höchsten ist. Warum das zählt: Auch wenn die Erholung langsam und ungleich verläuft, bedeutet jeder Rückgang, dass Millionen Menschen zuverlässiger genug zu essen haben, ein Fundament für Gesundheit, Bildung und Stabilität.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wheat_field_harvest_-_geograph.org.uk_-_1432901.jpg",
-       "source": "Positive News / Vereinte Nationen",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
-      },
-      {
-       "title": "Schonende Prostatakrebs-Therapie so wirksam wie eine Operation",
-       "text": "Eine große Langzeitstudie mit rund 3.500 Männern über zehn Jahre zeigt, dass die sogenannte fokale Therapie beim Prostatakrebs, der häufigsten Krebsart bei Männern, ebenso wirksam sein kann wie eine vollständige Operation oder eine Bestrahlung. Fokal bedeutet, dass gezielt nur der erkrankte Bereich der Vorsteherdrüse behandelt wird und nicht das ganze Organ. Der Vorteil: Das Risiko für belastende Nebenwirkungen wie unfreiwilligen Urinverlust oder Störungen der Sexualfunktion sank um etwa die Hälfte. Warum das zählt: Eine gleich wirksame, aber schonendere Behandlung kann vielen Betroffenen die Lebensqualität erhalten und zeigt, wie moderne Medizin zunehmend gezielter statt radikaler vorgeht.",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Erstmals Atmosphäre um einen Gesteinsplaneten in der habitablen Zone entdeckt",
-       "text": "Astronominnen und Astronomen haben nach eigenen Angaben erstmals eine Atmosphäre um einen Gesteinsplaneten nachgewiesen, der in der habitablen Zone seines Sterns liegt. Als habitable Zone, wörtlich bewohnbare Zone, bezeichnet man den Abstandsbereich um einen Stern, in dem Wasser flüssig bleiben könnte, eine Grundvoraussetzung für Leben, wie wir es kennen. Der Planet trägt die Katalogbezeichnung LHS 1140 b und umkreist einen kleinen, kühlen Stern in einiger Entfernung von der Erde. Eine Atmosphäre ist die Gashülle um einen Himmelskörper. Warum das zählt: Der Nachweis einer Gashülle an einem solchen Planeten ist ein wichtiger Schritt in der Suche nach möglicherweise lebensfreundlichen Welten und zeigt, wie präzise moderne Teleskope inzwischen ferne Planeten untersuchen können.",
-       "img": "https://live.staticflickr.com/5521/9444601107_c0d1def231_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/space_time/"
-      },
-      {
-       "title": "Der Asteroid, der die Dinosaurier auslöschte, war ein besonders seltener Typ",
-       "text": "Eine neue Analyse hat den Himmelskörper näher bestimmt, dessen Einschlag vor rund 66 Millionen Jahren das Aussterben der Dinosaurier auslöste. Nach den Ergebnissen handelte es sich um einen sogenannten CO-Chondriten, eine besonders seltene Art von Asteroid, dessen Ursprung in einer weit entfernten Region unseres Sonnensystems liegt. Chondriten sind ursprüngliche Gesteinsbrocken aus der Frühzeit des Sonnensystems, die kaum verändert wurden und deshalb Rückschlüsse auf ihre Herkunft erlauben. Warum das zählt: Je genauer sich die Herkunft solcher Einschlagskörper bestimmen lässt, desto besser verstehen Fachleute, wie oft und aus welchen Regionen gefährliche Asteroiden auf die Erde treffen können, eine Grundlage auch für die heutige Vorsorge.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/space_time/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Festival-Samstag bei warmem, bewölktem Wetter",
-       "text": "In Horb am Neckar wird es heute ein warmer, stark bewölkter Tag mit bis zu 31 Grad, schwül und sommerlich. Passend dazu läuft das Wochenende auf seinen musikalischen Höhepunkt zu: Am heutigen Samstag, dem 25. Juli, spielt beim Double Stage Festival am Abend die Band Big Balls, eine Tribut-Band, die die Musik der australischen Rockgruppe AC/DC nachspielt. Am morgigen Sonntag, dem 26. Juli, folgt eine Operngala auf dem Marktplatz mit bekannten Stücken wie Nessun Dorma, La Donna e Mobile und Melodien aus West Side Story und Das Phantom der Oper. Warum das zählt: Ein schwüler, bewölkter Sommerabend eignet sich gut für ein Open-Air-Konzert, und wer die Termine kennt, kann Arbeit und freie Stunden am Wochenende bewusst aufeinander abstimmen.",
-       "img": "https://live.staticflickr.com/8144/7631272708_7f6826e556_b.jpg",
-       "source": "regioactive / meinestadt",
-       "url": "https://www.regioactive.de/events/18653/horb/veranstaltungen-party-konzerte"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein schwüler, grauer Sommertag lädt weniger zur Hektik als zur ruhigen Sammlung ein, bevor am Abend Musik und Wochenende den Ton übernehmen."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Innovationsgutschein Hightech Baden-Württemberg: 50 Prozent Zuschuss für externe Innovationsleistungen",
-      "text": "Das Land Baden-Württemberg fördert mit dem Innovationsgutschein Hightech kleine und mittlere Unternehmen, die externe Fachleistungen für anspruchsvolle Entwicklungs- oder Innovationsvorhaben einkaufen, etwa für Forschung, Softwareentwicklung oder technische Konzepte. Gefördert werden bis zu 50 Prozent der Kosten und bis zu 20.000 Euro je Vorhaben, und das Programm läuft fortlaufend, also ohne feste Antragsfrist. Zuständig ist das Land beziehungsweise die betreuende Landesagentur; die genauen Bedingungen und ob du als Solo-Selbstständiger antragsberechtigt bist, solltest du vor einer Bewerbung direkt dort prüfen.",
-      "why": "Für dich als Solo-Unternehmer kann ein solcher Gutschein die Kosten für zugekaufte Technik- oder Softwareleistungen halbieren, etwa wenn du ein KI-gestütztes Werkzeug oder eine Automatisierung nicht selbst umsetzen willst. Wichtig ist die Reihenfolge: erst die Förderfähigkeit und das Vorhaben klären, dann den Antrag vor Auftragsvergabe stellen, denn rückwirkend wird in der Regel nicht gefördert. Da sich Programmdetails ändern können, lohnt vorab ein Blick auf die aktuellen Konditionen.",
-      "source": "Baden-Württemberg / Innovationsgutschein",
-      "url": "https://neckar.it/blog/digitalisierung-kmu-foerderung-2026"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Ergänzend interessant: Simon Willison hat mit shot-scraper video ein Werkzeug vorgestellt, mit dem ein Coding-Agent per Storyboard-Datei kurze Video-Demos einer Weboberfläche aufnehmen kann, nützlich, um Arbeitsergebnisse automatisch vorzeigbar zu machen.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Neue MCP-Spezifikation (2026-07-28) im Blick behalten",
-       "tag": "MCP · Architektur",
-       "paras": [
-        "Das Model Context Protocol, kurz MCP, ist der offene Standard, über den dein Assistenzsystem externe Werkzeuge und Datenquellen anbindet. Am 28. Juli erscheint die nächste große Fassung der Spezifikation (Version 2026-07-28), deren Release Candidate, also die kurz vor der Freigabe stehende Testfassung, bereits vorliegt.",
-        "Die wichtigste Änderung ist ein zustandsloser Kern (stateless core): MCP-Server müssen sich künftig keine Sitzungsdaten mehr merken und laufen dadurch schon hinter einem einfachen Lastverteiler statt komplexer Sitzungsverwaltung. Dazu kommen ein Erweiterungs-Rahmen (Extensions) mit server-gerenderten Oberflächen (MCP Apps) und lang laufenden Aufgaben (Tasks) sowie eine an OAuth angelehnte, strengere Absicherung der Zugriffsrechte. Für dich heißt das: Wenn dein System eigene MCP-Server nutzt, prüfe früh, ob deine SDK-Version die neue Fassung unterstützt, bevor der zehnwöchige Übergangszeitraum abläuft."
-       ],
-       "konkret": "Notiere dir den 28. Juli als Stichtag und prüfe nach Erscheinen, welche deiner MCP-Server-Bibliotheken bereits eine kompatible Version anbieten, damit spätere Anpassungen nicht überraschen.",
-       "snippetLabel": "Prompt, um deine MCP-Anbindung gegen die neue Fassung zu prüfen",
-       "snippet": "Analysiere meine MCP-Server-Konfiguration:\n1. Liste alle genutzten MCP-Server und ihre SDK-Version auf.\n2. Markiere, welche noch auf einer zustandsbehafteten (stateful) Sitzung beruhen.\n3. Nenne pro Server, was für die Umstellung auf die Spezifikation <span class=\"ph\">{2026-07-28}</span> zu tun ist.\n4. Priorisiere nach Aufwand und Risiko.",
-       "source": "Model Context Protocol Blog",
-       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
-       "score": "hoch relevant, wenn dein System MCP-Server einsetzt"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Sonntag, 26. Juli 2026",
    "kind": "weekly",
    "sub": "Wochenrückblick",
@@ -909,7 +763,6 @@
    "weather": "thunder",
    "temp": "33°C · Gewitter",
    "greeting": "Guten Morgen, Gerik. Über Horb kündigt sich ein schwül-heißer Tag mit rund 33 Grad an, dazu sind im Tagesverlauf kräftige Gewitter möglich, weshalb der Vormittag die verlässlichste Zeit für Vorhaben im Freien bleibt. In der Weltlage machen die Gespräche über eine dauerhafte Waffenruhe im Gazastreifen laut Vermittlern seltene Fortschritte. Wirtschaftlich zeigt sich die Stimmung in Deutschland zur Jahresmitte vorsichtig aufgehellt, während die Europäische Zentralbank ihre Leitzinsen zuletzt unverändert ließ. Halte bei aufziehenden Gewittern kurz inne, sichere Gartenmöbel und plane die konzentrierte Arbeit lieber in den ruhigen Morgen.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1041,6 +894,155 @@
        "snippet": "Ich möchte einen eigenen MCP-Server für die Quelle <span class=\"ph\">{quelle}</span> anbinden.\nNenne mir die nötigen Schritte in der richtigen Reihenfolge\nund weise mich auf die Stellen hin, an denen private Daten\nund Fremdinhalt zusammentreffen könnten.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Jul/29/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Samstag, 1. August 2026",
+   "weather": "rain",
+   "temp": "28°C · Regen",
+   "greeting": "Guten Morgen, Gerik. In Horb am Neckar beginnt der August wechselhaft: Bei rund 28 Grad ziehen im Tagesverlauf Regenschauer durch, ein Tag also, der sich gut für Erledigungen im Trockenen und eine ruhige Planung eignet. In der Weltlage haben Regierung und Opposition in Venezuela in der Hauptstadt Caracas Verhandlungen über einen möglichen Weg zu Neuwahlen aufgenommen. Wirtschaftlich meldet das Statistische Bundesamt für Juli eine wieder etwas höhere Inflation von voraussichtlich 2,8 Prozent, vor allem wegen gestiegener Energiepreise. Und aus der Forschung kommt die Nachricht, dass Materialforscher eine bislang spröde Metallverbindung in einen Werkstoff verwandelt haben, der zugleich sehr fest und biegsam ist. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Regierung und Opposition in Venezuela nehmen Gespräche über Neuwahlen auf",
+       "text": "In Venezuela, einem Land im Norden Südamerikas, haben die autoritär regierende Regierung und die demokratische Opposition in der Hauptstadt Caracas Verhandlungen aufgenommen, die einen Weg zu Neuwahlen ebnen sollen. Als autoritär bezeichnet man eine Herrschaft, die abweichende Meinungen und freie Wahlen stark einschränkt. Die Gespräche werden nach Angaben Beteiligter unter stiller Beteiligung der US-Regierung geführt und knüpfen an vorbereitende Treffen im Juni an, bei denen eine technische Arbeitsgruppe vereinbart wurde. Ziel der Opposition ist die Wiederherstellung einer verlässlichen staatlichen Ordnung und ein friedlicher, demokratischer Übergang durch Wahlen, während offen bleibt, ob die Regierung damit tatsächlich einen Machtwechsel zulässt oder nur Zeit gewinnt. Das zählt, weil Venezuela als großes Erdölland gilt und eine friedliche Lösung des langen Machtkonflikts Millionen Menschen im Land und in der ganzen Region Stabilität bringen könnte.",
+       "source": "WLRN / evangelisch.de",
+       "url": "https://www.evangelisch.de/inhalte/257401/21-07-2026/venezuela-opposition-kuendigt-dialog-mit-dem-ziel-von-neuwahlen"
+      },
+      {
+       "title": "Gaza: Fahrplan zur Entwaffnung soll ausgearbeitet werden",
+       "text": "Im Friedensprozess für den Gazastreifen, den dicht besiedelten Küstenstreifen am östlichen Mittelmeer, arbeiten die Vermittler weiter an einem konkreten Fahrplan. Nachdem die islamistische Palästinenserbewegung Hamas und weitere Gruppen Ende Juli in Kairo, der Hauptstadt Ägyptens, einem Grundsatzdokument über ihre Entwaffnung zugestimmt hatten, soll nun binnen weniger Wochen ein genauer Zeitplan folgen und von einem internationalen Prüfgremium bestätigt werden. Vermittelt wird von Ägypten, dem Golfstaat Katar und der Türkei, während zugleich weiterhin von israelischen Luftangriffen auf Ziele im Gazastreifen berichtet wird. Das zählt, weil erst ein tragfähiger und überprüfbarer Fahrplan darüber entscheidet, ob aus der grundsätzlichen Einigung eine dauerhafte Waffenruhe wird.",
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Inflation in Deutschland steigt im Juli auf voraussichtlich 2,8 Prozent",
+       "text": "Die Teuerung in Deutschland hat im Juli wieder etwas angezogen. Nach einer ersten Schätzung des Statistischen Bundesamtes, der obersten Behörde für amtliche Zahlen in Deutschland, lag die Inflationsrate im Juli 2026 voraussichtlich bei 2,8 Prozent, nach 2,3 Prozent im Juni. Die Inflationsrate misst, um wie viel die Verbraucherpreise binnen eines Jahres gestiegen sind. Treiber war vor allem die Energie, die sich gegenüber dem Vorjahr um rund 8,3 Prozent verteuerte, während die sogenannte Kerninflation ohne die schwankungsanfälligen Preise für Energie und Nahrungsmittel bei 2,4 Prozent lag. Die endgültigen Zahlen veröffentlicht die Behörde am 12. August. Das zählt, weil eine höhere Teuerung die Kaufkraft schmälert und die Europäische Zentralbank in ihrer Zinspolitik vorsichtig bleiben lässt.",
+       "source": "Statistisches Bundesamt",
+       "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_270_611.html"
+      },
+      {
+       "title": "Deutsche Wirtschaft erholt sich allmählich",
+       "text": "Trotz der höheren Energiepreise bleiben die Aussichten für die deutsche Konjunktur, also die allgemeine wirtschaftliche Entwicklung, vorsichtig freundlich. Die Deutsche Bundesbank, die deutsche Zentralbank, erwartet eine allmähliche Erholung, getragen von steigenden Staatsausgaben und wieder anziehenden Ausfuhren, also Warenverkäufen ins Ausland. Auch mehrere Wirtschaftsforschungsinstitute rechnen für 2026 mit einem leichten Wachstum der Wirtschaftsleistung von etwa einem Prozent. Zugleich liegen die Erwartungen der Unternehmen und Haushalte weiter unter dem Niveau vor der jüngsten Krise. Das zählt, weil eine sich festigende Erholung Aufträge und Investitionen stützt und dir als Selbstständigem eine etwas verlässlichere Planungsgrundlage gibt.",
+       "source": "Deutsche Bundesbank / DIW",
+       "url": "https://www.bundesbank.de/de/presse/pressenotizen/deutschland-prognose-der-bundesbank-wirtschaft-erholt-sich-allmaehlich-wieder-936568"
+      }
+     ],
+     "merk": {
+      "text": "Für dich als Solo-Unternehmer heißt die wieder etwas höhere Inflation vor allem: Behalte deine Energie- und Einkaufskosten im Blick und prüfe, ob deine Preise die gestiegenen Aufwände noch decken. Da die Teuerung vor allem von der Energie getrieben ist und die Kerninflation stabiler bleibt, ist das kein Grund zur Sorge, aber ein guter Anlass, laufende Verträge und Kalkulationen einmal nachzurechnen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Neues Augenimplantat gibt vielen Menschen mit Makuladegeneration wieder Sehkraft",
+       "text": "In Europa ist ein neuartiges Augenimplantat mit dem Namen PRIMA zugelassen worden, das Menschen mit altersbedingter Makuladegeneration helfen soll. Die Makuladegeneration ist eine häufige Augenkrankheit des Alters, bei der die Stelle des schärfsten Sehens in der Netzhaut nach und nach zerstört wird, sodass in der Mitte des Blickfeldes ein blinder Fleck entsteht. Das winzige Implantat ersetzt einen Teil dieser Netzhaut durch einen lichtempfindlichen Chip und verbesserte in Studien bei rund 80 Prozent der Behandelten das Sehvermögen. Nach der Zulassung soll es in etwa 30 europäischen Ländern verfügbar sein. Das zählt, weil die Krankheit bislang kaum behandelbar war und die neue Technik vielen älteren Menschen ein Stück Selbstständigkeit im Alltag zurückgeben könnte.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/"
+      },
+      {
+       "title": "Finnischer Wärmespeicher senkt den Ausstoß von Treibhausgasen deutlich",
+       "text": "In der finnischen Gemeinde Pornainen hat ein großer Wärmespeicher, im Volksmund Sandbatterie genannt, den Ausstoß von Treibhausgasen der örtlichen Fernwärme um rund 70 Prozent gesenkt. In einem etwa 13 Meter hohen Behälter werden rund 2.000 Tonnen Speckstein, ein gut wärmespeicherndes Gestein, mit überschüssigem Strom erhitzt und geben die Wärme später zum Heizen wieder ab. Fernwärme bezeichnet die zentrale Erzeugung von Wärme, die über ein Rohrnetz an viele Haushalte verteilt wird. Nach Angaben der Betreiber konnte der Ort dadurch den Einsatz von Öl vollständig beenden und das Verbrennen von Holzhackschnitzeln um 60 Prozent verringern. Das zählt, weil solche einfachen Speicher zeigen, wie sich schwankender Ökostrom kostengünstig für die Wärmeversorgung nutzen lässt.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vuosaari_power_plant_-_thermal_energy_storage_2.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Spröde Metallverbindung wird zu einem Werkstoff, der zehnmal fester ist als Stahl",
+       "text": "Ein Team von Materialforschern hat eine Verbindung aus den Metallen Kobalt und Aluminium, die bislang als sehr spröde galt und daher leicht brach, in einen ungewöhnlich belastbaren Werkstoff verwandelt. Spröde bedeutet, dass ein Material unter Belastung zerspringt, statt sich zu verformen. Durch eine gezielte Veränderung des inneren Aufbaus wurde das Material zugleich sehr fest und biegsam und ist nach Angaben der Forschenden bis zu zehnmal fester als Stahl, ohne dabei zu zerbrechen. Das zählt, weil feste und zugleich verformbare Werkstoffe unter anderem in der Luft- und Raumfahrt sowie im Maschinenbau gefragt sind und helfen können, Bauteile leichter und langlebiger zu machen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Microstructure_of_High-Entropy_Alloy_AlCoCrFeNi%E2%82%82.%E2%82%81.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/matter_energy/"
+      },
+      {
+       "title": "Schwarzes Loch schleudert noch nach dem Ausbruch gewaltige Materiemengen ins All",
+       "text": "Astronominnen und Astronomen haben ein Schwarzes Loch untersucht, das im Jahr 2023 einen dramatischen Ausbruch zeigte. Ein Schwarzes Loch ist ein Objekt im All, dessen Schwerkraft so stark ist, dass ihm nicht einmal Licht entkommt. Die Beobachtungen ergaben, dass das Schwarze Loch selbst dann noch große Mengen an Materie in Form gebündelter Strahlen, sogenannter Jets, und in Form von Winden hinausschleuderte, als der eigentliche Ausbruch bereits fast abgeklungen war. Das zählt, weil solche Vorgänge zeigen, wie Schwarze Löcher über lange Zeiträume Energie und Materie in ihre Umgebung abgeben und damit die Entwicklung ganzer Galaxien beeinflussen können.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Black_hole%27s_accretion_disk.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/space_time/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Verregneter Samstag, doch der August bringt Freibad-Termine und Sommermusik",
+       "text": "In Horb am Neckar beginnt der August verregnet, bei rund 28 Grad ziehen tagsüber Schauer durch, sodass sich der Tag eher für Unternehmungen im Trockenen anbietet. Der Veranstaltungssommer läuft dabei weiter: Die traditionsreiche Konzertreihe Sommermusik im Oberen Nagold mit klassischer Kammermusik, also Musik für kleine Besetzungen, setzt in diesen Wochen ihr Programm fort. Im Alten Freibad sind an den kommenden Sonntagen im August, beginnend am 9. August jeweils um 15 Uhr, Veranstaltungen unter freiem Himmel angekündigt, und am 15. August lädt der Gasthof Adler zu einem Krimi-Dinner, einem geselligen Abend, bei dem sich ein mehrgängiges Menü mit einer nachgespielten Kriminalgeschichte verbindet. Das zählt, weil sich der graue Tag gut zum Planen nutzen lässt und die Region auch im Hochsommer viele Termine vor der Haustür bietet.",
+       "img": "https://live.staticflickr.com/65535/51271004187_e4835902ba_b.jpg",
+       "source": "meinestadt.de / regioactive",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein grauer Regentag am Monatsanfang ist eine stille Einladung, kurz innezuhalten und den Blick von den einzelnen Aufgaben auf die größeren Linien des neuen Monats zu heben."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Sehr günstiges, leistungsfähiges KI-Modell als Kostenhebel und Reserve",
+      "text": "Mit DeepSeek-V4-Flash ist Ende Juli ein neues Sprachmodell erschienen, das bei sehr niedrigen Kosten eine überraschend hohe Leistung bietet. Ein Sprachmodell ist ein KI-System, das Texte versteht und selbst erzeugt. Der Anbieter DeepSeek, ein auf leistungsfähige und zugleich günstige Modelle spezialisiertes Unternehmen, verlangt für dieses Modell nach eigenen Angaben nur etwa 0,14 US-Dollar je einer Million verarbeiteter Eingabe-Einheiten, sogenannter Token, also der kleinsten Text-Bausteine, und hebt die verbesserten Fähigkeiten beim eigenständigen Aufrufen von Werkzeugen hervor.",
+      "why": "Für dein System ist ein so günstiges, aber fähiges Modell ein konkreter Hebel: Reine Fleißarbeit wie das Abrufen und Vorsortieren von Rohdaten kann ein solches Modell übernehmen, während das stärkere Hauptmodell nur die Einordnung und die Endredaktion leistet. So sinken die laufenden Kosten deiner MORGENLAGE-Routine spürbar, und du hast zugleich ein zweites Modell als Reserve, falls dein Hauptanbieter einmal ausfällt. Prüfe vor dem Einsatz kurz, ob Datenschutz und Qualität für deine Zwecke passen.",
+      "source": "simonwillison.net",
+      "url": "https://simonwillison.net/2026/Jul/31/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Ergänzend praktisch: Mit dem neuen Befehl llm openai endpoint des Kommandozeilenwerkzeugs LLM lässt sich ein Prompt ohne weitere Einrichtung gegen jeden Dienst testen, der die OpenAI-Schnittstelle nachbildet, nützlich, um ein neues oder lokales Modell schnell auszuprobieren.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Unbeaufsichtigte Abläufe gegen Angriffe über Fremdinhalte absichern",
+       "tag": "KI-System · Sicherheit",
+       "paras": [
+        "Der Entwickler und KI-Beobachter Simon Willison, dessen Notizen zu Sprachmodellen unter Fachleuten viel gelesen werden, hat Ende Juli mehrere reale Sicherheitsvorfälle mit KI-Agenten beschrieben. Ein KI-Agent ist ein System, das eine Aufgabe eigenständig in mehreren Schritten mit Werkzeugen erledigt, ähnlich wie deine tägliche MORGENLAGE-Routine. In den geschilderten Fällen verschafften sich Angreifer über eingeschleuste Anweisungen und zu weit gefasste Zugriffsrechte Kontrolle, etwa durch eine sogenannte Template-Injection, bei der schädlicher Code über eine Vorlage zur Textzusammensetzung eingeschmuggelt wird, sowie über offen zugängliche Zugangsschlüssel.",
+        "Für einen Ablauf wie deinen, der selbstständig Webseiten abruft und deren Inhalte verarbeitet, ergibt sich daraus ein klarer Hebel. Erstens: Behandle jeden abgerufenen Fremdinhalt als nicht vertrauenswürdig und lass ihn nie unmittelbar als Anweisung oder als Teil einer Code-Vorlage wirken. Zweitens: Fasse die Rechte des Ablaufs eng, begrenze den Web-Abruf auf ausdrücklich vorgegebene Adressen und bewahre Zugangsschlüssel nicht offen im Projekt auf. Drittens: Nimm nicht an, dass eine abgeschottete Testumgebung ohne Internetzugang läuft, denn genau diese Annahme führte in einem der Vorfälle zum Schaden."
+       ],
+       "merk": "Die drei Bausteine eines solchen Angriffs sind fast immer dieselben: Zugriff auf private Daten, ungeprüfter Fremdinhalt und ein Weg nach außen. Nimmst du auch nur einen davon weg, sinkt das Risiko erheblich.",
+       "konkret": "Gehe deine MORGENLAGE-Routine einmal daraufhin durch, an welcher Stelle abgerufener Fremdinhalt in Anweisungen oder Vorlagen einfließt, und stelle sicher, dass Zugangsschlüssel nur über abgesicherte Umgebungsvariablen und nicht im Klartext im Projekt liegen.",
+       "snippetLabel": "Prompt für eine Sicherheitsdurchsicht deines Ablaufs",
+       "snippet": "Pruefe meinen unbeaufsichtigten Ablauf <span class=\"ph\">{Pfad oder Datei}</span> auf Sicherheitsrisiken.\n1. Wo fliesst abgerufener Fremdinhalt in Anweisungen oder in eine Vorlage (Template) ein? Markiere jede Stelle.\n2. Welche Rechte und welche Zieladressen fuer den Web-Abruf sind zu weit gefasst? Schlage engere Grenzen vor.\n3. Liegen Zugangsschluessel (API keys) im Klartext im Projekt statt in abgesicherten Umgebungsvariablen?\nBelege jeden Punkt mit der konkreten Stelle und schlage nichts vor, was du nicht belegen kannst.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Jul/28/",
+       "score": "hoch relevant fuer jede unbeaufsichtigte Routine, die Fremdinhalte verarbeitet"
       }
      ]
     }
