@@ -2,152 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Montag, 27. Juli 2026",
-      "weather": "rain",
-      "temp": "26°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Die neue Woche beginnt in Horb regnerisch bei rund 26 Grad, ein Tag also eher für Erledigungen im Trockenen als für Unternehmungen im Freien. Nach außen bleibt die Lage angespannt, denn Nordkorea hat eine Forderung des südostasiatischen Staatenbundes ASEAN nach einer atomwaffenfreien koreanischen Halbinsel scharf zurückgewiesen, während in Berlin die erste Umbildung des Bundeskabinetts von Kanzler Friedrich Merz die Innenpolitik bestimmt. Zugleich richtet sich der Blick der Wirtschaft heute Vormittag auf das ifo-Geschäftsklima, den wichtigsten Frühindikator für die deutsche Konjunktur. Nimm dir den ruhigen Wochenstart, um Wichtiges vom Dringenden zu trennen.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Nordkorea weist ASEAN-Forderung nach atomwaffenfreier Halbinsel zurück",
-              "text": "Kim Yo Jong, die einflussreiche Schwester des nordkoreanischen Machthabers Kim Jong Un, hat den südostasiatischen Staatenbund ASEAN scharf kritisiert. ASEAN, ein Zusammenschluss von zehn Staaten Südostasiens, hatte in einer Erklärung erneut eine atomwaffenfreie koreanische Halbinsel gefordert. Kim Yo Jong sprach von großer Unzufriedenheit mit der aus ihrer Sicht feindseligen Haltung des Forums und machte deutlich, dass Nordkorea an seinem Atomwaffenprogramm festhält. Das zählt, weil es zeigt, wie verhärtet die Fronten um die nukleare Aufrüstung in Ostasien bleiben und wie wenig Spielraum diplomatische Vorstöße derzeit haben.",
-              "source": "ZDFheute / Reuters",
-              "url": "https://www.zdfheute.de/politik/ausland"
-            },
-            {
-              "title": "Erste Kabinettsumbildung der Regierung Merz",
-              "text": "In Berlin steht die erste Umbildung des Bundeskabinetts unter Kanzler Friedrich Merz (CDU) im Mittelpunkt, also der erste größere personelle Umbau der Bundesregierung seit deren Amtsantritt. Vor diesem Hintergrund kamen die Bundestagsabgeordneten der CSU, der bayerischen Schwesterpartei der CDU, zu einer Sommerklausur zusammen, einer mehrtägigen Arbeitstagung zur Abstimmung der politischen Linie. Das zählt, weil eine Kabinettsumbildung die Schwerpunkte einer Regierung zur Halbzeit sichtbar macht und die Zusammenarbeit der Koalitionspartner auf die Probe stellt.",
-              "source": "ZDFheute",
-              "url": "https://www.zdfheute.de/politik/deutschland"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "ifo-Geschäftsklima heute im Blick",
-              "text": "Der wichtigste Konjunkturtermin des Tages ist die Veröffentlichung des ifo-Geschäftsklimaindex am Vormittag. Dieser Index des Münchner ifo-Instituts, eines der bekanntesten deutschen Wirtschaftsforschungsinstitute, misst monatlich anhand einer Umfrage unter tausenden Unternehmen, wie diese ihre aktuelle Lage und ihre Erwartungen einschätzen, und gilt als wichtigster Frühindikator für die deutsche Konjunktur. Zeitgleich veröffentlicht die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank, ihre Zahlen zur Geldmenge M3, also zur gesamten im Umlauf befindlichen Geldmenge. Das zählt, weil beide Werte zeigen, ob sich die zuletzt vorsichtige Aufhellung der Stimmung fortsetzt.",
-              "source": "ifo Institut / it-boltwise",
-              "url": "https://www.it-boltwise.de/wirtschaftstermine-bis-3-august-2026-quartalszahlen-konjunkturdaten-und-ezb-entscheid.html"
-            },
-            {
-              "title": "Deutsche Wirtschaft zur Jahresmitte vorsichtig stabiler",
-              "text": "Die jüngsten Konjunkturdaten deuten auf eine leichte Aufhellung der deutschen Wirtschaft hin. Nachdem der eskalierte Konflikt im Nahen Osten die Wirtschaft im Frühjahr über steigende Energiepreise und gestörte Lieferketten, also unterbrochene Versorgungswege für Rohstoffe und Bauteile, belastet hatte, zeigen Stimmungsindikatoren nun eine vorsichtige Stabilisierung. Auch der Einkaufsmanagerindex (PMI), eine monatliche Umfrage unter Einkaufsleitern von Unternehmen, fiel für Deutschland und den Euroraum zuletzt etwas freundlicher aus, während die Inflationserwartungen der Verbraucher nachließen. Das zählt, weil eine stabilere Grundstimmung Investitionen und Aufträge stützt und der EZB Spielraum gibt, die Zinsen vorerst nicht weiter anzuheben.",
-              "source": "DATEV magazin / BMWE",
-              "url": "https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/die-wirtschaftliche-lage-in-deutschland-im-juli-2026-147829"
-            }
-          ],
-          "merk": {
-            "text": "Für dich als Solo-Unternehmer bedeutet die ruhigere Lage: Planungen und Angebote lassen sich derzeit auf vergleichsweise stabilen Annahmen aufbauen, solange die Energiepreise nicht wieder anziehen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Costa Rica hat seine Wälder zurückgeholt",
-              "text": "Aus Mittelamerika kommt eine ermutigende Umweltbilanz: Costa Rica gilt inzwischen als eine der größten Erfolgsgeschichten des Naturschutzes. Nachdem in dem Land jahrzehntelang großflächig Wald gerodet worden war, ist heute wieder mehr als die Hälfte der Landesfläche von Wald bedeckt. Möglich wurde die Trendwende durch eine gezielte Naturschutzpolitik und finanzielle Anreize, mit denen Grundbesitzer für den Erhalt von Wald bezahlt werden. Das zählt, weil es zeigt, dass sich selbst eine weit fortgeschrittene Entwaldung mit klaren politischen Weichenstellungen wieder umkehren lässt.",
-              "img": "https://live.staticflickr.com/3471/3259219951_797fcb036c_b.jpg",
-              "source": "Positive News / Good News Network",
-              "url": "https://www.positive.news/"
-            },
-            {
-              "title": "Günstiger Malaria-Impfstoff schützt vier von fünf Kindern",
-              "text": "Ein von einem Forschungsteam der britischen Universität Oxford entwickelter Malaria-Impfstoff mit der Bezeichnung R21/Matrix-M erreicht in Studien einen Schutz von rund 75 bis 80 Prozent gegen Malaria, eine von Mücken übertragene Tropenkrankheit, an der weltweit noch immer jedes Jahr hunderttausende Menschen sterben. Eine einzelne Dosis kostet nur etwa zweieinhalb Pfund, was einen breiten Einsatz gerade in ärmeren Ländern möglich macht. Das zählt, weil ein wirksamer und zugleich sehr günstiger Impfstoff Millionen Kindern in den am stärksten betroffenen Regionen das Leben retten kann.",
-              "source": "Positive News / Universität Oxford",
-              "url": "https://www.positive.news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Körpereigenes Molekül wirkt wie eine Abnehmspritze, aber sanfter",
-              "text": "Forschende der Stanford-Universität in den USA haben ein natürlich im Körper vorkommendes Molekül entdeckt, das den Appetit dämpft und das Körpergewicht senkt, ähnlich wie das bekannte Medikament Ozempic. Ozempic gehört zu einer Wirkstoffgruppe, die ursprünglich gegen die Zuckerkrankheit Diabetes entwickelt wurde und inzwischen breit zur Gewichtsabnahme eingesetzt wird. Anders als dieses Mittel löste das neu entdeckte Molekül im Versuch mehrere der üblichen Nebenwirkungen wie Übelkeit offenbar nicht aus. Das zählt, weil ein körpereigener Ansatz mit weniger Nebenwirkungen die Behandlung von starkem Übergewicht verträglicher machen könnte, auch wenn bis zu einem fertigen Medikament noch viele Prüfschritte liegen.",
-              "source": "ScienceDaily / Stanford Medicine",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            },
-            {
-              "title": "Energie eines rotierenden Schwarzen Lochs im Labor nachgestellt",
-              "text": "Ein Forschungsteam hat im Labor nachgestellt, wie sich einem rotierenden Schwarzen Loch Energie entziehen lässt, einem Objekt im All, dessen Schwerkraft so stark ist, dass ihm nicht einmal Licht entkommt. Statt eines echten Schwarzen Lochs nutzten die Forschenden eine feststehende Apparatur, die eine sehr schnelle künstliche Rotation erzeugt und so den zugrunde liegenden physikalischen Effekt sichtbar macht. Das zählt, weil sich damit ein bislang vor allem theoretisch beschriebener Vorgang der Astrophysik erstmals kontrolliert im Labor untersuchen lässt, was das Verständnis dieser extremen Objekte vertiefen kann.",
-              "img": "https://live.staticflickr.com/7189/6923441491_5a9c00817c_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Schlossgarten-Öffnung und Konzertabend zum Wochenausklang",
-              "text": "In Horb und Umgebung beginnt die Woche verregnet, doch der Veranstaltungskalender füllt sich zum Wochenende wieder. Am Mittwoch, den 29. Juli, öffnet der Schlossgarten ab 17 Uhr mit Bewirtung, also mit Ständen für Speisen und Getränke unter freiem Himmel. Zum Wochenausklang folgt am Freitag, den 31. Juli, um 19.30 Uhr ein Konzert des Sängers Andreas Kümmert mit seiner Band The Electric Circus. Bei heute rund 26 Grad und zeitweise Regen bietet sich der Tag eher für Erledigungen im Trockenen an, bevor es später in der Woche wieder ins Freie gehen kann. Das zählt, weil solche Termine vor der Haustür einen entspannten Ausklang der Woche ohne weite Wege ermöglichen.",
-              "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-              "source": "meinestadt / regioactive",
-              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein verregneter Wochenstart ist eine gute Gelegenheit, im Trockenen die Grundlagen deines Systems einmal nachzuziehen, bevor die nächste geschäftige Phase beginnt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Bis zu 50 Prozent Zuschuss für Digitalisierung und KI in Baden-Württemberg",
-            "text": "Baden-Württemberg bündelt seine Förderung für digitale Vorhaben seit Mitte 2025 im Programm Digitalisierungsfinanzierung, einer Kombination aus einem zinsverbilligten Darlehen und einem nicht rückzahlbaren Tilgungszuschuss, der sogenannten Digitalisierungsprämie. Wer Individualsoftware entwickelt, künstliche Intelligenz einführt oder Abläufe tiefgreifend digitalisiert, kann so einen erheblichen Teil der Kosten erstattet bekommen. Ergänzend wurde das kostenlose Beratungsangebot KI-Checker Plus, das kleine Unternehmen beim sinnvollen Einsatz von KI unterstützt, bis Ende 2026 verlängert.",
-            "why": "Für dich als KI-nahen Solo-Unternehmer in Baden-Württemberg ist das ein konkreter Hebel: Du kannst den Ausbau deiner Systeme fördern lassen und dir vorab eine kostenlose Einschätzung einholen, solange die Programme laufen.",
-            "source": "L-Bank / IHK Rhein-Neckar",
-            "url": "https://www.ihk.de/rhein-neckar/innovation/innovationsberatung/foerdermittel/digitalisierungsfinanzierung-3786170"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Werkzeug-Schnittstellen robust halten: warum neue Modelle Felder erfinden",
-              "tag": "KI-System · Werkzeuge",
-              "paras": [
-                "Der Entwickler und KI-Beobachter Simon Willison, dessen Notizen zu Sprachmodellen unter Fachleuten viel gelesen werden, hat einen praktischen Stolperstein beschrieben: Neuere und eigentlich stärkere Modelle wie Opus 4.8 oder Sonnet 5 folgen selbst definierten Werkzeug-Schnittstellen (Tool-Schemata) mitunter schlechter als ältere Modelle. Ein Werkzeug-Schema legt fest, mit welchen Feldern ein Assistent ein externes Werkzeug aufruft, etwa zum Bearbeiten einer Datei. Weil neuere Modelle stark auf die eingebauten Werkzeuge einer bestimmten Umgebung trainiert werden, erfinden sie bei fremden Schemata bisweilen nicht vorgesehene Feldnamen, wodurch der Aufruf fehlschlägt.",
-                "Für deine MORGENLAGE-Routine, die über das Model Context Protocol (MCP) externe Werkzeuge und Datenquellen anspricht, ist das ein handfestes Verlässlichkeitsthema. Der Hebel besteht aus zwei einfachen Schritten. Erstens: Halte eigene Werkzeug-Schnittstellen so nah wie möglich an gängigen, einfachen Mustern, statt ausgefallene Feldnamen zu verwenden. Zweitens: Baue eine kleine Prüfung ein, die jeden Werkzeug-Aufruf mit unerwarteten oder unbekannten Feldern sichtbar meldet, statt ihn still scheitern zu lassen.",
-                "So fängst du fehlerhafte Aufrufe früh ab und bemerkst sofort, wenn ein Modellwechsel das Verhalten verändert, statt es erst an einer fehlerhaften Ausgabe zu sehen."
-              ],
-              "konkret": "Prüfe die Werkzeug-Definitionen deiner MCP-Anbindung auf ungewöhnliche Feldnamen und ergänze eine Validierung, die Aufrufe mit unbekannten Feldern protokolliert und meldet. Teste diesen Punkt nach jedem Modellwechsel einmal bewusst.",
-              "snippetLabel": "Prompt für die Schema-Durchsicht",
-              "snippet": "Pruefe die Werkzeug-Definitionen (Tool-Schemata) meiner MCP-Anbindung in <span class=\"ph\">{Pfad oder Datei}</span>.\n1) Welche Felder weichen von einfachen, gaengigen Mustern ab und koennten ein Modell zu erfundenen Feldnamen verleiten?\n2) Schlage fuer jedes Werkzeug eine moeglichst einfache, nahe am Standard liegende Schnittstelle vor.\n3) Ergaenze eine Validierung, die jeden Aufruf mit unbekannten oder fehlenden Feldern sichtbar meldet, statt ihn still fehlschlagen zu lassen.\nBelege jede Empfehlung mit der betreffenden Stelle.",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
-              "score": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Dienstag, 28. Juli 2026",
       "weather": "clouds",
       "temp": "29°C · bewölkt",
@@ -719,7 +573,6 @@
       "weather": "rain",
       "temp": "28°C · Regen",
       "greeting": "Guten Morgen, Gerik. In Horb am Neckar beginnt der August wechselhaft: Bei rund 28 Grad ziehen im Tagesverlauf Regenschauer durch, ein Tag also, der sich gut für Erledigungen im Trockenen und eine ruhige Planung eignet. In der Weltlage haben Regierung und Opposition in Venezuela in der Hauptstadt Caracas Verhandlungen über einen möglichen Weg zu Neuwahlen aufgenommen. Wirtschaftlich meldet das Statistische Bundesamt für Juli eine wieder etwas höhere Inflation von voraussichtlich 2,8 Prozent, vor allem wegen gestiegener Energiepreise. Und aus der Forschung kommt die Nachricht, dass Materialforscher eine bislang spröde Metallverbindung in einen Werkstoff verwandelt haben, der zugleich sehr fest und biegsam ist. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -870,7 +723,6 @@
       "weather": "clouds",
       "temp": "31°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: Nach außen stand sie im Zeichen zweier großer Linien. In Kairo, der Hauptstadt Ägyptens, meldeten die Vermittler seltene Fortschritte bei den Gesprächen über eine dauerhafte Waffenruhe im Gazastreifen, dem dicht besiedelten Küstenstreifen am östlichen Mittelmeer, während eine ausgeprägte Hitzewelle Südeuropa mit schweren Wald- und Buschbränden in Spanien, Frankreich und Griechenland überzog. Nach innen zeigte sich die deutsche Wirtschaft vorsichtig stabiler: Das ifo-Geschäftsklima, ein monatlicher Stimmungsmesser des Münchner ifo-Instituts, stieg im Juli auf 86,6 Punkte, und das Statistische Bundesamt meldete für das zweite Quartal ein kleines Wachstum von 0,2 Prozent. Und im Kleinen liegt heute ein warmer, leicht bewölkter Sommersonntag mit rund 31 Grad über Horb, ein ruhiger Tag, um das Liegengebliebene der Woche zu ordnen. Dieser Rückblick fasst das Wichtigste der Woche zusammen und bündelt ganz unten alle System-Anpassungen zu einem einzigen, kopierfertigen Text.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1042,6 +894,154 @@
           "text": "Wer die kleinen Hinweise einer Woche geduldig zu einer einzigen klaren Anpassung bündelt, gewinnt am Ende mehr als durch viele hastige Einzelschritte."
         }
       ]
+    },
+    {
+      "label": "Montag, 3. August 2026",
+      "weather": "clouds",
+      "temp": "35°C · bewölkt",
+      "greeting": "Guten Morgen, Gerik. Über Horb liegt heute ein schwülwarmer Hochsommertag bei rund 35 Grad, der Himmel bleibt dabei überwiegend bewölkt, sodass der frühe Morgen die angenehmste Zeit ist. In der Weltlage beginnen an diesem Montag neue Gespräche zwischen den USA und dem Iran über dessen Atomprogramm, während anhaltende Hitze im Süden Europas schwere Waldbrände anfacht. Wirtschaftlich löst sich Deutschland nur langsam aus der Flaute: Die Deutsche Bundesbank erwartet für dieses Jahr ein Wachstum von nur noch 0,6 Prozent, während die Europäische Zentralbank ihre Leitzinsen unverändert lässt. Trinke bei der Hitze bitte ausreichend und lege die anspruchsvollste Aufgabe in die kühleren Morgenstunden.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "USA und Iran nehmen Gespräche über das Atomprogramm wieder auf",
+              "text": "US-Präsident Donald Trump hat angekündigt, dass an diesem Montag neue Verhandlungen zwischen den Vereinigten Staaten und dem Iran über das iranische Atomprogramm beginnen. Nach seinen Angaben hatte er zuvor einen größeren geplanten Militärschlag gegen den Iran in letzter Minute abgesagt, nachdem sich beide Seiten auf die Umrisse einer möglichen Einigung verständigt hätten. Hintergrund ist der langjährige Streit darüber, ob das iranische Nuklearprogramm allein der zivilen Energiegewinnung dient oder auch den Bau von Atomwaffen ermöglichen könnte. Das zählt, weil ein tragfähiges Abkommen die Spannungen am Persischen Golf entschärfen und damit auch die Energiepreise und die Weltwirtschaft beruhigen könnte.",
+              "source": "euronews / Reuters",
+              "url": "https://www.euronews.com/news/international"
+            },
+            {
+              "title": "Anhaltende Hitze facht schwere Waldbrände in Südeuropa an",
+              "text": "Eine ausgedehnte Hitzewelle hat in mehreren Ländern Südeuropas schwere Waldbrände ausgelöst. In Spanien kämpfen Einsatzkräfte vor allem in den Provinzen Castellón im Osten und Zamora im Nordwesten gegen die Flammen, tausende Menschen mussten ihre Häuser verlassen, und Löschflugzeuge unterstützen die Arbeit am Boden. Auch aus Griechenland, der Türkei und Frankreich werden Brände gemeldet. Das zählt, weil lange Trockenheit und hohe Temperaturen das Feuerrisiko im Mittelmeerraum von Jahr zu Jahr verschärfen und ganze Landstriche sowie die dort lebenden Menschen gefährden.",
+              "source": "euronews",
+              "url": "https://www.euronews.com/news/international"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Bundesbank rechnet 2026 mit nur noch 0,6 Prozent Wachstum",
+              "text": "Die Deutsche Bundesbank, die Zentralbank der Bundesrepublik, erwartet, dass sich die deutsche Wirtschaft nach drei schwachen Jahren im Jahr 2026 nur allmählich erholt. In ihrer aktuellen Prognose rechnet sie mit einem Wachstum der Wirtschaftsleistung von 0,6 Prozent und damit etwas weniger als die im Juni genannten 0,7 Prozent. Die Inflationsrate, also der allgemeine Anstieg der Verbraucherpreise, dürfte bei rund 2,2 Prozent liegen und sich damit dem Ziel der Europäischen Zentralbank (EZB) von 2,0 Prozent annähern; die EZB, die für den Euro zuständige Notenbank, hat ihre Leitzinsen zuletzt unverändert gelassen. Das zählt, weil ein zwar schwaches, aber wieder positives Wachstum darauf hindeutet, dass die lange Stagnation langsam endet, ohne dass schon ein kräftiger Aufschwung in Sicht ist.",
+              "source": "Deutsche Bundesbank / Tagesspiegel",
+              "url": "https://www.tagesspiegel.de/wirtschaft/konjunktur-prognosen-deutsche-wirtschaft-muht-sich-aus-der-flaute-15066747.html"
+            },
+            {
+              "title": "Höhere Staatsausgaben stützen die Konjunktur",
+              "text": "Ökonomen sehen die deutsche Wirtschaft langsam aus ihrer jahrelangen Schwächephase herauskommen. Nach Einschätzung des Bankenverbands, der Interessenvertretung der privaten Banken in Deutschland, gewinnt die Konjunktur vor allem durch höhere Staatsausgaben an Schwung, etwa für Infrastruktur wie Straßen und Schienen sowie für die Verteidigung. Diese öffentlichen Investitionen sollen private Aufträge nach sich ziehen und so die Nachfrage stützen, während die Investitionen der Unternehmen bislang noch verhalten bleiben. Das zählt, weil sich damit abzeichnet, woher der nächste Aufschwung kommen könnte, auch wenn er noch auf sich warten lässt.",
+              "source": "Bankenverband",
+              "url": "https://bankenverband.de/konjunktur/deutsche-wirtschaft-loest-sich-2026-aus-langjaehriger-schwaechephase"
+            }
+          ],
+          "merk": {
+            "text": "Für dich als Solo-Unternehmer in der Region heißt das: Die Rahmenbedingungen bleiben vorerst berechenbar, große Sprünge sind aber nicht zu erwarten. Wo öffentliche Aufträge und Digitalisierungsvorhaben anziehen, kann sich für dich zusätzlicher Bedarf ergeben.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Solarstrom deckt in der EU erstmals ein Viertel des Bedarfs",
+              "text": "In der Europäischen Union hat die Sonnenenergie im Juni 2026 einen Rekord erreicht: Erstmals stammten 25 Prozent des erzeugten Stroms aus Solaranlagen. In Spanien und Deutschland lag der Anteil sogar bei über einem Drittel, in Ungarn bei fast der Hälfte. Über die vergangenen fünf Jahre sind die Treibhausgas-Emissionen der europäischen Stromerzeugung, also der Ausstoß klimaschädlicher Gase bei der Erzeugung von Strom, um etwa ein Fünftel gesunken. Das zählt, weil es zeigt, dass der Umstieg auf saubere Stromquellen in Europa nicht mehr nur ein Ziel für die Zukunft ist, sondern bereits einen sichtbaren Anteil an der Versorgung erreicht.",
+              "img": "https://live.staticflickr.com/2491/4160370798_3ca24273ea.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
+            },
+            {
+              "title": "Neues Verfahren gewinnt fast alles Lithium aus alten Autobatterien zurück",
+              "text": "In Japan haben Ingenieure ein Verfahren entwickelt, mit dem sich rund 90 Prozent des Lithiums aus gebrauchten Batterien von Elektroautos zurückgewinnen lassen. Lithium ist ein leichtes Metall, das für wiederaufladbare Batterien unverzichtbar ist und bislang aufwendig neu abgebaut werden muss. Bisherige Recycling-Methoden holen weniger als die Hälfte des Lithiums zurück, das neue Verfahren senkt zudem den Ausstoß des klimaschädlichen Gases Kohlendioxid um etwa 40 Prozent. Das zählt, weil ein hochwertiges Recycling die Abhängigkeit vom Bergbau verringert und den Kreislauf für einen der wichtigsten Rohstoffe der Elektromobilität ein gutes Stück schließt.",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Erster rein optischer Zeitkristall gelingt im Labor",
+              "text": "Einem internationalen Forschungsteam der École Polytechnique und des Collège de France in Frankreich sowie des Helmholtz-Zentrums Dresden-Rossendorf in Deutschland ist erstmals ein rein optischer photonischer Zeitkristall gelungen. Ein solcher Zeitkristall ist ein Material, dessen optische Eigenschaften sich äußerst schnell und regelmäßig in der Zeit verändern lassen, ähnlich wie sich ein gewöhnlicher Kristall regelmäßig im Raum wiederholt. Mit winzigen Goldstrukturen auf einem Halbleiter gelang es, Licht im Bereich der Terahertz-Frequenzen zu steuern, also bei Schwingungen, die rund tausendmal schneller sind als in heutigen elektronischen Bauteilen. Das zählt, weil sich damit ein Weg zu extrem schneller optischer Datenverarbeitung, neuen Kommunikationssystemen und neuartigen Lasern öffnet, auch wenn bis zu praktischen Anwendungen noch viel Forschung nötig ist.",
+              "img": "https://live.staticflickr.com/3450/3306504966_be926f86b9_b.jpg",
+              "source": "ScienceDaily / Nature",
+              "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm"
+            },
+            {
+              "title": "Frühe Anzeichen von Demenz zeigen sich womöglich schon im Schlaf",
+              "text": "Forschende haben die Hirnströme von rund 7.000 Erwachsenen im Schlaf aufgezeichnet und mit lernfähigen Computerprogrammen, also mit maschinellem Lernen, ausgewertet. Dabei zeigte sich, dass das schlafende Gehirn offenbar Warnzeichen für eine spätere Demenz verrät, lange bevor sich erste Gedächtnisprobleme bemerkbar machen. Als Demenz werden Erkrankungen bezeichnet, bei denen Gedächtnis und Denkvermögen fortschreitend nachlassen. Das zählt, weil eine sehr frühe Erkennung Betroffenen und Ärzten mehr Zeit geben könnte, gegenzusteuern, auch wenn aus einem solchen Frühzeichen noch keine sichere Vorhersage folgt.",
+              "img": "https://live.staticflickr.com/8055/8376271918_0ca57957fa_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Nach dem Marktplatzsommer lädt Mitte August ein Krimi-Dinner",
+              "text": "In Horb ist am gestrigen Sonntag der Marktplatzsommer zu Ende gegangen, die sommerliche Freilichtreihe mitten in der Altstadt. Als nächster besonderer Termin steht am Samstag, den 15. August, ein sogenanntes Kriminal-Dinner im Gasthof Adler an, ein unterhaltsamer Abend, bei dem die Gäste zwischen den Gängen eines Menüs gemeinsam einen erdachten Kriminalfall lösen. Bei heute rund 35 Grad und schwülwarmer, bewölkter Luft bietet sich der Tag eher für Erledigungen im Schatten oder in kühlen Räumen an als für Anstrengungen im Freien. Das zählt, weil solche Termine vor der Haustür einen geselligen Ausklang der Sommerwochen ohne weite Anfahrt ermöglichen.",
+              "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
+              "source": "meinestadt / Gasthof Adler",
+              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein heißer, schwüler Tag ist eine Einladung, das Tempo bewusst zu drosseln und die wichtigste Aufgabe in die kühlen Morgenstunden zu legen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Forschungszulage: bis zu 35 Prozent Zuschuss auch für eigene Entwicklungsarbeit",
+            "text": "Die Forschungszulage ist eine steuerliche Förderung des Bundes, mit der der Staat Ausgaben für Forschung und Entwicklung bezuschusst, unabhängig von der Rechtsform und ausdrücklich auch für Einzelunternehmer und Freiberufler. Kleine und mittlere Unternehmen können bis zu 35 Prozent der förderfähigen Kosten erstattet bekommen. Neu ist, dass seit dem 1. Januar 2026 auch die eigene Arbeitszeit, die sogenannte Eigenleistung, mit einem Pauschalsatz von 100 Euro je Stunde angesetzt werden darf, sodass sich selbst geleistete Entwicklungsarbeit an eigener Software fördern lässt. Voraussetzung ist eine Bescheinigung der Bescheinigungsstelle Forschungszulage, kurz BSFZ, die vorab prüft, ob ein Vorhaben tatsächlich als Forschung und Entwicklung gilt.",
+            "why": "Für dich als Solo-Unternehmer, der ein eigenes KI-System entwickelt, kann die Entwicklung neuartiger, technisch anspruchsvoller Software als förderfähige Forschung gelten. Damit lässt sich ein Teil deiner eigenen Arbeitszeit über die Steuer erstatten, wenn du die Vorhaben sauber dokumentierst und vorab bescheinigen lässt.",
+            "source": "Bescheinigungsstelle Forschungszulage (BSFZ)",
+            "url": "https://www.bescheinigung-forschungszulage.de/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "MCP 2.0 nutzen: Werkzeug-Anbindungen einfacher und robuster machen",
+              "tag": "KI-System · Schnittstellen",
+              "paras": [
+                "Am 28. Juli 2026 ist die Version 2.0 des Model Context Protocol (MCP) erschienen, des offenen Standards, über den KI-Assistenten wie deiner externe Werkzeuge und Datenquellen ansprechen. Der Entwickler und KI-Beobachter Simon Willison, dessen Notizen zu Sprachmodellen unter Fachleuten viel gelesen werden, bezeichnet die Neuerung als die wichtigste Änderung seit dem Start des Protokolls. Kern ist ein zustandsloses Verfahren, auf Englisch stateless genannt: Statt wie bisher zwei Anfragen zu benötigen, eine zum Anmelden mit einer Sitzungskennung und eine weitere für den eigentlichen Aufruf, kommt ein Werkzeug-Aufruf nun mit einer einzigen Anfrage aus.",
+                "Der praktische Gewinn ist doppelt. Erstens wird die Anbindung deutlich einfacher, weil ein Server keine Sitzungen mehr verwalten und nicht mehr sicherstellen muss, dass jede Anfrage wieder bei derselben Maschine landet. Zweitens lässt sich leichter nachvollziehen, was ein Werkzeug tun darf, was gerade bei unbeaufsichtigt laufenden Abläufen die Sicherheit erhöht. Willison hält das neue Verfahren aus Sicht sowohl des anfragenden Programms als auch des Servers für sehr viel sauberer.",
+                "Für deine MORGENLAGE-Routine, die über MCP externe Werkzeuge und Datenquellen anspricht, lohnt sich daher eine Bestandsaufnahme: Prüfe, welche deiner Anbindungen noch das ältere, sitzungsbasierte Verfahren nutzen, und stelle neue oder selbst betriebene Anbindungen auf das zustandslose Verfahren um. Das verringert die Zahl beweglicher Teile und macht die Routine verlässlicher."
+              ],
+              "konkret": "Liste deine aktiven MCP-Anbindungen auf und markiere, welche noch Sitzungskennungen (Session-IDs) verwenden. Stelle selbst betriebene Server auf das zustandslose Verfahren von MCP 2.0 um und behalte bei fremden Servern im Blick, ob sie die neue Version bereits anbieten.",
+              "snippetLabel": "Prompt für die MCP-Bestandsaufnahme",
+              "snippet": "Sieh dir die MCP-Anbindungen meines Systems in <span class=\"ph\">{Pfad oder Datei}</span> an.\n1) Welche Anbindungen nutzen noch das aeltere, sitzungsbasierte Verfahren mit einer Sitzungskennung (Session-ID)?\n2) Welche lassen sich auf das zustandslose Verfahren von MCP 2.0 umstellen, das mit einer einzigen Anfrage auskommt?\n3) Nenne je Anbindung den konkreten Umstellungsschritt und moegliche Stolpersteine.\nFasse das Ergebnis als kurze Tabelle mit klarer Empfehlung zusammen.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+              "score": 4
+            }
+          ]
+        }
+      ],
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
     }
   ]
 }
