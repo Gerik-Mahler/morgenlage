@@ -2,152 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Dienstag, 28. Juli 2026",
-      "weather": "clouds",
-      "temp": "29°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Über Horb liegt heute ein bewölkter Sommertag bei rund 29 Grad, angenehm warm, aber ohne pralle Sonne. In der Weltlage richtet sich der Blick nach Rom, wo die USA für Anfang August neue Gespräche zwischen Israel und dem Libanon vermitteln, während zugleich ein Abkommen im Atomstreit mit dem Iran wieder möglich erscheint. Wirtschaftlich sorgt eine Nachricht aus der Nachbarschaft für Aufsehen: Der Stuttgarter Sportwagenbauer Porsche streicht weitere 5.000 Stellen, und doch hellt sich die Stimmung der deutschen Unternehmen laut dem ifo-Institut insgesamt auf. Nimm dir den ruhigen Vormittag, um in Ruhe zu sortieren, was heute wirklich wichtig ist.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "USA vermitteln neue Israel-Libanon-Gespräche in Rom",
-              "text": "Die Vereinigten Staaten haben für den 4. bis 6. August Gespräche zwischen Israel und dem Libanon in der italienischen Hauptstadt Rom angekündigt. In technischen Arbeitsgruppen, also Fachrunden ohne die große politische Bühne, soll es um die Umsetzung eines Rahmenabkommens, um erweiterte Pilotzonen im Süden des Libanon und um ungeklärte Grenzfragen gehen. Zugleich teilte der Menschenrechtskommissar der Vereinten Nationen, der Österreicher Volker Türk, mit, sein Büro habe im Libanon großflächige Verstöße gegen das humanitäre Völkerrecht dokumentiert, also gegen die Regeln zum Schutz von Zivilisten in bewaffneten Konflikten, von denen einige möglicherweise Kriegsverbrechen darstellen. Nach Angaben libanesischer Behörden wurden seit dem 2. März mehr als 4.300 Menschen getötet und über 12.200 verletzt. Das zählt, weil die geplanten Gespräche zeigen, dass trotz der hohen Opferzahlen ein diplomatischer Weg gesucht wird.",
-              "source": "Anadolu Agency / Vereinte Nationen",
-              "url": "https://aa.com.tr/en/world/morning-briefing-july-28-2026/4010976"
-            },
-            {
-              "title": "Trump sieht Chance auf ein Atomabkommen mit dem Iran",
-              "text": "US-Präsident Donald Trump erklärte, es bestehe eine gute Chance auf ein Abkommen mit dem Iran im Streit um dessen Atomprogramm, denn beide Seiten seien gesprächsbereit und man treffe sich bereits. Zugleich warnte er, die USA würden militärische Operationen wieder aufnehmen, falls die Verhandlungen scheitern. Hintergrund ist der langjährige Konflikt darüber, ob das iranische Nuklearprogramm allein der Energiegewinnung dient oder auch dem Bau von Atomwaffen dienen könnte. Das zählt, weil ein tragfähiges Abkommen die Spannungen am Persischen Golf entschärfen könnte, von denen auch die Energiepreise und damit die Weltwirtschaft berührt sind.",
-              "source": "Anadolu Agency",
-              "url": "https://aa.com.tr/en/world/morning-briefing-july-28-2026/4010976"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "ifo-Geschäftsklima steigt im Juli auf 86,6 Punkte",
-              "text": "Die Stimmung in den deutschen Unternehmen hat sich im Juli aufgehellt. Der ifo-Geschäftsklimaindex, ein monatlicher Frühindikator des Münchner ifo-Instituts, das zu den bekanntesten deutschen Wirtschaftsforschungseinrichtungen zählt, stieg auf 86,6 Punkte nach 85,7 Punkten im Juni. Für den Wert befragt das Institut tausende Firmen zu ihrer aktuellen Lage und ihren Erwartungen; der Anstieg geht vor allem auf deutlich zuversichtlichere Erwartungen zurück, während die Zufriedenheit mit den laufenden Geschäften etwas nachgab. Besonders in der Industrie legte der Index spürbar zu, die Nachfrage zog an und Materialengpässe gingen zurück. Das zählt, weil eine sich festigende Zuversicht der Unternehmen trotz der Unsicherheit am Persischen Golf auf eine langsame Erholung der Konjunktur hindeutet.",
-              "source": "ifo Institut",
-              "url": "https://www.ifo.de/fakten/2026-07-27/ifo-geschaeftsklimaindex-gestiegen-juli-2026"
-            },
-            {
-              "title": "Porsche streicht weitere 5.000 Stellen",
-              "text": "Der Stuttgarter Sportwagenhersteller Porsche, eine Tochter des Volkswagen-Konzerns, hat angekündigt, bis zum Jahr 2035 weitere rund 5.000 Stellen abzubauen. Betroffen sind das Stammwerk in Stuttgart-Zuffenhausen und das Entwicklungszentrum im nahen Weissach, beide im Nachbarraum von Horb in Baden-Württemberg. Der Abbau soll sozialverträglich erfolgen, also vor allem über natürliche Fluktuation, Altersteilzeit und freiwillige Abfindungen statt über Kündigungen; im Gegenzug wird die Standortsicherung bis Ende 2035 verlängert. Als Gründe nennt das Unternehmen das schwache Geschäft in China, die US-Zollpolitik und die geringere Nachfrage nach Elektroautos. Das zählt, weil der Schritt zeigt, wie stark der Umbau der Autoindustrie gerade die wirtschaftlich starke Region rund um Stuttgart trifft.",
-              "source": "onvista / Abendzeitung",
-              "url": "https://www.onvista.de/news/2026/07-27-roundup-vw-tochter-porsche-streicht-weitere-5-000-stellen-0-10-26536490"
-            }
-          ],
-          "merk": {
-            "text": "Für dich als Solo-Unternehmer in der Region bedeutet das ein zweigeteiltes Bild: Der Umbau großer Arbeitgeber wie Porsche kann örtlich Aufträge und Kaufkraft dämpfen, während die insgesamt bessere Stimmung laut ifo für Planungen auf vorsichtig stabiler Grundlage spricht.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "In der Seine in Paris darf wieder geschwommen werden",
-              "text": "Die Seine, der große Fluss, der durch die französische Hauptstadt Paris fließt, ist nach jahrzehntelangen Reinigungsbemühungen an mehreren Stellen wieder zum Baden freigegeben worden, erstmals seit Generationen. Möglich wurde das durch den Ausbau der Kanalisation und moderne Klärtechnik, mit denen verhindert wird, dass ungeklärtes Abwasser bei Regen in den Fluss gelangt. Bereits zu den Olympischen Sommerspielen 2024 war das saubere Wasser ein sichtbares Ziel, nun profitieren auch die Bewohnerinnen und Bewohner davon. Das zählt, weil es zeigt, dass sich selbst ein über lange Zeit stark belasteter Stadtfluss mit Geduld und Investitionen wieder in ein öffentliches Freibad verwandeln lässt.",
-              "img": "https://live.staticflickr.com/7172/6681110843_548ab3c77b_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            },
-            {
-              "title": "Weniger Rodung im brasilianischen Regenwald",
-              "text": "Aus Brasilien kommt eine ermutigende Zwischenbilanz zum Schutz des Regenwaldes. Im ersten Halbjahr 2026 wurden dort rund 500 Quadratmeilen Regenwald gerodet, verglichen mit etwa 807 Quadratmeilen im selben Zeitraum des Vorjahres, ein Rückgang um 38 Prozent. Der Regenwald am Amazonas gilt als eine der wichtigsten Kohlenstoffsenken der Erde, also als riesiger natürlicher Speicher, der das klimaschädliche Treibhausgas Kohlendioxid bindet. Das zählt, weil ein deutlicher Rückgang der Abholzung zeigt, dass entschlossene Schutzmaßnahmen den Verlust wertvoller Wälder tatsächlich bremsen können.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Künstliche Intelligenz hilft bei der Suche nach neuen Supraleitern",
-              "text": "Ein Forschungsteam hat maschinelles Lernen, also lernfähige Computerprogramme, mit der Quantenphysik verbunden und auf diese Weise zwei bisher unbekannte Supraleiter entdeckt. Supraleiter sind Materialien, die elektrischen Strom unter bestimmten Bedingungen völlig ohne Verluste leiten, was sie etwa für besonders effiziente Stromnetze oder starke Magnete interessant macht. Der neue Ansatz beschleunigt vor allem die Suche selbst, weil das Programm aus bekannten Beispielen lernt, welche Materialzusammensetzungen erfolgversprechend sind. Das zählt, weil sich damit ein bislang mühsamer Forschungsprozess erheblich abkürzen lässt und die Zahl bekannter Supraleiter künftig schneller wachsen könnte.",
-              "img": "https://live.staticflickr.com/2593/3772740590_5f63031b01.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
-            },
-            {
-              "title": "Ein winziger Urahn könnte das Auge der Wirbeltiere geprägt haben",
-              "text": "Forschende berichten, dass ein winziges, einäugiges Lebewesen, das vor annähernd 600 Millionen Jahren lebte, die Entwicklung des Auges aller Wirbeltiere mitgeprägt haben könnte. Als Wirbeltiere werden Tiere mit einer Wirbelsäule bezeichnet, zu denen auch der Mensch zählt. Nach der neuen Deutung geht der grundlegende Bauplan des Sehorgans auf diesen sehr frühen Vorfahren zurück, aus dem sich über viele Millionen Jahre die heutigen Augen entwickelten. Das zählt, weil solche Funde zeigen, wie tief die Wurzeln unserer eigenen Sinnesorgane in der frühen Geschichte des Lebens liegen.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Open-Air-Theater zum Marktplatzsommer beginnt",
-              "text": "In Horb startet Ende der Woche der Marktplatzsommer, eine sommerliche Veranstaltungsreihe unter freiem Himmel im Herzen der Stadt. Vom 30. Juli bis zum 2. August wird auf dem Marktplatz das Open-Air-Theaterstück Wilhelm Klink und das Horber Bilderbuch aufgeführt, ein Stück mit lokalem Bezug zur Geschichte der Stadt. Bei heute rund 29 Grad und bewölktem Himmel bleibt es trocken und mild, gute Bedingungen also, um sich einen der Termine für die kommenden Abende vorzumerken. Das zählt, weil solche Aufführungen vor der Haustür einen leichten Einstieg in kulturelle Sommerabende ohne weite Anfahrt bieten.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Open_Air_Theatre_-_stage_-_Regent%27s_Park%2C_London_-_2005-06-22.jpg",
-              "source": "regioactive / Stadt Horb",
-              "url": "https://www.regioactive.de/events/18653/horb/veranstaltungen-party-konzerte"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein bewölkter, milder Tag ist ideal, um konzentriert an einer Sache zu arbeiten, ohne dass Hitze oder Sonne ablenken."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "KOMPASS: bis zu 4.500 Euro für KI-Weiterbildung von Solo-Selbstständigen",
-            "text": "Das vom Bundesarbeitsministerium geförderte Programm KOMPASS, kurz für Kompetenzentwicklung und Qualifizierung für Soloselbstständige, bezuschusst berufsbezogene Weiterbildungen von Einzelunternehmern, ausdrücklich auch Schulungen rund um künstliche Intelligenz. Gefördert werden bis zu 4.500 Euro pro Person und Förderjahr, wobei ein großer Teil der Kurskosten übernommen wird. Der Einstieg läuft über regionale Anlaufstellen, die zunächst gemeinsam mit dir den Weiterbildungsbedarf klären, bevor ein konkreter Kurs beantragt wird.",
-            "why": "Für dich als KI-nahen Solo-Unternehmer ist das ein direkter Hebel, um gezieltes Wissen etwa zu Sprachmodellen, Automatisierung oder Datenauswertung mit staatlicher Unterstützung aufzubauen, statt es vollständig selbst zu tragen.",
-            "source": "KOMPASS / Bundesarbeitsministerium",
-            "url": "https://www.kompass-hilft.de/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Günstigere Modelle gezielt für Routinearbeit einsetzen",
-              "tag": "KI-System · Kosten",
-              "paras": [
-                "Der Entwickler und KI-Beobachter Simon Willison, dessen Notizen zu Sprachmodellen unter Fachleuten viel gelesen werden, beschreibt einen einfachen, aber wirkungsvollen Hebel: Nicht jede Teilaufgabe braucht das stärkste und teuerste Modell. Vieles, was ein Assistent tut, ist Umsetzungsarbeit, etwa Dateien lesen, kleine Änderungen vornehmen oder Text nach klaren Vorgaben zusammenstellen. Solche Arbeit lässt sich zuverlässig an günstigere Modelle in einem Unterauftrag, einem sogenannten Subagenten, abgeben, während das leistungsstarke Hauptmodell für Urteil, Prüfung und Zusammenführung reserviert bleibt.",
-                "Statt starre Regeln vorzugeben, welche Aufgabe welches Modell bekommt, empfiehlt Willison, dem System die Entscheidung selbst zu überlassen: Man weist es an, nach eigenem Ermessen ein passendes, schwächeres Modell zu wählen und die Teilaufgabe dort auszuführen. In seinen Versuchen führte das zu schnellerem Fortschritt bei spürbar geringerem Verbrauch, ohne dass die Qualität der wichtigen Entscheidungen litt.",
-                "Für deine MORGENLAGE-Routine bedeutet das konkret, dass einfache Schritte wie das Abrufen von Wetterdaten, das Formatieren von Textbausteinen oder das Prüfen der fertigen Datei nicht zwingend das Spitzenmodell benötigen. Wenn du diese Teile bewusst an ein günstigeres Modell auslagerst, sinken die Kosten, während die eigentliche redaktionelle Auswahl und Einordnung beim starken Modell bleibt."
-              ],
-              "konkret": "Markiere in deiner Routine die einfachen, klar umrissenen Teilschritte (Datenabruf, Formatierung, Validierung) und lasse sie über einen Subagenten auf einem günstigeren Modell laufen. Halte die redaktionelle Auswahl, Gewichtung und Einordnung beim Hauptmodell.",
-              "snippetLabel": "Prompt für die Aufgaben-Aufteilung",
-              "snippet": "Analysiere die Teilschritte meiner Routine in <span class=\"ph\">{Pfad oder Datei}</span>.\n1) Welche Schritte sind reine Umsetzungsarbeit (Datenabruf, Formatierung, Validierung) und brauchen kein Spitzenmodell?\n2) Schlage fuer jeden dieser Schritte vor, ihn per Subagent auf einem guenstigeren Modell auszufuehren, und nenne ein geeignetes Modell.\n3) Welche Schritte (redaktionelle Auswahl, Gewichtung, Einordnung) sollten bewusst beim Hauptmodell bleiben?\nBegruende jede Zuordnung kurz mit dem Anspruch der jeweiligen Aufgabe.",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Jul/3/judgement/",
-              "score": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Mittwoch, 29. Juli 2026",
       "weather": "clear",
       "temp": "35°C · sonnig",
@@ -1036,6 +890,153 @@
               "snippet": "Sieh dir die MCP-Anbindungen meines Systems in <span class=\"ph\">{Pfad oder Datei}</span> an.\n1) Welche Anbindungen nutzen noch das aeltere, sitzungsbasierte Verfahren mit einer Sitzungskennung (Session-ID)?\n2) Welche lassen sich auf das zustandslose Verfahren von MCP 2.0 umstellen, das mit einer einzigen Anfrage auskommt?\n3) Nenne je Anbindung den konkreten Umstellungsschritt und moegliche Stolpersteine.\nFasse das Ergebnis als kurze Tabelle mit klarer Empfehlung zusammen.",
               "source": "simonwillison.net",
               "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+              "score": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dienstag, 4. August 2026",
+      "weather": "thunder",
+      "temp": "35°C · Gewitter",
+      "greeting": "Guten Morgen, Gerik. Über Horb steht heute ein schwülwarmer Hochsommertag mit rund 35 Grad, dazu ist am Nachmittag ein Gewitter möglich, sodass die kühleren Morgenstunden die angenehmste Zeit des Tages bleiben. In der Weltlage bestimmen ein schweres Fährunglück vor Indonesien und anhaltende Waldbrände in Spanien die Nachrichten. Wirtschaftlich sendet Deutschland vorsichtig positive Signale, während Russland seine Wachstumsaussichten wegen einer Treibstoffkrise nach unten korrigiert. Trinke bei der Hitze bitte ausreichend, halte bei aufziehendem Gewitter kurz inne und lege die anspruchsvollste Aufgabe in den frühen Vormittag.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Brand auf indonesischer Fähre: mindestens fünf Tote und viele Vermisste",
+              "text": "Vor der indonesischen Insel Madura im Osten des Landes ist am Sonntag die Personenfähre Mutiara Sentosa 2 in Brand geraten. An Bord befanden sich nach Behördenangaben 271 Menschen, 232 Reisende und 39 Besatzungsmitglieder, als das Feuer am frühen Morgen ausbrach, während das Schiff von Surabaya auf der Insel Java in Richtung Makassar auf Sulawesi unterwegs war. Bis zuletzt wurden mindestens fünf Todesopfer bestätigt, 41 Menschen galten als vermisst, während 225 Personen gerettet werden konnten. Das zählt, weil Fährunglücke im weit verzweigten Inselstaat Indonesien immer wieder viele Menschenleben fordern und zeigen, wie wichtig Sicherheitsstandards im Schiffsverkehr sind.",
+              "source": "Al Jazeera / Washington Post",
+              "url": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia"
+            },
+            {
+              "title": "Waldbrände in Spanien zwingen über tausend Menschen zur Flucht",
+              "text": "In der zentralspanischen Provinz Guadalajara kämpfen Einsatzkräfte gegen einen großen Waldbrand, der bereits tausende Hektar Land zerstört hat. Mehr als 1.200 Menschen mussten ihre Wohnorte verlassen, während anhaltende Hitze und Trockenheit die Ausbreitung der Flammen begünstigen. Der Brand ist Teil einer breiteren Serie von Feuern, die derzeit mehrere Regionen im Süden Europas heimsuchen. Das zählt, weil lange Hitzeperioden das Brandrisiko im Mittelmeerraum Jahr für Jahr erhöhen und ganze Landstriche samt der dort lebenden Menschen gefährden.",
+              "source": "Euronews",
+              "url": "https://www.euronews.com/news/international"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Deutsche Wirtschaft findet langsam auf den Erholungskurs zurück",
+              "text": "Die Stimmung in der deutschen Wirtschaft hellt sich allmählich auf. Der ifo-Geschäftsklimaindex, eine viel beachtete monatliche Umfrage des Münchner ifo-Instituts unter tausenden Unternehmen, ist zuletzt wieder deutlich gestiegen, ebenso die Konjunkturerwartungen des ZEW, des Zentrums für Europäische Wirtschaftsforschung in Mannheim. Das Institut für Makroökonomie und Konjunkturforschung, kurz IMK, rechnet für 2026 inzwischen mit einem Wachstum der Wirtschaftsleistung von rund 1,5 Prozent, nach einem sehr schwachen Vorjahr. Das zählt, weil sich damit nach drei mageren Jahren die Anzeichen mehren, dass die größte Volkswirtschaft Europas die Talsohle durchschritten hat.",
+              "source": "IMK / ifo",
+              "url": "https://www.imk-boeckler.de/de/pressemitteilungen-15992-deutsche-wirtschaft-geht-auf-erholungskurs-69848.htm"
+            },
+            {
+              "title": "Russland senkt Wachstumsprognose wegen einer Treibstoffkrise",
+              "text": "Die russische Zentralbank, die Notenbank des Landes, hat ihre Wachstumsprognose für die russische Wirtschaft im Jahr 2026 auf eine Spanne von null bis einem Prozent gesenkt. Als Grund nannte Notenbankchefin Elwira Nabiullina stark gestiegene Treibstoffpreise, nachdem in mehreren Regionen zeitweise Kraftstoff knapp geworden war. Zugleich hob die Zentralbank ihre Inflationserwartung auf sechs bis sieben Prozent an, also den erwarteten allgemeinen Anstieg der Verbraucherpreise. Das zählt, weil sich hier zeigt, wie sehr der andauernde Krieg gegen die Ukraine und die daraus folgenden Belastungen auch die russische Wirtschaft von innen unter Druck setzen.",
+              "source": "Euronews / Bank of Russia",
+              "url": "https://www.euronews.com/2026/07/25/russian-central-bank-cuts-gdp-growth-forecast-to-zero-expects-faster-inflation"
+            }
+          ],
+          "merk": {
+            "text": "Für dich als Solo-Unternehmer in der Region heißt das: Die Aussichten in Deutschland werden etwas freundlicher, ohne dass schon ein kräftiger Aufschwung in Sicht ist. Wo die Nachfrage vorsichtig anzieht, lohnt es sich, Angebote und Kapazitäten frühzeitig bereitzuhalten.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Neuseeland weist fünf neue Meeresschutzgebiete aus",
+              "text": "Nach zehn Jahren sorgfältiger Planung hat Neuseeland fünf neue Meeresschutzgebiete entlang der Südostküste der Otago-Halbinsel offiziell in Kraft gesetzt. Ein Meeresschutzgebiet ist ein abgegrenzter Meeresbereich, in dem Fischerei und andere Eingriffe stark eingeschränkt sind, damit sich die Natur ungestört erholen kann. Die neuen Gebiete umfassen zusammen rund 308 Quadratkilometer und vergrößern die geschützte Meeresfläche entlang der neuseeländischen Hauptinseln um fast die Hälfte. Das zählt, weil solche Rückzugsräume Fischbeständen und empfindlichen Lebensräumen die Chance geben, sich zu regenerieren, und langfristig auch der Fischerei in den umliegenden Gewässern nützen können.",
+              "img": "https://live.staticflickr.com/2047/32682616471_252be0ec09_b.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
+            },
+            {
+              "title": "Abholzung im Amazonas-Regenwald geht deutlich zurück",
+              "text": "Im ersten Halbjahr 2026 wurde im brasilianischen Amazonasgebiet spürbar weniger Regenwald gerodet als im Vorjahr. Nach den vorliegenden Zahlen verschwanden rund 500 Quadratmeilen Wald, verglichen mit etwa 807 Quadratmeilen im gleichen Zeitraum des Jahres 2025, was einem Rückgang von rund 38 Prozent entspricht. Der Amazonas-Regenwald gilt als eine der wichtigsten grünen Lungen der Erde, weil er große Mengen des klimaschädlichen Gases Kohlendioxid bindet. Das zählt, weil ein deutlich langsameres Roden zeigt, dass sich Schutzmaßnahmen und Kontrollen offenbar auszahlen, auch wenn der Wald weiter unter Druck steht.",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Einfache Änderung macht Natrium-Batterien stärker und könnte Meerwasser entsalzen",
+              "text": "Forschende haben gezeigt, dass eine überraschend einfache Änderung Natrium-Ionen-Batterien deutlich leistungsfähiger machen kann. Solche Batterien nutzen statt des knappen und teuren Metalls Lithium das reichlich vorhandene Natrium, einen Hauptbestandteil von gewöhnlichem Kochsalz, und gelten deshalb als günstige Alternative für die Stromspeicherung. Das gleiche Grundprinzip lässt sich den Angaben zufolge zusätzlich dafür nutzen, aus Meerwasser Trinkwasser zu gewinnen, indem gezielt Salz entzogen wird. Das zählt, weil bezahlbare Speicher und eine einfachere Entsalzung zwei drängende Probleme zugleich entschärfen könnten, die saubere Stromversorgung und die Versorgung mit Trinkwasser.",
+              "img": "https://live.staticflickr.com/65535/54466538351_ec33a9da06_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Kleine schwarze Löcher könnten gewaltige Sternexplosionen auslösen",
+              "text": "Astrophysiker haben in einer neuen Studie beschrieben, wie sogenannte primordiale schwarze Löcher, also sehr kleine schwarze Löcher, die möglicherweise kurz nach dem Urknall entstanden sind, gelegentlich einen Weißen Zwerg durchqueren könnten. Ein Weißer Zwerg ist der ausgeglühte, sehr dichte Überrest eines Sterns wie unserer Sonne. Trifft ein solches winziges schwarzes Loch auf einen Weißen Zwerg, könnte es der Theorie nach eine gewaltige Sternexplosion vom Typ Ia auslösen, eine besonders helle Form der Supernova. Das zählt, weil solche Explosionen als kosmische Entfernungsmesser dienen und ein neuer Auslöser helfen könnte, die noch immer rätselhafte Natur der Dunklen Materie besser zu verstehen.",
+              "img": "https://live.staticflickr.com/8543/8705348022_0e2134ceeb_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Sommerprogramm im Alten Freibad, heute mit Gewittergefahr",
+              "text": "In Horb lädt in diesem Sommer das Alte Freibad in der Fürstabt-Gerbert-Straße zu einer Reihe von Nachmittagsterminen ein, die an den kommenden Sonntagen, am 9., 16., 23. und 30. August, jeweils um 15 Uhr stattfinden. Für heute, Dienstag, ist bei schwülen rund 35 Grad am Nachmittag ein Gewitter möglich, sodass ein Aufenthalt im Freien mit Vorsicht und einem Blick auf den Himmel geplant werden sollte. Wer es geselliger mag, kann sich zudem den Samstag, den 15. August, vormerken, wenn im Gasthof Adler ein Kriminal-Dinner stattfindet, ein unterhaltsamer Abend, bei dem die Gäste zwischen den Gängen eines Menüs gemeinsam einen erdachten Kriminalfall lösen. Das zählt, weil solche Termine vor der Haustür einen entspannten Ausklang der Sommerwochen ohne weite Anfahrt ermöglichen.",
+              "img": "https://live.staticflickr.com/3888/14679165804_491e1e4f9e_b.jpg",
+              "source": "meinestadt / wasgehtapp",
+              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein schwüler Tag mit Gewitter am Nachmittag ist eine Einladung, das Wichtige früh zu erledigen und dem Wetter dann gelassen seinen Lauf zu lassen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Innovationsgutschein BW: bis zu 20.000 Euro Zuschuss für Entwicklungsleistungen",
+            "text": "Das Land Baden-Württemberg fördert mit den Innovationsgutscheinen kleine und mittlere Unternehmen sowie Freiberufler, die neue Produkte oder Verfahren entwickeln. Der Innovationsgutschein Hightech übernimmt bis zu 50 Prozent der Kosten für zugekaufte Forschungs- und Entwicklungsleistungen und Materialkosten, höchstens jedoch 20.000 Euro, während die Grundvariante bis zu 7.500 Euro abdeckt. Antragsberechtigt sind Unternehmen und Freie Berufe mit Hauptsitz in Baden-Württemberg mit höchstens 100 Beschäftigten und bis zu 20 Millionen Euro Jahresumsatz. Gefördert werden ausdrücklich Leistungen, die externe Forschungs- und Entwicklungseinrichtungen in Rechnung stellen, der Antrag läuft über die L-Bank, die Förderbank des Landes.",
+            "why": "Für dich als Solo-Unternehmer in Horb, also mit Hauptsitz in Baden-Württemberg, ist das ein direkter Hebel: Wenn du für dein KI-System eine anspruchsvolle Entwicklungsleistung extern einkaufst, etwa von einer Hochschule oder einem Forschungsdienstleister, kann das Land die Hälfte der Kosten übernehmen. So lässt sich ein technisch schwieriger Baustein günstiger umsetzen als aus eigener Tasche.",
+            "source": "L-Bank / Wirtschaftsministerium BW",
+            "url": "https://www.l-bank.de/produkte/finanzhilfen/innovationsgutschein.html"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Günstiges Sparmodell für Routinearbeit: DeepSeek V4 Flash für die Fleißarbeit einspannen",
+              "tag": "KI-System · Kosten",
+              "paras": [
+                "Am 31. Juli 2026 hat das chinesische KI-Labor DeepSeek eine überarbeitete Fassung seines Sprachmodells unter dem Namen DeepSeek V4 Flash 0731 veröffentlicht. Ein Sprachmodell ist ein Programm, das Texte versteht und erzeugt und das dein System für Aufgaben wie Zusammenfassen, Einordnen oder Entwerfen nutzt. Das Besondere: Es handelt sich technisch nur um ein Nachtraining desselben Modells, wodurch die Fähigkeiten für eigenständiges, schrittweises Arbeiten, im Fachjargon agentisch genannt, deutlich gestiegen sind, in einzelnen Testreihen haben sich die Werte fast verdoppelt.",
+                "Der eigentliche Hebel ist der Preis. Mit rund 0,14 US-Dollar je Million verarbeiteter Eingabe-Zeichen und etwa 0,28 US-Dollar je Million erzeugter Ausgabe-Zeichen gehört das Modell zu den günstigsten seiner Leistungsklasse und unterbietet viele bekannte Konkurrenten deutlich. Für ein System wie deines, das täglich viele kleine, gut abgrenzbare Arbeitsschritte erledigt, summieren sich diese Kosten spürbar.",
+                "Der praktische Rat lautet daher, in deiner MORGENLAGE-Routine zwischen Fleißarbeit und Feinarbeit zu trennen. Robuste, wenig heikle Schritte wie das Vorsortieren von Quellen, das Filtern von Suchtreffern oder erste Rohentwürfe kann ein günstiges Modell übernehmen, während die redaktionelle Endfassung bei einem starken Modell bleibt. So sinken die laufenden Kosten, ohne dass die Qualität dort leidet, wo es zählt."
+              ],
+              "konkret": "Prüfe, welche Schritte deiner Routine gut abgegrenzt und wenig fehleranfällig sind, und leite genau diese testweise auf ein günstiges Modell wie DeepSeek V4 Flash um. Miss an ein paar Beispieltagen, ob das Ergebnis dieser Vorstufen brauchbar bleibt, und behalte die redaktionelle Endkontrolle beim starken Modell.",
+              "snippetLabel": "Prompt für die Modell-Aufteilung",
+              "snippet": "Analysiere die Arbeitsschritte meiner Routine in <span class=\"ph\">{Pfad oder Datei}</span>.\n1) Welche Schritte sind gut abgegrenzt und wenig fehleranfaellig (z.B. Quellen vorsortieren, Suchtreffer filtern, Rohentwuerfe)?\n2) Welche davon lassen sich gefahrlos auf ein guenstiges Modell auslagern, waehrend die redaktionelle Endfassung beim starken Modell bleibt?\n3) Schaetze je Schritt die moegliche Kostenersparnis und das Qualitaetsrisiko.\nFasse das Ergebnis als kurze Tabelle mit klarer Empfehlung zusammen.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
               "score": 4
             }
           ]
