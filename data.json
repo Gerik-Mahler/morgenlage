@@ -2,146 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Mittwoch, 29. Juli 2026",
-      "weather": "clear",
-      "temp": "35°C · sonnig",
-      "greeting": "Guten Morgen, Gerik. Über Horb liegt heute ein heißer, sonniger Hochsommertag bei rund 35 Grad, der angenehmste Teil des Tages liegt am kühleren Morgen. In der Weltlage bleibt der Nahe Osten angespannt: Iranische Kräfte feuerten nach US-Angaben erstmals seit einer vorläufigen Feuerpause wieder mehrere Raketen auf US-Truppen in der Region, die abgefangen wurden. Wirtschaftlich richtet sich der Blick auf morgen, wenn das Statistische Bundesamt die offizielle Wachstumszahl für das zweite Quartal veröffentlicht; ein technischer Frühindikator deutet auf ein leichtes Plus von 0,3 Prozent hin. Nutze den frühen Vormittag, bevor die Hitze kommt, für die konzentrierte Arbeit.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "USA sagen der Ukraine Lizenzen zum Bau von Patriot-Systemen zu",
-              "text": "Nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj hat US-Präsident Donald Trump zugesagt, der Ukraine Lizenzen für die eigene Herstellung von Patriot-Systemen bereitzustellen. Patriot ist ein US-amerikanisches Boden-Luft-Abwehrsystem, das anfliegende Raketen und Flugzeuge abfangen soll und das die Ukraine seit Langem verstärkt anfordert. Mit einer Lizenz zur eigenen Fertigung könnte das Land solche Systeme oder Teile davon künftig selbst produzieren, statt allein auf Lieferungen aus dem Ausland angewiesen zu sein. Das zählt, weil eine eigenständige Produktion die Luftverteidigung der Ukraine langfristig unabhängiger machen würde, auch wenn der Aufbau einer solchen Fertigung viel Zeit braucht.",
-              "source": "Tagesspiegel",
-              "url": "https://www.tagesspiegel.de/internationales/archiv/2026/07/29"
-            },
-            {
-              "title": "Erneute Spannungen zwischen den USA und dem Iran",
-              "text": "Zum ersten Mal seit einer vorläufigen Aussetzung der amerikanischen Angriffe auf iranische Ziele haben iranische Kräfte nach Angaben des US-Militärs wieder mehrere Raketen auf US-Truppen in der Region abgefeuert. Alle Geschosse wurden den Angaben zufolge abgefangen, ein Schaden wurde nicht gemeldet. Hintergrund ist der seit Monaten schwelende Konflikt um das iranische Atomprogramm und die militärische Präsenz der USA im Nahen Osten. Das zählt, weil eine erneute Zuspitzung die ohnehin fragile Lage in der Region belastet und über steigende Energiepreise bis nach Europa wirken kann.",
-              "source": "ZDFheute / US-Militär",
-              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Morgen kommt die offizielle Wachstumszahl für das zweite Quartal",
-              "text": "Das Statistische Bundesamt, die zentrale amtliche Statistikbehörde Deutschlands, veröffentlicht am morgigen 30. Juli seine erste Schätzung für das Wirtschaftswachstum im zweiten Quartal 2026. Ein modellbasierter Frühindikator des Bundeswirtschaftsministeriums, ein sogenannter Nowcast, der laufende Daten hochrechnet, deutet auf ein leichtes Plus von rund 0,3 Prozent gegenüber dem Vorquartal hin, getragen vor allem von der Industrieproduktion im Euroraum. Die Behörde selbst betont die hohe statistische Unsicherheit solcher Schätzungen. Zugleich bleiben die Investitionen der Unternehmen schwach, und mehrere Forschungsinstitute haben ihre Jahresprognosen zuletzt gesenkt, unter anderem mit Verweis auf den Konflikt mit dem Iran und die dadurch gestiegenen Energiepreise. Das zählt, weil die morgige Zahl zeigt, ob die deutsche Wirtschaft nach schwachen Quartalen tatsächlich wieder leicht wächst.",
-              "source": "Bundeswirtschaftsministerium / Statistisches Bundesamt",
-              "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/06-bip-nowcast.html"
-            }
-          ],
-          "merk": {
-            "text": "Für dich als Solo-Unternehmer ist weniger die eine Quartalszahl entscheidend als die Richtung: Ein kleines Plus bei gleichzeitig schwachen Investitionen spricht für eine zähe, aber nicht abrutschende Konjunktur, in der vorsichtige Planung auf stabiler Grundlage sinnvoll bleibt.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Erneuerbare Energien erreichen in Großbritannien einen Rekordwert",
-              "text": "In Großbritannien deckten erneuerbare Energien im ersten Quartal 2026 erstmals 53,1 Prozent des Strombedarfs, ein Anstieg um 7,4 Prozent gegenüber dem Vorjahr. Allein die Windkraft steuerte rund 29 Prozent der gesamten Stromerzeugung bei und erreichte mit 43,7 Terawattstunden einen Höchstwert. Eine Terawattstunde entspricht einer Milliarde Kilowattstunden, einer Einheit für sehr große Strommengen. Ähnlich rasch wächst die Sonnenenergie: Im US-Bundesstaat New York sind inzwischen mehr als 276.000 Solaranlagen mit acht Gigawatt Leistung in Betrieb, genug, um über 1,3 Millionen Haushalte und Betriebe zu versorgen. Das zählt, weil solche Rekorde zeigen, dass der Umstieg auf saubere Stromquellen in großen Volkswirtschaften bereits messbare Anteile erreicht.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
-              "source": "Good Good Good",
-              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-july-18-2026"
-            },
-            {
-              "title": "Nachwuchs bei den seltenen Rotwölfen in North Carolina",
-              "text": "Im US-Bundesstaat North Carolina sind in diesem Jahr vier Würfe des extrem seltenen Rotwolfs zur Welt gekommen, von denen zwölf bis sechzehn Jungtiere die ersten Monate überlebt haben. North Carolina beherbergt die weltweit einzige frei lebende Population dieser Art, die 1987 wieder ausgewildert wurde, nachdem sie in freier Wildbahn als ausgestorben galt. Es war das erste Mal, dass eine ausgestorbene Raubtierart erfolgreich in die Natur zurückgeführt wurde. Das zählt, weil jeder gesunde Wurf die kleine Population stabiler macht und zeigt, dass geduldige Schutzarbeit selbst bei fast verlorenen Arten Wirkung entfaltet.",
-              "source": "Good Good Good",
-              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-july-18-2026"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Längster Nonstopflug der Luftfahrtgeschichte gelungen",
-              "text": "Ein Test-Flugzeug des Typs Airbus A350-1000ULR ist nonstop von Melbourne in Australien nach Toulouse in Frankreich geflogen und hat dabei mit 24 Stunden und rund 23 Minuten den längsten je von einem Verkehrsflugzeug absolvierten Flug hingelegt. Die Maschine legte dabei mehr als 14.000 Meilen zurück und flog über den Pazifik, Nordamerika und den Nordatlantik. Der Flug gehört zum Projekt Sunrise der australischen Fluggesellschaft Qantas, mit dem künftig Direktverbindungen etwa von Australien nach London und New York möglich werden sollen. Verfolgt wurde die Reise von Millionen Menschen über das Flugverfolgungsportal Flightradar24, wo sie zum zweithäufigst beobachteten Flug in der Geschichte der Plattform wurde. Das zählt, weil der Testflug zeigt, dass technisch selbst extrem lange Interkontinentalstrecken ohne Zwischenstopp machbar werden.",
-              "source": "Simple Flying / Qantas",
-              "url": "https://simpleflying.com/qantas-airbus-a350-1000ulr-nonstop-melbourne-toulouse-test-flight/"
-            },
-            {
-              "title": "Forschende beschreiben eine bislang unbekannte Schuppentier-Art",
-              "text": "Ein Forschungsteam hat eine neue Art des Schuppentiers beschrieben, das sogenannte Himalaya-Schuppentier, das sich fast 200 Jahre lang unerkannt in Sammlungen verborgen hatte. Schuppentiere, auch Pangoline genannt, sind die einzigen Säugetiere mit einem Panzer aus echten Hornschuppen und gelten weltweit als stark bedroht, vor allem wegen illegaler Jagd. Durch den Abgleich von Museumsexemplaren und genetischen Daten konnten die Forschenden zeigen, dass es sich um eine eigenständige Art handelt. Das zählt, weil eine genaue Kenntnis der Arten die Grundlage jedes wirksamen Schutzes ist, denn nur wer weiß, welche Tiere es gibt, kann sie gezielt bewahren.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pangolin_borneo.jpg",
-              "source": "Good Good Good",
-              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-july-18-2026"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Marktplatzsommer in Horb startet morgen mit Open-Air-Theater",
-              "text": "In Horb beginnt am morgigen Donnerstag der Marktplatzsommer, eine Veranstaltungsreihe unter freiem Himmel mitten in der Altstadt. Vom 30. Juli bis zum 2. August wird auf dem Marktplatz das Freilichtstück Wilhelm Klink und das Horber Bilderbuch aufgeführt, eine Inszenierung mit Bezug zur Geschichte der Stadt. Nach dem heißen, sonnigen Tag mit rund 35 Grad versprechen die kühleren Abendstunden angenehmere Bedingungen für einen Theaterbesuch. Das zählt, weil solche Aufführungen vor der Haustür einen leichten Einstieg in kulturelle Sommerabende ohne weite Anfahrt bieten.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Open_Air_Theatre_-_stage_-_Regent%27s_Park%2C_London_-_2005-06-22.jpg",
-              "source": "regioactive / Stadt Horb",
-              "url": "https://www.regioactive.de/events/18653/horb/veranstaltungen-party-konzerte"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein heißer Sommertag lädt dazu ein, die anspruchsvollste Aufgabe in die kühlen Morgenstunden zu legen und den Nachmittag ruhiger anzugehen."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Kostenfreie, anbieterneutrale KI-Beratung über die Mittelstand-Digital Zentren",
-            "text": "Die Mittelstand-Digital Zentren sind ein bundesweites Netzwerk von Anlaufstellen, das vom Bundeswirtschaftsministerium gefördert wird und kleine Unternehmen sowie Selbstständige kostenfrei und anbieterneutral zu Digitalisierung und künstlicher Intelligenz berät. Anbieterneutral bedeutet, dass die Beratung kein bestimmtes Produkt verkaufen will, sondern unabhängig informiert. Angeboten werden Sprechstunden, praxisnahe Workshops und konkrete Umsetzungsprojekte, in denen etwa der sinnvolle Einsatz von KI im eigenen Arbeitsalltag erprobt wird.",
-            "why": "Für dich als KI-nahen Solo-Unternehmer ist das eine kostenlose Möglichkeit, eigene Ansätze mit unabhängigen Fachleuten zu spiegeln und neue Werkzeuge kennenzulernen, ohne Beratungskosten zu tragen oder an einen Anbieter gebunden zu sein.",
-            "source": "Mittelstand-Digital / Bundeswirtschaftsministerium",
-            "url": "https://www.mittelstand-digital.de/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Stabile Projektregeln als Gedächtnis deines KI-Systems pflegen",
-              "tag": "KI-System · Kontext",
-              "paras": [
-                "In der Entwickler-Gemeinschaft gilt 2026 als das Jahr, in dem die Arbeit mit KI-Assistenten in eine Phase des bewussten Kontext-Managements eintritt, also der gezielten Steuerung dessen, was ein Modell in seinem begrenzten Arbeitsspeicher, dem sogenannten Kontextfenster, überhaupt sieht. Die zentrale Erkenntnis lautet: Reale Aufgaben lassen sich nicht dadurch lösen, dass man einfach jede verfügbare Datei in die Anfrage kippt. Stattdessen braucht ein Assistent klare Aufgabengrenzen, stabile Projektregeln und wiederverwendbares Fachwissen, das nicht bei jedem Lauf neu erklärt werden muss.",
-                "Das wichtigste Werkzeug dafür ist eine feste Regeldatei, oft CLAUDE.md genannt, die als dauerhaftes Gedächtnis dient: Sie hält Standards, Vorgaben und wiederkehrende Anweisungen an einer einzigen Stelle fest, sodass das Modell sie bei jedem Lauf verlässlich vorfindet. Ergänzt wird das durch das gezielte Zusammenfassen und Verdichten langer Verläufe, damit der begrenzte Kontext nicht mit Nebensächlichem volläuft.",
-                "Für deine MORGENLAGE-Routine hast du mit generate.md bereits genau eine solche Regeldatei. Es lohnt sich, sie regelmäßig darauf zu prüfen, ob sie Lücken oder Mehrdeutigkeiten enthält, an denen das Modell raten muss, und ob wiederkehrende Sonderfälle klar geregelt sind. Je präziser und stabiler diese eine Datei ist, desto zuverlässiger und günstiger läuft die Routine, weil weniger nachgefragt und weniger korrigiert werden muss."
-              ],
-              "konkret": "Nimm dir deine generate.md vor und lass sie von deinem System auf unklare oder fehlende Regeln durchsehen. Trage jede wiederkehrende Korrektur, die du zuletzt von Hand gemacht hast, als feste Regel nach, damit sie nicht erneut nötig wird.",
-              "snippetLabel": "Prompt für den Regel-Check",
-              "snippet": "Lies die Datei <span class=\"ph\">{generate.md}</span> als dauerhafte Regelbasis meiner Routine.\n1) Wo ist die Anweisung mehrdeutig oder unvollstaendig, sodass ein Modell raten muesste?\n2) Welche wiederkehrenden Sonderfaelle sind nicht klar geregelt?\n3) Schlage praezise, knappe Formulierungen vor, die diese Luecken schliessen, ohne die Datei aufzublaehen.\nGib die Vorschlaege als konkrete Vorher-Nachher-Paare aus.",
-              "source": "teamday.ai / Community",
-              "url": "https://www.teamday.ai/blog/complete-guide-agentic-coding-2026",
-              "score": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Donnerstag, 30. Juli 2026",
       "weather": "clouds",
       "temp": "38°C · bewölkt",
@@ -1041,8 +901,150 @@
             }
           ]
         }
-      ],
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
+      ]
+    },
+    {
+      "label": "Mittwoch, 5. August 2026",
+      "weather": "clouds",
+      "temp": "32°C · bewölkt",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute ein warmer, überwiegend bewölkter Hochsommertag bei rund 32 Grad, spürbar angenehmer als die heißen Vortage, aber weiter sommerlich schwül. In der Weltlage beraten die Innenministerinnen und Innenminister der Europäischen Union über die Folgen der schweren Migrationskrise in der spanischen Exklave Ceuta, bei der mindestens 72 Menschen ums Leben kamen. Wirtschaftlich rechnet die Deutsche Bundesbank mit einer allmählichen Erholung der deutschen Wirtschaft, während hohe Energiepreise und die Konkurrenz aus China die Industrie weiter bremsen. Und aus der Technik kommt die Nachricht, dass das Kommandozeilenwerkzeug LLM in einer neuen Version server-seitige Web-Werkzeuge einbindet, die auch für deine Routine interessant sein können. Hier ist deine Morgenlage.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "EU-Innenminister beraten über Konsequenzen der Migrationskrise in Ceuta",
+              "text": "Die Innenministerinnen und Innenminister der Europäischen Union, dem Staatenbund von 27 Ländern, haben in einer Videoschalte über die Folgen der Migrationskrise in der spanischen Exklave Ceuta beraten. Ceuta ist eine kleine spanische Stadt auf dem afrikanischen Festland, direkt an der Grenze zu Marokko, und wird deshalb immer wieder zum Ziel von Fluchtbewegungen. Bei dem jüngsten Ansturm auf die Grenzanlagen kamen nach offiziellen Angaben mindestens 72 Menschen ums Leben. Auf deutscher Seite nahm Bundesinnenminister Alexander Dobrindt von der CSU teil; im Mittelpunkt stand die Frage, wie die EU ihre Außengrenzen besser schützen und zugleich die Ursachen solcher Katastrophen aufklären kann. Das zählt, weil die Migrationspolitik die EU seit Jahren spaltet und die Ereignisse in Ceuta den Druck auf eine gemeinsame europäische Antwort erhöhen.",
+              "source": "ZDFheute",
+              "url": "https://www.zdfheute.de/politik/ausland"
+            },
+            {
+              "title": "Hitze und Waldbrände halten Teile Europas in Atem",
+              "text": "Eine anhaltende Hitzewelle sorgt in mehreren europäischen Ländern für Wald- und Flächenbrände. In den Niederlanden kämpften Einsatzkräfte gegen einen größeren Waldbrand, während sich die Lage in Griechenland nach schweren Bränden der vergangenen Wochen langsam beruhigte. Auch in Deutschland erwartete der Deutsche Wetterdienst, der staatliche meteorologische Dienst, verbreitet Temperaturen zwischen 30 und 38 Grad und warnte für den späteren Tagesverlauf vor einem Wetterumschwung mit teils kräftigen Gewittern. Das zählt, weil solche Extremwetterlagen Menschen, Landwirtschaft und Einsatzkräfte unmittelbar belasten und mit der fortschreitenden Erderwärmung häufiger auftreten.",
+              "source": "Euronews / ZDFheute",
+              "url": "https://de.euronews.com/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Bundesbank erwartet allmähliche Erholung der deutschen Wirtschaft",
+              "text": "Die Deutsche Bundesbank, die Zentralbank der Bundesrepublik, rechnet damit, dass sich die deutsche Wirtschaft nach mehreren schwachen Jahren allmählich wieder erholt. Für 2026 erwarten mehrere Institute ein Wachstum der Wirtschaftsleistung von rund 1,2 Prozent, getragen vor allem von höheren Staatsausgaben, wieder anziehenden Ausfuhren und Investitionen etwa in die Verteidigung. Zugleich bleibt die Industrie unter Druck: hohe Energiepreise, kräftige Lohnsteigerungen, wachsende Konkurrenz aus China und der langsame Umstieg auf die Elektromobilität, also den Antrieb mit Strom statt mit Benzin oder Diesel, bremsen die Erholung. Das zählt, weil die Richtung der Konjunktur darüber entscheidet, wie viel Spielraum Unternehmen und Selbstständige in den kommenden Monaten für Investitionen und Aufträge haben.",
+              "source": "Deutsche Bundesbank",
+              "url": "https://www.bundesbank.de/de/presse/pressenotizen/deutschland-prognose-der-bundesbank-wirtschaft-erholt-sich-allmaehlich-wieder-936568"
+            }
+          ],
+          "merk": {
+            "text": "Die Europäische Zentralbank, kurz EZB, hat ihre Leitzinsen zuletzt am 23. Juli unverändert gelassen: Der Einlagenzins, zu dem Banken Geld bei ihr parken, liegt bei 2,25 Prozent. Für 2026 wird eine Inflation von rund 3,0 Prozent erwartet und damit weiter über dem Zielwert von 2 Prozent, sodass rasche weitere Zinssenkungen unwahrscheinlich bleiben.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Impfstoff soll Rückkehr von aggressivem Brustkrebs verhindern",
+              "text": "Forschende erproben einen Impfstoff, der die Rückkehr einer besonders aggressiven Form von Brustkrebs verhindern soll, des sogenannten dreifach negativen Brustkrebses. Als dreifach negativ bezeichnet man Tumore, denen bestimmte Andockstellen fehlen, weshalb viele gängige Therapien bei ihnen nicht greifen. In der ersten Phase der klinischen Prüfung, also der Erprobung am Menschen, zeigten 74 Prozent der behandelten Patientinnen eine positive Reaktion ihres Immunsystems, der körpereigenen Abwehr. Das zählt, weil gerade diese Krebsform häufig zurückkehrt und ein wirksamer Impfschutz vielen Betroffenen zusätzliche Sicherheit geben könnte, auch wenn bis zu einer Zulassung noch weitere Studien nötig sind.",
+              "source": "Rest Less",
+              "url": "https://restless.co.uk/health/healthy-mind/positive-news-stories-from-2026-so-far/"
+            },
+            {
+              "title": "Millionen Beobachtungen bei australischer Insekten-Zählung",
+              "text": "In Australien hat eine bürgerwissenschaftliche Aktion namens Bug Hunt, zu Deutsch Insektenjagd, mehr als eine Million Beobachtungen von Insekten, Spinnen und Schnecken gesammelt. Als Bürgerwissenschaft bezeichnet man Forschung, an der sich Freiwillige aus der Bevölkerung beteiligen, hier indem sie Tiere fotografieren und melden. Seit dem Start im Oktober 2025 half die gesammelte Datenmenge unter anderem dabei, eingeschleppte Arten wie die gefürchtete Feuerameise früh zu entdecken. Das zählt, weil ein genaues Bild der Insektenwelt die Grundlage für ihren Schutz ist und zeigt, wie viele einzelne Beiträge zusammen ein wertvolles Gesamtbild ergeben.",
+              "img": "https://live.staticflickr.com/2943/15145470449_07127702e7_b.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Marsrover Curiosity findet ein Tal voller sechseckiger Risse",
+              "text": "Der Marsrover Curiosity, ein fahrendes Forschungslabor der US-Raumfahrtbehörde NASA, das seit 2012 den roten Planeten erkundet, ist in ein Tal gefahren, dessen Boden von unzähligen kleinen, sechseckigen Rissen überzogen ist, die Forschende an ein Meer aus Waben erinnern. Solche polygonalen Muster, also Formen mit mehreren geraden Kanten, entstehen auf der Erde oft dort, wo feuchter Boden über lange Zeiträume immer wieder austrocknet und aufreißt. Auf dem Mars könnten sie ein Hinweis darauf sein, dass an dieser Stelle einst Wasser vorhanden war und sich Nass- und Trockenphasen abwechselten. Das zählt, weil gerade solche Umgebungen als aussichtsreich gelten, um Spuren früheren Lebens oder zumindest einst lebensfreundlicher Bedingungen zu suchen.",
+              "img": "https://live.staticflickr.com/7817/31727375317_47082d1c64.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/space_time/"
+            },
+            {
+              "title": "Sprödes Metall wird fest und zugleich biegsam",
+              "text": "Materialforschende haben eine Verbindung aus den Metallen Kobalt und Aluminium, die bislang als spröde galt und daher leicht brach, in einen Werkstoff verwandelt, der zugleich sehr fest und biegsam ist. Spröde bedeutet, dass ein Material unter Belastung reißt, statt sich zu verformen. Durch eine gezielte Veränderung des inneren Aufbaus gelang es, beide Eigenschaften zu vereinen, die sich sonst meist ausschließen. Das zählt, weil feste und zugleich biegsame Werkstoffe für Bauteile in Fahrzeugen, Maschinen und Flugzeugen gebraucht werden und solche Fortschritte langlebigere und sicherere Konstruktionen ermöglichen.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/matter_energy/engineering/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Altes Freibad lockt an warmen Sommertagen, Krimi-Dinner am 15. August",
+              "text": "In Horb am Neckar bietet das Alte Freibad im August ein Programm mit regelmäßigen Terminen, unter anderem an den Sonntagnachmittagen des Monats jeweils ab 15 Uhr. Bei rund 32 Grad und schwüler Luft ist ein Bad im Freien eine naheliegende Abkühlung, auch wenn der Himmel heute überwiegend bewölkt bleibt. Wer es lieber kulturell mag, kann sich den 15. August vormerken: Dann lädt der Gasthof Adler zu einem Krimi-Dinner, einem Abend, an dem zu einem mehrgängigen Menü ein Kriminalfall zum Mitraten aufgeführt wird. Das zählt, weil sich der Sommer in Horb mit wenig Aufwand vor der Haustür gestalten lässt, ob im kühlen Wasser oder am Abend bei Unterhaltung.",
+              "img": "https://live.staticflickr.com/7009/6564586837_eca110e72c_b.jpg",
+              "source": "wasgehtapp.de / veranstaltung-baden-wuerttemberg.de",
+              "url": "https://www.wasgehtapp.de/location.php?id=31016"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein warmer, wolkenverhangener Tag muss nichts Träges haben; er eignet sich gut, um eine Sache in Ruhe zu Ende zu bringen, bevor der Nachmittag beginnt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Bis zu 350.000 US-Dollar Cloud-Guthaben für KI-nahe Gründungen",
+            "text": "Über das Programm Google for Startups vergibt der Konzern Google an qualifizierte, KI-native Jungunternehmen Guthaben von bis zu 350.000 US-Dollar für seine Cloud-Dienste und die Entwicklungsplattform Firebase, verteilt über zwei Jahre. Als KI-nativ gelten Firmen, deren Angebot im Kern auf künstlicher Intelligenz beruht. Cloud-Dienste sind Rechen- und Speicherleistungen, die man über das Internet mietet, statt eigene Server zu betreiben. Ein Teil der Angebote steht auch Selbstständigen und bootstrap-finanzierten Gründern offen, also solchen ohne Wagniskapitalgeber, während die höchsten Stufen meist eine Empfehlung durch einen Investor oder einen Beschleuniger, also ein Förderprogramm für junge Firmen, voraussetzen.",
+            "why": "Für dich als KI-nahen Solo-Unternehmer kann ein solches Guthaben teure Rechenleistung für Experimente und Lastspitzen über längere Zeit kostenlos abdecken; es lohnt sich, die Bedingungen und die passende Einstiegsstufe zu prüfen, bevor eigene Cloud-Kosten anfallen.",
+            "source": "Google for Startups",
+            "url": "https://cloud.google.com/startup"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Prüfe bei jedem server-seitigen Werkzeug einmal, welche Daten dabei dein eigenes System verlassen.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Server-seitige Web-Werkzeuge in der neuen LLM-Version testen",
+              "tag": "KI-System · Werkzeuge",
+              "paras": [
+                "Der Entwickler Simon Willison, ein bekannter Beobachter der KI-Entwicklung und Autor des Kommandozeilenwerkzeugs LLM, hat am 4. August die Version 0.32 seines Werkzeugs veröffentlicht, die er selbst als wichtigste Neuerung seit dem Projektstart bezeichnet. LLM ist ein freies Programm für die Kommandozeile, also die textbasierte Steuerung des Rechners, mit dem sich Sprachmodelle verschiedener Anbieter einheitlich ansteuern lassen. Zu den Neuerungen zählen sichtbare Denkspuren der Modelle, ein neu gestalteter Speicher für die Protokolle nach dem Vorbild des Versionsverwaltungssystems Git und vor allem die Anbindung server-seitiger Werkzeuge.",
+                "Server-seitige Werkzeuge sind Funktionen, die direkt beim Anbieter des Modells laufen, statt bei dir lokal. Über das Zusatzmodul llm-anthropic in der Version 0.26 stehen darüber WebSearch für die Websuche, WebFetch zum Abrufen einzelner Seiten und CodeExecution zum Ausführen von Code bereit, dazu ein Verbinder für das Model Context Protocol, kurz MCP, einen offenen Standard für den kontrollierten Zugriff auf externe Quellen und Werkzeuge.",
+                "Für deine MORGENLAGE-Routine ist das ein konkreter Hebel: Statt Suche und Seitenabruf mit eigenem Code zusammenzuhalten, kannst du diese Schritte an die geprüften Werkzeuge des Anbieters übergeben und sie testweise gegen deinen bisherigen Ablauf stellen. Das kann den Code schlanker und den Abruf nachvollziehbarer machen, bindet dich aber enger an einen einzelnen Anbieter, was du gegen die Ersparnis abwägen solltest."
+              ],
+              "merk": "Denk daran, dass server-seitige Werkzeuge deine Anfragen und die abgerufenen Inhalte beim Anbieter verarbeiten. Prüfe vor einem Umstieg, welche Daten dabei das eigene System verlassen, und beschränke den Test zunächst auf unkritische Quellen.",
+              "konkret": "Installiere llm samt dem Modul llm-anthropic in einer getrennten Testumgebung und lass einen einzelnen Rubrik-Abruf einmal über das server-seitige Werkzeug WebSearch laufen. Vergleiche Ergebnis, Aufwand und Kosten mit deinem bisherigen Weg, bevor du in der Routine etwas umstellst.",
+              "snippetLabel": "Prompt für den Vergleichstest",
+              "snippet": "Ich teste die neue LLM-Version 0.32 mit server-seitigen Werkzeugen.\nRufe zur Rubrik <span class=\"ph\">{Rubrik}</span> mit dem Werkzeug WebSearch\ndrei aktuelle, serioese Quellen ab und fasse jede in zwei Saetzen zusammen.\nNenne anschliessend, welche Daten dabei an den Anbieter uebermittelt wurden.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+              "score": 5
+            }
+          ]
+        }
+      ]
     }
   ]
 }
