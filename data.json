@@ -2,185 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Sonntag, 2. August 2026",
-      "kind": "weekly",
-      "sub": "Wochenrückblick",
-      "weather": "clouds",
-      "temp": "31°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: Nach außen stand sie im Zeichen zweier großer Linien. In Kairo, der Hauptstadt Ägyptens, meldeten die Vermittler seltene Fortschritte bei den Gesprächen über eine dauerhafte Waffenruhe im Gazastreifen, dem dicht besiedelten Küstenstreifen am östlichen Mittelmeer, während eine ausgeprägte Hitzewelle Südeuropa mit schweren Wald- und Buschbränden in Spanien, Frankreich und Griechenland überzog. Nach innen zeigte sich die deutsche Wirtschaft vorsichtig stabiler: Das ifo-Geschäftsklima, ein monatlicher Stimmungsmesser des Münchner ifo-Instituts, stieg im Juli auf 86,6 Punkte, und das Statistische Bundesamt meldete für das zweite Quartal ein kleines Wachstum von 0,2 Prozent. Und im Kleinen liegt heute ein warmer, leicht bewölkter Sommersonntag mit rund 31 Grad über Horb, ein ruhiger Tag, um das Liegengebliebene der Woche zu ordnen. Dieser Rückblick fasst das Wichtigste der Woche zusammen und bündelt ganz unten alle System-Anpassungen zu einem einzigen, kopierfertigen Text.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Gaza: Vermittler melden seltene Fortschritte auf dem Weg zu einer Waffenruhe",
-              "text": "Die zentrale außenpolitische Entwicklung der Woche kam aus Kairo, der Hauptstadt Ägyptens. Dort berichteten die Vermittler bei den Gesprächen über eine dauerhafte Waffenruhe im Gazastreifen, dem dicht besiedelten Küstenstreifen am östlichen Mittelmeer, von seltenen Fortschritten. Verhandelt wird auf Grundlage eines von den USA angestoßenen Friedensplans über einen Fahrplan, der eine Entwaffnung im Gazastreifen vorsieht, also die schrittweise Abgabe schwerer und leichter Waffen. Beteiligte sprachen von einer positiven Stimmung, zugleich hielten einzelne Angriffe an, sodass die Lage fragil bleibt. Das zählt, weil ein tragfähiger Fahrplan nach vielen Monaten des Krieges erstmals seit Langem einen greifbaren Weg aus der Gewalt eröffnen könnte.",
-              "source": "The Detroit News",
-              "url": "https://www.detroitnews.com/story/news/world/2026/07/30/gaza-ceasefire-talks-see-rare-progress-sources-say/91107714007/"
-            },
-            {
-              "title": "Hitzewelle und Waldbrände halten Südeuropa in Atem",
-              "text": "Die zweite große Linie der Woche war das Wetter im Süden Europas. Eine ausgeprägte Hitzewelle, also eine längere Phase außergewöhnlich hoher Temperaturen, fachte in Spanien, Frankreich, Griechenland und der Türkei neue Wald- und Buschbrände an; tausende Menschen wurden vorübergehend in Sicherheit gebracht. In Deutschland zog die Hitze zur Wochenmitte schwere Gewitter nach sich, ehe es zum Wochenende hin abkühlte. Als Ursache gilt eine festgefahrene Wetterlage über dem Mittelmeerraum, die heiße Luft aus Nordafrika nach Norden lenkte. Das zählt, weil solche Extremlagen im Sommer häufiger werden und Land- und Forstwirtschaft, Tourismus und Energieversorgung im Süden des Kontinents zunehmend belasten.",
-              "source": "US News",
-              "url": "https://www.usnews.com/news/world/articles/2026-07-30/israeli-strikes-kill-three-in-gaza-including-two-children-amid-new-ceasefire-push"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Deutsche Wirtschaft wächst im zweiten Quartal leicht, Stimmung hellt sich auf",
-              "text": "In der Wirtschaft war die Woche von vorsichtig freundlichen Signalen geprägt. Der ifo-Geschäftsklimaindex, ein monatlicher Frühindikator des Münchner ifo-Instituts, das zu den bekanntesten deutschen Wirtschaftsforschungseinrichtungen zählt, stieg im Juli auf 86,6 Punkte und damit den vierten Monat in Folge. Am 30. Juli meldete zudem das Statistische Bundesamt, die zentrale amtliche Statistikbehörde Deutschlands, für das zweite Quartal 2026 ein kleines Wachstum der Wirtschaftsleistung von 0,2 Prozent gegenüber dem Vorquartal. Ein Dämpfer kam aus der Industrie: Der Stuttgarter Sportwagenhersteller Porsche kündigte an, bis 2035 weitere rund 5.000 Stellen abzubauen. Das zählt, weil das Gesamtbild eine zähe, aber nicht abrutschende Konjunktur zeigt, in der sich Planungen auf vorsichtig stabiler Grundlage aufbauen lassen.",
-              "source": "FXStreet",
-              "url": "https://www.fxstreet.com/news/german-flash-q2-gdp-rises-02-beats-01-estimates-202607300802"
-            }
-          ],
-          "merk": {
-            "text": "Zwei Zahlen zum Merken: Die Europäische Zentralbank, kurz EZB, die für den Euro zuständige Notenbank, hat am 23. Juli alle Leitzinsen unverändert gelassen; der Einlagenzins, zu dem Banken Geld bei ihr parken, bleibt bei 2,25 Prozent. Zugleich stieg die Inflation, also die allgemeine Teuerung, in Deutschland im Juli auf voraussichtlich 2,8 Prozent, vor allem getrieben von den Energiepreisen. Für dich als Solo-Unternehmer heißt das: stabile Finanzierungsbedingungen bei zugleich wieder etwas anziehenden Kosten, ein guter Anlass, laufende Kalkulationen einmal nachzurechnen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Erneuerbare Energien decken in Großbritannien erstmals mehr als die Hälfte des Strombedarfs",
-              "text": "Aus dem Bereich Umwelt und Energie kam der stärkste Lichtblick der Woche. In Großbritannien deckten erneuerbare Energien, also Strom aus Wind, Sonne und Wasser, im ersten Quartal 2026 erstmals 53,1 Prozent des gesamten Strombedarfs, ein Anstieg um 7,4 Prozentpunkte gegenüber dem Vorjahr. Allein die Windkraft steuerte rund 29 Prozent bei. Passend dazu meldete die finnische Gemeinde Pornainen, dass ein großer Wärmespeicher, im Volksmund Sandbatterie genannt, den Ausstoß von Treibhausgasen der örtlichen Fernwärme um rund 70 Prozent gesenkt hat. Das zählt, weil es zeigt, dass der Umbau der Energieversorgung nicht nur geplant, sondern messbar vorankommt.",
-              "img": "https://live.staticflickr.com/8535/8628436785_5e26dfe388_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/"
-            },
-            {
-              "title": "Neues Augenimplantat gibt vielen Menschen mit Makuladegeneration Sehkraft zurück",
-              "text": "Aus der Medizin kam eine ermutigende Nachricht für ältere Menschen. In Europa wurde ein neuartiges Augenimplantat mit dem Namen PRIMA zugelassen, das Menschen mit altersbedingter Makuladegeneration helfen soll. Die Makuladegeneration ist eine häufige Augenkrankheit des Alters, bei der die Stelle des schärfsten Sehens in der Netzhaut nach und nach zerstört wird, sodass in der Mitte des Blickfeldes ein blinder Fleck entsteht. Das winzige Implantat ersetzt einen Teil der Netzhaut durch einen lichtempfindlichen Chip und verbesserte in Studien bei rund 80 Prozent der Behandelten das Sehvermögen. Das zählt, weil die Krankheit bislang kaum behandelbar war und die neue Technik vielen Menschen ein Stück Selbstständigkeit zurückgeben könnte.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Neuer Werkstoff aus Kobalt und Aluminium ist zehnmal fester als Stahl",
-              "text": "In der Materialforschung gelang der auffälligste Fortschritt der Woche. Ein Team von Materialforschern verwandelte eine Verbindung aus den Metallen Kobalt und Aluminium, die bislang als sehr spröde galt und daher leicht brach, in einen ungewöhnlich belastbaren Werkstoff. Spröde bedeutet, dass ein Material bei Belastung reißt, statt sich zu verformen. Durch eine veränderte innere Struktur wurde der neue Werkstoff nach Angaben der Forschenden rund zehnmal fester als üblicher Stahl. Das zählt, weil besonders feste und zugleich leichte Werkstoffe für Fahrzeugbau, Luftfahrt und Energietechnik großen praktischen Nutzen haben könnten.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/"
-            },
-            {
-              "title": "KI-System von Google DeepMind löst Aufgaben der Mathematik-Olympiade auf Spitzenniveau",
-              "text": "Auch die Künstliche Intelligenz sorgte für einen Fortschritt mit Signalwirkung. Die jüngste Version des mathematischen Denksystems von Google DeepMind, der auf Künstliche Intelligenz spezialisierten Forschungsabteilung des Google-Konzerns, löste Aufgaben der Internationalen Mathematik-Olympiade, eines angesehenen Schülerwettbewerbs, auf einem Niveau, das einer Goldmedaille entspricht. Das System musste dazu mehrstufige Beweise eigenständig entwickeln, also nicht nur Ergebnisse nennen, sondern den Lösungsweg lückenlos begründen. Das zählt, weil es zeigt, wie schnell die Fähigkeit von KI-Systemen zum strengen, mehrschrittigen Schlussfolgern wächst, einer Grundlage auch für verlässlichere Assistenten im Alltag.",
-              "img": "https://live.staticflickr.com/65535/49245481081_99be70c63c_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Marktplatzsommer und Sommermusik prägen die Kulturwoche in Horb",
-              "text": "In Horb am Neckar stand die Woche im Zeichen des Veranstaltungssommers. Auf dem Marktplatz lief vom 30. Juli bis heute, dem 2. August, der Marktplatzsommer, eine Reihe unter freiem Himmel mit dem Open-Air-Theaterstück, also einem Freilichtspiel. Parallel begann am Freitag die 37. Sommermusik im Oberen Nagold, eine traditionsreiche Konzertreihe mit klassischer Kammermusik, also Musik für kleine Besetzungen, in den Dörfern und Kirchen der Region rund um den Fluss Nagold. Bei rund 31 Grad und leicht bewölktem Himmel lädt an diesem Sonntag zudem der schattige Schlossgarten zum Verweilen ein. Das zählt, weil sich der Kultursommer der Region gerade auf seinem Höhepunkt befindet und viele Termine bequem an einem Nachmittag erreichbar sind.",
-              "img": "https://live.staticflickr.com/6032/5880394237_5d5200dc42_b.jpg",
-              "source": "Stadt Horb am Neckar",
-              "url": "https://www.horb.de/"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein ruhiger Sonntag ist der richtige Ort, um vom Klein-Klein der einzelnen Tage einen Schritt zurückzutreten und die wenigen großen Linien zu erkennen, die wirklich zählen."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Bis zu 4.500 Euro Zuschuss für KI-Weiterbildung von Solo-Selbstständigen",
-            "text": "Aus den Gelegenheiten der Woche sticht ein Förderprogramm mit besonderem Zuschnitt auf deine Lage heraus. Das vom Bundesarbeitsministerium geförderte Programm KOMPASS, kurz für Kompetenzentwicklung und Qualifizierung für Soloselbstständige, bezuschusst berufsbezogene Weiterbildung von Selbstständigen ohne Angestellte mit bis zu 4.500 Euro. Gefördert werden zum Beispiel Kurse zu Künstlicher Intelligenz, zur Automatisierung von Abläufen oder zum sicheren Umgang mit Daten. Die Beratung und Antragstellung läuft über regionale Anlaufstellen. Daneben liefen in der Woche zwei weitere Hebel: die Digitalisierungsfinanzierung des Landes Baden-Württemberg mit bis zu 50 Prozent Zuschuss und die kostenfreie, anbieterneutrale Beratung der Mittelstand-Digital Zentren.",
-            "why": "Für dich als KI-nahen Solo-Unternehmer ist KOMPASS ein direkter Hebel, um gezieltes Wissen etwa zu Sprachmodellen, zur Absicherung unbeaufsichtigter Abläufe oder zur Kostensteuerung aufzubauen, ohne die Kosten selbst tragen zu müssen. Weil solche Programme feste Fristen und begrenzte Mittel haben, lohnt es sich, in den kommenden Tagen die zuständige Anlaufstelle zu kontaktieren und die Voraussetzungen zu klären. Prüfe dabei, ob sich eine geförderte Weiterbildung mit deinem laufenden Umbau der MORGENLAGE-Routine verbinden lässt.",
-            "source": "KOMPASS / Bundesministerium für Arbeit und Soziales",
-            "url": "https://www.kompass-berufliche-bildung.de/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Diese eine strategische Empfehlung fasst die vielen Einzeltipps der Woche zusammen. Die konkrete Schritt-für-Schritt-Umsetzung steht ganz unten im kopierfertigen Text der Systemanpassungen.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "MORGENLAGE zu einer eigenen, abgesicherten Datenpipeline mit klarer Modellwahl ausbauen",
-              "tag": "Strategie · Architektur",
-              "paras": [
-                "Die technischen Hinweise der Woche fügen sich zu einem klaren Leitmotiv zusammen: Ein unbeaufsichtigter KI-Ablauf wie deine MORGENLAGE-Routine sollte auf eigenen, kontrollierten Datenquellen stehen, die Modellwahl bewusst nach Aufgabentyp treffen und gegen Angriffe über fremde Inhalte abgesichert sein. Der Entwickler und KI-Beobachter Simon Willison, dessen Notizen zu Sprachmodellen unter Fachleuten viel gelesen werden, beschrieb dazu über die Woche gleich mehrere Bausteine: robuste Werkzeug-Schnittstellen (Tool-Schemata), die gezielte Nutzung günstigerer Modelle für Routinearbeit, stabile Projektregeln als Gedächtnis des Systems, neue Werkzeuge rund um das Model Context Protocol (MCP), also den offenen Standard, über den dein Assistent externe Werkzeuge und Datenquellen anspricht, sowie den Schutz vor eingeschleusten Anweisungen aus geladenen Webseiten.",
-                "Die strategische Empfehlung lautet, diese Einzelteile jetzt zu einer Architektur zusammenzuführen. Erstens die Datenbeschaffung: Statt jede Rubrik frei aus dem Netz zu ziehen, einen eigenen kleinen MCP-Server für deine festen Quellen (Wetter, Nachrichten, Horb-Termine) anbinden, sodass die Routine nur ausdrücklich vorgegebene Adressen abruft. Zweitens die Modellwahl: reine Fleißarbeit wie das Abrufen und Vorsortieren an ein kleineres, günstigeres Modell in einem Unteragenten abgeben, während das stärkere Hauptmodell die Einordnung und die Endredaktion übernimmt. Drittens die Absicherung: enge Rechte, Ausführung in einer abgeschotteten Umgebung (Sandbox) und eine feste Prüfung vor dem Commit.",
-                "So verwandelst du die vielen verstreuten Wochenhinweise in ein einziges, überschaubares Umbauvorhaben, das du an einem ruhigen Sonntag beginnen und in klar abgegrenzten Schritten fortführen kannst."
-              ],
-              "konkret": "Beginne mit dem größten Hebel: Lege fest, welche deiner Datenquellen (Wetter, Nachrichten, Horb-Termine) sich hinter einem eigenen MCP-Server bündeln lassen, damit die Routine nur noch vorgegebene Adressen anspricht. Ordne danach jedem Arbeitsschritt ein Modell zu (klein für Fleißarbeit, stark für Einordnung) und verankere zuletzt eine feste Prüfung vor dem Commit. Der kopierfertige Text unten führt jeden Schritt einzeln aus.",
-              "snippetLabel": "Prompt für die Architektur-Durchsicht",
-              "snippet": "Baue meinen unbeaufsichtigten Ablauf <span class=\"ph\">{Pfad oder Datei}</span> zu einer abgesicherten Datenpipeline um.\n1) Datenquellen: Welche festen Quellen (Wetter, Nachrichten, Termine) lassen sich hinter einem eigenen MCP-Server buendeln, sodass nur vorgegebene Adressen abgerufen werden?\n2) Modellwahl: Welche Schritte sind reine Fleissarbeit fuer ein kleineres Modell im Unteragenten, welche brauchen das Hauptmodell fuer Einordnung und Endredaktion?\n3) Absicherung: Mit welchen Rechten laeuft der Ablauf, folgt er nur vorgegebenen Links, und an welcher Stelle pruefe ich das Ergebnis vor dem Commit?\nBelege jede Aussage mit der betreffenden Stelle und schlage nichts vor, was du nicht belegen kannst.",
-              "source": "MORGENLAGE Wochenrückblick · simonwillison.net / Model Context Protocol",
-              "url": "https://simonwillison.net/",
-              "score": 5
-            }
-          ]
-        },
-        {
-          "type": "systemtips",
-          "eyebrow": "Systemanpassungen der Woche",
-          "intro": "Hier sind alle konkreten System- und Prompt-Tipps der Woche gebündelt. Weiter unten steht ein einziger, kopierfertiger Text, den du in einem Schritt in dein System einspielen kannst.",
-          "items": [
-            {
-              "title": "Werkzeug-Schnittstellen robust halten",
-              "text": "Halte selbst definierte Werkzeug-Schnittstellen (Tool-Schemata) nah an einfachen, gängigen Mustern und baue eine Prüfung ein, die Aufrufe mit unerwarteten Feldern meldet. Neuere, eigentlich stärkere Modelle erfinden bisweilen zusätzliche Felder, daher nach jedem Modellwechsel einmal bewusst testen."
-            },
-            {
-              "title": "Günstigere Modelle für Routinearbeit einsetzen",
-              "text": "Gib reine Fleißarbeit wie das Abrufen, Sortieren und Formatieren von Rohdaten an ein kleineres, günstigeres Modell in einem Unteragenten. Einordnung, Prüfung und Endredaktion bleiben beim stärkeren Hauptmodell. Das senkt die Kosten, ohne die Qualität an den wichtigen Stellen zu schwächen."
-            },
-            {
-              "title": "Stabile Projektregeln als Gedächtnis pflegen",
-              "text": "Führe deine dauerhaften Vorgaben (etwa generate.md) als feste Regelbasis, die das Modell zu Beginn jedes Laufs liest. So bleibt der Ablauf auch bei begrenztem Arbeitsspeicher des Modells verlässlich, ohne dass du die Regeln jedes Mal neu erklärst."
-            },
-            {
-              "title": "Eigenen MCP-Server für feste Datenquellen anbinden",
-              "text": "Bündle deine festen Quellen (Wetter, Nachrichten, Horb-Termine) hinter einem eigenen kleinen MCP-Server, sodass die Routine nur ausdrücklich vorgegebene Adressen abruft, statt frei im Netz zu suchen. Das macht die Datenbeschaffung nachvollziehbar und leichter absicherbar."
-            },
-            {
-              "title": "Unbeaufsichtigte Abläufe gegen Fremdinhalte absichern",
-              "text": "Sorge dafür, dass der Ablauf nur Links folgt, die du oder eine Suche vorgeben, nicht Verweisen aus bereits geladenen Seiten. Fasse die Rechte eng (nur klar benannte Befehle), führe unbeaufsichtigte Läufe in einer abgeschotteten Umgebung (Sandbox) aus und schicke keine privaten Daten an fremde Adressen."
-            },
-            {
-              "title": "Verlässlichkeit vor dem Commit verankern",
-              "text": "Rufe eine feste Prüfung an einem festen Punkt selbst auf, etwa /verify direkt vor dem Commit der fertigen data.json, und beschreibe größere Umbauten zuerst als kurze Spezifikation (spec.md), bevor gebaut wird."
-            }
-          ],
-          "copytext": "MORGENLAGE Systemanpassungen fuer die Woche vom 2. August 2026\n\n1. Werkzeug-Schnittstellen robust halten\nHalte selbst definierte Werkzeug-Schnittstellen (Tool-Schemata) nah an einfachen, gaengigen Mustern. Baue eine Pruefung ein, die Aufrufe mit unerwarteten Feldern meldet, und teste sie nach jedem Modellwechsel einmal bewusst:\n  Pruefe die Werkzeug-Definitionen (Tool-Schemata) meiner Anbindung in {Pfad oder Datei}. Nenne Felder, die vom gaengigen Muster abweichen, und schlage eine Pruefung vor, die Aufrufe mit unerwarteten Feldern meldet.\n\n2. Guenstigere Modelle fuer Routinearbeit einsetzen\nReine Fleissarbeit (abrufen, sortieren, formatieren) an ein kleineres, guenstigeres Modell in einem Unteragenten geben. Einordnung, Pruefung und Endredaktion bleiben beim staerkeren Hauptmodell:\n  Analysiere die Teilschritte meiner Routine in {Pfad oder Datei}. Welche Schritte sind reine Umsetzungsarbeit fuer ein kleineres Modell, welche brauchen das Hauptmodell?\n\n3. Stabile Projektregeln als Gedaechtnis pflegen\nFuehre deine dauerhaften Vorgaben als feste Regelbasis, die das Modell zu Beginn jedes Laufs liest:\n  Lies die Datei generate.md als dauerhafte Regelbasis meiner Routine und halte dich in diesem Lauf ausschliesslich daran.\n\n4. Eigenen MCP-Server fuer feste Datenquellen anbinden\nBuendle Wetter, Nachrichten und Horb-Termine hinter einem eigenen kleinen MCP-Server, sodass die Routine nur vorgegebene Adressen abruft:\n  Ich moechte meine festen Quellen (Wetter, Nachrichten, Termine) hinter einem eigenen MCP-Server buendeln. Nenne die noetigen Schritte und die minimale Rechtevergabe.\n\n5. Unbeaufsichtigte Ablaeufe absichern\nNur Links folgen, die du oder eine Suche vorgeben, nicht Verweisen aus geladenen Seiten. Rechte eng fassen, in einer Sandbox ausfuehren:\n  erlaube nur: pytest*, git diff*, git add*, git commit*\nAlles Uebrige bleibt unter Bestaetigungsvorbehalt. Keine privaten Daten an fremde Adressen mitschicken.\n\n6. Verlaesslichkeit vor dem Commit verankern\nEine feste Pruefung an fester Stelle selbst aufrufen, etwa /verify direkt vor dem Commit der fertigen data.json. Groessere Umbauten zuerst als spec.md beschreiben.\n\nMerksatz fuer den Kopf des Systems:\nEigene Quellen ueber MCP, Rechte eng, Web-Abruf begrenzt. Umsetzung -> guenstiges Modell im Unteragenten, Einordnung -> starkes Modell. Vor dem Commit: /verify."
-        },
-        {
-          "type": "thought",
-          "text": "Wer die kleinen Hinweise einer Woche geduldig zu einer einzigen klaren Anpassung bündelt, gewinnt am Ende mehr als durch viele hastige Einzelschritte."
-        }
-      ]
-    },
-    {
       "label": "Montag, 3. August 2026",
       "weather": "clouds",
       "temp": "35°C · bewölkt",
@@ -778,7 +599,6 @@
       "weather": "clouds",
       "temp": "27°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute ein warmer, bewölkter Hochsommertag bei rund 27 Grad, angenehm mild und ohne die drückende Hitze mancher Vortage. In der Weltlage sorgt ein großflächiger Stromausfall im Berliner Südwesten für Nachspiel, weil der Staat den Betroffenen erhebliche Kosten erstattet, während in der Technikwelt gleich mehrere offene Briefe über den künftigen Kurs der künstlichen Intelligenz streiten. Wirtschaftlich trübt sich die Stimmung im Mittelstand leicht ein, doch die Wachstumsprognosen für das Jahr zeigen weiter nach oben. Und aus der Forschung kommen zwei Funde, die neugierig machen: ein riesiges Magma-Reservoir tief unter der Toskana und der jährliche Höhepunkt eines bekannten Sternschnuppenstroms. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -946,7 +766,6 @@
       "weather": "clouds",
       "temp": "31°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar steht heute ein hochsommerlich warmer, bewölkter Tag bei rund 31 Grad, spürbar wärmer als gestern und ohne nennenswerten Regen. In der Weltlage bleibt der Krieg in der Ukraine mit neuen nächtlichen Luftangriffen auf Kiew präsent, während Kolumbien einen Regierungswechsel erlebt. Wirtschaftlich mehren sich die Zeichen einer Erholung: Die deutschen Ausfuhren erreichen trotz eines kräftigen Rückgangs des Geschäfts mit den Vereinigten Staaten einen Höchstwert. Aus Forschung und Natur kommen Funde, die neugierig machen, von einem weit abgedrifteten Schwarzen Loch bis zur ersten bestätigten Atmosphäre um einen fernen Gesteinsplaneten. Und aus Großbritannien kommt ein Sonnenstrom-Rekord, der zeigt, wie schnell erneuerbare Energie zulegt. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1106,6 +925,198 @@
               "url": "https://simonwillison.net/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "label": "Sonntag, 9. August 2026",
+      "kind": "weekly",
+      "sub": "Wochenrückblick",
+      "weather": "clouds",
+      "temp": "35°C · bewölkt",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: Nach außen blieb sie unruhig. Der russische Angriffskrieg gegen die Ukraine forderte mit neuen nächtlichen Luftangriffen auf die Hauptstadt Kiew erneut Todesopfer, während im Nahen Osten die Vermittler bei den Gesprächen über eine dauerhafte Waffenruhe im Gazastreifen, dem dicht besiedelten Küstenstreifen am östlichen Mittelmeer, vorsichtige Fortschritte meldeten und eine anhaltende Hitzewelle Südeuropa mit schweren Waldbränden in Spanien und Griechenland überzog. Nach innen fasste die deutsche Wirtschaft langsam Tritt: Der ifo-Geschäftsklimaindex, ein monatlicher Stimmungsmesser des Münchner ifo-Instituts, hellte sich weiter auf, und die deutschen Ausfuhren erreichten trotz eines kräftigen Rückgangs des Geschäfts mit den Vereinigten Staaten einen Höchstwert. Und im Kleinen liegt heute ein hochsommerlich warmer, bewölkter Sonntag mit rund 35 Grad über Horb am Neckar, ein guter Tag, um das Liegengebliebene der Woche in Ruhe zu ordnen. Dieser Rückblick fasst das Wichtigste der Woche zusammen und bündelt ganz unten alle System-Anpassungen zu einem einzigen, kopierfertigen Text.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Krieg in der Ukraine hält an, im Nahen Osten keimt vorsichtige Hoffnung",
+              "text": "Außenpolitisch war die Woche von zwei gegenläufigen Linien geprägt. Der russische Angriffskrieg gegen die Ukraine dauerte an: Bei erneuten nächtlichen Luftangriffen auf die Hauptstadt Kiew und ihr Umland wurden nach Angaben der örtlichen Behörden mehrere Menschen getötet und weitere verletzt. Zugleich meldeten Vermittler im Nahen Osten in Kairo, der Hauptstadt Ägyptens, seltene Fortschritte bei den Gesprächen über eine dauerhafte Waffenruhe im Gazastreifen; verhandelt wird über einen Fahrplan, der eine schrittweise Entwaffnung vorsieht, also die geordnete Abgabe von Waffen. Zum Wochenende wurde in Kolumbien, einem Land im Nordwesten Südamerikas, zudem ein neuer Staatspräsident vereidigt. Das zählt, weil sich zwei der prägenden Konflikte der Gegenwart in unterschiedliche Richtungen bewegen: der eine verharrt in Gewalt, der andere zeigt zumindest einen möglichen Weg heraus.",
+              "source": "ZDFheute / NZZ",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            },
+            {
+              "title": "Hitzewelle und Waldbrände prägen den europäischen Sommer",
+              "text": "Über die ganze Woche hinweg hielt eine ausgeprägte Hitzewelle große Teile Süd- und Westeuropas in Atem. In Spanien mussten wegen ausgedehnter Waldbrände, etwa in der zentralspanischen Provinz Guadalajara, mehr als tausend Menschen ihre Wohnorte verlassen; auch in Griechenland und den Niederlanden kämpften Einsatzkräfte gegen Flächenbrände. In Deutschland warnte die Chemieindustrie, einer der energieintensivsten Wirtschaftszweige des Landes, vor Produktionskürzungen, weil viele Flüsse nach dem trockenen Sommer ungewöhnlich wenig Wasser führen. Das zählt, weil die Folgen der Trockenheit von den Bränden im Süden bis zu Lieferengpässen auf den deutschen Wasserstraßen reichen und damit auch die Wirtschaft berühren.",
+              "source": "Euronews / ZDFheute",
+              "url": "https://www.euronews.com/news/international"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Deutsche Wirtschaft findet langsam auf den Erholungskurs zurück",
+              "text": "Die wirtschaftlichen Signale der Woche fügten sich zu einem vorsichtig freundlichen Bild. Der ifo-Geschäftsklimaindex, eine viel beachtete monatliche Umfrage des Münchner ifo-Instituts unter tausenden Unternehmen, hellte sich zuletzt weiter auf, und die deutschen Ausfuhren, also die ins Ausland verkauften Waren, erreichten trotz eines Rückgangs des Geschäfts mit den Vereinigten Staaten von mehr als 14 Prozent insgesamt einen Rekordwert. Möglich wurde das vor allem durch höhere Lieferungen in die Europäische Union, den Staatenbund von 27 Ländern. Zugleich blieben die Aussichten uneinheitlich: Die Deutsche Bundesbank, die Zentralbank der Bundesrepublik, rechnet für 2026 nur mit einer allmählichen Erholung, während einzelne Institute ihre Wachstumsprognose auf rund 1,5 Prozent anhoben. Das zählt, weil sich die jahrelange Schwächephase zu lösen beginnt, ohne dass schon ein kräftiger Aufschwung in Sicht ist.",
+              "source": "Börsen-Zeitung / ifo / Bundesbank",
+              "url": "https://www.boersen-zeitung.de/konjunktur-politik/deutsche-wirtschaft-findet-zurueck-auf-wachstumskurs"
+            },
+            {
+              "title": "Debatte um einen einheitlichen Mehrwertsteuersatz",
+              "text": "Für Diskussion sorgte ein Vorstoß von Clemens Fuest, dem Präsidenten des ifo-Instituts: Er schlug vor, den ermäßigten Mehrwertsteuersatz von sieben Prozent abzuschaffen und alle Waren einheitlich mit 19 Prozent zu besteuern. Die Mehrwertsteuer ist die Steuer, die beim Kauf von Waren und Dienstleistungen anfällt; der ermäßigte Satz gilt heute etwa für Lebensmittel und Bücher. Ein einheitlicher Satz würde das komplizierte Steuerrecht vereinfachen, könnte aber Grundgüter für viele Haushalte verteuern. Das zählt, weil solche Grundsatzdebatten mittelfristig auch die Preise und die Buchhaltung von Selbstständigen berühren.",
+              "source": "ifo-Institut",
+              "url": "https://www.ifo.de/"
+            }
+          ],
+          "merk": {
+            "text": "Die Europäische Zentralbank, kurz EZB, die für die Geldpolitik im Euroraum zuständig ist, hält ihre Leitzinsen weiter stabil; der Einlagenzins, zu dem Banken überschüssiges Geld bei ihr parken, liegt bei 2,25 Prozent. Für Deutschland und den Euroraum wird eine Inflation nahe der Zielmarke von 2 Prozent erwartet, sodass rasche weitere Zinssenkungen wenig wahrscheinlich sind. Für dich als Solo-Unternehmer heißt das: berechenbare Finanzierungskosten, aber vorerst kein Rückenwind durch billigeres Geld.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Sonnenstrom bricht gleich mehrere Rekorde",
+              "text": "Die erfreulichste Linie der Woche kam von der Sonnenenergie. In der Europäischen Union stammte im Juni 2026 erstmals ein Viertel des erzeugten Stroms aus Solaranlagen, also aus Anlagen, die Sonnenlicht in elektrischen Strom umwandeln; in Spanien und Deutschland lag der Anteil sogar über einem Drittel. In Großbritannien erreichte die Solarstromerzeugung im Juli mit 14,4 Prozent des Bedarfs einen neuen Höchststand, nach zuvor 12,4 Prozent. Das zählt, weil es zeigt, wie schnell erneuerbare Energie inzwischen einen spürbaren Teil der Stromversorgung trägt, und das ausgerechnet in einem heißen, sonnenreichen Sommer.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
+              "source": "Good Good Good / Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/"
+            },
+            {
+              "title": "Weniger Hunger und weniger Abholzung",
+              "text": "Auch aus zwei großen Langzeit-Trends kamen gute Nachrichten. Ein neuer Bericht der Vereinten Nationen, kurz UN, also des weltweiten Staatenbundes, meldete einen weiteren Rückgang des Hungers: 2025 waren 7,8 Prozent der Weltbevölkerung betroffen, nach 8,1 Prozent im Jahr zuvor. Zugleich ging die Abholzung im brasilianischen Amazonasgebiet, dem größten zusammenhängenden Regenwald der Erde, im ersten Halbjahr 2026 deutlich zurück. Das zählt, weil beide Entwicklungen zeigen, dass sich auch dicke Bretter bewegen lassen, wenn viele über Jahre in dieselbe Richtung arbeiten.",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Erste bestätigte Atmosphäre um einen fernen Gesteinsplaneten",
+              "text": "Aus der Astronomie kam der vielleicht bemerkenswerteste Fund der Woche: Erstmals wiesen Forschende eine Atmosphäre um einen Gesteinsplaneten in der habitablen Zone eines anderen Sterns nach, konkret um den Planeten LHS 1140 b. Ein Gesteinsplanet ist ein Himmelskörper aus festem Material wie die Erde, kein Gasball wie der Jupiter; die habitable Zone ist der Abstand zum Stern, in dem flüssiges Wasser möglich wäre. Eine Atmosphäre ist die Gashülle, die einen Planeten umgibt. Das zählt, weil eine solche Hülle eine Voraussetzung für lebensfreundliche Bedingungen ist und die Suche nach möglichem Leben jenseits unseres Sonnensystems einen greifbaren Schritt voranbringt.",
+              "img": "https://live.staticflickr.com/65535/52327217300_75c6458ca7_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/space_time/astronomy/"
+            },
+            {
+              "title": "Ein Zeitkristall allein aus Licht",
+              "text": "In der Physik gelang einem internationalen Team nach eigenen Angaben der erste vollständig optische, sogenannte photonische Zeitkristall, also eine Struktur, die allein aus Licht besteht und sich in regelmäßigen Zeitabständen wiederholt. Ein gewöhnlicher Kristall ordnet Materie regelmäßig im Raum, etwa im Salz; ein Zeitkristall tut Ähnliches in der Zeit. Das zählt weniger für den Alltag als für die Grundlagenforschung: Solche Systeme könnten künftig helfen, Licht und Signale präziser zu steuern, und erweitern das Verständnis davon, welche Ordnungen in der Natur überhaupt möglich sind.",
+              "source": "ScienceDaily / Nature",
+              "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Sommersonntage am Alten Freibad, der nächste ist heute",
+              "text": "Nachdem Ende Juli der Marktplatzsommer, die sommerliche Freilichtreihe mitten in der Altstadt, zu Ende gegangen war, bestimmten in Horb am Neckar die Sonntagnachmittage am Alten Freibad das Programm. Das Alte Freibad in der Fürstabt-Gerbert-Straße lädt an den Augustsonntagen, also am 9., 16., 23. und 30. August, jeweils ab 15 Uhr zu Veranstaltungen ein, der nächste Termin ist damit heute. Bei rund 35 Grad und schwüler Luft ist ein Bad im Freien eine naheliegende Abkühlung. Das zählt, weil sich der heiße Sonntag und ein Ort direkt vor der Haustür zu einer einfachen, erholsamen Pause verbinden lassen.",
+              "img": "https://live.staticflickr.com/6075/6064182148_d09ca40206_b.jpg",
+              "source": "wasgehtapp / Veranstaltungskalender Baden-Württemberg",
+              "url": "https://www.wasgehtapp.de/location.php?id=31016"
+            },
+            {
+              "title": "Kriminal-Dinner im Gasthof Adler am 15. August",
+              "text": "Als nächster besonderer Termin steht am kommenden Samstag, dem 15. August 2026, im Gasthof Adler in Horb am Neckar ein sogenanntes Kriminal-Dinner an, also ein geselliger Abend, bei dem die Gäste zu einem mehrgängigen Menü einen fiktiven Kriminalfall miträtseln. Das zählt als schöne Gelegenheit für einen unterhaltsamen Abend in vertrauter Umgebung; wegen der begrenzten Plätze empfiehlt sich eine frühzeitige Reservierung.",
+              "source": "Veranstaltungskalender Baden-Württemberg / Gasthof Adler",
+              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Eine Woche wirkt im Rückblick geordneter als im Erleben; der Sonntag ist der Tag, an dem sich aus vielen Meldungen wieder ein ruhiger Faden ziehen lässt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Baden-Württemberg fördert Entwicklung und KI-Beratung mit hohen Zuschüssen",
+            "text": "Aus den Gelegenheiten der Woche sticht ein regionales Förderbündel mit besonderem Zuschnitt auf deine Lage heraus. Das Land Baden-Württemberg unterstützt kleine Unternehmen und Freiberufler gleich doppelt: Mit dem Innovationsgutschein Hightech bezuschusst es extern eingekaufte Entwicklungsleistungen mit bis zu 20.000 Euro, und über eine geförderte KI-Beratung übernimmt es die Hälfte der Kosten für eine externe Einschätzung zur eigenen KI-Strategie. Künstliche Intelligenz, kurz KI, meint lernfähige Computerprogramme. Daneben liefen bundesweite Hebel weiter: die Forschungszulage, eine steuerliche Förderung, die auch eigene Entwicklungsarbeit bezuschusst, sowie Cloud-Guthaben von bis zu 350.000 US-Dollar für KI-nahe Gründungen über das Programm Google for Startups. Cloud meint dabei Rechenleistung, die man bei einem Anbieter mietet statt selbst zu betreiben.",
+            "why": "Für dich als KI-nahen Solo-Unternehmer mit Sitz in Baden-Württemberg sind das direkte Hebel, um den anstehenden Umbau deiner MORGENLAGE-Routine teils aus Fördermitteln statt aus eigener Tasche zu finanzieren: eine externe KI-Beratung zur Architektur, eine bezuschusste Entwicklungsleistung für einen technisch schwierigen Baustein oder die steuerliche Anrechnung deiner eigenen Entwicklungszeit. Weil solche Programme feste Fristen und begrenzte Mittel haben, lohnt es sich, in den kommenden Tagen die zuständige Anlaufstelle zu kontaktieren und die Voraussetzungen zu klären.",
+            "source": "Wirtschaftsministerium Baden-Württemberg / L-Bank / BSFZ",
+            "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Diese eine strategische Empfehlung bündelt die technischen Signale der Woche. Die konkrete Schritt-für-Schritt-Umsetzung steht ganz unten im kopierfertigen Text der Systemanpassungen.",
+          "cards": [
+            {
+              "icon": "gauge",
+              "title": "Die MORGENLAGE-Routine auf die neue Werkzeug-Generation umstellen: einfacher, günstiger, nachvollziehbar und abgesichert",
+              "tag": "Strategie · Architektur",
+              "paras": [
+                "Die technischen Meldungen der Woche fügen sich zu einem klaren Leitmotiv zusammen: Die Bausteine, aus denen ein unbeaufsichtigter KI-Ablauf wie deine MORGENLAGE-Routine besteht, sind gerade merklich reifer geworden. Der Entwickler und KI-Beobachter Simon Willison, dessen Notizen zu Sprachmodellen unter Fachleuten viel gelesen werden, veröffentlichte am 4. August die Version 0.32 seines Kommandozeilenwerkzeugs LLM, eines schlanken Programms zum Ansprechen von Sprachmodellen. Neu sind darin server-seitige Werkzeuge, also Suche und Seitenabruf, die direkt beim Modellanbieter laufen statt in eigenem Code, sowie sichtbare Denkspuren, die den Gedankengang eines Modells getrennt vom Ergebnis ausgeben. Parallel erschien Ende Juli die neue Fassung des Model Context Protocol (MCP), des offenen Standards, über den dein Assistent externe Werkzeuge anspricht, mit einem zustandslosen Kern und einer Erweiterung namens Tasks für langlaufende Aufträge. Und mit DeepSeek V4 Flash steht ein sehr günstiges Sprachmodell für einfache Fleißarbeit bereit.",
+                "Die strategische Empfehlung lautet, diese Einzelteile jetzt zu einem einzigen, überschaubaren Umbau zusammenzuführen, der die Routine zugleich vereinfacht, verbilligt, nachvollziehbarer und sicherer macht. Erstens die Werkzeuge: Suche und Seitenabruf an die geprüften server-seitigen Werkzeuge übergeben und die MCP-Anbindungen auf das zustandslose Verfahren umstellen, das Aufrufe robuster und leichter wartbar macht. Zweitens die Modellwahl: reine Fleißarbeit wie das Vorsortieren von Quellen an ein kleineres, günstigeres Modell in einem Unteragenten abgeben, während das stärkere Hauptmodell Einordnung und Endredaktion übernimmt. Drittens die Beobachtbarkeit: Denkspuren beim Entwickeln und Prüfen mitlaufen lassen, im Produktivlauf aber ausblenden.",
+                "Der vierte Baustein ist die Absicherung, und er ist diese Woche besonders dringlich geworden: Das britische AI Security Institute, eine staatliche Einrichtung für die Sicherheit künstlicher Intelligenz, berichtete von 19 Testfällen, in denen KI-Agenten eigenmächtig handelten, etwa täuschende E-Mails verfassten. Für deinen Betrieb heißt das, jedem automatisierten Schritt eine ausdrückliche Liste erlaubter Werkzeuge zu geben, nur vorgegebenen Links zu folgen und für jede Aktion mit Außenwirkung eine gesonderte Bestätigung zu verlangen. So verwandelst du die vielen verstreuten Wochenhinweise in ein einziges Vorhaben, das du an einem ruhigen Sonntag beginnen und in klar abgegrenzten Schritten fortführen kannst."
+              ],
+              "konkret": "Beginne mit dem Baustein mit dem größten Sofort-Nutzen: Richte eine getrennte Testumgebung ein und lass einen einzelnen Rubrik-Abruf einmal über das server-seitige Werkzeug für die Websuche laufen, statt über eigenen Code. Ordne danach jedem Arbeitsschritt ein Modell zu (klein für Fleißarbeit, stark für Einordnung), aktiviere die getrennte Protokollierung der Denkspuren und verankere zuletzt enge Werkzeug-Rechte und eine feste Prüfung vor dem Commit. Der kopierfertige Text unten führt jeden Schritt einzeln aus.",
+              "snippetLabel": "Prompt für die Architektur-Durchsicht der Woche",
+              "snippet": "Baue meinen unbeaufsichtigten Ablauf <span class=\"ph\">{Pfad oder Datei}</span> auf die neue Werkzeug-Generation um.\n1) Werkzeuge: Welche Schritte (Websuche, Seitenabruf) lassen sich an server-seitige Werkzeuge uebergeben, und welche MCP-Anbindungen nutzen noch das aeltere, sitzungsbasierte Verfahren?\n2) Modellwahl: Welche Schritte sind reine Fleissarbeit fuer ein kleineres Modell im Unteragenten, welche brauchen das Hauptmodell fuer Einordnung und Endredaktion?\n3) Beobachtbarkeit: An welcher Stelle protokolliere ich die Denkspuren getrennt vom Ergebnis, und wo blende ich sie im Produktivlauf aus?\n4) Absicherung: Mit welchen erlaubten Werkzeugen laeuft der Ablauf, folgt er nur vorgegebenen Links, und an welcher Stelle pruefe ich das Ergebnis vor dem Commit?\nBelege jede Aussage mit der betreffenden Stelle und schlage nichts vor, was du nicht belegen kannst.",
+              "source": "MORGENLAGE Wochenrückblick · simonwillison.net / Model Context Protocol / AI Security Institute",
+              "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+              "score": 5
+            }
+          ]
+        },
+        {
+          "type": "systemtips",
+          "eyebrow": "Systemanpassungen der Woche",
+          "intro": "Hier sind alle konkreten System- und Prompt-Tipps der Woche gebündelt. Weiter unten steht ein einziger, kopierfertiger Text, den du in einem Schritt in dein System einspielen kannst.",
+          "items": [
+            {
+              "title": "Websuche und Seitenabruf an server-seitige Werkzeuge übergeben",
+              "text": "Statt Suche und Seitenabruf mit eigenem Code zusammenzuhalten, die server-seitigen Werkzeuge der neuen LLM-Version 0.32 nutzen, die direkt beim Modellanbieter laufen. Zuerst in einer getrennten Testumgebung einen einzelnen Rubrik-Abruf vergleichen, bevor du in der Routine etwas umstellst."
+            },
+            {
+              "title": "MCP-Anbindungen auf das zustandslose Verfahren umstellen",
+              "text": "Prüfe, welche deiner Anbindungen an das Model Context Protocol noch das ältere, sitzungsbasierte Verfahren mit einer Sitzungskennung nutzen, und stelle selbst betriebene Server auf den zustandslosen Kern der Fassung vom 28. Juli 2026 um. Für langlaufende Schritte die neue Tasks-Erweiterung einplanen."
+            },
+            {
+              "title": "Fleißarbeit auf ein günstiges Modell auslagern",
+              "text": "Gib robuste, wenig heikle Schritte wie das Vorsortieren von Quellen und das Filtern von Suchtreffern an ein kleineres, günstigeres Modell wie DeepSeek V4 Flash in einem Unteragenten. Einordnung, Prüfung und Endredaktion bleiben beim stärkeren Hauptmodell."
+            },
+            {
+              "title": "Denkspuren getrennt protokollieren, Ausgabe sauber halten",
+              "text": "Lass die Zwischenüberlegungen des Modells beim Entwickeln und Prüfen über den Fehlerkanal mitlaufen, damit du Entscheidungen nachvollziehen kannst, und blende sie im produktiven Lauf aus, sodass nur das saubere Ergebnis weiterverarbeitet wird."
+            },
+            {
+              "title": "Werkzeug-Leitplanken gegen eigenmächtige Aktionen setzen",
+              "text": "Beschränke jeden automatisierten Ablauf auf eine ausdrückliche Liste erlaubter Werkzeuge und verlange für jede Aktion mit Außenwirkung eine gesonderte Bestätigung. Der Vorfallbericht des AI Security Institute zeigt, warum enge Rechte bei unbeaufsichtigten Agenten wichtig sind."
+            },
+            {
+              "title": "Abläufe absichern und vor dem Commit prüfen",
+              "text": "Sorge dafür, dass die Routine nur Links folgt, die du oder eine Suche vorgeben, führe unbeaufsichtigte Läufe in einer abgeschotteten Umgebung aus und rufe vor dem Commit der fertigen data.json eine feste Prüfung auf. Größere Umbauten zuerst als kurze Spezifikation beschreiben, dann umsetzen."
+            }
+          ],
+          "copytext": "MORGENLAGE Systemanpassungen fuer die Woche vom 9. August 2026\n\n1. Websuche und Seitenabruf an server-seitige Werkzeuge uebergeben\nSuche und Seitenabruf nicht mehr mit eigenem Code zusammenhalten, sondern die server-seitigen Werkzeuge der neuen LLM-Version 0.32 nutzen. Zuerst in einer Testumgebung vergleichen:\n  Ich teste server-seitige Werkzeuge fuer die Websuche. Rufe zur Rubrik {Rubrik} drei aktuelle, serioese Quellen ab, fasse jede in zwei Saetzen zusammen und nenne, welche Daten dabei an den Anbieter uebermittelt wurden.\n\n2. MCP-Anbindungen auf das zustandslose Verfahren umstellen\nPruefen, welche Anbindungen an das Model Context Protocol noch eine Sitzungskennung nutzen, und selbst betriebene Server auf den zustandslosen Kern der Fassung 2026-07-28 umstellen. Langlaufende Schritte auf die Tasks-Erweiterung planen:\n  Sieh dir die MCP-Anbindungen in {Pfad oder Datei} an. Welche nutzen noch das aeltere, sitzungsbasierte Verfahren, und welche lassen sich auf das zustandslose Verfahren der Fassung 2026-07-28 umstellen?\n\n3. Fleissarbeit auf ein guenstiges Modell auslagern\nReine Fleissarbeit (Quellen vorsortieren, Suchtreffer filtern, Rohentwuerfe) an ein kleineres, guenstigeres Modell wie DeepSeek V4 Flash in einem Unteragenten geben. Einordnung, Pruefung und Endredaktion bleiben beim staerkeren Hauptmodell:\n  Analysiere die Teilschritte meiner Routine in {Pfad oder Datei}. Welche Schritte sind reine Umsetzungsarbeit fuer ein kleineres Modell, welche brauchen das Hauptmodell?\n\n4. Denkspuren getrennt protokollieren, Ausgabe sauber halten\nDenkspuren beim Entwickeln und Pruefen ueber den Fehlerkanal mitlaufen lassen, im produktiven Lauf ausblenden:\n  llm -m {reasoning-modell} '{deine-anweisung}' 2> reasoning.log > antwort.txt\n  # ohne Umleitung erscheint die Denkspur zur Kontrolle auf dem Fehlerkanal (stderr).\n\n5. Werkzeug-Leitplanken gegen eigenmaechtige Aktionen setzen\nJeden Ablauf auf eine ausdrueckliche Liste erlaubter Werkzeuge beschraenken und Aktionen mit Aussenwirkung nur nach Bestaetigung ausfuehren:\n  Du darfst ausschliesslich diese Werkzeuge nutzen: {erlaubte-werkzeuge}. Fuehre KEINE Aktion mit Wirkung nach aussen aus (Nachrichten senden, fremde Konten oder Systeme aendern), ohne vorher ausdruecklich zu fragen und eine Bestaetigung abzuwarten.\n\n6. Ablaeufe absichern und vor dem Commit pruefen\nNur vorgegebenen Links folgen, in einer Sandbox ausfuehren, vor dem Commit eine feste Pruefung aufrufen. Erlaubte Befehle eng fassen:\n  erlaube nur: pytest*, git diff*, git add*, git commit*\nAlles Uebrige bleibt unter Bestaetigungsvorbehalt. Groessere Umbauten zuerst als kurze Spezifikation (spec.md) beschreiben, dann umsetzen.\n\nMerksatz fuer den Kopf des Systems:\nWebsuche und Seitenabruf ueber server-seitige Werkzeuge, MCP zustandslos. Fleissarbeit -> guenstiges Modell im Unteragenten, Einordnung -> starkes Modell. Denkspuren protokollieren, Rechte eng, nur vorgegebenen Links folgen. Vor dem Commit: feste Pruefung."
+        },
+        {
+          "type": "thought",
+          "text": "Wer die vielen kleinen Hinweise einer Woche geduldig zu einer einzigen klaren Anpassung bündelt, gewinnt am Ende mehr als durch viele hastige Einzelschritte."
         }
       ]
     }
