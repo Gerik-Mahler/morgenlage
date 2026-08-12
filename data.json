@@ -2,148 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Mittwoch, 5. August 2026",
-   "weather": "clouds",
-   "temp": "32°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute ein warmer, überwiegend bewölkter Hochsommertag bei rund 32 Grad, spürbar angenehmer als die heißen Vortage, aber weiter sommerlich schwül. In der Weltlage beraten die Innenministerinnen und Innenminister der Europäischen Union über die Folgen der schweren Migrationskrise in der spanischen Exklave Ceuta, bei der mindestens 72 Menschen ums Leben kamen. Wirtschaftlich rechnet die Deutsche Bundesbank mit einer allmählichen Erholung der deutschen Wirtschaft, während hohe Energiepreise und die Konkurrenz aus China die Industrie weiter bremsen. Und aus der Technik kommt die Nachricht, dass das Kommandozeilenwerkzeug LLM in einer neuen Version server-seitige Web-Werkzeuge einbindet, die auch für deine Routine interessant sein können. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "EU-Innenminister beraten über Konsequenzen der Migrationskrise in Ceuta",
-       "text": "Die Innenministerinnen und Innenminister der Europäischen Union, dem Staatenbund von 27 Ländern, haben in einer Videoschalte über die Folgen der Migrationskrise in der spanischen Exklave Ceuta beraten. Ceuta ist eine kleine spanische Stadt auf dem afrikanischen Festland, direkt an der Grenze zu Marokko, und wird deshalb immer wieder zum Ziel von Fluchtbewegungen. Bei dem jüngsten Ansturm auf die Grenzanlagen kamen nach offiziellen Angaben mindestens 72 Menschen ums Leben. Auf deutscher Seite nahm Bundesinnenminister Alexander Dobrindt von der CSU teil; im Mittelpunkt stand die Frage, wie die EU ihre Außengrenzen besser schützen und zugleich die Ursachen solcher Katastrophen aufklären kann. Das zählt, weil die Migrationspolitik die EU seit Jahren spaltet und die Ereignisse in Ceuta den Druck auf eine gemeinsame europäische Antwort erhöhen.",
-       "source": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/ausland"
-      },
-      {
-       "title": "Hitze und Waldbrände halten Teile Europas in Atem",
-       "text": "Eine anhaltende Hitzewelle sorgt in mehreren europäischen Ländern für Wald- und Flächenbrände. In den Niederlanden kämpften Einsatzkräfte gegen einen größeren Waldbrand, während sich die Lage in Griechenland nach schweren Bränden der vergangenen Wochen langsam beruhigte. Auch in Deutschland erwartete der Deutsche Wetterdienst, der staatliche meteorologische Dienst, verbreitet Temperaturen zwischen 30 und 38 Grad und warnte für den späteren Tagesverlauf vor einem Wetterumschwung mit teils kräftigen Gewittern. Das zählt, weil solche Extremwetterlagen Menschen, Landwirtschaft und Einsatzkräfte unmittelbar belasten und mit der fortschreitenden Erderwärmung häufiger auftreten.",
-       "source": "Euronews / ZDFheute",
-       "url": "https://de.euronews.com/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Bundesbank erwartet allmähliche Erholung der deutschen Wirtschaft",
-       "text": "Die Deutsche Bundesbank, die Zentralbank der Bundesrepublik, rechnet damit, dass sich die deutsche Wirtschaft nach mehreren schwachen Jahren allmählich wieder erholt. Für 2026 erwarten mehrere Institute ein Wachstum der Wirtschaftsleistung von rund 1,2 Prozent, getragen vor allem von höheren Staatsausgaben, wieder anziehenden Ausfuhren und Investitionen etwa in die Verteidigung. Zugleich bleibt die Industrie unter Druck: hohe Energiepreise, kräftige Lohnsteigerungen, wachsende Konkurrenz aus China und der langsame Umstieg auf die Elektromobilität, also den Antrieb mit Strom statt mit Benzin oder Diesel, bremsen die Erholung. Das zählt, weil die Richtung der Konjunktur darüber entscheidet, wie viel Spielraum Unternehmen und Selbstständige in den kommenden Monaten für Investitionen und Aufträge haben.",
-       "source": "Deutsche Bundesbank",
-       "url": "https://www.bundesbank.de/de/presse/pressenotizen/deutschland-prognose-der-bundesbank-wirtschaft-erholt-sich-allmaehlich-wieder-936568"
-      }
-     ],
-     "merk": {
-      "text": "Die Europäische Zentralbank, kurz EZB, hat ihre Leitzinsen zuletzt am 23. Juli unverändert gelassen: Der Einlagenzins, zu dem Banken Geld bei ihr parken, liegt bei 2,25 Prozent. Für 2026 wird eine Inflation von rund 3,0 Prozent erwartet und damit weiter über dem Zielwert von 2 Prozent, sodass rasche weitere Zinssenkungen unwahrscheinlich bleiben.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Impfstoff soll Rückkehr von aggressivem Brustkrebs verhindern",
-       "text": "Forschende erproben einen Impfstoff, der die Rückkehr einer besonders aggressiven Form von Brustkrebs verhindern soll, des sogenannten dreifach negativen Brustkrebses. Als dreifach negativ bezeichnet man Tumore, denen bestimmte Andockstellen fehlen, weshalb viele gängige Therapien bei ihnen nicht greifen. In der ersten Phase der klinischen Prüfung, also der Erprobung am Menschen, zeigten 74 Prozent der behandelten Patientinnen eine positive Reaktion ihres Immunsystems, der körpereigenen Abwehr. Das zählt, weil gerade diese Krebsform häufig zurückkehrt und ein wirksamer Impfschutz vielen Betroffenen zusätzliche Sicherheit geben könnte, auch wenn bis zu einer Zulassung noch weitere Studien nötig sind.",
-       "source": "Rest Less",
-       "url": "https://restless.co.uk/health/healthy-mind/positive-news-stories-from-2026-so-far/"
-      },
-      {
-       "title": "Millionen Beobachtungen bei australischer Insekten-Zählung",
-       "text": "In Australien hat eine bürgerwissenschaftliche Aktion namens Bug Hunt, zu Deutsch Insektenjagd, mehr als eine Million Beobachtungen von Insekten, Spinnen und Schnecken gesammelt. Als Bürgerwissenschaft bezeichnet man Forschung, an der sich Freiwillige aus der Bevölkerung beteiligen, hier indem sie Tiere fotografieren und melden. Seit dem Start im Oktober 2025 half die gesammelte Datenmenge unter anderem dabei, eingeschleppte Arten wie die gefürchtete Feuerameise früh zu entdecken. Das zählt, weil ein genaues Bild der Insektenwelt die Grundlage für ihren Schutz ist und zeigt, wie viele einzelne Beiträge zusammen ein wertvolles Gesamtbild ergeben.",
-       "img": "https://live.staticflickr.com/2943/15145470449_07127702e7_b.jpg",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Marsrover Curiosity findet ein Tal voller sechseckiger Risse",
-       "text": "Der Marsrover Curiosity, ein fahrendes Forschungslabor der US-Raumfahrtbehörde NASA, das seit 2012 den roten Planeten erkundet, ist in ein Tal gefahren, dessen Boden von unzähligen kleinen, sechseckigen Rissen überzogen ist, die Forschende an ein Meer aus Waben erinnern. Solche polygonalen Muster, also Formen mit mehreren geraden Kanten, entstehen auf der Erde oft dort, wo feuchter Boden über lange Zeiträume immer wieder austrocknet und aufreißt. Auf dem Mars könnten sie ein Hinweis darauf sein, dass an dieser Stelle einst Wasser vorhanden war und sich Nass- und Trockenphasen abwechselten. Das zählt, weil gerade solche Umgebungen als aussichtsreich gelten, um Spuren früheren Lebens oder zumindest einst lebensfreundlicher Bedingungen zu suchen.",
-       "img": "https://live.staticflickr.com/7817/31727375317_47082d1c64.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/space_time/"
-      },
-      {
-       "title": "Sprödes Metall wird fest und zugleich biegsam",
-       "text": "Materialforschende haben eine Verbindung aus den Metallen Kobalt und Aluminium, die bislang als spröde galt und daher leicht brach, in einen Werkstoff verwandelt, der zugleich sehr fest und biegsam ist. Spröde bedeutet, dass ein Material unter Belastung reißt, statt sich zu verformen. Durch eine gezielte Veränderung des inneren Aufbaus gelang es, beide Eigenschaften zu vereinen, die sich sonst meist ausschließen. Das zählt, weil feste und zugleich biegsame Werkstoffe für Bauteile in Fahrzeugen, Maschinen und Flugzeugen gebraucht werden und solche Fortschritte langlebigere und sicherere Konstruktionen ermöglichen.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/matter_energy/engineering/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Altes Freibad lockt an warmen Sommertagen, Krimi-Dinner am 15. August",
-       "text": "In Horb am Neckar bietet das Alte Freibad im August ein Programm mit regelmäßigen Terminen, unter anderem an den Sonntagnachmittagen des Monats jeweils ab 15 Uhr. Bei rund 32 Grad und schwüler Luft ist ein Bad im Freien eine naheliegende Abkühlung, auch wenn der Himmel heute überwiegend bewölkt bleibt. Wer es lieber kulturell mag, kann sich den 15. August vormerken: Dann lädt der Gasthof Adler zu einem Krimi-Dinner, einem Abend, an dem zu einem mehrgängigen Menü ein Kriminalfall zum Mitraten aufgeführt wird. Das zählt, weil sich der Sommer in Horb mit wenig Aufwand vor der Haustür gestalten lässt, ob im kühlen Wasser oder am Abend bei Unterhaltung.",
-       "img": "https://live.staticflickr.com/7009/6564586837_eca110e72c_b.jpg",
-       "source": "wasgehtapp.de / veranstaltung-baden-wuerttemberg.de",
-       "url": "https://www.wasgehtapp.de/location.php?id=31016"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein warmer, wolkenverhangener Tag muss nichts Träges haben; er eignet sich gut, um eine Sache in Ruhe zu Ende zu bringen, bevor der Nachmittag beginnt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Bis zu 350.000 US-Dollar Cloud-Guthaben für KI-nahe Gründungen",
-      "text": "Über das Programm Google for Startups vergibt der Konzern Google an qualifizierte, KI-native Jungunternehmen Guthaben von bis zu 350.000 US-Dollar für seine Cloud-Dienste und die Entwicklungsplattform Firebase, verteilt über zwei Jahre. Als KI-nativ gelten Firmen, deren Angebot im Kern auf künstlicher Intelligenz beruht. Cloud-Dienste sind Rechen- und Speicherleistungen, die man über das Internet mietet, statt eigene Server zu betreiben. Ein Teil der Angebote steht auch Selbstständigen und bootstrap-finanzierten Gründern offen, also solchen ohne Wagniskapitalgeber, während die höchsten Stufen meist eine Empfehlung durch einen Investor oder einen Beschleuniger, also ein Förderprogramm für junge Firmen, voraussetzen.",
-      "why": "Für dich als KI-nahen Solo-Unternehmer kann ein solches Guthaben teure Rechenleistung für Experimente und Lastspitzen über längere Zeit kostenlos abdecken; es lohnt sich, die Bedingungen und die passende Einstiegsstufe zu prüfen, bevor eigene Cloud-Kosten anfallen.",
-      "source": "Google for Startups",
-      "url": "https://cloud.google.com/startup"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Prüfe bei jedem server-seitigen Werkzeug einmal, welche Daten dabei dein eigenes System verlassen.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Server-seitige Web-Werkzeuge in der neuen LLM-Version testen",
-       "tag": "KI-System · Werkzeuge",
-       "paras": [
-        "Der Entwickler Simon Willison, ein bekannter Beobachter der KI-Entwicklung und Autor des Kommandozeilenwerkzeugs LLM, hat am 4. August die Version 0.32 seines Werkzeugs veröffentlicht, die er selbst als wichtigste Neuerung seit dem Projektstart bezeichnet. LLM ist ein freies Programm für die Kommandozeile, also die textbasierte Steuerung des Rechners, mit dem sich Sprachmodelle verschiedener Anbieter einheitlich ansteuern lassen. Zu den Neuerungen zählen sichtbare Denkspuren der Modelle, ein neu gestalteter Speicher für die Protokolle nach dem Vorbild des Versionsverwaltungssystems Git und vor allem die Anbindung server-seitiger Werkzeuge.",
-        "Server-seitige Werkzeuge sind Funktionen, die direkt beim Anbieter des Modells laufen, statt bei dir lokal. Über das Zusatzmodul llm-anthropic in der Version 0.26 stehen darüber WebSearch für die Websuche, WebFetch zum Abrufen einzelner Seiten und CodeExecution zum Ausführen von Code bereit, dazu ein Verbinder für das Model Context Protocol, kurz MCP, einen offenen Standard für den kontrollierten Zugriff auf externe Quellen und Werkzeuge.",
-        "Für deine MORGENLAGE-Routine ist das ein konkreter Hebel: Statt Suche und Seitenabruf mit eigenem Code zusammenzuhalten, kannst du diese Schritte an die geprüften Werkzeuge des Anbieters übergeben und sie testweise gegen deinen bisherigen Ablauf stellen. Das kann den Code schlanker und den Abruf nachvollziehbarer machen, bindet dich aber enger an einen einzelnen Anbieter, was du gegen die Ersparnis abwägen solltest."
-       ],
-       "merk": "Denk daran, dass server-seitige Werkzeuge deine Anfragen und die abgerufenen Inhalte beim Anbieter verarbeiten. Prüfe vor einem Umstieg, welche Daten dabei das eigene System verlassen, und beschränke den Test zunächst auf unkritische Quellen.",
-       "konkret": "Installiere llm samt dem Modul llm-anthropic in einer getrennten Testumgebung und lass einen einzelnen Rubrik-Abruf einmal über das server-seitige Werkzeug WebSearch laufen. Vergleiche Ergebnis, Aufwand und Kosten mit deinem bisherigen Weg, bevor du in der Routine etwas umstellst.",
-       "snippetLabel": "Prompt für den Vergleichstest",
-       "snippet": "Ich teste die neue LLM-Version 0.32 mit server-seitigen Werkzeugen.\nRufe zur Rubrik <span class=\"ph\">{Rubrik}</span> mit dem Werkzeug WebSearch\ndrei aktuelle, serioese Quellen ab und fasse jede in zwei Saetzen zusammen.\nNenne anschliessend, welche Daten dabei an den Anbieter uebermittelt wurden.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
-       "score": 5
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Donnerstag, 6. August 2026",
    "weather": "clouds",
    "temp": "29°C · leicht bewölkt",
@@ -1150,6 +1008,170 @@
        "konkret": "Geh die Werkzeuge und Zugänge deiner KI-Abläufe durch und entziehe jedem Baustein alle Rechte, die er für seine eigentliche Aufgabe nicht zwingend benötigt.",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 12. August 2026",
+   "weather": "clear",
+   "temp": "32°C · sonnig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar steht heute ein hochsommerlich heißer, wolkenloser Tag bei rund 32 Grad, am Vormittag noch angenehm, bevor die Hitze am Nachmittag ihren Höhepunkt erreicht. In der Weltlage erschüttert ein schweres Erdbeben den Westen Kolumbiens, und im Krieg gegen die Ukraine liegen die Vorstellungen über einen Waffenstillstand weiter weit auseinander. In der Wirtschaft deuten neue Prognosen auf eine langsame Erholung in Deutschland hin. Aus der Forschung kommt ein besonders kleiner Transistor, als Lichtblick meldet Deutschland einen Rekord beim Sonnenstrom. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Schweres Erdbeben erschüttert den Westen Kolumbiens",
+       "text": "Im Westen des südamerikanischen Landes Kolumbien hat am Montag ein schweres Erdbeben der Stärke 7,4 die Region getroffen. Die Stärke eines Bebens wird auf der sogenannten Magnitudenskala angegeben, bei der jede volle Stufe für eine deutlich stärkere Erschütterung steht. Nach vorläufigen Angaben der Behörden kamen mehr als hundert Menschen ums Leben, viele Gebäude in Städten wie Cali, Pereira und Manizales wurden beschädigt, und die Regierung rief den Notstand aus, um Rettung und Hilfe zu bündeln. Erste Länder boten internationale Unterstützung an. Das zählt, weil solche Naturereignisse zeigen, wie wichtig geprüfte Bausubstanz und geübte Rettungsabläufe sind und wie schnell internationale Hilfe organisiert werden muss.",
+       "source": "NPR / Democracy Now",
+       "url": "https://www.npr.org/sections/world/"
+      },
+      {
+       "title": "Ukraine und Russland bleiben bei Waffenstillstand weit auseinander",
+       "text": "Im russischen Angriffskrieg gegen die Ukraine liegen die Bedingungen für eine Feuerpause weiterhin weit auseinander. Ein Waffenstillstand ist eine vereinbarte Unterbrechung der Kämpfe, die einem eigentlichen Friedensschluss vorausgehen kann. Die Ukraine strebt nach eigenen Angaben zunächst eine Waffenruhe entlang der derzeitigen Frontlinie an und erst danach ein umfassendes Abkommen. Russland erklärte hingegen, die Angriffe erst einzustellen, wenn die Ukraine auf einen Beitritt zum westlichen Verteidigungsbündnis NATO verzichtet, ihre Streitkräfte begrenzt und mehrere Regionen abtritt. Das zählt, weil der weitere Verlauf des Krieges die Sicherheit in Europa, die Energiepreise und die Aufnahme von Geflüchteten unmittelbar berührt.",
+       "source": "WORLD / FDD Overnight Brief",
+       "url": "https://wng.org/podcasts/tuesday-morning-news-august-11-2026-1786382673"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Prognosen sehen deutsche Wirtschaft 2026 auf leichtem Erholungskurs",
+       "text": "Das Institut für Makroökonomie und Konjunkturforschung, kurz IMK, eine gewerkschaftsnahe Forschungseinrichtung, erwartet für die deutsche Wirtschaft nach zwei sehr schwachen Jahren wieder Wachstum: rund 0,2 Prozent für 2025 und etwa 1,5 Prozent für 2026. Das Bruttoinlandsprodukt, kurz BIP, misst den Wert aller in einem Jahr erzeugten Waren und Dienstleistungen und gilt als wichtigster Maßstab für die Wirtschaftskraft eines Landes. Auch das Statistische Bundesamt meldete für das Schlussquartal 2025 ein leichtes Plus von etwa 0,3 Prozent gegenüber dem Vorquartal. Das zählt, weil eine anziehende Konjunktur, also die allgemeine Geschäftslage, sich mit einiger Verzögerung auch in Aufträgen und Nachfrage für Selbstständige und kleine Betriebe niederschlägt.",
+       "source": "IMK / Statistisches Bundesamt",
+       "url": "https://www.imk-boeckler.de/de/pressemitteilungen-15992-deutsche-wirtschaft-geht-auf-erholungskurs-69848.htm"
+      },
+      {
+       "title": "Geschäftsklima hellt sich langsam auf",
+       "text": "Der ifo-Geschäftsklimaindex, eine viel beachtete monatliche Umfrage des Münchner ifo-Instituts unter tausenden Unternehmen, hat sich zuletzt spürbar verbessert. Der Index fasst zusammen, wie die Betriebe ihre aktuelle Lage und ihre Erwartungen für die kommenden Monate einschätzen, und gilt als früher Hinweis auf die Richtung der Konjunktur. Nach einer längeren Phase auf niedrigem Niveau zu Jahresbeginn zeigten zuletzt sowohl die Beurteilung der Gegenwart als auch die Erwartungen nach oben. Das zählt, weil eine bessere Stimmung in den Unternehmen oft der eigentlichen Erholung vorausgeht und über Investitionen und Einstellungen entscheidet.",
+       "source": "ifo-Institut",
+       "url": "https://de.statista.com/themen/4862/konjunktur-in-deutschland"
+      }
+     ],
+     "merk": {
+      "text": "Die Erholung bleibt trotz der freundlicheren Zahlen verhalten: Für 2026 rechnet das Eurosystem, der Verbund aus Europäischer Zentralbank und nationalen Notenbanken, im Euroraum noch mit einer Inflation von rund drei Prozent, also einem weiter erhöhten allgemeinen Preisanstieg. Für dich heißt das, weiter mit maßvoll steigenden Kosten zu planen und Preisanpassungen frühzeitig zu bedenken.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Deutschland meldet Rekord beim Sonnenstrom",
+       "text": "Deutschland hat im Juli 2026 nach vorliegenden Auswertungen einen Rekord bei der Solarenergie erreicht: Rund zwölf Milliarden Kilowattstunden Sonnenstrom wurden in einem einzigen Monat in das öffentliche Stromnetz eingespeist. Eine Kilowattstunde ist die Energiemenge, die ein Gerät mit tausend Watt Leistung in einer Stunde verbraucht; ein durchschnittlicher Haushalt kommt im Jahr auf einige tausend Kilowattstunden. Solarstrom entsteht, wenn Photovoltaikmodule, also Platten aus lichtempfindlichem Material, Sonnenlicht unmittelbar in elektrischen Strom umwandeln. Das zählt, weil ein wachsender Anteil erneuerbarer Energien die Abhängigkeit von importierten Brennstoffen verringert und langfristig zu stabileren Strompreisen beitragen kann.",
+       "img": "https://live.staticflickr.com/3308/3414028795_d2083e0388_b.jpg",
+       "source": "Good News / globalgoodnews",
+       "url": "https://www.globalgoodnews.com/"
+      },
+      {
+       "title": "Jugendlicher baut mit dem 3D-Drucker einen Rollstuhl für ein Kleinkind",
+       "text": "Ein dreizehnjähriger Junge hat nach Medienberichten fast dreihundert Stunden aufgewendet, um mit seinen Kenntnissen im 3D-Druck einen maßgefertigten Rollstuhl für ein Kleinkind zu bauen. Beim 3D-Druck fertigt ein Gerät Gegenstände Schicht für Schicht aus Kunststoff nach einer am Computer erstellten Vorlage. So lassen sich einzelne, genau angepasste Teile herstellen, die als Serienprodukt oft teuer oder gar nicht erhältlich wären. Das zählt, weil es zeigt, wie zugängliche Technik und persönliches Engagement zusammen einen unmittelbaren, greifbaren Nutzen für einen anderen Menschen schaffen können.",
+       "source": "Good News Network",
+       "url": "https://www.goodnewsnetwork.org/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Winziger Transistor bringt die Elektronik näher an die Grenze des Machbaren",
+       "text": "Forschende der taiwanischen Universität NYCU und des Chipherstellers TSMC haben einen besonders leistungsfähigen, extrem kleinen Transistor entwickelt. Ein Transistor ist ein winziger elektronischer Schalter; moderne Computerchips enthalten Milliarden davon, und je kleiner sie sind, desto mehr Rechenleistung passt auf eine Fläche. Der Schlüssel war eine nur 0,42 Nanometer dünne Zwischenschicht aus Aluminiumoxid, die zwischen zwei Materialien eingefügt wurde; ein Nanometer ist ein Millionstel Millimeter, die Schicht ist also wenige Atome dünn. Sie erlaubt zugleich eine feine Steuerung und einen ungestörten Fluss der elektrischen Ladung, was bisher schwer zu vereinbaren war. Das zählt, weil solche Fortschritte an der atomaren Grenze darüber entscheiden, ob Chips künftig noch sparsamer und schneller werden können.",
+       "img": "https://live.staticflickr.com/7139/8157597157_12bca1cc99_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
+      },
+      {
+       "title": "Neue Brennstoffzelle könnte Rechenzentren sparsamer mit Strom versorgen",
+       "text": "Ein Forschungsteam hat eine Brennstoffzelle vorgestellt, die mit sehr wenig des teuren Edelmetalls Platin auskommt und dennoch stabil und wirkungsvoll arbeitet. Eine Brennstoffzelle erzeugt elektrischen Strom, indem sie Wasserstoff und Sauerstoff kontrolliert reagieren lässt, wobei als Abgas im Wesentlichen nur Wasser entsteht. Möglich wird die Einsparung durch eine neuartige, fein strukturierte Kohlenstoffträgerschicht, die das Platin besser ausnutzt. Das zählt, weil der wachsende Strombedarf großer Rechenzentren, also der Serverhallen hinter vielen Internetdiensten, nach saubereren und zugleich bezahlbaren Energiequellen verlangt.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Heißer Sommertag im Neckartal, Sommer-Sonntag am Alten Freibad",
+       "text": "Bei wolkenlosem Himmel und rund 32 Grad wird der heutige Tag in Horb am Neckar ein ausgesprochen heißer Sommertag; ein schattiger Platz am Wasser und ausreichend Trinken sind an solchen Tagen die einfachste Vorsorge. Wer die Woche plant: Am kommenden Sonntag, dem 16. August, wird die Reihe der Sommer-Sonntage am Alten Freibad fortgesetzt, jeweils ab 15 Uhr. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung unter freiem Himmel dient. Das zählt, weil solche wohnortnahen Angebote in der Ferienzeit eine unkomplizierte Möglichkeit sind, einen milden Sommerabend im Freien zu verbringen.",
+       "img": "https://live.staticflickr.com/65535/51271004187_e4835902ba_b.jpg",
+       "source": "wasgehtapp / Veranstaltungskalender",
+       "url": "https://www.wasgehtapp.de/location.php?id=31016"
+      },
+      {
+       "title": "Kriminal-Dinner Mord im Brauhaus am 15. August",
+       "text": "Am kommenden Samstag, dem 15. August 2026, findet in Horb am Neckar ein sogenanntes Kriminal-Dinner statt, ein geselliger Abend, bei dem die Gäste zu einem mehrgängigen Menü einen erfundenen Kriminalfall miträtseln. Solche Formate verbinden gemeinsames Essen mit einem unterhaltsamen Rätselspiel, dessen Handlung sich zwischen den Gängen entfaltet. Beginn ist um 19 Uhr; wegen der begrenzten Platzzahl sind Karten in der Regel im Vorverkauf zu sichern. Das zählt, weil solche Abende eine kurzweilige Möglichkeit sind, die Region auch abseits der großen Feste kennenzulernen und mit anderen ins Gespräch zu kommen.",
+       "source": "Veranstaltungen Baden-Württemberg",
+       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "An einem heißen Tag entscheidet nicht die Menge der Arbeit, sondern der kühle Kopf, mit dem du sie einteilst."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS-Förderung: bis zu 4.500 Euro für Weiterbildung von Solo-Selbstständigen",
+      "text": "Das Bundesprogramm KOMPASS, ausgeschrieben Kompetenzentwicklung über Plattformen für Solo-Selbstständige, unterstützt Selbstständige ohne Angestellte bei beruflicher Weiterbildung. Gefördert werden Qualifizierungen ab etwa zwanzig Stunden, etwa zu Digitalisierung, künstlicher Intelligenz oder zum Geschäftsmodell, mit einem Zuschuss von bis zu neunzig Prozent der Kosten und höchstens 4.500 Euro je Person. Ein Zuschuss ist eine finanzielle Unterstützung, die nicht zurückgezahlt werden muss. Die Aufnahme erfolgt in Runden über regionale Anlaufstellen, und die Fenster für neue Anträge sind zeitlich begrenzt.",
+      "why": "Für dich als Solo-Unternehmer ist das ein Hebel, um gezielte Weiterbildung zu KI oder Digitalisierung zu einem sehr geringen Eigenanteil zu finanzieren. Weil die Aufnahme nur in bestimmten Zeitfenstern läuft, lohnt es sich, den aktuellen Aufnahmestatus bei einer regionalen Anlaufstelle zu prüfen und ein passendes Qualifizierungsziel vorab zu formulieren.",
+      "source": "Skill-Sprinters / KOMPASS",
+      "url": "https://skill-sprinters.de/blog/foerderung/kompass-foerderung-solo-selbststaendige-2026-ki-weiterbildung/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale ziehen in eine Richtung: Starke Modelle bauen ganze Entwürfe in einem Zug, dein Hebel verschiebt sich vom Selbermachen zum klaren Auftrag und zum Prüfen des Ergebnisses.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Starke Modelle einen vollständigen Entwurf in einem Zug bauen lassen",
+       "tag": "Werkzeuge",
+       "paras": [
+        "Der Entwickler Simon Willison hat beschrieben, wie das neue Sprachmodell Claude Fable 5 aus einer einzigen Anweisung ein komplettes, im Browser lauffähiges 3D-Spiel erzeugt hat, samt selbst erstellter Texturen, Ton und mehrerer aufeinander aufbauender Ebenen. Ein Sprachmodell ist ein KI-System, das Texte und, wie hier, auch Programmcode erzeugt. Der Auftrag lautete im Kern nur, das Spiel eigenständig und ohne Rückfragen zu bauen; das Modell arbeitete den Rest selbst aus.",
+        "Sein Fazit ist jedoch wichtig: Das Ergebnis war technisch beeindruckend, aber als Spiel langweilig und zu leicht. Das gute Urteil darüber, was wirklich taugt, blieb beim Menschen. Für deine Abläufe heißt das: Nutze starke Modelle, um Gerüste, Prototypen oder erste Fassungen in einem Durchgang zu erzeugen, und halte die inhaltliche Bewertung bewusst bei dir."
+       ],
+       "konkret": "Wähle eine kleine, klar umrissene Aufgabe und lass sie von einem starken Modell in einem Zug eigenständig bauen, dann bewerte das Ergebnis nur nach dem, was du selbst am besten beurteilen kannst.",
+       "snippetLabel": "Auftrag für einen eigenständigen Durchgang",
+       "snippet": "Baue <span class=\"ph\">{konkretes Ziel}</span> vollständig und eigenständig.\n1. Triff alle technischen Entscheidungen selbst, frage mich nicht nach Details.\n2. Arbeite in kleinen, nachvollziehbaren Schritten.\n3. Nenne am Ende die drei Stellen, an denen mein Urteil noch nötig ist.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
+      },
+      {
+       "icon": "layers",
+       "title": "Den Agenten während des Bauens automatisch prüfen lassen",
+       "tag": "Verlässlichkeit",
+       "paras": [
+        "Im selben Versuch fiel ein Detail auf: Das Modell hat seine Arbeit in mehrere kleine Zwischenstände zerlegt und dabei automatische Tests mit dem Werkzeug Playwright eingebaut. Playwright ist ein Programm, das eine Internetseite wie ein echter Nutzer im Browser bedient und so selbsttätig prüft, ob Abläufe funktionieren. Durch die Aufteilung in kleine, getestete Schritte lässt sich leichter erkennen, an welcher Stelle etwas hakt.",
+        "Für deine eigenen Automatisierungen ist das eine übertragbare Gewohnheit: Bitte den Agenten, seine Arbeit in kleine Abschnitte zu gliedern, zu jedem Abschnitt eine einfache automatische Prüfung zu schreiben und die Zwischenstände einzeln festzuhalten. So kannst du jeden Schritt bestätigen, bevor der nächste darauf aufbaut."
+       ],
+       "konkret": "Ergänze deinen Standardauftrag an Bau-Agenten um die Vorgabe, in kleinen Schritten zu arbeiten, je Schritt eine automatische Prüfung mitzuliefern und die Zwischenstände einzeln zu sichern.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
       }
      ]
     }
