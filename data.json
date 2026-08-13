@@ -2,163 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 6. August 2026",
-   "weather": "clouds",
-   "temp": "29°C · leicht bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute ein warmer, leicht bewölkter Hochsommertag bei rund 29 Grad, angenehm hochsommerlich und ohne die schwüle Hitze der Vortage. In der Weltlage gewinnt die Debatte an Fahrt, ob 2027 erstmals eine Frau als Bundespräsidentin an die Spitze des Staates rücken soll. Wirtschaftlich sorgt ein Vorstoß des Münchner ifo-Instituts, eines der bekanntesten deutschen Wirtschaftsforschungsinstitute, für Diskussion: Sein Präsident Clemens Fuest schlägt vor, den ermäßigten Mehrwertsteuersatz von sieben Prozent abzuschaffen. Und aus der Technik kommt mit der neuen Version des Kommandozeilenwerkzeugs LLM sowie der frisch veröffentlichten Fassung des Model Context Protocol gleich zweifach Bewegung, die für deine Routine unmittelbar nützlich ist. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Debatte über eine Frau als nächstes deutsches Staatsoberhaupt",
-       "text": "In Deutschland wird der Ruf lauter, im kommenden Jahr erstmals eine Frau zur Bundespräsidentin zu wählen, also an die Spitze des Staates. Das Amt des Bundespräsidenten ist weitgehend repräsentativ und steht für die überparteiliche Einheit des Landes. Führende Politikerinnen und Politiker von SPD und CDU sowie Baden-Württembergs Ministerpräsident Cem Özdemir von den Grünen plädieren dafür, 2027 eine Nachfolgerin für den amtierenden Bundespräsidenten Frank-Walter Steinmeier zu bestimmen, dessen Amtszeit dann endet. Gewählt wird das Staatsoberhaupt von der Bundesversammlung, einem eigens dafür einberufenen Gremium aus Abgeordneten und Ländervertretern. Das zählt, weil in der über 75-jährigen Geschichte der Bundesrepublik noch nie eine Frau dieses höchste Staatsamt innehatte und die Personalfrage ein Signal über den Zustand der politischen Kultur setzt.",
-       "source": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/deutschland"
-      },
-      {
-       "title": "Chemieindustrie warnt vor Produktionskürzungen wegen Niedrigwassers",
-       "text": "Die deutsche Chemieindustrie, einer der größten und energieintensivsten Wirtschaftszweige des Landes, warnt vor drohenden Produktionskürzungen, weil viele Flüsse nach dem heißen und trockenen Sommer ungewöhnlich wenig Wasser führen. Niedrigwasser bedeutet, dass Frachtschiffe nur noch teilbeladen fahren dürfen, sodass wichtige Rohstoffe und Fertigwaren nicht mehr zuverlässig auf den Wasserwegen transportiert werden können. Betroffen ist vor allem der Rhein, die bedeutendste Binnenwasserstraße Deutschlands, über die zahlreiche Chemiestandorte beliefert werden. Das zählt, weil solche wetterbedingten Engpässe die ohnehin unter hohen Kosten leidende Industrie zusätzlich belasten und zeigen, wie eng Konjunktur, Logistik und Klima inzwischen zusammenhängen.",
-       "source": "ZDFheute / Newsticker",
-       "url": "https://www.zdfheute.de/wirtschaft"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "ifo-Präsident Fuest fordert einheitlichen Mehrwertsteuersatz",
-       "text": "Der Präsident des Münchner ifo-Instituts, Clemens Fuest, spricht sich dafür aus, den ermäßigten Mehrwertsteuersatz von sieben Prozent abzuschaffen und stattdessen alle Waren einheitlich mit 19 Prozent zu besteuern. Die Mehrwertsteuer ist eine Abgabe, die beim Kauf von Waren und Dienstleistungen fällig wird; der ermäßigte Satz gilt bislang etwa für Lebensmittel, Bücher und den öffentlichen Nahverkehr. Fuest argumentiert, der reduzierte Satz sei kompliziert, wenig zielgenau und entlaste auch wohlhabende Haushalte, während gezielte Hilfen für Bedürftige wirksamer seien. Das ifo-Institut ist eines der einflussreichsten deutschen Wirtschaftsforschungsinstitute und berät regelmäßig die Politik. Das zählt, weil eine solche Steuerreform die Preise vieler Alltagsgüter verändern und zugleich Milliarden für den Staatshaushalt bedeuten würde, weshalb der Vorschlag politisch umstritten bleibt.",
-       "source": "ifo-Institut / Newsticker",
-       "url": "https://www.ifo.de/"
-      }
-     ],
-     "merk": {
-      "text": "Die Europäische Zentralbank, kurz EZB, hat ihre Leitzinsen zuletzt am 23. Juli unverändert gelassen: Der Einlagenzins, zu dem Banken Geld bei ihr parken, liegt bei 2,25 Prozent. Für das laufende Jahr rechnen die privaten Banken mit einem Wirtschaftswachstum von rund 1,4 Prozent und einer Inflation von etwa zweieinhalb Prozent, sodass rasche weitere Zinssenkungen unwahrscheinlich bleiben.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Elektroautos und Ladesäulen im Aufwind",
-       "text": "In mehreren US-Bundesstaaten wachsen der Verkauf von Elektroautos und der Ausbau der Ladeinfrastruktur kräftig, also des Netzes aus öffentlichen Ladestationen. Als Elektroauto bezeichnet man ein Fahrzeug, das mit Strom statt mit Benzin oder Diesel angetrieben wird und deshalb im Betrieb keine Abgase ausstößt. Besonders in Bundesstaaten wie Florida, Texas und Georgia legt die Zahl der Ladepunkte deutlich zu; in Georgia gibt es inzwischen 29 Prozent mehr öffentliche Ladeanschlüsse als noch ein Jahr zuvor. Das zählt, weil ein dichteres Ladenetz die Sorge vor liegenbleibenden Fahrzeugen mindert und zeigt, dass sich die Elektromobilität auch dort durchsetzt, wo sie lange als schwierig galt.",
-       "img": "https://live.staticflickr.com/65535/48634089611_85d03aaa8d_b.jpg",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
-      },
-      {
-       "title": "Rom weitet sein Netz kühler Zufluchtsorte aus",
-       "text": "Die italienische Hauptstadt Rom bietet ihren Bewohnerinnen und Bewohnern bei großer Hitze zusätzliche kühle Rückzugsorte, unter anderem kostenlose Filmvorführungen in klimatisierten Sälen. Damit erweitert die Stadt ein bereits bestehendes Netz sogenannter Klima-Zufluchtsorte, also öffentlich zugänglicher, gekühlter Räume, in denen sich vor allem ältere und gesundheitlich empfindliche Menschen an heißen Tagen abkühlen können. Solche Angebote sind Teil einer wachsenden Zahl kommunaler Hitzeschutzpläne in südeuropäischen Städten. Das zählt, weil einfache, gut erreichbare Schutzräume Leben retten können und zeigen, wie sich Städte praktisch an häufigere Hitzewellen anpassen.",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-1-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Speziell entwickelter Kaugummi senkt Krebs erregende Viren stark",
-       "text": "Forschende haben einen eigens entwickelten Kaugummi getestet, der die Menge bestimmter humaner Papillomviren im Mund um bis zu 93 Prozent verringerte. Humane Papillomviren, kurz HPV, sind weit verbreitete Erreger, die in einigen Fällen Krebs im Kopf- und Halsbereich auslösen können. Der Kaugummi setzt einen Wirkstoff frei, der die Viren im Mundraum bindet, und verringerte in der Untersuchung zugleich zwei Bakterienarten fast vollständig, die mit diesen Krebsformen in Verbindung gebracht werden. Das zählt, weil ein so einfaches und alltagstaugliches Mittel eine kostengünstige Ergänzung zur Vorbeugung sein könnte, auch wenn bis zu einem breiten Einsatz noch weitere Studien nötig sind.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/health_medicine/"
-      },
-      {
-       "title": "Erster rein optischer Zeitkristall aus Licht",
-       "text": "Physikerinnen und Physiker haben nach eigenen Angaben den ersten vollständig optischen photonischen Zeitkristall gebaut, also eine Struktur, die allein aus Licht besteht und sich in regelmäßigen Zeitabständen wiederholt. Ein Zeitkristall ist ein besonderer Materiezustand, der sich nicht im Raum, sondern in der Zeit ordnet, ähnlich wie ein gewöhnlicher Kristall sein Muster im Raum wiederholt. Mit dem neuen Aufbau lässt sich das Verhalten von Terahertz-Licht, einer sehr hochfrequenten Form elektromagnetischer Strahlung, außerordentlich schnell verändern und steuern. Das zählt, weil eine so genaue Kontrolle über Licht die Grundlage für schnellere Datenübertragung, empfindlichere Sensoren und neue optische Bauteile legen könnte.",
-       "img": "https://live.staticflickr.com/5252/5391914387_8256899ff8_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Sommerliche Sonntage am Alten Freibad",
-       "text": "Beim heutigen warmen und leicht bewölkten Wetter mit rund 29 Grad lohnt der Blick auf das Alte Freibad in Horb am Neckar, das an den kommenden Sonntagen im August, am 9., 16., 23. und 30. August, jeweils ab 15 Uhr zu Veranstaltungen einlädt. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung dient. Wer die Hochsommertage draußen verbringen möchte, findet dort ein entspanntes Angebot in Wassernähe. Das zählt, weil solche wohnortnahen Termine gerade in der Ferienzeit eine unkomplizierte Gelegenheit sind, den Feierabend oder den Sonntag im Freien zu verbringen.",
-       "img": "https://live.staticflickr.com/2306/2171370057_1e36ab05a4_b.jpg",
-       "source": "Veranstaltungskalender Baden-Württemberg",
-       "url": "https://www.wasgehtapp.de/location.php?id=31016"
-      },
-      {
-       "title": "Kriminal-Dinner im Gasthof Adler",
-       "text": "Am Samstag, dem 15. August 2026, findet im Gasthof Adler in Horb am Neckar ein sogenanntes Kriminal-Dinner statt, also ein geselliger Abend, bei dem die Gäste zu einem mehrgängigen Menü einen fiktiven Kriminalfall miträtseln. Solche interaktiven Dinner-Formate verbinden gemeinsames Essen mit einem unterhaltsamen Rätselspiel, bei dem sich die Handlung zwischen den Gängen entfaltet. Karten sind wegen der begrenzten Platzzahl in der Regel im Vorverkauf zu sichern. Das zählt, weil solche Abende eine kurzweilige Möglichkeit sind, die Region auch abseits der großen Feste kennenzulernen und mit anderen ins Gespräch zu kommen.",
-       "source": "Veranstaltungskalender Baden-Württemberg",
-       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein ruhiger Morgen ist der beste Ausgangspunkt, um zwischen dem Dringenden und dem wirklich Wichtigen zu unterscheiden."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "KI-Beratungsförderung in Baden-Württemberg: 50 Prozent Zuschuss",
-      "text": "Für Unternehmen und Selbstständige mit Sitz in Baden-Württemberg gibt es eine geförderte KI-Beratung, bei der das Land die Hälfte der Kosten übernimmt. Der Fördersatz beträgt 50 Prozent, der maximale Zuschuss liegt bei 1.750 Euro je Beratung. Gefördert wird die Begleitung durch qualifizierte Beraterinnen und Berater, etwa um den sinnvollen Einsatz von Sprachmodellen oder Automatisierungen im eigenen Betrieb zu prüfen.",
-      "why": "Für einen Solo-Unternehmer ist das eine risikoarme Möglichkeit, eine externe Einschätzung zur eigenen KI-Strategie einzuholen und dabei den Großteil der Kosten erstattet zu bekommen. Der Antrag lohnt sich vor allem, wenn ohnehin eine gezielte Weiterentwicklung des eigenen Systems ansteht.",
-      "source": "Wirtschaftsministerium Baden-Württemberg",
-      "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Neuerungen betreffen direkt die Werkzeugkette, auf der deine Morgenlage-Routine läuft.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "LLM 0.32 bringt sichtbare Denk-Spuren und server-seitige Werkzeuge",
-       "tag": "Werkzeug-Update",
-       "paras": [
-        "Simon Willison, ein bekannter Entwickler und Autor rund um Sprachmodelle, hat am 4. August die Version 0.32 seines Kommandozeilenwerkzeugs LLM veröffentlicht. LLM ist ein schlankes Programm, mit dem sich verschiedene KI-Anbieter direkt aus der Kommandozeile ansprechen und Antworten wie in einer klassischen Unix-Werkzeugkette weiterverarbeiten lassen.",
-        "Neu ist unter anderem, dass die Denk-Spuren sogenannter Reasoning-Modelle, also der schrittweise Gedankengang eines Modells, getrennt auf dem Fehlerkanal ausgegeben werden. So kannst du nachvollziehen, wie das Modell zu einer Antwort kommt, ohne dass diese Zwischenschritte die eigentliche Ausgabe verschmutzen, die du an andere Programme weiterreichst. Hinzu kommen server-seitige Anbieter-Werkzeuge und neu gestaltete, inhaltsadressierte Protokolldateien."
-       ],
-       "konkret": "Aktualisiere LLM und leite bei Analyseläufen den Fehlerkanal gezielt um, um die Denk-Spuren zu protokollieren, während die reine Antwort sauber weiterverarbeitet wird.",
-       "snippetLabel": "Update und getrennte Ausgabe",
-       "snippet": "llm install -U llm\nllm -m <span class=\"ph\">{reasoning-modell}</span> 'Fasse die heutige Morgenlage in drei Zeilen zusammen' \\\n  2> reasoning.log > antwort.txt",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      },
-      {
-       "icon": "layers",
-       "title": "Neue MCP-Spezifikation mit staatenlosem Kern und Tasks-Erweiterung",
-       "tag": "Protokoll",
-       "paras": [
-        "Das Model Context Protocol, kurz MCP, ist ein offener Standard, über den KI-Anwendungen einheitlich auf externe Werkzeuge und Datenquellen zugreifen. In der am 28. Juli veröffentlichten Fassung wurde der Kern staatenlos gemacht, das heißt, er kommt ohne dauerhaft gehaltene Sitzungen aus und lässt sich dadurch auf gewöhnlicher Internet-Infrastruktur besser skalieren.",
-        "Neu sind außerdem eine Erweiterung namens Tasks für langlaufende Aufträge, also Arbeiten, die nicht sofort fertig werden, sowie MCP Apps für server-seitig gerenderte Oberflächen und eine an gängige Anmeldeverfahren angelehnte Autorisierung. Für ein eigenes System bedeutet das robustere und einfacher zu betreibende Werkzeug-Anbindungen."
-       ],
-       "konkret": "Prüfe, ob die von deiner Routine genutzten MCP-Server bereits auf die Fassung 2026-07-28 aktualisiert sind, und plane bei langlaufenden Schritten den Umstieg auf die Tasks-Erweiterung.",
-       "source": "Model Context Protocol Blog",
-       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 7. August 2026",
    "weather": "clouds",
    "temp": "27°C · bewölkt",
@@ -1172,6 +1015,172 @@
        "konkret": "Ergänze deinen Standardauftrag an Bau-Agenten um die Vorgabe, in kleinen Schritten zu arbeiten, je Schritt eine automatische Prüfung mitzuliefern und die Zwischenstände einzeln zu sichern.",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 13. August 2026",
+   "weather": "clear",
+   "temp": "33°C · sonnig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar steht heute ein wolkenloser, hochsommerlicher Tag mit bis zu 33 Grad, am Morgen noch angenehm, bevor die Hitze am Nachmittag ihren Höhepunkt erreicht. In der Weltlage rücken Kolumbien und die Vereinigten Staaten im Kampf gegen den Drogenhandel militärisch enger zusammen, während Russland seine Angriffe auf ukrainische Städte verstärkt. In der Wirtschaft hält die Europäische Zentralbank ihren Leitzins stabil. Aus der Forschung kommt der Hinweis, dass sich das erwachsene Gehirn besser selbst reparieren kann als gedacht, und als Lichtblick verschenkt eine kleine Werkstatt Arbeitsstiefel an Feuerwehrleute. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Kolumbien und USA vereinbaren gemeinsame Einsätze gegen den Drogenhandel",
+       "text": "Die Regierung des südamerikanischen Landes Kolumbien hat gemeinsamen Militäreinsätzen mit den Vereinigten Staaten zugestimmt, um härter gegen den Drogenhandel vorzugehen. Der US-Verteidigungsminister Pete Hegseth erklärte, Kolumbien habe selbst um Unterstützung im Kampf gegen den, wie er es nannte, Drogenterrorismus gebeten und gemeinsame Operationen gebilligt, mit denen kriminelle Netzwerke zerschlagen werden sollen. Kolumbien gilt als eines der wichtigsten Ursprungsländer für Kokain, ein aus der Kokapflanze gewonnenes Rauschmittel, dessen Handel vielerorts von bewaffneten Gruppen kontrolliert wird. Das zählt, weil eine engere militärische Zusammenarbeit zwischen beiden Ländern die Sicherheitslage in der Region verändern und die Drogenströme mittelbar bis nach Europa berühren kann.",
+       "source": "ZDFheute / internationale Agenturen",
+       "url": "https://www.zdfheute.de/politik/ausland"
+      },
+      {
+       "title": "Russland verstärkt Angriffe auf ukrainische Städte",
+       "text": "Im russischen Angriffskrieg gegen die Ukraine hat Russland seine Angriffe auf bewohnte Städte nach ukrainischen Angaben zuletzt verstärkt. Innerhalb von 24 Stunden seien dabei 13 Menschen getötet und rund 90 verletzt worden. Ein Angriffskrieg ist ein Krieg, den ein Staat gegen einen anderen beginnt, ohne selbst angegriffen worden zu sein. Zugleich liegen die Vorstellungen beider Seiten über eine Feuerpause, also eine vereinbarte Unterbrechung der Kämpfe, weiterhin weit auseinander, sodass ein baldiges Ende der Gewalt nicht absehbar ist. Das zählt, weil der Verlauf des Krieges die Sicherheit in Europa, die Energiepreise und die Aufnahme von Geflüchteten unmittelbar berührt.",
+       "source": "ZDFheute / internationale Agenturen",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Europäische Zentralbank hält den Leitzins bei 2,25 Prozent",
+       "text": "Die Europäische Zentralbank, kurz EZB, hat bei ihrer jüngsten Zinssitzung Ende Juli 2026 entschieden, den Leitzins vorerst unverändert bei 2,25 Prozent zu belassen. Der Leitzins ist der Zinssatz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen können; er bestimmt mit, wie teuer Kredite und wie attraktiv Erspartes für Haushalte und Betriebe sind. Nach einer Reihe von Senkungen hält die EZB die Zinsen damit stabil, um die Preisentwicklung im Blick zu behalten, ohne die noch schwache Konjunktur zusätzlich zu bremsen. Das zählt, weil das Zinsniveau die Finanzierungskosten für Anschaffungen und Investitionen festlegt und damit auch für Selbstständige die Planung größerer Ausgaben beeinflusst.",
+       "source": "Raisin / EZB",
+       "url": "https://www.raisin.com/de-de/glossar/ezb-leitzins/"
+      },
+      {
+       "title": "KfW sieht die deutsche Wirtschaft auf verhaltenem Erholungskurs",
+       "text": "Die Förderbank KfW, eine staatliche Bank zur Förderung von Wirtschaft und Investitionen, beschreibt die Lage der deutschen Wirtschaft für 2026 als aufwärtsgerichtet, aber weiterhin gedämpft. Nach zwei sehr schwachen Jahren kehrt die größte Volkswirtschaft der Europäischen Union demnach auf einen leichten Wachstumspfad zurück, getragen von einer allmählich anziehenden Nachfrage. Zugleich bleiben Unsicherheiten etwa bei Energiekosten und auf den Exportmärkten bestehen, sodass die Erholung nicht überall gleich spürbar ist. Das zählt, weil sich eine langsam bessernde Gesamtlage mit einiger Verzögerung auch in Aufträgen für kleine Betriebe und Selbstständige niederschlägt.",
+       "source": "KfW Research",
+       "url": "https://www.kfw.de/"
+      }
+     ],
+     "merk": {
+      "text": "Weil die EZB die Zinsen vorerst nicht weiter senkt, bleiben Kredite auf dem heutigen Niveau, während Erspartes etwas mehr Ertrag bringt. Für dich lohnt es sich, bei geplanten größeren Anschaffungen zu prüfen, ob sich eine Finanzierung jetzt oder erst nach einer möglichen späteren Zinssenkung eher rechnet.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Werkstatt schenkt Feuerwehrleuten neue Arbeitsstiefel",
+       "text": "Ein Stiefelhersteller im US-Bundesstaat Washington, die Firma JK Boots, hat sein Firmengelände zu einer Anlaufstelle für Einsatzkräfte gemacht, die in der Region um die Stadt Spokane gegen Waldbrände kämpfen. Das Unternehmen verschenkt neue Arbeitsstiefel an Feuerwehrleute und hat nach eigenen Angaben bereits Waren im Wert von mehr als 25.000 US-Dollar gespendet. Waldbrände sind großflächige Feuer in Wäldern und Buschland, die im trockenen Hochsommer besonders häufig auftreten. Das zählt, weil es zeigt, wie ein kleiner Betrieb mit genau dem, was er am besten kann, unmittelbar und praktisch denen hilft, die im Einsatz sind.",
+       "source": "Good Good Good",
+       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-8-2026"
+      },
+      {
+       "title": "Studierende Person rettet drei Mädchen vor dem Ertrinken",
+       "text": "Bei den Seafair-Feierlichkeiten in Seattle, einem großen sommerlichen Volksfest am Wasser, hat eine studierende Person drei Mädchen vor dem Ertrinken bewahrt. Sie hatte bemerkt, wie die drei im Lake Washington, einem großen See am Rand der Stadt, in Not gerieten und sich nicht mehr über Wasser halten konnten, und griff sofort ein. Das zählt, weil solche Augenblicke daran erinnern, wie sehr im entscheidenden Moment aufmerksames Hinsehen und rasches Handeln über den Ausgang bestimmen können.",
+       "source": "Good News Network",
+       "url": "https://www.goodnewsnetwork.org/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Erwachsenes Gehirn repariert sich besser als lange angenommen",
+       "text": "Forschende haben eine besondere Gruppe von Stützzellen im Gehirn genauer untersucht, die sogenannten Astrozyten, und festgestellt, dass diese auf geschädigtes Hirngewebe reagieren, indem sie verlorengegangene Zellverbindungen wieder aufbauen. Astrozyten sind sternförmige Zellen, die die Nervenzellen des Gehirns versorgen und stützen; lange galten sie vor allem als Helfer im Hintergrund. Die neuen Ergebnisse deuten darauf hin, dass sich das erwachsene Gehirn womöglich deutlich besser selbst reparieren kann, als bisher angenommen wurde. Das zählt, weil ein besseres Verständnis dieser Selbstheilung langfristig neue Ansätze für die Behandlung von Hirnverletzungen und Erkrankungen eröffnen könnte.",
+       "img": "https://live.staticflickr.com/7046/6884698095_5b4bfac5e2_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Keratin aus Schafwolle lässt geschädigten Knochen nachwachsen",
+       "text": "Ein Forschungsteam hat gezeigt, dass Keratin, ein Eiweißstoff aus der Wolle von Schafen, im Tierversuch die Heilung von geschädigtem Knochen unterstützen kann. Keratin ist derselbe Baustoff, aus dem auch Haare und Nägel bestehen. Das damit gebildete Gewebe war den Angaben zufolge besser geordnet und dem gesunden Knochen ähnlicher als Gewebe, das mit den bisher üblichen Gerüsten aus Kollagen entstand; Kollagen ist ein natürliches Struktureiweiß des Körpers. Das zählt, weil ein günstiger und nachwachsender Rohstoff wie Wolle die Behandlung von Knochenschäden in Zukunft einfacher und nachhaltiger machen könnte.",
+       "img": "https://live.staticflickr.com/3272/2951338099_208ce5e905_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Hochsommerlicher Hitzetag, am Sonntag Sommer-Sonntag am Alten Freibad",
+       "text": "Über Horb am Neckar steht heute ein wolkenloser, hochsommerlicher Tag mit bis zu 33 Grad; ein schattiger Platz, ausreichend Trinken und die kühleren Morgen- und Abendstunden für anstrengende Arbeiten sind an solchen Tagen die einfachste Vorsorge. Wer die Woche plant: Am kommenden Sonntag, dem 16. August, wird die Reihe der Sommer-Sonntage am Alten Freibad fortgesetzt, jeweils ab 15 Uhr. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung unter freiem Himmel dient. Das zählt, weil solche wohnortnahen Angebote in der Ferienzeit eine unkomplizierte Möglichkeit sind, einen milden Sommerabend im Freien zu verbringen.",
+       "img": "https://live.staticflickr.com/2306/2171370057_1e36ab05a4_b.jpg",
+       "source": "wasgehtapp / Veranstaltungskalender",
+       "url": "https://www.wasgehtapp.de/location.php?id=31016"
+      },
+      {
+       "title": "Kriminal-Dinner am 15. August im Gasthof Adler",
+       "text": "Am kommenden Samstag, dem 15. August 2026, findet in Horb am Neckar ein sogenanntes Kriminal-Dinner statt, ein geselliger Abend, bei dem die Gäste zu einem mehrgängigen Menü einen erfundenen Kriminalfall miträtseln. Solche Formate verbinden gemeinsames Essen mit einem unterhaltsamen Rätselspiel, dessen Handlung sich zwischen den Gängen entfaltet; Beginn ist um 19 Uhr im Gasthof Adler. Wegen der begrenzten Platzzahl sind Karten in der Regel im Vorverkauf zu sichern. Das zählt, weil solche Abende eine kurzweilige Möglichkeit sind, die Region auch abseits der großen Feste kennenzulernen und mit anderen ins Gespräch zu kommen.",
+       "source": "Veranstaltungen Baden-Württemberg",
+       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Hitze verlangt kein schnelleres, sondern ein klügeres Tempo: Was du in die kühlen Stunden legst, gelingt dir mit weniger Mühe."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "go-digital: bis zu 50 Prozent Zuschuss für Digitalberatung",
+      "text": "Das Förderprogramm go-digital des Bundesministeriums für Wirtschaft unterstützt kleine und mittlere Unternehmen dabei, ihre Digitalisierung mit fachlicher Beratung voranzutreiben. Gefördert werden Beratungs- und Umsetzungsleistungen in Bereichen wie digitaler Markterschließung, digitalisierten Geschäftsprozessen und IT-Sicherheit, wobei bis zu die Hälfte der Kosten als Zuschuss übernommen wird. Ein Zuschuss ist eine finanzielle Unterstützung, die nicht zurückgezahlt werden muss. Die Antragstellung läuft über eigens autorisierte Beratungsunternehmen, die den Aufwand für die Formalitäten weitgehend übernehmen.",
+      "why": "Für dich als Solo-Unternehmer kann das ein Weg sein, den Ausbau deiner digitalen Abläufe oder deiner Online-Sichtbarkeit zu einem deutlich geringeren Eigenanteil zu finanzieren. Weil der Antrag zwingend vor Projektbeginn gestellt werden muss und rückwirkende Förderungen fast immer ausgeschlossen sind, lohnt es sich, ein konkretes Vorhaben zu umreißen und frühzeitig ein autorisiertes Beratungsunternehmen anzusprechen.",
+      "source": "Förder-Kompass / go-digital",
+      "url": "https://foerder-kompass.de/foerdermittel-digitalisierung-ki/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale ziehen in dieselbe Richtung: Immer mehr Arbeit, die man früher aus einzelnen Teilen selbst zusammenstecken musste, wandert in fertige Bausteine und in die Anbieter selbst. Dein Hebel verschiebt sich vom Verkabeln der Technik hin zum klaren Anweisen und zum Prüfen der Ergebnisse.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Denk-Spuren und anbieterseitige Werkzeuge nutzen",
+       "tag": "Werkzeuge",
+       "paras": [
+        "Der Entwickler Simon Willison hat eine neue Version seines freien Kommandozeilen-Werkzeugs LLM veröffentlicht, Version 0.32. Ein Kommandozeilen-Werkzeug wird über eingetippte Befehle statt über Fenster und Knöpfe bedient. Neu ist unter anderem, dass die Modelle ihre Gedankengänge, also die sichtbaren Zwischenschritte ihres Nachdenkens, getrennt vom eigentlichen Ergebnis ausgeben. So bleibt die Ausgabe sauber, und du kannst bei Bedarf nachvollziehen, wie das Modell zu seiner Antwort gekommen ist.",
+        "Zusätzlich können mehrere Anbieter jetzt Werkzeuge auf ihren eigenen Servern ausführen, etwa das Abrufen von Internetseiten, das Ausführen von Programmcode oder die Anbindung weiterer Dienste über das offene Model Context Protocol, kurz MCP, einen einheitlichen Standard, über den KI-Programme zusätzliche Werkzeuge ansprechen. Für deine Abläufe heißt das: Du kannst Aufgaben an den Anbieter auslagern, die du bisher selbst zusammenbauen musstest, und sparst dir eigenen technischen Aufwand."
+       ],
+       "konkret": "Prüfe bei einem deiner Automatisierungs-Abläufe, ob sich das Abrufen von Seiten oder das Ausführen von Code an das anbieterseitige Werkzeug auslagern lässt, statt es selbst zu programmieren.",
+       "snippetLabel": "Denk-Spuren getrennt abfragen",
+       "snippet": "llm -m <span class=\"ph\">{modell}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"\n# die Zwischenschritte erscheinen getrennt vom Ergebnis\n# mit -R lassen sie sich ausblenden, wenn du nur die Antwort willst",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
+      },
+      {
+       "icon": "layers",
+       "title": "Jeden kompatiblen Modell-Endpunkt als Einzeiler ansprechen",
+       "tag": "Flexibilität",
+       "paras": [
+        "Dieselbe Version bringt einen Befehl mit, mit dem sich Anweisungen an praktisch jeden Modell-Dienst richten lassen, der die weit verbreitete OpenAI-Schnittstelle versteht, und zwar ohne vorherige Einrichtung. Eine Schnittstelle ist eine vereinbarte Art, wie zwei Programme miteinander sprechen; viele Cloud-Anbieter und auch lokal auf dem eigenen Rechner laufende Modelle verstehen dieselbe. So kannst du ein Modell mit einem einzigen Befehl ausprobieren, statt erst eine Konfiguration anzulegen.",
+        "Für dich ist das nützlich, um schnell ein lokal auf deinem eigenen Rechner laufendes Modell gegen einen Dienst aus der Cloud zu vergleichen, etwa mit Blick auf Kosten, Geschwindigkeit oder Datenschutz. Weil nichts fest eingerichtet werden muss, eignet sich der Weg gut für kurze Tests, bevor du dich auf einen bestimmten Dienst festlegst."
+       ],
+       "konkret": "Lass beim nächsten Modellvergleich dieselbe Anweisung einmal gegen ein lokales Modell und einmal gegen deinen üblichen Cloud-Dienst laufen und vergleiche Ergebnis, Tempo und Kosten.",
+       "snippetLabel": "Anweisung an einen beliebigen Endpunkt",
+       "snippet": "llm openai endpoint <span class=\"ph\">{http://localhost:1234/v1}</span> \\\n  -m <span class=\"ph\">{modellname}</span> \\\n  \"<span class=\"ph\">{deine Anweisung}</span>\"",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
       }
      ]
     }
