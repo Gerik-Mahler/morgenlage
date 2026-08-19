@@ -2,169 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Mittwoch, 12. August 2026",
-   "weather": "clear",
-   "temp": "32°C · sonnig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar steht heute ein hochsommerlich heißer, wolkenloser Tag bei rund 32 Grad, am Vormittag noch angenehm, bevor die Hitze am Nachmittag ihren Höhepunkt erreicht. In der Weltlage erschüttert ein schweres Erdbeben den Westen Kolumbiens, und im Krieg gegen die Ukraine liegen die Vorstellungen über einen Waffenstillstand weiter weit auseinander. In der Wirtschaft deuten neue Prognosen auf eine langsame Erholung in Deutschland hin. Aus der Forschung kommt ein besonders kleiner Transistor, als Lichtblick meldet Deutschland einen Rekord beim Sonnenstrom. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Schweres Erdbeben erschüttert den Westen Kolumbiens",
-       "text": "Im Westen des südamerikanischen Landes Kolumbien hat am Montag ein schweres Erdbeben der Stärke 7,4 die Region getroffen. Die Stärke eines Bebens wird auf der sogenannten Magnitudenskala angegeben, bei der jede volle Stufe für eine deutlich stärkere Erschütterung steht. Nach vorläufigen Angaben der Behörden kamen mehr als hundert Menschen ums Leben, viele Gebäude in Städten wie Cali, Pereira und Manizales wurden beschädigt, und die Regierung rief den Notstand aus, um Rettung und Hilfe zu bündeln. Erste Länder boten internationale Unterstützung an. Das zählt, weil solche Naturereignisse zeigen, wie wichtig geprüfte Bausubstanz und geübte Rettungsabläufe sind und wie schnell internationale Hilfe organisiert werden muss.",
-       "source": "NPR / Democracy Now",
-       "url": "https://www.npr.org/sections/world/"
-      },
-      {
-       "title": "Ukraine und Russland bleiben bei Waffenstillstand weit auseinander",
-       "text": "Im russischen Angriffskrieg gegen die Ukraine liegen die Bedingungen für eine Feuerpause weiterhin weit auseinander. Ein Waffenstillstand ist eine vereinbarte Unterbrechung der Kämpfe, die einem eigentlichen Friedensschluss vorausgehen kann. Die Ukraine strebt nach eigenen Angaben zunächst eine Waffenruhe entlang der derzeitigen Frontlinie an und erst danach ein umfassendes Abkommen. Russland erklärte hingegen, die Angriffe erst einzustellen, wenn die Ukraine auf einen Beitritt zum westlichen Verteidigungsbündnis NATO verzichtet, ihre Streitkräfte begrenzt und mehrere Regionen abtritt. Das zählt, weil der weitere Verlauf des Krieges die Sicherheit in Europa, die Energiepreise und die Aufnahme von Geflüchteten unmittelbar berührt.",
-       "source": "WORLD / FDD Overnight Brief",
-       "url": "https://wng.org/podcasts/tuesday-morning-news-august-11-2026-1786382673"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Prognosen sehen deutsche Wirtschaft 2026 auf leichtem Erholungskurs",
-       "text": "Das Institut für Makroökonomie und Konjunkturforschung, kurz IMK, eine gewerkschaftsnahe Forschungseinrichtung, erwartet für die deutsche Wirtschaft nach zwei sehr schwachen Jahren wieder Wachstum: rund 0,2 Prozent für 2025 und etwa 1,5 Prozent für 2026. Das Bruttoinlandsprodukt, kurz BIP, misst den Wert aller in einem Jahr erzeugten Waren und Dienstleistungen und gilt als wichtigster Maßstab für die Wirtschaftskraft eines Landes. Auch das Statistische Bundesamt meldete für das Schlussquartal 2025 ein leichtes Plus von etwa 0,3 Prozent gegenüber dem Vorquartal. Das zählt, weil eine anziehende Konjunktur, also die allgemeine Geschäftslage, sich mit einiger Verzögerung auch in Aufträgen und Nachfrage für Selbstständige und kleine Betriebe niederschlägt.",
-       "source": "IMK / Statistisches Bundesamt",
-       "url": "https://www.imk-boeckler.de/de/pressemitteilungen-15992-deutsche-wirtschaft-geht-auf-erholungskurs-69848.htm"
-      },
-      {
-       "title": "Geschäftsklima hellt sich langsam auf",
-       "text": "Der ifo-Geschäftsklimaindex, eine viel beachtete monatliche Umfrage des Münchner ifo-Instituts unter tausenden Unternehmen, hat sich zuletzt spürbar verbessert. Der Index fasst zusammen, wie die Betriebe ihre aktuelle Lage und ihre Erwartungen für die kommenden Monate einschätzen, und gilt als früher Hinweis auf die Richtung der Konjunktur. Nach einer längeren Phase auf niedrigem Niveau zu Jahresbeginn zeigten zuletzt sowohl die Beurteilung der Gegenwart als auch die Erwartungen nach oben. Das zählt, weil eine bessere Stimmung in den Unternehmen oft der eigentlichen Erholung vorausgeht und über Investitionen und Einstellungen entscheidet.",
-       "source": "ifo-Institut",
-       "url": "https://de.statista.com/themen/4862/konjunktur-in-deutschland"
-      }
-     ],
-     "merk": {
-      "text": "Die Erholung bleibt trotz der freundlicheren Zahlen verhalten: Für 2026 rechnet das Eurosystem, der Verbund aus Europäischer Zentralbank und nationalen Notenbanken, im Euroraum noch mit einer Inflation von rund drei Prozent, also einem weiter erhöhten allgemeinen Preisanstieg. Für dich heißt das, weiter mit maßvoll steigenden Kosten zu planen und Preisanpassungen frühzeitig zu bedenken.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Deutschland meldet Rekord beim Sonnenstrom",
-       "text": "Deutschland hat im Juli 2026 nach vorliegenden Auswertungen einen Rekord bei der Solarenergie erreicht: Rund zwölf Milliarden Kilowattstunden Sonnenstrom wurden in einem einzigen Monat in das öffentliche Stromnetz eingespeist. Eine Kilowattstunde ist die Energiemenge, die ein Gerät mit tausend Watt Leistung in einer Stunde verbraucht; ein durchschnittlicher Haushalt kommt im Jahr auf einige tausend Kilowattstunden. Solarstrom entsteht, wenn Photovoltaikmodule, also Platten aus lichtempfindlichem Material, Sonnenlicht unmittelbar in elektrischen Strom umwandeln. Das zählt, weil ein wachsender Anteil erneuerbarer Energien die Abhängigkeit von importierten Brennstoffen verringert und langfristig zu stabileren Strompreisen beitragen kann.",
-       "img": "https://live.staticflickr.com/3308/3414028795_d2083e0388_b.jpg",
-       "source": "Good News / globalgoodnews",
-       "url": "https://www.globalgoodnews.com/"
-      },
-      {
-       "title": "Jugendlicher baut mit dem 3D-Drucker einen Rollstuhl für ein Kleinkind",
-       "text": "Ein dreizehnjähriger Junge hat nach Medienberichten fast dreihundert Stunden aufgewendet, um mit seinen Kenntnissen im 3D-Druck einen maßgefertigten Rollstuhl für ein Kleinkind zu bauen. Beim 3D-Druck fertigt ein Gerät Gegenstände Schicht für Schicht aus Kunststoff nach einer am Computer erstellten Vorlage. So lassen sich einzelne, genau angepasste Teile herstellen, die als Serienprodukt oft teuer oder gar nicht erhältlich wären. Das zählt, weil es zeigt, wie zugängliche Technik und persönliches Engagement zusammen einen unmittelbaren, greifbaren Nutzen für einen anderen Menschen schaffen können.",
-       "source": "Good News Network",
-       "url": "https://www.goodnewsnetwork.org/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Winziger Transistor bringt die Elektronik näher an die Grenze des Machbaren",
-       "text": "Forschende der taiwanischen Universität NYCU und des Chipherstellers TSMC haben einen besonders leistungsfähigen, extrem kleinen Transistor entwickelt. Ein Transistor ist ein winziger elektronischer Schalter; moderne Computerchips enthalten Milliarden davon, und je kleiner sie sind, desto mehr Rechenleistung passt auf eine Fläche. Der Schlüssel war eine nur 0,42 Nanometer dünne Zwischenschicht aus Aluminiumoxid, die zwischen zwei Materialien eingefügt wurde; ein Nanometer ist ein Millionstel Millimeter, die Schicht ist also wenige Atome dünn. Sie erlaubt zugleich eine feine Steuerung und einen ungestörten Fluss der elektrischen Ladung, was bisher schwer zu vereinbaren war. Das zählt, weil solche Fortschritte an der atomaren Grenze darüber entscheiden, ob Chips künftig noch sparsamer und schneller werden können.",
-       "img": "https://live.staticflickr.com/7139/8157597157_12bca1cc99_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
-      },
-      {
-       "title": "Neue Brennstoffzelle könnte Rechenzentren sparsamer mit Strom versorgen",
-       "text": "Ein Forschungsteam hat eine Brennstoffzelle vorgestellt, die mit sehr wenig des teuren Edelmetalls Platin auskommt und dennoch stabil und wirkungsvoll arbeitet. Eine Brennstoffzelle erzeugt elektrischen Strom, indem sie Wasserstoff und Sauerstoff kontrolliert reagieren lässt, wobei als Abgas im Wesentlichen nur Wasser entsteht. Möglich wird die Einsparung durch eine neuartige, fein strukturierte Kohlenstoffträgerschicht, die das Platin besser ausnutzt. Das zählt, weil der wachsende Strombedarf großer Rechenzentren, also der Serverhallen hinter vielen Internetdiensten, nach saubereren und zugleich bezahlbaren Energiequellen verlangt.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Heißer Sommertag im Neckartal, Sommer-Sonntag am Alten Freibad",
-       "text": "Bei wolkenlosem Himmel und rund 32 Grad wird der heutige Tag in Horb am Neckar ein ausgesprochen heißer Sommertag; ein schattiger Platz am Wasser und ausreichend Trinken sind an solchen Tagen die einfachste Vorsorge. Wer die Woche plant: Am kommenden Sonntag, dem 16. August, wird die Reihe der Sommer-Sonntage am Alten Freibad fortgesetzt, jeweils ab 15 Uhr. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung unter freiem Himmel dient. Das zählt, weil solche wohnortnahen Angebote in der Ferienzeit eine unkomplizierte Möglichkeit sind, einen milden Sommerabend im Freien zu verbringen.",
-       "img": "https://live.staticflickr.com/65535/51271004187_e4835902ba_b.jpg",
-       "source": "wasgehtapp / Veranstaltungskalender",
-       "url": "https://www.wasgehtapp.de/location.php?id=31016"
-      },
-      {
-       "title": "Kriminal-Dinner Mord im Brauhaus am 15. August",
-       "text": "Am kommenden Samstag, dem 15. August 2026, findet in Horb am Neckar ein sogenanntes Kriminal-Dinner statt, ein geselliger Abend, bei dem die Gäste zu einem mehrgängigen Menü einen erfundenen Kriminalfall miträtseln. Solche Formate verbinden gemeinsames Essen mit einem unterhaltsamen Rätselspiel, dessen Handlung sich zwischen den Gängen entfaltet. Beginn ist um 19 Uhr; wegen der begrenzten Platzzahl sind Karten in der Regel im Vorverkauf zu sichern. Das zählt, weil solche Abende eine kurzweilige Möglichkeit sind, die Region auch abseits der großen Feste kennenzulernen und mit anderen ins Gespräch zu kommen.",
-       "source": "Veranstaltungen Baden-Württemberg",
-       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "An einem heißen Tag entscheidet nicht die Menge der Arbeit, sondern der kühle Kopf, mit dem du sie einteilst."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "KOMPASS-Förderung: bis zu 4.500 Euro für Weiterbildung von Solo-Selbstständigen",
-      "text": "Das Bundesprogramm KOMPASS, ausgeschrieben Kompetenzentwicklung über Plattformen für Solo-Selbstständige, unterstützt Selbstständige ohne Angestellte bei beruflicher Weiterbildung. Gefördert werden Qualifizierungen ab etwa zwanzig Stunden, etwa zu Digitalisierung, künstlicher Intelligenz oder zum Geschäftsmodell, mit einem Zuschuss von bis zu neunzig Prozent der Kosten und höchstens 4.500 Euro je Person. Ein Zuschuss ist eine finanzielle Unterstützung, die nicht zurückgezahlt werden muss. Die Aufnahme erfolgt in Runden über regionale Anlaufstellen, und die Fenster für neue Anträge sind zeitlich begrenzt.",
-      "why": "Für dich als Solo-Unternehmer ist das ein Hebel, um gezielte Weiterbildung zu KI oder Digitalisierung zu einem sehr geringen Eigenanteil zu finanzieren. Weil die Aufnahme nur in bestimmten Zeitfenstern läuft, lohnt es sich, den aktuellen Aufnahmestatus bei einer regionalen Anlaufstelle zu prüfen und ein passendes Qualifizierungsziel vorab zu formulieren.",
-      "source": "Skill-Sprinters / KOMPASS",
-      "url": "https://skill-sprinters.de/blog/foerderung/kompass-foerderung-solo-selbststaendige-2026-ki-weiterbildung/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale ziehen in eine Richtung: Starke Modelle bauen ganze Entwürfe in einem Zug, dein Hebel verschiebt sich vom Selbermachen zum klaren Auftrag und zum Prüfen des Ergebnisses.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Starke Modelle einen vollständigen Entwurf in einem Zug bauen lassen",
-       "tag": "Werkzeuge",
-       "paras": [
-        "Der Entwickler Simon Willison hat beschrieben, wie das neue Sprachmodell Claude Fable 5 aus einer einzigen Anweisung ein komplettes, im Browser lauffähiges 3D-Spiel erzeugt hat, samt selbst erstellter Texturen, Ton und mehrerer aufeinander aufbauender Ebenen. Ein Sprachmodell ist ein KI-System, das Texte und, wie hier, auch Programmcode erzeugt. Der Auftrag lautete im Kern nur, das Spiel eigenständig und ohne Rückfragen zu bauen; das Modell arbeitete den Rest selbst aus.",
-        "Sein Fazit ist jedoch wichtig: Das Ergebnis war technisch beeindruckend, aber als Spiel langweilig und zu leicht. Das gute Urteil darüber, was wirklich taugt, blieb beim Menschen. Für deine Abläufe heißt das: Nutze starke Modelle, um Gerüste, Prototypen oder erste Fassungen in einem Durchgang zu erzeugen, und halte die inhaltliche Bewertung bewusst bei dir."
-       ],
-       "konkret": "Wähle eine kleine, klar umrissene Aufgabe und lass sie von einem starken Modell in einem Zug eigenständig bauen, dann bewerte das Ergebnis nur nach dem, was du selbst am besten beurteilen kannst.",
-       "snippetLabel": "Auftrag für einen eigenständigen Durchgang",
-       "snippet": "Baue <span class=\"ph\">{konkretes Ziel}</span> vollständig und eigenständig.\n1. Triff alle technischen Entscheidungen selbst, frage mich nicht nach Details.\n2. Arbeite in kleinen, nachvollziehbaren Schritten.\n3. Nenne am Ende die drei Stellen, an denen mein Urteil noch nötig ist.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
-      },
-      {
-       "icon": "layers",
-       "title": "Den Agenten während des Bauens automatisch prüfen lassen",
-       "tag": "Verlässlichkeit",
-       "paras": [
-        "Im selben Versuch fiel ein Detail auf: Das Modell hat seine Arbeit in mehrere kleine Zwischenstände zerlegt und dabei automatische Tests mit dem Werkzeug Playwright eingebaut. Playwright ist ein Programm, das eine Internetseite wie ein echter Nutzer im Browser bedient und so selbsttätig prüft, ob Abläufe funktionieren. Durch die Aufteilung in kleine, getestete Schritte lässt sich leichter erkennen, an welcher Stelle etwas hakt.",
-        "Für deine eigenen Automatisierungen ist das eine übertragbare Gewohnheit: Bitte den Agenten, seine Arbeit in kleine Abschnitte zu gliedern, zu jedem Abschnitt eine einfache automatische Prüfung zu schreiben und die Zwischenstände einzeln festzuhalten. So kannst du jeden Schritt bestätigen, bevor der nächste darauf aufbaut."
-       ],
-       "konkret": "Ergänze deinen Standardauftrag an Bau-Agenten um die Vorgabe, in kleinen Schritten zu arbeiten, je Schritt eine automatische Prüfung mitzuliefern und die Zwischenstände einzeln zu sichern.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Donnerstag, 13. August 2026",
    "weather": "clear",
    "temp": "33°C · sonnig",
@@ -1015,7 +852,6 @@
    "weather": "rain",
    "temp": "23°C · Regenschauer",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen heute Regenschauer durch, und mit bis zu 23 Grad bleibt es angenehm mild statt drückend heiß. In der Weltlage meldet Moskau die schwerste ukrainische Drohnenwelle seit zwei Jahren, während in Ungarn nach einer historischen Wahl ein Machtwechsel bevorsteht. Aus der Wirtschaft kommt ein vorsichtig freundliches Signal: Die Konjunkturerwartungen deutscher Fachleute steigen den vierten Monat in Folge. Als Lichtblick sinkt die Entwaldung im Amazonasgebiet auf den tiefsten Stand seit dreizehn Jahren, und die Forschung zeigt fast verlustfreie Lichtleiter auf gewöhnlichen Computerchips. Hier ist deine Morgenlage.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1152,6 +988,166 @@
        "konkret": "Sichte deine bestehenden MCP-Server und markiere je Anbindung, ob sie ohne gemerkte Sitzung auskommt.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 19. August 2026",
+   "weather": "clouds",
+   "temp": "30°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute nach einem trüben, teils neblig-diesigen Morgen ein wechselnd bewölkter Tag bei rund 30 Grad, deutlich milder als die Hitze der vergangenen Woche. In der Weltlage setzt US-Präsident Donald Trump geplante Zusatzzölle gegen Kanada für drei Tage aus, und die Vereinigten Arabischen Emirate fangen zwei iranische Raketen ab. In der Wirtschaft rechnet die Europäische Zentralbank für 2026 mit stärkerem Wachstum im Euroraum. Aus der Forschung kommt ein Bild der Erde, aufgenommen vom Mars, und als Lichtblick fährt nach achtunddreißig Jahren wieder ein Zug zwischen Finnland und Schweden. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Trump setzt Zusatzzölle gegen Kanada für drei Tage aus",
+       "text": "US-Präsident Donald Trump hat geplante zusätzliche Einfuhrzölle auf kanadische Waren um drei Tage verschoben, um beiden Seiten Zeit für eine Einigung zu geben. Einfuhrzölle sind Abgaben, die ein Staat auf eingeführte Waren erhebt und die diese im Inland verteuern. Im Kern geht es um einen Handel rund um das Öl-Pipeline-Projekt Keystone XL, eine lange geplante Rohrleitung für den Transport von Öl aus Kanada in die Vereinigten Staaten, die unter dem früheren Präsidenten Joe Biden gestoppt worden war. Das zählt, weil Zölle zwischen zwei eng verflochtenen Volkswirtschaften Lieferketten und Preise berühren und auch für europäische Unternehmen ein Signal sind, wie verlässlich der Welthandel derzeit ist.",
+       "source": "ZDFheute / internationale Agenturen",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      },
+      {
+       "title": "Emirate fangen zwei iranische Raketen ab",
+       "text": "Die Vereinigten Arabischen Emirate, ein Länderbund am Persischen Golf, haben nach eigenen Angaben zwei ballistische Raketen aus dem Iran abgefangen, eine davon außerhalb und eine innerhalb ihrer Hoheitsgewässer. Ballistische Raketen sind Flugkörper, die nach dem Antrieb einer hochgelegenen Bahn folgen und ihr Ziel im Sinkflug treffen. Der Vorfall fällt in eine Phase erhöhter Spannungen in der Region rund um die Straße von Hormus, eine schmale Meerenge, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird. Das zählt, weil eine Zuspitzung am Golf die Öl- und Energiepreise weltweit und damit auch die Kosten in Deutschland spürbar beeinflussen kann.",
+       "source": "ZDFheute / internationale Agenturen",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "EZB erwartet für 2026 stärkeres Wachstum im Euroraum",
+       "text": "Die Europäische Zentralbank, kurz EZB, die für den Euro und die Geldpolitik der Währungsunion zuständige Notenbank, rechnet für das Jahr 2026 mit einem stärkeren Wachstum der Wirtschaft im Euroraum. Bereits 2025 war die Wirtschaftsleistung nach ihren Angaben stetig um durchschnittlich rund 1,5 Prozent gewachsen, nach 0,9 Prozent im Jahr zuvor. Das reale Bruttoinlandsprodukt, also der um die Preissteigerung bereinigte Wert aller erzeugten Waren und Dienstleistungen, soll demnach weiter zulegen, auch wenn hohe Energiepreise, US-Zölle und eine schwache Weltnachfrage bremsen. Das zählt, weil eine anziehende Konjunktur im gemeinsamen Währungsraum sich mit einiger Verzögerung auch in Aufträgen und Nachfrage für kleine Betriebe und Selbstständige niederschlägt.",
+       "source": "Handelsblatt / EZB",
+       "url": "https://www.handelsblatt.com/dpa/konjunkturaussichten-ezb-wirtschaft-im-euroraum-wird-2026-staerker-wachsen/100185110.html"
+      },
+      {
+       "title": "OpenAI bringt Werbung nach Europa",
+       "text": "Der US-amerikanische KI-Konzern OpenAI, bekannt vor allem für den Chatdienst ChatGPT, schaltet seit dieser Woche in einunddreißig europäischen Märkten Werbung, darunter auch in Deutschland. Werbung erscheint damit künftig innerhalb der kostenlosen Nutzung, während zahlungspflichtige Abonnements weiterhin eine werbefreie Nutzung erlauben. Ein Abonnement ist ein regelmäßig bezahlter Zugang zu einem Dienst. Das zählt, weil KI-Werkzeuge zunehmend zum Alltag von Selbstständigen gehören und die Frage, welche Inhalte in einem werbefinanzierten Dienst verarbeitet werden, gerade bei vertraulichen Aufgaben an Bedeutung gewinnt.",
+       "source": "ZDFheute",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ],
+     "merk": {
+      "text": "Wenn Werbung in kostenlose KI-Dienste einzieht, lohnt sich ein zweiter Blick darauf, welche Aufgaben du über welchen Zugang erledigst. Für vertrauliche oder geschäftskritische Inhalte kann ein werbefreies, bezahltes Angebot oder ein lokal auf deinem Rechner laufendes Modell die sicherere Wahl sein, während für harmlose Routineaufgaben der kostenlose Weg genügt.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Nach achtunddreißig Jahren wieder ein Zug zwischen Finnland und Schweden",
+       "text": "Zwischen der finnischen Stadt Oulu und dem schwedischen Ort Haparanda fährt erstmals seit achtunddreißig Jahren wieder eine durchgehende Zugverbindung. Die beiden Orte liegen im Norden am Bottnischen Meerbusen, dem nördlichen Ausläufer der Ostsee, direkt an der Grenze zwischen Finnland und Schweden. Mit der neuen Verbindung lassen sich Reisende auf der Schiene über mehr als fünftausend Kilometer bis nach Portugal am anderen Ende Europas bringen, ohne auf das Flugzeug angewiesen zu sein. Das zählt, weil eine wiederhergestellte Bahnstrecke zeigt, wie sich klimafreundliches Reisen und die Verbindung entlegener Regionen mit überschaubarem Aufwand zurückgewinnen lassen.",
+       "img": "https://live.staticflickr.com/2230/2525733754_d125eb6f05_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
+      },
+      {
+       "title": "Fischadler brüten erstmals seit der Viktorianischen Zeit wieder in Cumbria",
+       "text": "In der nordwestenglischen Grafschaft Cumbria haben Fischadler zum ersten Mal seit der Viktorianischen Zeit, also seit mehr als hundert Jahren, wieder in einem Naturschutzgebiet gebrütet und drei Junge großgezogen. Der Fischadler ist ein großer Greifvogel, der sich fast ausschließlich von Fisch ernährt und im Sturzflug ins Wasser greift, um Beute zu fangen. Das Brüten in einem Reservat der britischen Vogelschutzorganisation RSPB gilt als Erfolg langjähriger Schutzbemühungen. Das zählt, weil es zeigt, dass sich mit Geduld und geeigneten Lebensräumen selbst lange verschwundene Arten wieder ansiedeln lassen.",
+       "img": "https://live.staticflickr.com/4455/38011595981_cfaf8b7a38_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Mars-Rover fotografiert die Erde als winzigen Lichtpunkt",
+       "text": "Der Rover Perseverance der US-Raumfahrtbehörde NASA, ein rollendes Forschungsfahrzeug auf der Oberfläche des Planeten Mars, hat die Erde als winzigen Lichtpunkt am Marshimmel aufgenommen, in der Nähe des kleinen Marsmondes Phobos. Aus einer Entfernung von rund dreihundert Millionen Kilometern erscheint unser Planet dabei nur noch als einzelner heller Punkt ohne erkennbare Form. Solche Aufnahmen sind technisch anspruchsvoll, weil die Kamera das schwache Licht der fernen Erde in der Dämmerung einfangen muss. Das zählt, weil solche Bilder in Erinnerung rufen, wie klein und schützenswert die Erde im Maßstab des Sonnensystems ist, und zugleich zeigen, wie leistungsfähig heutige Raumfahrttechnik geworden ist.",
+       "img": "https://live.staticflickr.com/4866/45924475844_0382075ffb_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/space_time/"
+      },
+      {
+       "title": "Speicher aus künstlicher DNA verspricht sehr sparsame Elektronik",
+       "text": "Forschende haben künstlich hergestellte DNA mit einem Halbleiter zu einem besonders stromsparenden Speicherbaustein verbunden. DNA ist das Molekül, in dem Lebewesen ihre Erbinformationen ablegen; im Labor lässt sie sich gezielt als dichter Datenträger nachbauen. Ein Halbleiter ist ein Material, das elektrischen Strom mal leitet und mal sperrt und deshalb die Grundlage aller Computerchips bildet. Der neue Baustein soll Daten am selben Ort speichern und verarbeiten können und dabei nur sehr wenig Energie verbrauchen. Das zählt, weil der stark wachsende Strombedarf digitaler Technik nach sparsameren Wegen verlangt, Daten zu sichern und zu verarbeiten.",
+       "img": "https://live.staticflickr.com/7355/9440572913_1c200850bb_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Milderer Tag im Neckartal, am Sonntag Sommer-Sonntag am Alten Freibad",
+       "text": "Über Horb am Neckar liegt heute nach einem trüben, teils neblig-diesigen Morgen ein wechselnd bewölkter Tag bei rund 30 Grad, spürbar milder als die Hitzewelle der vergangenen Woche und damit gut geeignet, um liegen gebliebene Arbeiten im Freien nachzuholen. Wer die Tage plant: Am kommenden Sonntag, dem 23. August, wird die Reihe der Sommer-Sonntage am Alten Freibad fortgesetzt, jeweils ab 15 Uhr. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung unter freiem Himmel dient. Das zählt, weil solche wohnortnahen Angebote in der Ferienzeit eine unkomplizierte Möglichkeit sind, einen Sommernachmittag im Freien zu verbringen.",
+       "img": "https://live.staticflickr.com/1315/797851267_e4519e5952_b.jpg",
+       "source": "wasgehtapp / Veranstaltungskalender",
+       "url": "https://www.wasgehtapp.de/location.php?id=31016"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Nach der Hitze der vergangenen Tage ist ein kühlerer, trüber Morgen kein Verlust, sondern eine Einladung, in Ruhe das anzugehen, was liegen geblieben ist."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "BAFA-Förderung: Zuschuss zu professioneller Unternehmensberatung",
+      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle, kurz BAFA, eine Bundesbehörde, fördert mit dem Programm „Förderung unternehmerischen Know-hows“ Beratungen für kleine und mittlere Unternehmen sowie für Selbstständige. Gefördert wird qualifizierte Beratung etwa zu betriebswirtschaftlichen Fragen, zur Ausrichtung des Geschäfts oder zur Digitalisierung, wobei ein Teil der Beratungskosten als Zuschuss übernommen wird. Ein Zuschuss ist eine finanzielle Unterstützung, die nicht zurückgezahlt werden muss. Die Anträge laufen über die BAFA und ausgewählte Beratungsstellen; Höhe und Bedingungen hängen von der jeweiligen Lage des Betriebs ab.",
+      "why": "Für dich als Solo-Unternehmer kann das ein Weg sein, gezielte Beratung zu Strategie, Abläufen oder Digitalisierung zu einem geringeren Eigenanteil in Anspruch zu nehmen. Weil sich die konkreten Sätze und Voraussetzungen ändern können, lohnt es sich, vor Beauftragung einer Beratung den aktuellen Stand auf den Seiten der BAFA zu prüfen und den Antrag rechtzeitig vor Beginn zu stellen.",
+      "source": "BAFA",
+      "url": "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale ziehen in dieselbe Richtung: Rechenarbeit wandert auf die Server der Anbieter, und zugleich werden leistungsfähige Modelle frei verfügbar, die du selbst betreiben kannst. Dein Hebel verschiebt sich vom Selberbauen hin zur Wahl der passenden Maschine je Aufgabe, nach Kosten, Tempo und Vertraulichkeit.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Rechenaufgaben vom Modell auf dem Anbieter-Server ausführen lassen",
+       "tag": "Werkzeuge",
+       "paras": [
+        "Der Entwickler Simon Willison hat die Version 0.33 seiner Erweiterung llm-gemini veröffentlicht, mit der sich Googles Modelle über sein freies Kommandozeilen-Werkzeug LLM ansprechen lassen; ein Kommandozeilen-Werkzeug wird über eingetippte Befehle statt über Fenster und Knöpfe bedient. Neu unterstützt wird unter anderem das schnelle Modell Gemini 3.7 Flash zusammen mit einem serverseitigen Werkzeug zur Codeausführung. Serverseitig heißt, dass nicht dein Rechner, sondern der Server des Anbieters die Arbeit erledigt.",
+        "Damit kannst du das Modell selbst kleinen Programmcode schreiben und ausführen lassen, etwa um eine Rechnung oder eine Datenauswertung zuverlässig zu erledigen, ohne dir das Ergebnis vom Modell nur schätzen zu lassen. Für deine Abläufe heißt das: Aufgaben, die eine exakte Rechnung verlangen, gibst du besser an ein solches Werkzeug ab, statt dich auf eine reine Textantwort zu verlassen."
+       ],
+       "konkret": "Wähle eine kleine Aufgabe, die eine exakte Rechnung oder Auswertung verlangt, und lass sie das Modell mit dem serverseitigen Werkzeug zur Codeausführung erledigen, statt dich auf eine geschätzte Textantwort zu verlassen.",
+       "snippetLabel": "Rechnung serverseitig ausführen lassen",
+       "snippet": "llm -m gemini-3.7-flash -T CodeExecution \\\n  \"<span class=\\\"ph\\\">{deine Rechen- oder Datenaufgabe}</span>\"\n# das Modell schreibt Python und führt es auf dem Server aus",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/"
+      },
+      {
+       "icon": "layers",
+       "title": "Ein frei lizenziertes Modell für vertrauliche Aufgaben selbst betreiben",
+       "tag": "Vertraulichkeit",
+       "paras": [
+        "Der Technikkonzern Meta, das Unternehmen hinter Facebook und Instagram, hat ein neues Sprachmodell namens Muse Glimmer veröffentlicht, ein KI-System mit rund dreißig Milliarden sogenannten Parametern, also einstellbaren Stellschrauben, die das Verhalten des Modells bestimmen. Besonders ist die freizügige Apache-2.0-Lizenz: Eine Lizenz regelt, was man mit einer Software tun darf, und diese erlaubt ausdrücklich auch die geschäftliche Nutzung und den Betrieb auf eigenen Rechnern.",
+        "Für dich ist das eine Möglichkeit, ein leistungsfähiges Modell für vertrauliche oder geschäftskritische Aufgaben ohne laufende Nutzungskosten und ohne Umweg über einen fremden Dienst zu betreiben. Wo Daten den eigenen Rechner nicht verlassen sollen, kann ein solches Modell die sicherere und auf Dauer günstigere Wahl sein als ein werbefinanzierter oder abopflichtiger Cloud-Dienst."
+       ],
+       "konkret": "Prüfe bei einer vertraulichen, wiederkehrenden Aufgabe, ob sich dafür ein frei lizenziertes Modell wie Muse Glimmer lokal auf deinem Rechner betreiben lässt, und vergleiche Ergebnis, Tempo und Kosten mit deinem bisherigen Cloud-Dienst.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/"
       }
      ]
     }
