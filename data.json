@@ -2,171 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Freitag, 14. August 2026",
-      "weather": "clear",
-      "temp": "36°C · sonnig",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar steht heute ein wolkenloser, sonniger Hochsommertag mit bis zu 36 Grad, der schon am Vormittag heiß wird und am Nachmittag seinen Höhepunkt erreicht. In der Weltlage steigen die Spannungen in der Straße von Hormus, einer wichtigen Meerenge für den Öltransport, kurz vor dem Ende einer Feuerpause zwischen den Vereinigten Staaten und dem Iran. In der Wirtschaft hellt sich die Stimmung auf: Ein wichtiger Frühindikator legt den vierten Monat in Folge zu. Aus der Forschung kommt ein Durchbruch bei winzigen Transistoren jenseits des Siliziums, und als Lichtblick kehren nach mehr als sechshundert Jahren wieder Weißstörche ins mittelenglische Bergland zurück. Hier ist deine Morgenlage.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Spannungen in der Straße von Hormus vor Ende der Feuerpause",
-              "text": "Kurz vor dem Auslaufen einer sechzigtägigen Feuerpause zwischen den Vereinigten Staaten und dem Iran an diesem Samstag hat sich die Lage in der Straße von Hormus zugespitzt, einer schmalen Meerenge am Persischen Golf, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird. In der Nacht wurden nach Angaben aus der Region zwei Schiffe des staatlichen Ölkonzerns Adnoc aus den Vereinigten Arabischen Emiraten angegriffen. Verletzt wurde nach ersten Meldungen niemand; die Emirate machten den Iran für den Vorfall verantwortlich, der die Darstellung zurückwies. Das zählt, weil Störungen in dieser Meerenge die Öl- und Energiepreise weltweit und damit auch die Kosten in Deutschland spürbar beeinflussen können.",
-              "source": "ZDFheute / internationale Agenturen",
-              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-            },
-            {
-              "title": "Waldbrand im Hürtgenwald zwingt einen Ort zur Räumung",
-              "text": "Im Hürtgenwald in Nordrhein-Westfalen, einem großen Waldgebiet nahe der Grenze zu Belgien, ist ein Waldbrand ausgebrochen, der die Räumung des Ortsteils Gey mit rund 1.800 Einwohnern nötig gemacht hat. Ein Waldbrand ist ein großflächiges Feuer in Wald- und Buschland, das in der trockenen Hitze des Hochsommers besonders leicht entsteht und sich rasch ausbreitet. Einsatzkräfte waren mit einem Großaufgebot im Einsatz, um die Flammen einzudämmen und die Ausbreitung auf bewohnte Gebiete zu verhindern. Das zählt, weil die anhaltende Hitze und Trockenheit auch in Deutschland das Risiko solcher Brände erhöht und zeigt, wie schnell aus Wetterlagen konkrete Gefahren für Menschen und Orte werden.",
-              "source": "ZDFheute / internationale Agenturen",
-              "url": "https://www.zdfheute.de/politik/ausland"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Stimmungsindikator für die Eurozone steigt den vierten Monat in Folge",
-              "text": "Der vom Analysehaus Sentix erhobene Konjunkturindikator für den Euroraum ist im August um 4,0 Punkte auf plus 0,9 Punkte gestiegen und damit den vierten Monat in Folge geklettert. Ein solcher Indikator ist eine regelmäßige Umfrage unter Finanzfachleuten, die deren Einschätzung der wirtschaftlichen Lage in einer einzigen Kennzahl bündelt und damit als Frühwarnsystem für die Konjunktur dient. Für Deutschland verbesserte sich der Wert auf minus 11,9 Punkte nach zuvor minus 19,4 Punkten, der dritte Anstieg in Folge; er liegt damit zwar noch im Minus, deutet aber auf eine allmähliche Stabilisierung hin. Das zählt, weil sich eine wieder bessernde Grundstimmung mit einiger Verzögerung in mehr Aufträgen und Investitionen niederschlägt, von denen auch kleine Betriebe profitieren.",
-              "source": "dpa-AFX / Sentix",
-              "url": "https://de.investing.com/news/economic-indicators/eurozone-sentixkonjunkturindex-erholt-sich-vierten-monat-in-folge-3610644"
-            },
-            {
-              "title": "EU-Kommission erwartet leichtes Wachstum für Deutschland",
-              "text": "Nach der aktuellen Prognose der Europäischen Kommission, der obersten Verwaltungsbehörde der Europäischen Union, soll die deutsche Wirtschaftsleistung im Jahr 2026 real, also nach Abzug der Preissteigerung, um 0,6 Prozent gegenüber dem Vorjahr wachsen. Nach zwei sehr schwachen Jahren kehrt die größte Volkswirtschaft der Europäischen Union damit auf einen wenn auch bescheidenen Wachstumspfad zurück. Die Zahl bleibt niedrig und deutet auf eine langsame, ungleich verteilte Erholung hin, bei der die Unsicherheiten etwa bei Energiekosten und im Außenhandel fortbestehen. Das zählt, weil selbst ein kleines Plus die Rahmenbedingungen für Selbstständige verbessert und die Bereitschaft von Kunden und Partnern stützt, wieder mehr zu investieren.",
-              "source": "Europäische Kommission",
-              "url": "https://de.statista.com/statistik/daten/studie/159507/umfrage/prognose-zur-entwicklung-des-bip-in-den-laendern-der-eurozone/"
-            }
-          ],
-          "merk": {
-            "text": "Vier Monate steigende Stimmung sind noch keine Wende, aber ein belastbares Signal, dass sich die Lage stabilisiert. Für dich kann das der richtige Zeitpunkt sein, Angebote und Investitionen vorzubereiten, damit du bereit bist, wenn die Nachfrage anzieht, ohne dich schon jetzt zu übernehmen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Weißstörche kehren nach über sechshundert Jahren nach Mittelengland zurück",
-              "text": "In den Midlands, dem Bergland im Zentrum Englands, sind zum ersten Mal seit mehr als sechshundert Jahren wieder Weißstörche heimisch geworden, dank eines langfristig angelegten Wiederansiedlungsprojekts. Der Weißstorch ist ein großer, schwarz-weißer Zugvogel mit langem rotem Schnabel, der in Deutschland als Frühlingsbote bekannt ist, in Teilen Englands aber über Jahrhunderte verschwunden war. Fachleute werten die Rückkehr als Zeichen dafür, dass sich mit Geduld und geeigneten Lebensräumen selbst lange verlorene Arten wieder ansiedeln lassen. Das zählt, weil es zeigt, dass Naturschutz nicht nur Verluste bremsen, sondern verlorene Vielfalt tatsächlich zurückbringen kann.",
-              "img": "https://live.staticflickr.com/2054/1713396595_58e04d2b68_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/"
-            },
-            {
-              "title": "Abholzung im Amazonasgebiet geht um mehr als ein Drittel zurück",
-              "text": "In der ersten Hälfte des Jahres 2026 wurde im brasilianischen Amazonasgebiet deutlich weniger Regenwald gerodet als im Jahr zuvor: Betroffen waren rund 500 Quadratmeilen gegenüber 807 Quadratmeilen im gleichen Zeitraum 2025, ein Rückgang um etwa 38 Prozent. Der Amazonas-Regenwald ist das größte zusammenhängende tropische Waldgebiet der Erde und spielt für das Weltklima eine zentrale Rolle, weil er große Mengen des Treibhausgases Kohlendioxid bindet. Ane Alencar, wissenschaftliche Leiterin eines brasilianischen Umweltforschungsinstituts, wertete den Rückgang als Beleg, dass sich der politische Wille zum Schutz des Waldes durchgesetzt habe. Das zählt, weil der Erhalt dieses Waldes zu den wirksamsten Hebeln gegen die Erderwärmung gehört und der Trend zeigt, dass politische Entscheidungen hier rasch messbare Wirkung entfalten.",
-              "img": "https://live.staticflickr.com/3471/3259219951_797fcb036c_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Winziger Transistor stößt an die Grenzen des Siliziums",
-              "text": "Forschende haben einen Transistor mit einer aktiven Schicht von nur 0,42 Nanometern vorgestellt, also weniger als einem Millionstel Millimeter, und damit einen Weg jenseits des klassischen Halbleiters Silizium aufgezeigt. Ein Transistor ist ein winziger elektronischer Schalter; Milliarden von ihnen bilden das Herz jedes Computerchips. Möglich wurde der Fortschritt durch eine sorgfältig gestaltete Grenzschicht zwischen den Materialien, die den Fluss der Elektronen schützt und zugleich extrem dünne Isolierschichten erlaubt, was eine ungewöhnlich starke elektrische Kontrolle ergibt. Das zählt, weil kleinere und besser steuerbare Transistoren die Grundlage für leistungsfähigere und sparsamere Elektronik in den kommenden Jahren legen könnten.",
-              "img": "https://live.staticflickr.com/8434/7587516790_046f5c03d2_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
-            },
-            {
-              "title": "Neuer Edelstahl könnte teures Titan bei grünem Wasserstoff ersetzen",
-              "text": "Ein Forschungsteam hat einen ungewöhnlich korrosionsbeständigen Edelstahl entwickelt, der teure Bauteile aus Titan bei der Herstellung von grünem Wasserstoff ersetzen könnte. Grüner Wasserstoff ist ein Energieträger, der mit Strom aus erneuerbaren Quellen aus Wasser gewonnen wird und als Baustein einer klimafreundlichen Industrie gilt. Korrosion bezeichnet die allmähliche Zersetzung von Metall durch chemische Einflüsse; die dafür bisher nötigen Titanbauteile sind sehr kostspielig. Nach Angaben der Forschenden ließen sich mit dem neuen Stahl die Materialkosten für tragende Teile um etwa das Vierzigfache senken. Das zählt, weil günstigere und langlebige Werkstoffe die Herstellung von grünem Wasserstoff wirtschaftlicher und damit den Umbau zu sauberer Energie leichter erreichbar machen.",
-              "img": "https://live.staticflickr.com/6235/6209626523_a8f0776c93.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Heißer Hochsommertag, am Sonntag Sommer-Sonntag am Alten Freibad",
-              "text": "Über Horb am Neckar steht heute ein wolkenloser Hochsommertag mit bis zu 36 Grad; ein schattiger Platz, ausreichend Trinken und die kühleren Morgen- und Abendstunden für anstrengende Arbeiten sind an solchen Tagen die einfachste Vorsorge. Wer die Tage plant: Am kommenden Sonntag, dem 16. August, wird die Reihe der Sommer-Sonntage am Alten Freibad fortgesetzt, jeweils ab 15 Uhr. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung unter freiem Himmel dient. Das zählt, weil solche wohnortnahen Angebote in der Ferienzeit eine unkomplizierte Möglichkeit sind, einen milden Sommerabend im Freien zu verbringen.",
-              "img": "https://live.staticflickr.com/3552/3378659818_11668c7a1a.jpg",
-              "source": "wasgehtapp / Veranstaltungskalender",
-              "url": "https://www.wasgehtapp.de/location.php?id=31016"
-            },
-            {
-              "title": "Morgen Kriminal-Dinner im Gasthof Adler",
-              "text": "Am morgigen Samstag, dem 15. August 2026, findet in Horb am Neckar ein sogenanntes Kriminal-Dinner statt, ein geselliger Abend, bei dem die Gäste zu einem mehrgängigen Menü einen erfundenen Kriminalfall miträtseln. Solche Formate verbinden gemeinsames Essen mit einem unterhaltsamen Rätselspiel, dessen Handlung sich zwischen den Gängen entfaltet; Beginn ist um 19 Uhr im Gasthof Adler. Wegen der begrenzten Platzzahl sind Karten in der Regel im Vorverkauf zu sichern. Das zählt, weil solche Abende eine kurzweilige Möglichkeit sind, die Region auch abseits der großen Feste kennenzulernen und mit anderen ins Gespräch zu kommen.",
-              "source": "Veranstaltungen Baden-Württemberg",
-              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "An einem sehr heißen Tag ist die klügste Arbeit oft die, die du in die kühlen Stunden verlegst und bewusst ruhen lässt, wenn die Sonne am höchsten steht."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Invest BW: Landesförderung für innovative Projekte",
-            "text": "Mit dem Programm Invest BW fördert das Land Baden-Württemberg innovative Vorhaben von Unternehmen, darunter ausdrücklich auch Projekte rund um künstliche Intelligenz, also Computerprogramme, die eigenständig Muster erkennen und Aufgaben lösen. Gefördert wird ein Teil der förderfähigen Kosten als Zuschuss, also als finanzielle Unterstützung, die nicht zurückgezahlt werden muss; die Förderquote liegt je nach Vorhaben etwa zwischen 15 und 45 Prozent. Antragsberechtigt sind Unternehmen unterschiedlicher Größe, von etablierten Betrieben bis zu jungen Gründungen, mit einem klar umrissenen, technologisch anspruchsvollen Projekt.",
-            "why": "Für dich als Solo-Unternehmer kann das ein Weg sein, ein ambitioniertes Vorhaben, etwa den Aufbau eines KI-gestützten Produkts oder Dienstes, mit öffentlichem Geld abzufedern und so das eigene Risiko zu senken. Weil Anträge in der Regel vor Projektbeginn gestellt werden müssen und Fristen sowie Aufruf-Runden gelten, lohnt es sich, ein konkretes Vorhaben zu umreißen und frühzeitig die aktuellen Bedingungen auf der Programmseite zu prüfen.",
-            "source": "Invest BW / Land Baden-Württemberg",
-            "url": "https://invest-bw.de/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale zeigen in dieselbe Richtung: Leistungsfähige KI wandert stärker auf den eigenen Rechner und auf gemeinsame Standards. Dein Hebel liegt darin, weniger von einzelnen Anbietern abhängig zu sein und Abläufe auf offene, austauschbare Bausteine zu stellen.",
-          "cards": [
-            {
-              "icon": "layers",
-              "title": "Ein starkes Modell lokal auf dem eigenen Rechner testen",
-              "tag": "Unabhängigkeit",
-              "paras": [
-                "Der Konzern Meta hat mit Muse Glimmer ein sogenanntes Modell mit offenen Gewichten veröffentlicht, das rund 30 Milliarden Parameter umfasst. Offene Gewichte bedeutet, dass die trainierten inneren Werte des Modells frei verfügbar sind, sodass du es selbst herunterladen und ohne Anbindung an einen Cloud-Dienst betreiben kannst. Die Parameter sind die vielen einstellbaren Zahlen, die das Wissen eines Modells speichern; 30 Milliarden davon gelten als handhabbar für leistungsfähige Rechner. Das Modell ist darauf ausgelegt, mehrschrittig zu planen, Werkzeuge zuverlässig zu benutzen und auch Bilder auszuwerten.",
-                "Nach einem ersten Praxisbericht läuft ein solches Modell bereits auf Rechnern mit etwa 32 Gigabyte Arbeitsspeicher und lässt Raum für andere Anwendungen. Für dich heißt das: Aufgaben wie das Durchsehen von Code oder das Auswerten von Texten und Bildern lassen sich lokal erledigen, ohne laufende Kosten pro Anfrage und ohne dass deine Daten das Haus verlassen, was gerade beim Datenschutz ein spürbarer Vorteil sein kann."
-              ],
-              "konkret": "Wähle eine wiederkehrende Aufgabe, die du bisher an einen Cloud-Dienst schickst, und teste sie einmal mit einem lokal laufenden offenen Modell, um Ergebnis, Tempo und Datenschutz zu vergleichen.",
-              "snippetLabel": "Ein lokales Modell ansprechen (Platzhalter anpassen)",
-              "snippet": "llm -m <span class=\"ph\">{lokales-modell}</span> \\\n  \"<span class=\"ph\">{deine Aufgabe}</span>\"\n# sobald das Modell lokal verfügbar ist,\n# ersetzt du den Platzhalter durch seinen Namen",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/"
-            },
-            {
-              "icon": "terminal",
-              "title": "MCP-Anbindungen auf die neue, sicherere Fassung heben",
-              "tag": "Standards",
-              "paras": [
-                "Das Model Context Protocol, kurz MCP, ist ein offener Standard, über den KI-Programme zusätzliche Werkzeuge und Datenquellen einheitlich ansprechen. Die neue Fassung vom 28. Juli 2026 macht den Kern des Protokolls zustandslos, das heißt, ein Server muss sich zwischen einzelnen Anfragen nichts mehr merken. Das erleichtert das Verteilen auf mehrere Server und verbessert die Erholung nach Ausfällen, weil kein einzelner Punkt mehr zum Nadelöhr wird. Zusätzlich wurde die Anmeldung und Rechtevergabe gehärtet, um eine bekannte Art von Angriff auf das Anmeldeverfahren zu erschweren.",
-                "Für dich ist das ein guter Anlass, deine eigenen MCP-Anbindungen zu prüfen und die verwendeten Bausteine zu aktualisieren. Vom zustandslosen Aufbau profitierst du vor allem, wenn Abläufe zuverlässig laufen sollen, auch wenn ein Dienst kurz ausfällt; von der gehärteten Rechtevergabe profitiert jede Anbindung, die Zugriff auf sensible Daten oder Konten hat."
-              ],
-              "konkret": "Sieh in deinen genutzten MCP-Servern und -Bibliotheken nach, ob es eine auf die Fassung 2026-07-28 aktualisierte Version gibt, und plane die Aktualisierung besonders dort ein, wo eine Anbindung Zugriff auf Konten oder vertrauliche Daten hat.",
-              "source": "Model Context Protocol Blog",
-              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Samstag, 15. August 2026",
       "weather": "clouds",
       "temp": "35°C · bewölkt",
@@ -989,7 +824,6 @@
       "weather": "clouds",
       "temp": "26°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute ein wechselnd bewölkter Spätsommertag bei rund 26 Grad, angenehm mild und ohne die Hitze früherer Wochen. In der Weltlage verschärft US-Präsident Donald Trump den wirtschaftlichen Druck auf den Iran, während russische Angriffe auf die ukrainische Hauptstadt Kiew mehrere Menschen töten. In der Wirtschaft hellen sich die Konjunkturerwartungen für Deutschland den vierten Monat in Folge auf. Als Lichtblick geht die Entwaldung im brasilianischen Regenwald deutlich zurück, und aus der Forschung meldet die NASA, dass sie der betagten Raumsonde Voyager 2 noch einmal Betriebszeit abgerungen hat. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1139,6 +973,158 @@
               "konkret": "Aktualisiere dein LLM-Werkzeug auf Version 0.32 und probiere bei einer Aufgabe mit exakter Rechnung ein serverseitiges Werkzeug aus, während du die angezeigten Denk-Schritte mitliest.",
               "source": "Simon Willison",
               "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Freitag, 21. August 2026",
+      "weather": "rain",
+      "temp": "18°C · Regen",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zieht heute ein kühler, regnerischer Spätsommertag mit Schauern bei rund 18 Grad, ein spürbarer Wechsel nach den milden Vortagen. In der Weltlage sorgen niedrige Gasspeicherstände in Deutschland und ein mutmaßlicher russischer Luftraumverstoß über der Ostsee für Aufmerksamkeit. In der Wirtschaft hellen sich die Konjunkturerwartungen weiter auf, während niedrige Pegelstände am Rhein ein neues Risiko sind. Als Lichtblick sinkt die Entwaldung im brasilianischen Amazonasgebiet auf den tiefsten Stand seit dreizehn Jahren, und aus der Forschung kommt ein Quantenmaterial, das Licht bei Raumtemperatur sortiert. Hier ist deine Morgenlage.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Deutsche Gasspeicher auf historischem Tiefstand",
+              "text": "Die Gasspeicher in Deutschland sind nach Angaben des Branchenverbands Initiative Energien Speichern, kurz Ines, auf den niedrigsten Füllstand seit Beginn der Aufzeichnungen im Jahr 2011 gefallen. Der Verband vertritt die Betreiber der unterirdischen Gasspeicher, in denen Erdgas für den Winter eingelagert wird. Ein niedriger Füllstand im Spätsommer bedeutet, dass bis zum Beginn der kalten Jahreszeit vergleichsweise viel Gas nachgekauft und eingespeichert werden muss. Das zählt, weil gut gefüllte Speicher als Puffer gegen Versorgungsengpässe und stark schwankende Preise gelten und ein niedriger Stand die Heiz- und Energiekosten für Haushalte und Betriebe im kommenden Winter beeinflussen kann.",
+              "source": "Initiative Energien Speichern (Ines) / Agenturen"
+            },
+            {
+              "title": "Verdacht auf russischen Luftraumverstoß über der Ostsee",
+              "text": "Ein russisches Flugzeug soll nach finnischen Angaben den finnischen Luftraum über der Ostsee verletzt haben. Finnland, das im Jahr 2023 dem westlichen Verteidigungsbündnis Nato beigetreten ist, teilt eine lange Grenze mit Russland. Solche mutmaßlichen Verstöße werden von den betroffenen Staaten regelmäßig untersucht und auf diplomatischem Weg angesprochen. Das zählt, weil wiederholte Zwischenfälle an der Nato-Außengrenze die ohnehin angespannte Sicherheitslage im Ostseeraum weiter belasten und das Verhältnis zwischen Russland und den europäischen Anrainerstaaten prägen.",
+              "source": "Finnische Behörden / Agenturen"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "ZEW-Konjunkturerwartungen steigen den vierten Monat in Folge",
+              "text": "Die vom Zentrum für Europäische Wirtschaftsforschung, kurz ZEW, in Mannheim erhobenen Konjunkturerwartungen für Deutschland sind im August auf 34,2 Punkte gestiegen, nach 26,3 Punkten im Juli. Das ZEW befragt dafür monatlich Finanzfachleute nach ihrer Einschätzung der wirtschaftlichen Entwicklung in den kommenden sechs Monaten. Als Gründe nennen die Fachleute vor allem starke Quartalszahlen und einen zuletzt hohen Wert bei den Ausfuhren. Das zählt, weil die Erwartungen als Frühindikator gelten und ein anhaltender Anstieg auf eine sich festigende Erholung der deutschen Wirtschaft hindeuten kann.",
+              "source": "ZEW Mannheim / finanzen.ch",
+              "url": "https://www.finanzen.ch/nachrichten/aktien/zew-konjunkturerwartungen-fuer-deutschland-steigen-im-august-1036469777"
+            },
+            {
+              "title": "Niedriger Rhein-Pegel wird zum Konjunkturrisiko",
+              "text": "Nach Einschätzung des Deutschen Instituts für Wirtschaftsforschung, kurz DIW Berlin, stellen die aktuell sehr niedrigen Wasserstände des Rheins ein kurzfristiges zusätzliches Risiko für die deutsche Wirtschaft dar. Der Rhein ist eine der wichtigsten Wasserstraßen Europas, über die unter anderem Kohle, Chemieprodukte und Baustoffe transportiert werden. Bei niedrigem Pegel können Frachtschiffe nur teilbeladen fahren, was Transporte verteuert und verzögert. Das zählt, weil solche Engpässe die Industrie ausgerechnet in einer Phase treffen, in der sich die Konjunktur gerade wieder aufhellt.",
+              "source": "DIW Berlin",
+              "url": "https://www.diw.de/de/diw_01.c.1002702.de/publikationen/wochenberichte/2026_11_2/deutsche_wirtschaft_im_aufschwung_____weltwirtschaft_waechst_moderat_weiter.html"
+            }
+          ],
+          "merk": {
+            "text": "Die EZB, die Europäische Zentralbank, dürfte nach Markterwartung vorerst keine weiteren Zinsschritte vornehmen; die Inflation im Euroraum liegt 2026 bei rund 2,4 Prozent.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Entwaldung im Amazonasgebiet auf tiefstem Stand seit 13 Jahren",
+              "text": "Die Warnmeldungen über Rodungen im brasilianischen Amazonasgebiet sind auf den niedrigsten Stand seit dreizehn Jahren gefallen. Das brasilianische Weltrauminstitut Inpe, das die Regenwaldfläche per Satellit überwacht, registrierte im Zeitraum bis Ende Juli 2026 Warnungen für rund 2.874 Quadratkilometer, mehr als ein Drittel weniger als im Vorjahr und gut die Hälfte unter dem Durchschnitt des vergangenen Jahrzehnts. Der Amazonas-Regenwald bindet große Mengen des Treibhausgases Kohlendioxid und gilt als wichtiger Faktor für das Weltklima. Das zählt, weil ein anhaltender Rückgang der Rodungen zeigt, dass entschlossener Schutz messbare Ergebnisse bringen kann.",
+              "img": "https://live.staticflickr.com/2472/3543276157_4f08c359bd_b.jpg",
+              "source": "Positive News / Inpe",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
+            },
+            {
+              "title": "Rekord-Brutsaison für den seltenen Kakapo in Neuseeland",
+              "text": "Der Kakapo, ein flugunfähiger Nachtpapagei aus Neuseeland und einer der seltensten Vögel der Welt, hat die erfolgreichste Brutsaison seiner Geschichte erlebt. Nach Angaben der neuseeländischen Naturschützer schlüpften im Jahr 2026 mehr als hundert Küken, deutlich mehr als der bisherige Rekord von 85 Küken aus dem Jahr 2019. Von dem grünen, moosartig gefärbten Vogel gibt es nur noch gut 235 ausgewachsene Tiere, die auf wenigen raubtierfreien Inseln streng betreut werden. Das zählt, weil jahrzehntelange, geduldige Schutzarbeit hier eine Art vom Rand des Aussterbens zurückholt.",
+              "img": "https://live.staticflickr.com/2567/4054781018_e261025ca2.jpg",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Quantenmaterial sortiert Licht bei Raumtemperatur",
+              "text": "Forschende haben nach einem Bericht des Wissenschaftsportals ScienceDaily das erste Quantenmaterial vorgestellt, das verschiedene Quantenzustände von Licht bei Raumtemperatur sortieren und weiterleiten kann. Quantenzustände sind sehr empfindliche Eigenschaften einzelner Lichtteilchen, die sich für abhörsichere Kommunikation und künftige Quantencomputer nutzen lassen. Bislang war dafür meist eine aufwendige Kühlung nahe dem absoluten Nullpunkt nötig. Das zählt, weil der Verzicht auf sperrige Kältetechnik solche Quantensysteme kleiner, günstiger und alltagstauglicher machen könnte.",
+              "img": "https://live.staticflickr.com/5637/25389377749_a7f85d99ed_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Korrosionsfester Stahl soll grünen Wasserstoff billiger machen",
+              "text": "Ein Forschungsteam hat einen ungewöhnlich korrosionsbeständigen Edelstahl entwickelt, der teure Bauteile aus Titan bei der Herstellung von grünem Wasserstoff ersetzen könnte. Grüner Wasserstoff wird mit Strom aus erneuerbaren Quellen erzeugt und gilt als möglicher Baustein einer klimafreundlichen Industrie. Nach Angaben der Forschenden lassen sich die Materialkosten für bestimmte Bauteile so um etwa das Vierzigfache senken. Das zählt, weil die hohen Kosten bislang zu den größten Hürden auf dem Weg zu bezahlbarem grünem Wasserstoff gehören.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Regentag lädt zu Kultur in der Neckar-Region",
+              "text": "Der heutige Regentag bei rund 18 Grad bietet sich für einen Ausflug unter Dach an. Im nahen Tübingen zeigt das Kunstmuseum die Ausstellung Steve McCurry - Icons mit weltbekannten Fotografien des US-amerikanischen Fotografen Steve McCurry, darunter das Porträt des afghanischen Mädchens mit den grünen Augen. Tübingen liegt rund 40 Kilometer von Horb entfernt und ist über das Neckartal gut erreichbar. Das zählt, weil ein solcher Ausstellungsbesuch ein gut planbares Ziel für einen verregneten Spätsommertag in der Region ist.",
+              "img": "https://live.staticflickr.com/2306/2171370057_1e36ab05a4_b.jpg",
+              "source": "meinestadt.de Veranstaltungskalender",
+              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+            },
+            {
+              "title": "Veranstaltungskalender der Stadt Horb",
+              "text": "Wer lieber in Horb am Neckar selbst bleibt, findet die aktuellen städtischen Termine im offiziellen Veranstaltungskalender der Stadt. Dort werden Märkte, Konzerte, Führungen und Vereinsangebote gebündelt und laufend aktualisiert. Gerade an einem wechselhaften Wochenende lohnt der kurze Blick, um kurzfristige Programmpunkte in der Altstadt oder den Teilorten nicht zu verpassen. Das zählt, weil sich so mit wenig Aufwand ein passender Programmpunkt vor der eigenen Haustür finden lässt.",
+              "source": "Stadt Horb am Neckar",
+              "url": "https://www.horb.de/Veranstaltungen"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein Regentag im Spätsommer ist eine gute Gelegenheit, liegen gebliebene Dinge in Ruhe zu ordnen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Digitalisierungsfinanzierung der L-Bank Baden-Württemberg",
+            "text": "Die landeseigene Förderbank L-Bank bietet mit der Digitalisierungsfinanzierung, dem Nachfolgeprogramm der früheren Digitalisierungsprämie Plus, zinsverbilligte Darlehen mit einem Tilgungszuschuss für Digitalisierungsvorhaben in Baden-Württemberg an. Ein Tilgungszuschuss bedeutet, dass ein Teil des Kredits nach erfolgreichem Abschluss nicht zurückgezahlt werden muss. Das Programm richtet sich vor allem an kleine und mittlere Unternehmen; die genauen Bedingungen und ob auch Solo-Selbstständige antragsberechtigt sind, sollte man vor einer Investition direkt bei der L-Bank prüfen.",
+            "why": "Ein regionales Förderprogramm kann Investitionen in eigene Software, Automatisierung oder KI-Werkzeuge spürbar günstiger machen, wenn die Voraussetzungen passen.",
+            "source": "Architektenkammer Baden-Württemberg / L-Bank",
+            "url": "https://www.akbw.de/berufspraxis/buerofuehrung/digitalisierungspraemie-plus"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Quellen des Tages: Simon Willison zum Release der Kommandozeilen-Software LLM in Version 0.32.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Sichtbare Denkspuren und schlankere Protokolle mit LLM 0.32 nutzen",
+              "tag": "Werkzeug",
+              "paras": [
+                "Der Entwickler Simon Willison hat Version 0.32 seines offenen Kommandozeilen-Werkzeugs LLM veröffentlicht, mit dem sich verschiedene Sprachmodelle direkt aus der Kommandozeile ansprechen lassen. Neu ist unter anderem, dass die Modelle ihre sichtbaren Denkspuren, also Zwischenüberlegungen, auf dem Fehlerkanal ausgeben, während die eigentliche Antwort auf dem normalen Ausgabekanal sauber weiterverarbeitet werden kann.",
+                "Zudem wurde die Protokollierung auf eine inhaltsadressierte SQLite-Datenbank umgestellt, ähnlich dem Versionsverwaltungssystem Git: Gleiche Nachrichten werden nur einmal gespeichert und über ihren Inhalts-Prüfwert referenziert, was doppelte Daten vermeidet. Für dein System bedeutet das eine kompaktere, durchsuchbare Historie deiner Modellaufrufe."
+              ],
+              "konkret": "Denkspuren getrennt vom Ergebnis mitschneiden, ohne die eigentliche Ausgabe zu verunreinigen.",
+              "snippetLabel": "Beispiel für die Kommandozeile",
+              "snippet": "llm \"<span class=\"ph\">{deine Frage}</span>\" \\\n  > antwort.txt 2> denkspur.txt\n\n# Denkspuren unterdruecken:\nllm -R \"<span class=\"ph\">{deine Frage}</span>\"\n\n# Protokoll durchsuchen:\nllm logs --search \"<span class=\"ph\">{stichwort}</span>\"",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+              "score": 4
             }
           ]
         }
