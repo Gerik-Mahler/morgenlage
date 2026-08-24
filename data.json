@@ -2,169 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Montag, 17. August 2026",
-   "weather": "rain",
-   "temp": "24°C · Regen",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zieht heute Regen auf, und bei milderen bis zu 24 Grad bleibt es spürbar kühler als in der Hitze der vergangenen Wochen. In der Weltlage ringen die Vermittler weiter um einen Waffenstillstand im Gazastreifen, während die anhaltende Hitze in weiten Teilen Europas Flüsse und Kraftwerke unter Druck setzt. In der Wirtschaft arbeitet sich Deutschland langsam aus der Flaute, doch die Extremtemperaturen bremsen die Erholung des Kontinents. Aus der Forschung kommen ein Durchbruch bei extrem kleinen Transistoren und ein Quantenmaterial, das Licht bei Raumtemperatur sortiert, und als Lichtblick speiste Deutschland im Juli so viel Sonnenstrom ins Netz wie nie zuvor. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Ringen um Waffenstillstand im Gazastreifen dauert an",
-       "text": "Die Bemühungen um ein Ende des Krieges im Gazastreifen, dem dicht besiedelten palästinensischen Küstenstreifen am östlichen Mittelmeer, kommen weiter nur mühsam voran. Die militante palästinensische Organisation Hamas, die den Gazastreifen kontrolliert, hatte einem von den Vereinigten Staaten vorgelegten Fahrplan mit fünfzehn Punkten zugestimmt, der eine Entwaffnung der Hamas und einen Rückzug israelischer Truppen vorsieht. Der israelische Ministerpräsident Benjamin Netanjahu, der Regierungschef Israels, lehnte die Vereinbarung jedoch ab und verlangte eine vollständige und nachprüfbare Entwaffnung. Das zählt, weil ein tragfähiger Waffenstillstand über das Leid vieler Menschen vor Ort entscheidet und zugleich die Stabilität einer ganzen Weltregion berührt, in der zahlreiche Staaten und Bündnisse eigene Interessen verfolgen.",
-       "source": "internationale Agenturen",
-       "url": "https://aa.com.tr/en/world/morning-briefing-aug-17-2026/4029047"
-      },
-      {
-       "title": "Hitze und Dürre setzen Europas Flüsse und Kraftwerke unter Druck",
-       "text": "Eine anhaltende Hitzewelle mit Temperaturen von örtlich über 45 Grad hält weite Teile Europas in Atem und lässt die Pegel großer Flüsse stark absinken. An der Donau, dem zweitlängsten Strom Europas, führte das niedrige Wasser in Rumänien und Ungarn dazu, dass Kernreaktoren gedrosselt oder abgeschaltet werden mussten, weil ihnen das Kühlwasser fehlte. Ein Kernreaktor ist eine Anlage, die aus der Spaltung von Atomkernen Wärme gewinnt und daraus Strom erzeugt; für die Kühlung ist er auf große Mengen Flusswasser angewiesen. Das zählt, weil sich hier zeigt, wie eng Klima, Wasserversorgung und Energieerzeugung zusammenhängen und wie verwundbar die Stromversorgung in extremen Sommern wird.",
-       "source": "internationale Agenturen",
-       "url": "https://www.rador.ro/2026/08/17/revista-presei-internationale-17-august-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Deutsche Wirtschaft arbeitet sich langsam aus der Flaute",
-       "text": "Die deutsche Wirtschaft kehrt nach zwei schwachen Jahren allmählich auf einen leichten Wachstumspfad zurück, bleibt dabei aber verhalten. Aktuelle Konjunkturprognosen erwarten für das laufende Jahr 2026 ein Wachstum der Wirtschaftsleistung von rund 0,7 bis 1,0 Prozent. Die Wirtschaftsleistung, das Bruttoinlandsprodukt, misst den Wert aller in einem Jahr erzeugten Waren und Dienstleistungen; Konjunktur bezeichnet die allgemeine wirtschaftliche Lage im Auf und Ab. Das zählt, weil selbst eine langsame Erholung die Rahmenbedingungen für Selbstständige verbessert und die Bereitschaft von Kunden und Partnern stützt, wieder mehr in Aufträge und Vorhaben zu investieren.",
-       "source": "Tagesspiegel / Konjunkturprognosen",
-       "url": "https://www.tagesspiegel.de/wirtschaft/konjunktur-prognosen-deutsche-wirtschaft-muht-sich-aus-der-flaute-15066747.html"
-      },
-      {
-       "title": "Extreme Hitze belastet Europas Wachstum",
-       "text": "Fachleute warnen, dass die anhaltende Sommerhitze die ohnehin schwache Erholung der europäischen Wirtschaft in diesem Jahr spürbar dämpfen könnte. Extremtemperaturen belasten zugleich mehrere Bereiche: Sie mindern Ernten in der Landwirtschaft, stören Verkehr und Energieversorgung, drücken auf den Tourismus und lassen die Kosten für Versicherungen steigen. Von einem konjunkturellen Gegenwind spricht man, wenn äußere Umstände das Wirtschaftswachstum bremsen. Das zählt, weil Wetter und Klima damit zu einem messbaren Wirtschaftsfaktor werden, der auch kleine Betriebe über Preise, Lieferketten und die Nachfrage ihrer Kunden erreicht.",
-       "source": "internationale Agenturen",
-       "url": "https://www.rador.ro/2026/08/17/revista-presei-internationale-17-august-2026/"
-      }
-     ],
-     "merk": {
-      "text": "Für dich bedeutet das eine Mischung aus vorsichtiger Zuversicht und Wachsamkeit: Die Erholung stützt die Nachfrage, doch äußere Belastungen wie die Hitze können kurzfristig für Schwankungen sorgen. Ein guter Zeitpunkt, um Rücklagen und flexible Abläufe zu pflegen, damit du auf Auftragsspitzen wie auf Durststrecken gleichermaßen gelassen reagieren kannst.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Deutschland speist im Juli so viel Sonnenstrom ein wie nie zuvor",
-       "text": "Im Juli 2026 hat Deutschland mit rund zwölf Milliarden Kilowattstunden so viel Solarstrom in einem einzigen Monat ins öffentliche Stromnetz eingespeist wie nie zuvor. Eine Kilowattstunde ist die Energiemenge, die ein Gerät mit tausend Watt Leistung in einer Stunde verbraucht; ein durchschnittlicher Haushalt kommt im Jahr auf einige Tausend davon. Möglich wurde der Rekord durch den anhaltenden Ausbau von Solaranlagen auf Dächern und Freiflächen sowie durch die vielen sonnenreichen Sommertage. Das zählt, weil es zeigt, dass der Umbau hin zu erneuerbaren Energien in messbaren Schritten vorankommt und heiße, sonnige Wochen zumindest bei der Stromerzeugung auch einen Nutzen haben.",
-       "img": "https://live.staticflickr.com/3308/3414028795_d2083e0388_b.jpg",
-       "source": "Good News Network",
-       "url": "https://www.goodnewsnetwork.org/"
-      },
-      {
-       "title": "Gemeinden finanzieren mehr als 3000 Augenoperationen",
-       "text": "Mehrere Kirchengemeinden haben gemeinsam Spenden gesammelt und damit mehr als dreitausend lange erwartete Augenoperationen ermöglicht. Viele der Eingriffe betrafen den Grauen Star, eine im Alter häufige Trübung der Augenlinse, die unbehandelt bis zur Erblindung führen kann, sich aber mit einem kurzen Eingriff oft vollständig beheben lässt. Für die betroffenen Menschen bedeutet das Wiedererlangen des Augenlichts, dass sie wieder arbeiten, lesen und ihren Alltag selbstständig bewältigen können. Das zählt, weil es ein Beispiel dafür ist, wie gebündelte, überschaubare Hilfe vieler Einzelner eine große und dauerhafte Wirkung für ganze Gemeinschaften entfalten kann.",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-august-8-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Durchbruch bei extrem kleinen Transistoren jenseits von Silizium",
-       "text": "Forschende haben eine hauchdünne Bauweise für Transistoren vorgestellt, bei der eine nur 0,42 Nanometer dünne Isolierschicht den Fluss der Elektronen schützt und zugleich sehr fein steuert. Ein Transistor ist ein winziger elektronischer Schalter, aus dem moderne Computerchips zu Milliarden aufgebaut sind; ein Nanometer ist ein Millionstel Millimeter, also unvorstellbar klein. Bislang stößt das bewährte Grundmaterial Silizium bei solcher Winzigkeit an physikalische Grenzen, weshalb die Fachwelt nach neuen atomaren Bauformen sucht. Das zählt, weil kleinere und zugleich stabile Transistoren leistungsfähigere und sparsamere Chips ermöglichen könnten, auf denen künftige Rechner und auch KI-Anwendungen laufen.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Polycristalline-silicon-wafer_20060626_568.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
-      },
-      {
-       "title": "Quantenmaterial sortiert Licht bei Raumtemperatur",
-       "text": "Ein Forschungsteam hat nach eigenen Angaben das erste Quantenmaterial geschaffen, das verschiedene Quantenzustände von Licht bei normaler Raumtemperatur sortieren und weiterleiten kann. Ein Quantenzustand beschreibt eine der feinen, oft überraschenden Eigenschaften kleinster Teilchen, die sich für besonders sichere Datenübertragung und für Quantencomputer nutzen lassen. Bisher waren dafür aufwendige Kühlanlagen nötig, die die Materialien auf Temperaturen nahe dem absoluten Nullpunkt herunterkühlen. Das zählt, weil der Verzicht auf solche sperrige und teure Kühltechnik ein wichtiger Schritt sein könnte, um Quantentechnik aus dem Labor in den praktischen Einsatz zu bringen.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Regnerischer Wochenstart in Horb",
-       "text": "Über Horb am Neckar beginnt die Woche mit Regen und mit milderen bis zu 24 Grad, nach den heißen Tagen der Vorwoche eine spürbare Abkühlung. Ein solcher grauer Montag eignet sich gut, um Arbeiten drinnen zu erledigen, die Ruhe und Konzentration verlangen, und Erledigungen im Freien auf die trockeneren Stunden zu legen. Für den Garten und die Natur der Region ist der Landregen nach der langen Trockenheit zugleich eine willkommene Erfrischung. Das zählt, weil sich der Tag mit einem kurzen Blick auf den Wetterverlauf entspannter planen lässt und der Regen für die ausgetrockneten Böden ringsum eine gute Nachricht ist.",
-       "img": "https://live.staticflickr.com/3187/2969566789_bd32b8bab2_b.jpg",
-       "source": "open-meteo",
-       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-      },
-      {
-       "title": "Am kommenden Sonntag wieder Sommer-Sonntag am Alten Freibad",
-       "text": "Wer die Woche plant: Am kommenden Sonntag, dem 23. August, wird die Reihe der Sommer-Sonntage am Alten Freibad in Horb ab 15 Uhr fortgesetzt. Das Alte Freibad ist ein umgenutztes ehemaliges Schwimmbad, das heute als Ort für Kultur und Begegnung unter freiem Himmel dient. Falls sich das Wetter bis zum Wochenende wieder beruhigt, bietet sich damit ein entspannter Nachmittag im Freien an, ohne weite Anfahrt. Das zählt, weil solche wohnortnahen Angebote in der Ferienzeit eine unkomplizierte Möglichkeit sind, andere Menschen zu treffen und die Region abseits der großen Feste kennenzulernen.",
-       "source": "wasgehtapp / Veranstaltungskalender",
-       "url": "https://www.wasgehtapp.de/location.php?id=31016"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein grauer Regentag nimmt das Tempo heraus und schenkt eine gute Gelegenheit, in Ruhe an dem zu arbeiten, was sonst im Trubel liegen bleibt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "KOMPASS-Förderung: bis zu 4500 Euro für KI-Weiterbildung von Solo-Selbstständigen",
-      "text": "Das Bundesprogramm KOMPASS, ausgeschrieben als Kompetenzentwicklung über Plattformen für Solo-Selbstständige, unterstützt gezielt Menschen, die allein und ohne Angestellte selbstständig arbeiten. Gefördert werden Weiterbildungen, ausdrücklich auch zu künstlicher Intelligenz, mit einem Zuschuss von bis zu 4500 Euro, wobei rund 90 Prozent der Kosten erstattet werden. Ein Zuschuss ist im Unterschied zu einem Kredit Geld, das nicht zurückgezahlt werden muss. Die Teilnahme läuft über regionale Anlaufstellen, die zunächst gemeinsam mit dir den Weiterbildungsbedarf ermitteln.",
-      "why": "Für dich als Solo-Unternehmer kann das ein günstiger Weg sein, dein Wissen rund um KI-Werkzeuge und deren Einsatz im eigenen Betrieb gezielt auszubauen und einen großen Teil der Kosten erstattet zu bekommen. Weil das Programm in der Vergangenheit zeitweise einen Aufnahmestopp hatte und die Mittel begrenzt sind, lohnt es sich, den aktuellen Status und die Fristen frühzeitig bei einer regionalen Anlaufstelle oder online zu prüfen, bevor du ein konkretes Weiterbildungsvorhaben planst.",
-      "source": "KOMPASS / Bundesförderung",
-      "url": "https://skill-sprinters.de/blog/foerderung/kompass-foerderung-solo-selbststaendige-2026-ki-weiterbildung/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale stammen aus derselben neuen Fassung des Model Context Protocol vom 28. Juli 2026. Dein Hebel liegt darin, deine bestehenden Anbindungen frühzeitig auf die Umstellung vorzubereiten und die neuen Erweiterungen dort zu nutzen, wo sie dir Arbeit abnehmen.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "MCP-Anbindungen auf die zustandslose Fassung vorbereiten",
-       "tag": "Werkzeugkette",
-       "paras": [
-        "Das Model Context Protocol, kurz MCP, ist ein offener Standard, über den KI-Anwendungen einheitlich auf externe Werkzeuge und Datenquellen zugreifen. Die neue Fassung vom 28. Juli 2026 macht den Kern des Protokolls zustandslos: Der bisherige Handschlag zum Sitzungsaufbau und die Sitzungskennung entfallen, sodass Anfragen ohne gemeinsamen Speicher einfach auf mehrere Server verteilt werden können. Zustandslos bedeutet, dass jede Anfrage für sich steht und der Server sich nichts über frühere Anfragen merken muss.",
-        "Für dich ist wichtig, dass diese Fassung bewusst mit dem Alten bricht: Server der neuen Fassung müssen nicht mehr zuverlässig mit älteren Clients zusammenarbeiten und umgekehrt. Wenn du in deinem System MCP-Server oder passende Clients einsetzt, lohnt es sich daher, jetzt zu prüfen, welche Fassung sie sprechen, und ein Update einzuplanen, bevor eine Unverträglichkeit im laufenden Betrieb auffällt."
-       ],
-       "konkret": "Verschaffe dir einen Überblick, welche MCP-Server und Clients du nutzt, notiere je Komponente die unterstützte Protokoll-Fassung und plane für alles, was noch auf einer älteren Fassung läuft, einen ruhigen Zeitpunkt für die Umstellung ein.",
-       "snippetLabel": "Unterstützte Protokoll-Fassung erfragen",
-       "snippet": "# beim Verbindungsaufbau die vom Server\n# gemeldete protocolVersion pruefen\ncurl -s <span class=\"ph\">{deine-mcp-server-url}</span> \\\n  | grep -i \"protocolVersion\"\n# Ziel: 2026-07-28 (zustandslose Fassung)",
-       "source": "Model Context Protocol",
-       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
-      },
-      {
-       "icon": "layers",
-       "title": "Neue Erweiterungen fuer lange Aufgaben und Oberflaechen nutzen",
-       "tag": "Ausbau",
-       "paras": [
-        "Mit derselben Fassung führt das Model Context Protocol ein Konzept von Erweiterungen ein, also klar abgegrenzte Zusatzbausteine, die über den schlanken Kern hinausgehen. Zwei davon sind besonders nützlich: die Tasks-Erweiterung für langlaufende Arbeiten und MCP Apps für vom Server bereitgestellte Bedienoberflächen. Eine Aufgabe im Sinne von Tasks ist ein Auftrag, der länger dauert und im Hintergrund weiterläuft, sodass die KI-Anwendung nicht auf das Ergebnis warten muss, sondern später danach fragen kann.",
-        "Für dich eröffnet das die Möglichkeit, zeitraubende Schritte wie größere Auswertungen oder Erzeugungsvorgänge sauber vom eigentlichen Gespräch zu trennen und im Hintergrund abzuarbeiten. Weil diese Bausteine nun als getrennte Erweiterungen geführt werden, kannst du gezielt nur das einsetzen, was du wirklich brauchst, und deinen Aufbau schlank halten."
-       ],
-       "konkret": "Prüfe, ob du in deinen Abläufen einen langlaufenden Schritt hast, der bislang das Gespräch blockiert, und halte fest, ob sich dieser über die Tasks-Erweiterung künftig in den Hintergrund verlagern lässt.",
-       "source": "Model Context Protocol",
-       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Dienstag, 18. August 2026",
    "weather": "rain",
    "temp": "23°C · Regenschauer",
@@ -1096,6 +933,170 @@
     {
      "type": "thought",
      "text": "Wer die passende Maschine je Aufgabe wählt, gewinnt Ruhe: nicht ein Anbieter trägt die Woche, sondern ein Aufbau, den man versteht, günstig hält und jederzeit anpassen kann."
+    }
+   ]
+  },
+  {
+   "label": "Montag, 24. August 2026",
+   "weather": "rain",
+   "temp": "24°C · Regenschauer",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen heute Regenschauer durch, und bei milden bis zu 24 Grad bleibt es angenehm frisch. In der Weltlage begeht die Ukraine den 35. Jahrestag ihrer Unabhängigkeit, während der Krieg mit Russland unvermindert weitergeht. In der Wirtschaft richtet sich der Blick auf das ifo-Geschäftsklima am Dienstag, und die Spritpreise liegen wegen der Spannungen im Nahen Osten nur knapp unter ihrem Rekordhoch. Als Lichtblick kehren große Wale vor dem südlichen Afrika zurück, und aus der Forschung kommen lichtgetriebene Mikroroboter, die Bakterien einsammeln. Hier ist deine Morgenlage.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit",
+       "text": "Die Ukraine feiert an diesem Montag den 35. Jahrestag ihrer Unabhängigkeit, mit der sich das Land 1991 von der damaligen Sowjetunion löste, dem Staatenbund unter Führung Russlands, der Ende jenes Jahres zerfiel. Zu den Feierlichkeiten in der Hauptstadt Kiew reisten internationale Gäste an, unter ihnen der Präsident des Europäischen Rates António Costa; der Europäische Rat ist das Gremium, in dem die Staats- und Regierungschefs der Europäischen Union die großen Linien der gemeinsamen Politik festlegen. Der Gedenktag fällt in eine Zeit, in der der seit Februar 2022 andauernde russische Angriffskrieg gegen die Ukraine unvermindert weitergeht und eine Annäherung der Kriegsparteien nicht in Sicht ist. Das zählt, weil an einem solchen Tag sichtbar wird, wie eng die Zukunft der Ukraine mit der Unterstützung durch die Europäische Union verknüpft ist, und weil der Kriegsverlauf über Energiepreise und Sicherheit auch in Deutschland spürbar bleibt.",
+       "source": "internationale Agenturen / ZDFheute",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      },
+      {
+       "title": "Zivile Opfer bei ukrainischem Drohnenangriff auf Krasnodar",
+       "text": "Bei einem ukrainischen Drohnenangriff auf die südrussische Stadt Krasnodar sind nach Angaben örtlicher Behörden zwei Kinder ums Leben gekommen, als Trümmerteile auf eine Kindertagesstätte fielen. Drohnen sind unbemannte, aus der Ferne gesteuerte Fluggeräte, die im Krieg zwischen Russland und der Ukraine von beiden Seiten in großer Zahl eingesetzt werden. Angaben aus einem Kriegsgebiet lassen sich unabhängig kaum überprüfen, weshalb solche Meldungen mit Vorsicht einzuordnen sind. Das zählt, weil es nüchtern in Erinnerung ruft, dass dieser Krieg auch fernab der Frontlinien Todesopfer unter der Zivilbevölkerung fordert und die Aussichten auf Verhandlungen weiter belastet.",
+       "source": "internationale Agenturen / ZDFheute",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Blick auf das ifo-Geschäftsklima am Dienstag",
+       "text": "Am morgigen Dienstag, dem 25. August, veröffentlicht das Münchner ifo Institut, eines der wichtigsten wirtschaftlichen Forschungsinstitute Deutschlands, seinen neuen Geschäftsklimaindex. Dieser Index bildet die Stimmung in rund neuntausend Unternehmen ab und gilt als bedeutendster Frühindikator für die deutsche Konjunktur, also für die allgemeine wirtschaftliche Lage im Auf und Ab. Zuletzt war der Wert im Juli den dritten Monat in Folge auf 86,6 Punkte gestiegen, getragen von deutlich besseren Erwartungen der Unternehmen. Das zählt, weil ein weiterer Anstieg die vorsichtige Erholung bestätigen würde, während ein Rückschlag zeigen könnte, dass die Zuversicht noch auf wackligem Grund steht, und beides das Umfeld für Aufträge und Selbstständige berührt.",
+       "source": "ifo Institut / Konjunkturdaten",
+       "url": "https://www.ifo.de/en/forecasts/ifo-economic-forecast"
+      },
+      {
+       "title": "Spritpreise nur knapp unter dem Rekordhoch",
+       "text": "Die Kraftstoffpreise in Deutschland liegen derzeit nur knapp unter ihrem bisherigen Höchststand: Ein Liter Benzin der gängigen Sorte E10 kostet im Schnitt rund 2,17 Euro. Als Grund gelten anhaltende Spannungen im Nahen Osten, die die Preise für Rohöl an den Weltmärkten in die Höhe treiben; Rohöl ist der unverarbeitete Grundstoff, aus dem Benzin und Diesel gewonnen werden. Rund um wichtige Förder- und Transportwege in der Region reagieren die Ölmärkte empfindlich auf jede Zuspitzung. Das zählt, weil höhere Spritpreise unmittelbar die Fahrt- und Lieferkosten von Selbstständigen und kleinen Betrieben erhöhen und sich über Transportwege auch auf viele andere Preise legen.",
+       "source": "ZDFheute / Kraftstoffmarkt",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ],
+     "merk": {
+      "text": "Für dich lohnt es sich, bei anhaltend hohen Spritpreisen Fahrten bewusst zu bündeln und dort, wo es die Arbeit erlaubt, auf Termine vor Ort zu verzichten. So hältst du einen Kostenblock klein, der sich der eigenen Steuerung weitgehend entzieht, und bleibst unabhängiger von den Schwankungen am Ölmarkt.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Große Wale kehren vor dem südlichen Afrika zurück",
+       "text": "Vor der Küste des südlichen Afrikas werden wieder vermehrt Antarktische Blauwale und Finnwale gesichtet, zwei der größten Tiere, die je auf der Erde gelebt haben. Bemerkenswert ist, dass rund 95 Prozent dieser Sichtungen erst seit dem Jahr 2012 gelungen sind, also etwa vierzig Jahre nachdem ein weltweites Moratorium den kommerziellen Walfang weitgehend beendet hatte; ein Moratorium ist ein vereinbarter Aufschub oder Stopp einer Tätigkeit. Die Rückkehr der Tiere gilt Fachleuten als Zeichen einer langsamen Erholung der Bestände. Das zählt, weil es zeigt, dass sich selbst schwer geschädigte Tierpopulationen wieder erholen können, wenn ihnen über lange Zeiträume hinweg konsequenter Schutz gewährt wird.",
+       "img": "https://live.staticflickr.com/3901/14787573029_7e0e37d93d_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
+      },
+      {
+       "title": "Batteriespeicher machen Solarstrom rund um die Uhr nutzbar",
+       "text": "Nach einer Auswertung der Energiedenkfabrik Ember, einer unabhängigen Forschungseinrichtung zur weltweiten Stromversorgung, ist der Zubau von Batteriespeichern im Jahr 2026 weltweit um rund 50 Prozent gestiegen. Damit lassen sich im Schnitt etwa 34 Prozent des neu erzeugten Solarstroms in die sonnenarmen Stunden verschieben, also etwa in Abend und Nacht. Vorreiter sind Bulgarien und Chile, die bereits 77 beziehungsweise 76 Prozent erreichen; Ember spricht vom Beginn einer Ära des jederzeit verfügbaren Solarstroms. Das zählt, weil Speicher die größte Schwäche der Sonnenenergie ausgleichen und sauberen Strom damit verlässlicher und über den ganzen Tag hinweg nutzbar machen.",
+       "source": "Positive News / Ember",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Lichtgetriebene Mikroroboter fangen Bakterien ein",
+       "text": "Ein Forschungsteam der Universität Würzburg hat winzige, durch Licht angetriebene Roboter entwickelt, die durch Flüssigkeiten navigieren und dabei gezielt Bakterien einsammeln und an einem gewählten Ort wieder absetzen können. Die Maschinen sind rund fünfzig Mal dünner als ein menschliches Haar und können blitzschnelle 90-Grad-Wenden vollführen, um eine Probe geordnet abzusuchen. Ein Bakterium ist ein einzelliges Kleinstlebewesen, das mit bloßem Auge nicht zu erkennen ist. Das zählt, weil sich mit solchen Werkzeugen Zellen und Mikroben eines Tages mit hoher Genauigkeit bewegen lassen könnten, was in der Medizin und der Umwelttechnik neue Möglichkeiten eröffnet.",
+       "source": "ScienceDaily / Nature Communications",
+       "url": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm"
+      },
+      {
+       "title": "Sparsamere Brennstoffzelle für Rechenzentren",
+       "text": "Forschende der Washington University in St. Louis in den USA haben einen Katalysator für Brennstoffzellen entwickelt, der mit deutlich weniger des teuren Edelmetalls Platin auskommt. Eine Brennstoffzelle wandelt Wasserstoff direkt in Strom um, ein Katalysator ist ein Stoff, der diese Reaktion beschleunigt, ohne sich selbst zu verbrauchen. Der neue Werkstoff aus hohlen Kohlenstoffkugeln mit winzigen Platin-Kobalt-Teilchen behielt nach 150.000 harten Belastungszyklen, das entspricht rund 25.000 Betriebsstunden, noch 85 Prozent seiner Leistung. Das zählt, weil Rechenzentren heute etwa vier Prozent des US-Stroms verbrauchen und bis 2030 auf neun Prozent steigen könnten; könnten sie sich mit solchen Brennstoffzellen teils selbst versorgen, entlastete das die Stromnetze.",
+       "img": "https://live.staticflickr.com/4020/4307259960_77d1fd8879_b.jpg",
+       "source": "ScienceDaily / Nature Nanotechnology",
+       "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Regnerischer, milder Wochenstart in Horb",
+       "text": "Über Horb am Neckar, der Stadt an der oberen Neckarschleife im Nordschwarzwald, beginnt die Woche mit Regenschauern und milden bis zu 24 Grad. Nach den warmen Tagen ist das eine spürbare Abkühlung und zugleich eine gute Gelegenheit, drinnen die Arbeiten anzugehen, die Ruhe und Konzentration verlangen, und Erledigungen im Freien auf die trockeneren Stunden zu legen. Für Gärten und die Natur der Region ist der Regen nach der sommerlichen Trockenheit eine willkommene Erfrischung. Das zählt, weil sich der Tag mit einem kurzen Blick auf den Wetterverlauf entspannter planen lässt und der Regen den ausgetrockneten Böden ringsum gut tut.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "open-meteo / Stadt Horb am Neckar",
+       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+      },
+      {
+       "title": "Termine der neuen Woche im Blick behalten",
+       "text": "Wer die neue Woche plant, findet die aktuellen Veranstaltungen der Region gebündelt in den örtlichen Terminkalendern und beim Kunstverein Oberer Neckar mit Sitz in Horb, der regelmäßig wechselnde Ausstellungen zeigt. Ein solcher Blick lohnt sich gerade an einem verregneten Wochenstart, um einen wettergeschützten Programmpunkt für die kommenden Tage zu finden. Das zählt, weil wohnortnahe Kultur- und Freizeitangebote eine unkomplizierte Möglichkeit sind, in der Ferienzeit andere Menschen zu treffen und die Region abseits der großen Feste kennenzulernen.",
+       "source": "Kunstverein Oberer Neckar / Veranstaltungskalender",
+       "url": "https://www.kunstverein-oberer-neckar.de/ausstellungen-events"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein stiller Regentag verlangt kein großes Tempo, sondern lädt dazu ein, in Ruhe das Wesentliche zu tun."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Förderdatenbank des Bundes: aktuelle Zuschüsse an einem Ort finden",
+      "text": "Das viel genutzte Bundesprogramm go-digital, das kleinen Unternehmen Beratung zur Digitalisierung bezuschusste, ist Ende 2024 ausgelaufen; wer heute noch danach sucht, findet also nur Veraltetes. Verlässlich aktuell ist stattdessen die kostenlose Förderdatenbank des Bundes unter foerderdatenbank.de, ein amtliches Verzeichnis, in dem sich sämtliche Förderprogramme von Bund, Ländern und der Europäischen Union nach Thema, Region und Zielgruppe durchsuchen lassen. Ein konkretes, derzeit laufendes Beispiel ist die BAFA-Beratungsförderung Förderung unternehmerischen Know-hows, die noch bis zum 31. Dezember 2026 einen Teil qualifizierter Beratung auch zu Digitalisierung und künstlicher Intelligenz übernimmt.",
+      "why": "Für dich als Solo-Unternehmer erspart die amtliche Datenbank die Suche über veraltete Blogbeiträge und zeigt zuverlässig, welche Zuschüsse und Fristen aktuell wirklich gelten. Weil sich Programme und Kontingente laufend ändern, lohnt sich vor einer geplanten Anschaffung oder Beratung ein kurzer, gezielter Blick dorthin, statt sich auf ältere Empfehlungen zu verlassen.",
+      "source": "Förderdatenbank des Bundes / BAFA",
+      "url": "https://www.foerderdatenbank.de/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale stammen aus der neuen Fassung 0.7 der Erweiterung llm-openrouter vom 21. August 2026. Dein Hebel liegt darin, das Sammeln und Auswählen von Inhalten für deine MORGENLAGE-Routine robuster und zugleich anbieterunabhängig aufzustellen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Websuche und Seitenabruf serverseitig ausführen lassen",
+       "tag": "Werkzeugkette",
+       "paras": [
+        "Der Entwickler Simon Willison, ein bekannter Fachautor zu KI-Werkzeugen, hat am 21. August die Fassung 0.7 seiner Erweiterung llm-openrouter veröffentlicht. Diese Erweiterung verbindet sein freies Kommandozeilen-Werkzeug LLM, mit dem sich Sprachmodelle direkt aus der Eingabezeile des Rechners ansprechen lassen, mit dem Dienst OpenRouter, der als Vermittler viele Modelle unterschiedlicher Anbieter über eine einzige Schnittstelle zugänglich macht. Neu sind drei serverseitige Werkzeuge: Shell, WebFetch und WebSearch. Serverseitig bedeutet, dass nicht dein Rechner, sondern der Server des Anbieters die Arbeit erledigt, etwa eine Websuche oder das Abrufen einer Seite.",
+        "Für deine MORGENLAGE-Routine, die täglich Meldungen aus dem Netz zusammenträgt, kann das die Beschaffung von Inhalten vereinfachen: Suche und Seitenabruf laufen dann direkt beim Anbieter, ohne dass du sie in deinem eigenen Ablauf zusammenbauen und pflegen musst. Das reduziert bewegliche Teile und macht den Lauf weniger anfällig für Fehler an deiner Seite."
+       ],
+       "konkret": "Aktualisiere llm-openrouter auf Fassung 0.7 und teste an einem echten MORGENLAGE-Lauf, ob sich ein Teil deiner bisherigen Websuche durch das serverseitige WebSearch-Werkzeug ersetzen lässt, bevor du es fest einbindest.",
+       "snippetLabel": "Serverseitige Websuche einschalten",
+       "snippet": "# Websuche direkt beim Anbieter ausfuehren lassen\nllm -m <span class=\"ph\">{openrouter-modell}</span> -T WebSearch \\\n  \"<span class=\"ph\">{deine Rechercheaufgabe fuer heute}</span>\"\n# ergaenzend: -T WebFetch zum Abrufen einzelner Seiten",
+       "source": "Simon Willison / llm-openrouter",
+       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
+      },
+      {
+       "icon": "layers",
+       "title": "Über eine Schnittstelle mehrere Anbieter nutzen und absichern",
+       "tag": "Ausbau",
+       "paras": [
+        "Dieselbe Fassung nutzt nun OpenRouters Umsetzung der sogenannten Responses-Schnittstelle und zeigt bei entsprechenden Modellen auch deren Denkspuren an, also die Zwischenschritte auf dem Weg zur Antwort. Weil OpenRouter als Vermittler viele Modelle verschiedener Anbieter unter einem Zugang bündelt, kannst du zwischen ihnen wechseln, ohne für jeden Anbieter einen eigenen Zugang und eigene Abrechnung einrichten zu müssen. Einige Modelle stehen dort in begrenztem Umfang sogar kostenlos zum Ausprobieren bereit.",
+        "Für dich heißt das mehr Unabhängigkeit: Fällt ein Anbieter aus oder wird zu teuer, weichst du mit derselben Befehlszeile auf ein anderes Modell aus. So kannst du je Aufgabe das passende Modell nach Kosten, Tempo und Qualität wählen und neue Modelle günstig testen, bevor du dich festlegst."
+       ],
+       "konkret": "Lege für deine Routine eine kleine Liste von zwei bis drei erprobten Ersatzmodellen bei OpenRouter fest, damit du bei Ausfall oder Preissprung eines Anbieters ohne Umbau sofort umschalten kannst.",
+       "source": "Simon Willison / llm-openrouter",
+       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
+      }
+     ]
     }
    ]
   }
