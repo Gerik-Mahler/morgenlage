@@ -2,151 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Samstag, 22. August 2026",
-      "weather": "clouds",
-      "temp": "19°C · neblig",
-      "greeting": "Guten Morgen, Gerik. Über dem oberen Neckartal liegt heute ein neblig-trüber Spätsommermorgen bei rund 19 Grad, der sich im Lauf des Tages voraussichtlich lichtet. In der Weltlage hat eine internationale Ernährungsinitiative eine Hungersnot für Teile des Gazastreifens festgestellt, und die Handelsgespräche zwischen den USA und Kanada sind gescheitert. In der Wirtschaft hellt sich die Stimmung der deutschen Unternehmen den dritten Monat in Folge auf. Als Lichtblick zeigt ein personalisierter Impfstoff gegen schwarzen Hautkrebs deutliche Fortschritte, und aus der Forschung kommt eine hauchdünne Schutzschicht, die Transistoren über die bisherige Silizium-Grenze hinausbringen könnte. Hier ist deine Morgenlage.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Ernährungsinitiative stellt Hungersnot für Teile des Gazastreifens fest",
-              "text": "Die Integrierte Klassifizierung der Ernährungssicherheit, ein weltweit anerkanntes Fachgremium mehrerer Hilfsorganisationen und UN-Stellen zur Beurteilung von Hungerlagen, kurz IPC, hat für die Stadt Gaza und einige benachbarte Gebiete eine Hungersnot festgestellt. Eine solche förmliche Feststellung ist die höchste von fünf Warnstufen und beruht auf Schwellenwerten für Unterernährung, Hunger und Sterblichkeit. Das israelische Außenministerium wies die Einstufung zurück. Das zählt, weil die Feststellung einer Hungersnot international als dringendes Alarmsignal gilt und Druck auf alle Beteiligten erzeugt, humanitäre Hilfe zu ermöglichen und zu beschleunigen.",
-              "source": "IPC-Initiative / Agenturen"
-            },
-            {
-              "title": "Handelsgespräche zwischen den USA und Kanada gescheitert",
-              "text": "Die Verhandlungen über ein neues Handelsabkommen zwischen den USA und Kanada sind nach übereinstimmenden Berichten ohne Einigung zu Ende gegangen. Die beiden Nachbarstaaten gehören zu den wichtigsten Handelspartnern der Welt und tauschen täglich Waren im Milliardenwert aus. Ein Scheitern der Gespräche bedeutet, dass strittige Punkte etwa bei Zöllen und Marktzugang vorerst ungelöst bleiben. Das zählt, weil anhaltende Handelskonflikte zwischen großen Volkswirtschaften Lieferketten verteuern und auch exportabhängige Länder wie Deutschland mittelbar treffen können.",
-              "source": "Agenturen"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Ifo-Geschäftsklima steigt den dritten Monat in Folge",
-              "text": "Der Geschäftsklimaindex des Münchner ifo Instituts, kurz ifo, ist im Juli 2026 auf 86,6 Punkte gestiegen, nach 85,7 Punkten im Juni, und damit den dritten Monat in Folge. Für den Index befragt das ifo Institut monatlich mehrere tausend Unternehmen nach ihrer aktuellen Lage und ihren Erwartungen für die kommenden Monate. Trotz des Anstiegs liegt der Wert weiter deutlich unter dem langjährigen Normalniveau von etwa 95 bis 100 Punkten. Der nächste Wert wird am 25. August erwartet. Das zählt, weil das Geschäftsklima als vielbeachteter Frühindikator gilt und ein dritter Anstieg in Folge auf eine sich langsam festigende Erholung der deutschen Wirtschaft hindeutet.",
-              "source": "ifo Institut / boerse.de",
-              "url": "https://www.boerse.de/konjunktur/ifo-index/"
-            }
-          ],
-          "merk": {
-            "text": "Die EZB, die Europäische Zentralbank, hat ihre drei Leitzinssätze zuletzt unverändert gelassen; nach Markterwartung ist vorerst kein weiterer Zinsschritt zu erwarten.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Personalisierter Impfstoff zeigt Fortschritt gegen schwarzen Hautkrebs",
-              "text": "Die Pharmaunternehmen Merck aus den USA und Moderna haben ermutigende Ergebnisse aus einer großen Studie der Phase drei zu einem personalisierten Impfstoff gegen das Melanom, den schwarzen Hautkrebs, vorgestellt. Die Phase drei ist die letzte große Testphase vor einer möglichen Zulassung. Der Impfstoff beruht auf der mRNA-Technik, bei der dem Körper eine Bauanleitung gegeben wird, um eine gezielte Abwehrreaktion auszulösen, und wird individuell auf den Tumor der einzelnen Patientinnen und Patienten zugeschnitten. In der Studie mit rund 1.000 Betroffenen mit hohem Rückfallrisiko verlängerte er in Kombination mit einer bestehenden Immuntherapie die Zeit ohne erneuten Krebs. Das zählt, weil ein wirksamer, maßgeschneiderter Impfstoff die Behandlung von Krebs grundlegend erweitern könnte.",
-              "img": "https://live.staticflickr.com/3103/2618715728_f3cbe4f91d_b.jpg",
-              "source": "Positive News / Merck und Moderna",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
-            },
-            {
-              "title": "Wale kehren vor das südliche Afrika zurück",
-              "text": "Vor der Küste des südlichen Afrikas werden wieder deutlich mehr Antarktische Blauwale, die größten Tiere der Erde, sowie Finnwale gesichtet. Nach einer Auswertung entfielen rund 95 Prozent der Beobachtungen auf die Zeit seit 2012, also etwa vier Jahrzehnte nach dem weltweiten Moratorium, dem befristeten Verbot des kommerziellen Walfangs aus dem Jahr 1986. Beide Arten waren durch den Walfang stark dezimiert worden. Das zählt, weil die Rückkehr der Tiere zeigt, dass sich selbst schwer geschädigte Bestände über lange Zeiträume erholen können, wenn der Schutz konsequent eingehalten wird.",
-              "img": "https://live.staticflickr.com/3901/14787573029_7e0e37d93d_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Hauchdünne Schutzschicht bringt Transistoren über die Silizium-Grenze",
-              "text": "Forschende der Nationalen Yang-Ming-Chiao-Tung-Universität in Taiwan haben gemeinsam mit dem Chiphersteller TSMC eine nur 0,42 Nanometer dünne Schutzschicht aus Aluminiumoxid entwickelt, ein Nanometer ist ein millionstel Millimeter. Diese Zwischenschicht sitzt in einem Transistor, dem winzigen Schalter, aus dem Computerchips aufgebaut sind, und schützt den Fluss der Elektronen, ohne die Leistung zu beeinträchtigen. Bislang mussten Fachleute zwischen guter Steuerbarkeit und hoher Geschwindigkeit abwägen. Die Arbeit erschien in der Fachzeitschrift Nature Electronics. Das zählt, weil sich damit kleinere, schnellere und sparsamere Chips bauen lassen könnten, die an die physikalischen Grenzen des bisher üblichen Werkstoffs Silizium heranreichen und darüber hinausgehen.",
-              "img": "https://live.staticflickr.com/2086/2389301872_fde50efc57_b.jpg",
-              "source": "ScienceDaily / Nature Electronics",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
-            },
-            {
-              "title": "Lichtgesteuerte Mikroroboter fangen Bakterien ein",
-              "text": "Ein Forschungsteam hat nach einem Bericht des Wissenschaftsportals ScienceDaily mikroskopisch kleine Roboter gebaut, die sich allein durch Licht steuern lassen. Diese Mikroroboter, also Maschinen von der Größe einzelner Zellen, bewegen sich rasch durch Flüssigkeiten, sammeln Bakterien ein und geben sie an einer gewünschten Stelle wieder ab. Angetrieben und gelenkt werden sie berührungslos über Lichtstrahlen. Das zählt, weil solche winzigen Helfer künftig etwa in der Medizin gezielt Krankheitserreger einfangen oder in der Umwelttechnik Proben nehmen könnten.",
-              "img": "https://live.staticflickr.com/5191/14402751216_6da0aa69ac_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Neblig-trüber Spätsommermorgen im oberen Neckartal",
-              "text": "Der Tag beginnt in Horb am Neckar mit Nebel und trübem Himmel bei rund 19 Grad, wie er im engen Tal des oberen Neckars an kühlen Spätsommermorgen typisch ist. Solche Nebelfelder lösen sich häufig erst im Lauf des Vormittags auf, wenn die Sonne durchkommt. Für einen Spaziergang entlang des Neckars oder hinauf zur Altstadt lohnt daher etwas Geduld bis zum Mittag. Das zählt, weil sich der Tag mit realistischer Planung angenehm nutzen lässt, drinnen am Morgen und draußen, sobald es aufklart.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kalktuffnase_Muschelkalk_Glatt_Oberer-Neckar.jpg",
-              "source": "open-meteo (Wetterdaten)"
-            },
-            {
-              "title": "Veranstaltungskalender der Stadt Horb",
-              "text": "Für das Wochenende bündelt der offizielle Veranstaltungskalender der Stadt Horb am Neckar die aktuellen Termine in der Altstadt und den Teilorten. Dort finden sich Märkte, Konzerte, Führungen und Vereinsangebote, die laufend aktualisiert werden. Gerade an einem wechselhaften Spätsommerwochenende lohnt der kurze Blick, um kurzfristige Programmpunkte nicht zu verpassen. Das zählt, weil sich so mit wenig Aufwand ein passendes Ziel vor der eigenen Haustür finden lässt.",
-              "source": "Stadt Horb am Neckar",
-              "url": "https://www.horb.de/Veranstaltungen"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein nebliger Morgen klart oft erst im Lauf des Tages auf; manche Aufgabe braucht genau diese Geduld."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Geförderte Unternehmensberatung über das BAFA",
-            "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle, kurz BAFA, eine Behörde des Bundeswirtschaftsministeriums, fördert mit dem Programm Förderung unternehmerischen Know-hows die professionelle Beratung von kleinen und mittleren Unternehmen sowie von Freiberuflern. Gefördert wird dabei ein Teil des Beraterhonorars als Zuschuss, der nicht zurückgezahlt werden muss. Themen können unter anderem Digitalisierung, Organisation oder wirtschaftliche Ausrichtung sein. Die genauen Bedingungen, die aktuelle Verfügbarkeit von Mitteln und die Frage, wer antragsberechtigt ist, sollte man vor einer Beauftragung direkt beim BAFA prüfen.",
-            "why": "Ein Zuschuss zum Beraterhonorar kann eine externe Fachberatung, etwa zur Digitalisierung oder zum sinnvollen Einsatz von KI, für einen Solo-Unternehmer deutlich günstiger machen.",
-            "source": "BAFA",
-            "url": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Quellen des Tages: der Blog des Model Context Protocol und Anthropic zum Spezifikations-Release 2026-07-28.",
-          "cards": [
-            {
-              "icon": "layers",
-              "title": "Auf die neue MCP-Spezifikation 2026-07-28 vorbereiten",
-              "tag": "Standard",
-              "paras": [
-                "Das Model Context Protocol, auf Deutsch etwa Modell-Kontext-Protokoll, kurz MCP, ist ein von Anthropic angestoßener offener Standard, der KI-Modelle mit externen Werkzeugen und Datenquellen verbindet. Die neue Fassung 2026-07-28 stellt den Kern auf ein zustandsloses Anfrage-Antwort-Modell um, bei dem jede Anfrage für sich steht und keine dauerhafte Verbindung nötig ist. Dadurch lassen sich MCP-Server auch auf serverloser und Edge-Infrastruktur betreiben, also auf Rechenkapazität, die nur bei Bedarf und nah am Nutzer läuft, und sie werden einfacher zu bauen und zu skalieren.",
-                "Für dein System heißt das: Wenn du eigene MCP-Server pflegst oder neu aufsetzt, richte sie auf das zustandslose Modell aus und prüfe die verschärften Vorgaben zur Autorisierung. Praktisch ist zudem, dass ein für Claude.ai eingerichteter Verbinder wie Gmail, Kalender oder Slack laut Anthropic nun automatisch auch in Claude Code samt Artefakten zur Verfügung steht, ohne getrennte Einrichtung."
-              ],
-              "konkret": "Eigene MCP-Server auf das zustandslose Anfrage-Antwort-Modell ausrichten, damit sie ohne Änderung auf serverloser Infrastruktur laufen.",
-              "snippetLabel": "Prompt-Vorlage zum Prüfen eines MCP-Servers",
-              "snippet": "Pruefe meinen MCP-Server <span class=\"ph\">{Pfad oder Repository}</span>\ngegen die MCP-Spezifikation 2026-07-28:\n1. Laeuft er im zustandslosen Anfrage-Antwort-Modell?\n2. Ist die Autorisierung nach dem neuen Standard abgesichert?\n3. Was muss ich fuer den serverlosen Betrieb (Edge) anpassen?",
-              "source": "Model Context Protocol Blog",
-              "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-              "score": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Sonntag, 23. August 2026",
       "kind": "weekly",
       "sub": "Wochenrückblick",
@@ -946,7 +801,6 @@
       "weather": "thunder",
       "temp": "22°C · Gewitter",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zieht heute unbeständiges, gewittriges Wetter auf, mit Höchstwerten um 22 Grad und der Gefahr kräftiger Schauer. In der Weltlage hat ein US-Bundesgericht den Ausschluss des KI-Unternehmens Anthropic von Militäraufträgen gestoppt, während der Rettungseinsatz nach der Sturzflut an der Grenze zwischen Nepal und Tibet unterbrochen werden musste. In der Wirtschaft hellt sich die Stimmung der deutschen Unternehmen laut ifo-Institut weiter auf, vor allem bei den Exporterwartungen. Als Lichtblick hat England ein wichtiges Etappenziel im Kampf gegen die Leberentzündung Hepatitis C erreicht, und aus der Forschung kommt der Hinweis auf eine Art Bremse im Gehirn, die chronische Nervenschmerzen dämpfen kann. Hier ist deine Morgenlage.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1090,6 +944,146 @@
               "snippet": "llm install -U llm\nllm install -U llm-openrouter llm-anthropic",
               "source": "Simon Willison",
               "url": "https://simonwillison.net/2026/Aug/21/llm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Samstag, 29. August 2026",
+      "weather": "rain",
+      "temp": "24°C · Regen",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt heute Regen bei milden bis zu 24 Grad, eine willkommene Erfrischung nach den trockenen Wochen. In der Weltlage stimmt Island heute darüber ab, ob es die ausgesetzten Beitrittsgespräche mit der Europäischen Union wieder aufnehmen soll. In der Wirtschaft klettert das Konjunkturbarometer des DIW erstmals seit Ende 2017 wieder über die Wachstumsmarke von 100 Punkten. Als Lichtblick ist in der kasachischen Steppe das erste Przewalski-Fohlen seit 200 Jahren zur Welt gekommen, und aus der Forschung kommt das bislang klarste Bild von Betelgeuses lange gesuchtem Begleitstern. Hier ist deine Morgenlage.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Island stimmt über Wiederaufnahme der EU-Beitrittsgespräche ab",
+              "text": "Island, der Inselstaat im Nordatlantik, hält an diesem Samstag eine Volksabstimmung darüber ab, ob es die vor Jahren ausgesetzten Verhandlungen über einen Beitritt zur Europäischen Union (EU), dem Staatenverbund von 27 europäischen Ländern, wieder aufnehmen soll. Auf dem Stimmzettel steht allein die Frage, ob die Gespräche erneut beginnen sollen; über einen tatsächlichen Beitritt würde erst später in einer weiteren Abstimmung entschieden. Island hatte seinen Aufnahmeantrag 2013 zurückgezogen, unter der Regierung von Ministerpräsidentin Kristrún Frostadóttir kam die Frage zurück auf die Tagesordnung; ein wichtiger Streitpunkt ist die Fischerei, ein Grundpfeiler der isländischen Wirtschaft. Umfragen sahen Befürworter und Gegner zuletzt mit je rund 46 Prozent gleichauf. Das zählt, weil ein möglicher Kurswechsel eines kleinen, aber strategisch gelegenen Landes die Debatte über die künftige Erweiterung der EU neu beleben würde.",
+              "source": "Government of Iceland / Agenturen",
+              "url": "https://www.government.is/topics/foreign-affairs/iceland-in-europe/referendum/about-the-referendum/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "DIW-Konjunkturbarometer erstmals seit Ende 2017 wieder über 100 Punkten",
+              "text": "Das Konjunkturbarometer des Deutschen Instituts für Wirtschaftsforschung (kurz DIW Berlin, ein wirtschaftswissenschaftliches Forschungsinstitut) ist im August auf 105 Punkte gestiegen und liegt damit zum ersten Mal seit Ende 2017 wieder über der Marke von 100 Punkten, die ein durchschnittliches Wachstum der deutschen Wirtschaft anzeigt. Das Barometer fasst zahlreiche Konjunkturdaten zu einem einzigen Frühindikator zusammen, also zu einem Signal für die weitere wirtschaftliche Entwicklung. Ergänzend meldete das Institut für Makroökonomie und Konjunkturforschung (kurz IMK) einen deutlichen Rückgang der Rezessionswahrscheinlichkeit, also des Risikos einer schrumpfenden Wirtschaft, um knapp acht Prozentpunkte auf 23,5 Prozent. Das zählt, weil sich damit die Zeichen einer langsamen, aber breiter getragenen Erholung verdichten, was auch das Umfeld für Aufträge und Selbstständige verbessert.",
+              "source": "DIW Berlin / IMK",
+              "url": "https://www.diw.de/de/diw_01.c.613851.de/konjunkturbarometer.html"
+            }
+          ],
+          "merk": {
+            "text": "Die Inflation im Euroraum, also der allgemeine Anstieg der Preise, liegt mit rund 1,7 Prozent leicht unter dem Ziel der Europäischen Zentralbank (EZB) von zwei Prozent; die EZB hat ihre Leitzinsen zuletzt unverändert gelassen. EZB-Direktoriumsmitglied Isabel Schnabel verwies zugleich auf gestiegene Aufwärtsrisiken bei den Preisen, weshalb einzelne Banken bereits eine erste Zinserhöhung gegen Jahresende für möglich halten. Für dich heißt das: Die Finanzierungskosten dürften vorerst stabil bleiben, ein späterer Anstieg ist aber nicht ausgeschlossen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Erstes Przewalski-Fohlen seit 200 Jahren in der kasachischen Steppe",
+              "text": "In der Steppe Zentralkasachstans ist erstmals seit rund 200 Jahren wieder ein Fohlen des Przewalski-Pferds zur Welt gekommen, der letzten echten Wildpferdart der Erde, die in freier Wildbahn einst ausgestorben war. Die Geburt gehört zur Altyn-Dala-Naturschutzinitiative, einem Programm, das verdrängte oder ausgestorbene Steppentiere wieder ansiedelt und zuvor bereits die Saiga-Antilope zurückbrachte; die Initiative wurde 2024 mit dem Earthshot-Preis für Umweltschutz ausgezeichnet. Ein in der Wildnis geborenes Fohlen gilt als Beleg dafür, dass sich die Tiere in ihrer alten Heimat wieder selbst vermehren. Das zählt, weil es zeigt, dass sich mit langem Atem selbst verloren geglaubte Arten in ihre ursprünglichen Lebensräume zurückholen lassen.",
+              "img": "https://live.staticflickr.com/7297/8923818280_871eda758b_b.jpg",
+              "source": "Positive News / Altyn-Dala-Initiative",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-35-of-2026/"
+            },
+            {
+              "title": "Weltweit erste KI-gestützte Gehirnoperation in London",
+              "text": "Am National Hospital for Neurology and Neurosurgery in London haben Ärzte nach eigenen Angaben die weltweit erste Gehirnoperation durchgeführt, bei der ein System der künstlichen Intelligenz (KI) den Eingriff unterstützte. Die KI war zuvor mit Aufnahmen früherer Operationen trainiert worden und half während der Entfernung eines Tumors dabei, besonders riskante Bereiche im Gewebe zu erkennen. Entwickelt wurde das Verfahren vom University College London im Rahmen einer klinischen Studie, also einer sorgfältig kontrollierten Erprobung am Menschen. Das zählt, weil solche Assistenzsysteme heikle Eingriffe sicherer machen könnten, ohne den Chirurgen die Entscheidung abzunehmen.",
+              "source": "Positive News / University College London",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-35-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Klarstes Bild von Betelgeuses lange gesuchtem Begleitstern",
+              "text": "Ein internationales Forschungsteam unter Leitung des Pariser Observatoriums (Observatoire de Paris) hat das bislang klarste Bild eines Begleitsterns von Betelgeuse aufgenommen, einem der hellsten Sterne am Nachthimmel und einem sogenannten Roten Überriesen im Sternbild Orion. Die Aufnahme gelang mit dem Instrument SPHERE am Very Large Telescope der Europäischen Südsternwarte (kurz ESO) in Chile; der Begleiter, Betelgeuse B genannt, bringt etwa die zwei- bis dreifache Masse unserer Sonne auf die Waage. Schon vor rund hundert Jahren hatten Astronomen einen solchen Partner vermutet, um das eigenartige, regelmäßige Schwanken der Helligkeit von Betelgeuse zu erklären. Das zählt, weil damit eine hundertjährige Suche zu einem Abschluss kommt und sich ein altes Rätsel dieses berühmten Sterns aufklärt.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_surface_of_the_red_giant_star_%CF%801_Gruis_from_PIONIER_on_the_VLT.jpg",
+              "source": "ScienceDaily / Observatoire de Paris und ESO",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm"
+            },
+            {
+              "title": "Forscher finden im Gehirn eine Bremse gegen chronischen Nervenschmerz",
+              "text": "Ein Forschungsteam hat nach einem Bericht des Wissenschaftsportals ScienceDaily im Gehirn von Mäusen eine Art Bremse entdeckt, mit der sich chronischer Nervenschmerz abschalten lässt. Chronischer Schmerz ist ein Dauerschmerz, der lange nach der eigentlichen Verletzung bestehen bleibt; im Versuch beruhigten die Forscher gezielt einen überaktiven Schaltkreis von Nervenzellen, der den Schmerz aufrechterhält. Ergebnisse aus dem Tierversuch lassen sich nicht unmittelbar auf den Menschen übertragen, weisen aber einen möglichen Ansatzpunkt für neue Wirkstoffe. Das zählt, weil chronische Schmerzen für viele Millionen Menschen eine große Last sind und gezieltere Behandlungen dringend gebraucht werden.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/health/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Regnerischer Spätsommertag über dem Neckartal",
+              "text": "Über Horb am Neckar, der Stadt an der oberen Neckarschleife am Rand des Nordschwarzwalds, fällt heute Regen bei milden bis zu 24 Grad. Nach den trockenen Wochen ist der Niederschlag für Gärten, Wälder und die tiefer stehenden Flüsse der Region eine willkommene Erfrischung. Für den Tag bietet es sich an, Arbeiten, die Ruhe verlangen, nach drinnen zu legen und Erledigungen im Freien auf die trockeneren Stunden zu verschieben. Das zählt, weil sich der Tag mit einem kurzen Blick auf den Wetterverlauf entspannter und ohne Verdruss planen lässt.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+              "source": "open-meteo (Wetterdaten)"
+            },
+            {
+              "title": "Wochenendtermine im Veranstaltungskalender der Stadt",
+              "text": "Für das letzte Augustwochenende bündelt der offizielle Veranstaltungskalender der Stadt Horb am Neckar die aktuellen Termine in der Altstadt und den Teilorten, von Märkten über Konzerte bis zu Führungen und Vereinsangeboten. Gerade an einem verregneten Samstag lohnt der kurze Blick, um ein wettergeschütztes Ziel oder einen kurzfristigen Programmpunkt zu finden. Das zählt, weil sich so mit wenig Aufwand ein passendes Angebot vor der eigenen Haustür findet.",
+              "source": "Stadt Horb am Neckar",
+              "url": "https://www.horb.de/Veranstaltungen"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein Regentag drängt zu nichts; er schenkt die Ruhe, das Wesentliche ohne Eile zu tun."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Server-seitige Web-Werkzeuge über OpenRouter, ohne eigenen Aufbau",
+            "text": "Der Entwickler Simon Willison, ein bekannter Fachautor zu KI-Werkzeugen, hat die Erweiterung llm-openrouter in der Fassung 0.7 veröffentlicht. OpenRouter ist ein Vermittlungsdienst, über den sich viele verschiedene Sprachmodelle einheitlich ansprechen lassen; die neue Fassung bringt drei server-seitige Werkzeuge mit, die direkt beim Anbieter laufen: eine Websuche (WebSearch), einen Seitenabruf (WebFetch) und eine Shell, also eine Befehlszeile. Damit kann ein Sprachmodell selbstständig im Netz nachschlagen und Seiten auslesen, ohne dass du diese Anbindung selbst programmieren musst. Eingeschaltet werden die Werkzeuge über eine einfache Befehlszeilen-Option wie -T WebSearch.",
+            "why": "Für dich als Solo-Unternehmer ist das eine kostengünstige Möglichkeit, deiner MORGENLAGE-Routine oder anderen Abläufen echte Recherchefähigkeit zu geben, ohne eigene Server oder Schnittstellen zu bauen. Ein kurzer Test mit einer typischen Frage zeigt schnell, ob Trefferqualität und Tempo für deinen Zweck ausreichen; behalte dabei im Blick, dass eine selbsttätige Suche nur so verlässlich ist wie die Quellen, die sie findet.",
+            "source": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Signal des Tages: die Fassung 0.7 der Erweiterung llm-openrouter und das Kommandozeilen-Werkzeug LLM 0.32 von Simon Willison.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Deiner Automatisierung echte Web-Recherche geben, ohne eigene Schnittstellen zu bauen",
+              "tag": "Werkzeug",
+              "paras": [
+                "Mit LLM, dem freien Kommandozeilen-Werkzeug von Simon Willison zum Ansprechen von Sprachmodellen aus dem Terminal (der textbasierten Eingabezeile des Rechners), und der Erweiterung llm-openrouter in der Fassung 0.7 stehen dir nun server-seitige Werkzeuge zur Verfügung, die direkt beim Anbieter laufen: eine Websuche, ein Seitenabruf und eine Shell. Das Modell entscheidet dabei selbst, wann es nachschlägt, und du musst weder eine Suchmaschine anbinden noch das Auslesen von Seiten selbst programmieren.",
+                "Für dein System heißt das: Schritte deiner MORGENLAGE-Routine, die heute auf fest verdrahteten Abrufen beruhen, kannst du testweise einem Modell mit server-seitiger Websuche übergeben und die Ergebnisse vergleichen. Prüfe dabei, ob die Quellen belastbar und die Angaben nachvollziehbar bleiben, bevor du den neuen Weg fest einbaust."
+              ],
+              "konkret": "Eine kleine Recherche-Aufgabe einmal mit server-seitiger Websuche laufen lassen und die Trefferqualität gegen deinen bisherigen Weg prüfen, bevor du sie fest übernimmst.",
+              "snippetLabel": "Modell mit server-seitiger Websuche und Seitenabruf nutzen",
+              "snippet": "# Erweiterung aktualisieren und Modell mit Web-Werkzeugen aufrufen\nllm install -U llm-openrouter\nllm -m <span class=\"ph\">{openrouter-modell}</span> -T WebSearch -T WebFetch \\\n  \"Fasse die drei wichtigsten Meldungen zu <span class=\"ph\">{Thema}</span>\\n   von heute zusammen und nenne zu jeder die Quelle mit Datum.\"",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+              "score": 4
             }
           ]
         }
