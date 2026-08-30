@@ -2,179 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Sonntag, 23. August 2026",
-      "kind": "weekly",
-      "sub": "Wochenrückblick",
-      "weather": "clouds",
-      "temp": "23°C · neblig",
-      "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: In der Weltlage blieb der Krieg zwischen Russland und der Ukraine mit wiederholten russischen Angriffen auf die Hauptstadt Kiew das bestimmende Thema, begleitet von der schwersten ukrainischen Drohnenwelle auf Moskau seit zwei Jahren, einer festgestellten Hungersnot für Teile des Gazastreifens und gescheiterten Handelsgesprächen zwischen den USA und Kanada. In der Wirtschaft verdichteten sich die Zeichen einer langsamen Erholung, denn die Konjunkturerwartungen und das Geschäftsklima stiegen mehrere Monate in Folge, während niedrige Gasspeicher und ein niedriger Rhein-Pegel als neue Risiken hinzukamen. Und im Zusammenspiel von Lichtblick und Forschung standen ein deutscher Rekord beim Sonnenstrom, ein deutlicher Rückgang der Entwaldung im Amazonasgebiet sowie Fortschritte bei einem Impfstoff gegen schwarzen Hautkrebs und bei winziger, sparsamer Elektronik. Über Horb am Neckar liegt heute ein neblig-trüber Spätsommertag bei rund 23 Grad. Hier ist dein Wochenrückblick.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Ukraine-Krieg: Angriffe auf Kiew, ukrainische Drohnenwelle auf Moskau",
-              "text": "Der Krieg zwischen Russland und der Ukraine hat sich über die Woche weiter zugespitzt. Bei nächtlichen russischen Angriffen auf die ukrainische Hauptstadt Kiew wurden nach Angaben von Bürgermeister Vitali Klitschko, dem Stadtoberhaupt von Kiew, mehrere Menschen getötet. Zugleich meldete Moskau die schwerste ukrainische Drohnenwelle auf die russische Hauptstadtregion seit zwei Jahren; Drohnen sind unbemannte, aus der Ferne gesteuerte Fluggeräte. Eine Annäherung der Kriegsparteien war nicht zu erkennen. Warum das zählt: Die anhaltende Eskalation hält Energiepreise und Sicherheitslage in Europa im Blick, auch wenn der Krieg geographisch weit entfernt scheint.",
-              "source": "ZDFheute / internationale Agenturen"
-            },
-            {
-              "title": "Hungersnot für Teile des Gazastreifens, Handelsstreit USA und Kanada",
-              "text": "Zwei weitere Konfliktherde prägten die Woche. Die Integrierte Klassifizierung der Ernährungssicherheit (kurz IPC, ein von mehreren Hilfsorganisationen und Stellen der Vereinten Nationen getragenes Fachgremium zur Beurteilung von Hungerlagen) stellte für Teile des Gazastreifens, des dicht besiedelten palästinensischen Küstenstreifens am östlichen Mittelmeer, eine Hungersnot fest. Parallel scheiterten die Verhandlungen über ein neues Handelsabkommen zwischen den USA und Kanada ohne Einigung. Warum das zählt: Beide Entwicklungen berühren humanitäre Fragen und die Stabilität des Welthandels, an dem auch eine Exportnation wie Deutschland hängt.",
-              "source": "IPC-Initiative / internationale Agenturen"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Erholung festigt sich langsam, Energie bleibt das Risiko",
-              "text": "Die Woche brachte ein vorsichtig freundliches Bild für die deutsche Wirtschaft. Die vom Zentrum für Europäische Wirtschaftsforschung (kurz ZEW, ein Forschungsinstitut in Mannheim) erhobenen Konjunkturerwartungen stiegen im August auf 34,2 Punkte und damit den vierten Monat in Folge, und das Geschäftsklima des Münchner ifo Instituts (ein wirtschaftliches Forschungsinstitut) legte auf 86,6 Punkte den dritten Monat in Folge zu. Gebremst wird die Erholung von der Energieseite: Die deutschen Gasspeicher fielen auf einen historischen Tiefstand, und der niedrige Pegel des Rheins, der wichtigsten Wasserstraße für Güter, gilt dem Deutschen Institut für Wirtschaftsforschung (kurz DIW Berlin) als kurzfristiges Konjunkturrisiko. Die Europäische Zentralbank (kurz EZB, die Notenbank des Euroraums) dürfte nach Markterwartung vorerst keine weiteren Zinsschritte vornehmen.",
-              "source": "ZEW Mannheim / ifo Institut / DIW Berlin"
-            }
-          ],
-          "merk": {
-            "text": "Die Botschaft der Woche für dich bleibt Verlässlichkeit mit einem Vorbehalt: Die Stimmung bessert sich, die Finanzierungskosten dürften stabil bleiben, doch die Energiepreise drohen im Winter zu steigen. Ein guter Zeitpunkt, um Investitionen ruhig vorzubereiten und zugleich die eigenen fixen Kosten und einen kleinen Puffer für teurere Nebenkosten nüchtern zu prüfen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Deutscher Sonnenstrom-Rekord und weniger Rodung im Amazonas",
-              "text": "Zwei große Umwelt-Lichtblicke zogen sich durch die Woche. Deutschland speiste im Juli mit rund zwölf Milliarden Kilowattstunden so viel Solarstrom in einem einzigen Monat ins öffentliche Netz ein wie nie zuvor; eine Kilowattstunde ist die Strommenge, die etwa ein sparsamer Kühlschrank an einem Tag verbraucht. Zugleich fiel die Entwaldung im brasilianischen Amazonasgebiet, dem größten zusammenhängenden Tropenwald der Erde, nach Daten des staatlichen Weltrauminstituts auf den tiefsten Stand seit dreizehn Jahren. Warum das zählt: Beide Zahlen zeigen, dass sich große Trends beim Klima- und Naturschutz auch zum Guten wenden können.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
-              "source": "Positive News / Umweltbehörden"
-            },
-            {
-              "title": "Fortschritt bei einem Impfstoff gegen schwarzen Hautkrebs",
-              "text": "Die US-Pharmaunternehmen Merck und Moderna berichteten ermutigende Ergebnisse aus einer großen Studie der Phase drei (der letzten und größten Prüfstufe vor einer möglichen Zulassung) zu einem personalisierten Impfstoff gegen das maligne Melanom, den sogenannten schwarzen Hautkrebs, eine besonders gefährliche Form von Hautkrebs. Personalisiert bedeutet, dass der Impfstoff auf die Merkmale des einzelnen Tumors zugeschnitten wird. Warum das zählt: Der Ansatz könnte künftig auch bei anderen Krebsarten helfen und steht für eine neue, individuell abgestimmte Medizin.",
-              "source": "Positive News / Merck und Moderna"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Transistor jenseits der Silizium-Grenze",
-              "text": "Forschende der Nationalen Yang-Ming-Chiao-Tung-Universität in Taiwan haben gemeinsam mit dem Chiphersteller TSMC (dem weltweit größten Auftragsfertiger von Computerchips) eine nur 0,42 Nanometer dünne Schutzschicht vorgestellt; ein Nanometer ist ein Millionstel Millimeter, die Schicht ist also nur wenige Atome dick. Ein Transistor ist der winzige Schalter, aus dem moderne Chips millionenfach aufgebaut sind. Die Schicht könnte Transistoren über die bisherige Grenze des Halbleiters Silizium hinaus verkleinern. Warum das zählt: Kleinere, sparsamere Chips sind die Grundlage für leistungsfähigere und energieeffizientere Technik, auch für künstliche Intelligenz.",
-              "img": "https://live.staticflickr.com/4060/5140603528_533e70da06_b.jpg",
-              "source": "ScienceDaily / Nature Electronics"
-            },
-            {
-              "title": "Quantenmaterial sortiert Licht bei Raumtemperatur",
-              "text": "Ein Forschungsteam stellte nach einem Bericht des Wissenschaftsportals ScienceDaily das nach eigenen Angaben erste Quantenmaterial vor, das verschiedene Quantenzustände von Licht bei normaler Raumtemperatur ordnen kann. Bisher waren dafür meist aufwendige Kühlungen nahe dem absoluten Nullpunkt nötig. Solche Materialien gelten als Baustein für künftige Quantencomputer und besonders abhörsichere Datenübertragung. Warum das zählt: Was bei Raumtemperatur funktioniert, lässt sich leichter und günstiger in echte Geräte bringen.",
-              "source": "ScienceDaily"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nach der Hitze ein kühler Wochenausklang, heute Sommer-Sonntag am Alten Freibad",
-              "text": "Für Horb am Neckar, die Stadt an der oberen Neckarschleife im Nordschwarzwald, war es die Woche der Abkühlung: Nach einer hochsommerlichen Vorwoche mit Temperaturen bis 36 Grad blieb es durchgehend milder, mit Regen, Nebel und Werten meist unter 30 Grad. Auch heute liegt ein neblig-trüber Spätsommertag bei rund 23 Grad über dem Neckartal, der sich im Lauf des Tages voraussichtlich lichtet. Passend dazu wird heute ab 15 Uhr die Reihe der Sommer-Sonntage am Alten Freibad fortgesetzt, einem beliebten Treffpunkt am Fluss. Warum das zählt: Ein ruhiger, kühler Sonntag lädt dazu ein, die Woche in Ruhe abzuschließen.",
-              "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-              "source": "Stadt Horb am Neckar / open-meteo"
-            },
-            {
-              "title": "Termine der Woche im Veranstaltungskalender",
-              "text": "Wer die neue Woche plant, findet die aktuellen städtischen Termine im offiziellen Veranstaltungskalender der Stadt Horb am Neckar gebündelt. Dort werden Märkte, Konzerte und Veranstaltungen in der Altstadt und den Teilorten aufgeführt. Warum das zählt: Ein kurzer Blick lohnt sich, um kleine Ankerpunkte für die Woche zu setzen.",
-              "source": "Stadt Horb am Neckar"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Eine Woche der Abkühlung nach der Hitze, und mancher stille Fortschritt zeigt sich erst, wenn man die Tage nebeneinanderlegt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Qwen 3.8 27B: ein fähiges Sprachmodell gratis auf dem eigenen Rechner",
-            "text": "Das KI-Labor Qwen des chinesischen Technikkonzerns Alibaba hat mit Qwen 3.8 27B ein neues Sprachmodell frei und offen lizenziert veröffentlicht (die Bezeichnung 27B steht für rund 27 Milliarden Parameter, die vom Modell gelernten Stellschrauben). Der Entwickler Simon Willison, ein bekannter Fachautor zu KI-Werkzeugen, nennt es eine ausgezeichnete Größe, um es auf einem gut ausgestatteten Rechner laufen zu lassen; eine schlank gerechnete Fassung belegt nur etwa 17 Gigabyte Speicher. Ergänzend ist mit Muse Glimmer des Konzerns Meta ein weiteres frei lizenziertes Modell verfügbar.",
-            "why": "Für dich als Solo-Unternehmer ist das die Möglichkeit, ohne laufende Kosten und ohne Umweg über einen fremden Dienst ein fähiges Modell für vertrauliche oder wiederkehrende Aufgaben lokal zu betreiben. Weil die Daten deinen Rechner nicht verlassen, eignet es sich besonders für sensible Inhalte; ein Test mit einer typischen Aufgabe zeigt schnell, ob Ergebnis und Tempo für deinen Zweck ausreichen. Beachte, dass Qwen standardmäßig sehr aufwendig denkt und du den Denk-Aufwand bewusst niedrig stellen solltest.",
-            "source": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Die Entwickler-Signale der Woche zeigten alle in dieselbe Richtung: nicht ein Werkzeug für alles, sondern die passende Maschine je Aufgabe. Die folgende Karte fasst das als eine größere, strategische Aufgabe zusammen; die Einzelschritte findest du gebündelt in den Systemanpassungen darunter.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Eine bewusste Modell-Wahl je Aufgabe einführen, nach Kosten, Tempo und Vertraulichkeit",
-              "tag": "Strategie der Woche",
-              "paras": [
-                "Die Signale dieser Woche ergaben ein klares Bild. Simon Willison veröffentlichte die Fassung 0.32 seines offenen Kommandozeilen-Werkzeugs LLM (ein Programm, mit dem sich Sprachmodelle direkt aus dem Terminal, also der textbasierten Eingabezeile des Rechners, ansprechen lassen) mit sichtbaren Denkspuren und serverseitigen Werkzeugen, und die Erweiterung llm-gemini 0.33 lässt Modelle Rechenschritte direkt auf dem Anbieter-Server ausführen. Zugleich stehen mit Qwen 3.8 27B und Muse Glimmer starke, frei lizenzierte Modelle bereit, die du selbst auf deinem Rechner betreiben kannst, und die neue Fassung des Model Context Protocol (kurz MCP, ein offener Standard, über den KI-Anwendungen einheitlich auf Werkzeuge und Datenquellen zugreifen) vom 28. Juli 2026 macht Anbindungen schlanker.",
-                "Für dich heißt das strategisch: Lege für deine MORGENLAGE-Routine eine kurze Regel fest, welche Aufgabe an welches Modell geht. Reine Fleißarbeit wandert an ein kleines, günstiges oder lokales Modell mit niedrigem Denk-Aufwand; die eigentliche Einordnung übernimmt ein starkes Modell. Vertrauliche Schritte laufen lokal, exakte Rechenaufgaben lässt du serverseitig ausführen. So ersetzt du blindes Vertrauen in eine Standardeinstellung durch eine bewusste Wahl, die Zeit, Geld und Vertraulichkeit gegeneinander abwägt."
-              ],
-              "konkret": "Beschreibe deine Routine einmal als kurze Routing-Regel (routing.md): welche Schritte an ein kleines oder lokales Modell mit niedrigem Denk-Aufwand gehen, welche das Hauptmodell brauchen, welche Schritte vertraulich sind und lokal laufen müssen und welche eine exakte Rechnung verlangen und serverseitig ausgeführt werden. Setze anschließend genau diese Punkte gebündelt um, statt sie über Tage verteilt einzeln anzufassen.",
-              "snippetLabel": "Modell und Denk-Aufwand je Aufgabe wählen",
-              "snippet": "# Routine-Schritt an ein kleines Modell mit niedrigem Denk-Aufwand\nllm -m <span class=\"ph\">{kleines-modell}</span> -o reasoning_effort low \\\n  \"<span class=\"ph\">{einfache Routineaufgabe}</span>\"\n\n# vertrauliche Aufgabe lokal ueber LM Studio\nllm -m <span class=\"ph\">{lokales-modell}</span> \"<span class=\"ph\">{sensible Aufgabe}</span>\"\n\n# exakte Rechnung serverseitig ausfuehren lassen\nllm -m <span class=\"ph\">{modell}</span> -T CodeExecution \"<span class=\"ph\">{Rechenaufgabe}</span>\"",
-              "source": "Simon Willison / Model Context Protocol"
-            }
-          ]
-        },
-        {
-          "type": "systemtips",
-          "eyebrow": "Systemanpassungen der Woche",
-          "intro": "Hier sind alle konkreten System- und Prompt-Tipps der Woche gebündelt. Weiter unten steht ein einziger, kopierfertiger Text, den du in einem Schritt in dein System einspielen kannst.",
-          "items": [
-            {
-              "title": "LLM auf Fassung 0.32 bringen und Denkspuren getrennt mitschneiden",
-              "text": "Aktualisiere das Kommandozeilen-Werkzeug LLM auf 0.32. Schneide die Denkspuren (Reasoning-Traces) beim Entwickeln getrennt über den Fehlerkanal mit, damit du Entscheidungen nachvollziehen kannst, ohne die eigentliche Ausgabe zu verunreinigen. Das durchsuchbare, inhaltsadressierte Protokoll hilft dir später bei Fragen wie warum wurde das so entschieden."
-            },
-            {
-              "title": "Serverseitige Werkzeuge nutzen, auch für exakte Rechnungen",
-              "text": "Verlagere Websuche, Seitenabruf und exakte Rechen- oder Auswertungsaufgaben auf serverseitige Werkzeuge, die direkt beim Anbieter laufen (mit llm-gemini 0.33 etwa die Codeausführung). So bekommst du zuverlässig gerechnete statt nur geschätzter Ergebnisse."
-            },
-            {
-              "title": "Denk-Aufwand je Aufgabe steuern",
-              "text": "Stelle den Denk-Aufwand bewusst niedrig, wenn eine Aufgabe einfach ist, und hebe ihn nur für wirklich schwierige Fragen an. Das freie Modell Qwen 3.8 27B überdenkt sonst selbst einfachste Aufgaben und kostet unnötig Zeit."
-            },
-            {
-              "title": "Vertrauliche Aufgaben lokal auf dem eigenen Rechner erledigen",
-              "text": "Betreibe für vertrauliche oder wiederkehrende Aufgaben ein frei lizenziertes Modell wie Qwen 3.8 27B oder Muse Glimmer lokal über eine Anwendung wie LM Studio. Das ist gerade dann sinnvoll, wenn Werbung in kostenlose KI-Dienste einzieht, wie es OpenAI seit dieser Woche in Europa tut."
-            },
-            {
-              "title": "MCP-Anbindungen auf das zustandslose Verfahren heben",
-              "text": "Prüfe je Anbindung an das Model Context Protocol die gemeldete Protokoll-Fassung und stelle selbst betriebene Server auf den zustandslosen Kern der Fassung 2026-07-28 um. Plane langlaufende Schritte über die neue Tasks-Erweiterung in den Hintergrund."
-            },
-            {
-              "title": "Modell-Routing als feste Regel festhalten",
-              "text": "Halte in einer kurzen Datei fest, welche Schritte an ein kleines oder lokales Modell gehen und welche das Hauptmodell brauchen. So triffst du die Wahl je Aufgabe bewusst statt zufällig."
-            }
-          ],
-          "copytext": "MORGENLAGE Systemanpassungen fuer die Woche vom 23. August 2026\n\n1. LLM auf Fassung 0.32 bringen und Denkspuren getrennt mitschneiden\nBring das Kommandozeilen-Werkzeug LLM auf Fassung 0.32. Denkspuren beim Entwickeln ueber den Fehlerkanal mitlaufen lassen, im produktiven Lauf ausblenden, Protokoll durchsuchbar halten:\n  llm \"{deine-anweisung}\" > antwort.txt 2> denkspur.txt\n  # Denkspuren unterdruecken: llm -R \"{deine-anweisung}\"\n  # Protokoll durchsuchen: llm logs --search \"{stichwort}\"\n\n2. Serverseitige Werkzeuge nutzen, auch fuer exakte Rechnungen\nWebsuche, Seitenabruf und exakte Rechenaufgaben auf serverseitige Werkzeuge verlagern, die beim Anbieter laufen (llm-gemini 0.33: Codeausfuehrung):\n  llm -m {modell} -T CodeExecution \"{deine Rechen- oder Datenaufgabe}\"\n  # das Modell schreibt Programmcode und fuehrt ihn auf dem Server aus\n\n3. Denk-Aufwand je Aufgabe steuern\nEinfache Aufgaben mit niedrigem Denk-Aufwand, nur schwierige Fragen mit hohem:\n  llm -m {kleines-modell} -o reasoning_effort low \"{einfache Routineaufgabe}\"\n  # fuer schwierige Faelle stattdessen: -o reasoning_effort high\n\n4. Vertrauliche Aufgaben lokal erledigen\nEin frei lizenziertes Modell (Qwen 3.8 27B oder Muse Glimmer) lokal ueber LM Studio betreiben, damit sensible Daten den Rechner nicht verlassen:\n  llm -m {lokales-modell} \"{sensible Aufgabe}\"\n  # Modell zuvor in LM Studio laden und den lokalen Endpunkt in LLM eintragen.\n\n5. MCP-Anbindungen auf das zustandslose Verfahren heben\nJe Anbindung an das Model Context Protocol die Protokoll-Fassung pruefen und selbst betriebene Server auf den zustandslosen Kern 2026-07-28 umstellen; langlaufende Schritte ueber die Tasks-Erweiterung in den Hintergrund planen:\n  curl -s {deine-mcp-server-url} | grep -i \"protocolVersion\"\n  # Ziel: 2026-07-28 (zustandslose Fassung)\n\n6. Modell-Routing als feste Regel festhalten\nEine kurze Routing-Regel anlegen und im Kopf des Systems verankern:\n  # Analysiere die Teilschritte meiner Routine in {Pfad}. Welche sind reine Umsetzungsarbeit fuer ein kleines oder lokales Modell, welche brauchen das Hauptmodell, welche sind vertraulich, welche verlangen eine exakte Rechnung?\n\nMerksatz fuer den Kopf des Systems:\nPassende Maschine je Aufgabe. Fleissarbeit -> kleines oder lokales Modell mit niedrigem Denk-Aufwand. Einordnung -> starkes Modell. Vertrauliches lokal, exakte Rechnung serverseitig. Denkspuren getrennt mitschneiden, MCP zustandslos (2026-07-28)."
-        },
-        {
-          "type": "thought",
-          "text": "Wer die passende Maschine je Aufgabe wählt, gewinnt Ruhe: nicht ein Anbieter trägt die Woche, sondern ein Aufbau, den man versteht, günstig hält und jederzeit anpassen kann."
-        }
-      ]
-    },
-    {
       "label": "Montag, 24. August 2026",
       "weather": "rain",
       "temp": "24°C · Regenschauer",
@@ -1086,6 +913,177 @@
               "score": 4
             }
           ]
+        }
+      ]
+    },
+    {
+      "label": "Sonntag, 30. August 2026",
+      "kind": "weekly",
+      "sub": "Wochenrückblick",
+      "weather": "rain",
+      "temp": "25°C · Regenschauer",
+      "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: In der Weltlage spitzte sich der Krieg zwischen Russland und der Ukraine weiter zu und gipfelte zum Wochenende in einer über einen Tag andauernden russischen Angriffswelle auf die Hauptstadt Kiew mit zahlreichen Todesopfern, begleitet von neuer EU-Milliardenhilfe für die Ukraine und einer Abstimmung in Island über die Wiederaufnahme der Gespräche über einen Beitritt zur Europäischen Union. In der Wirtschaft festigte sich die Erholung sichtbar: Mit ZEW, ifo und dem DIW-Konjunkturbarometer, das erstmals seit Ende 2017 wieder über 100 Punkte stieg, zeigten drei wichtige Stimmungsmesser nach oben, und die deutschen Exporte erreichten einen Rekord, während niedrige Gasspeicher und ein niedriger Rhein-Pegel die Risiken blieben. Und im Zusammenspiel von Lichtblick und Forschung standen die Rückkehr der Buckelwale vier Jahrzehnte nach dem Walfang-Verbot, eine erblindete Frau, die nach einer Netzhaut-Verpflanzung ihr Augenlicht zurückgewann, sowie das bislang klarste Bild vom lange gesuchten Begleitstern des Riesensterns Beteigeuze und eine im Gehirn entdeckte Bremse gegen chronische Nervenschmerzen. Über Horb am Neckar liegt heute ein regnerischer Spätsommertag mit einzelnen Schauern bei rund 25 Grad. Hier ist dein Wochenrückblick.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Ukraine-Krieg: schwerste Angriffswelle der Woche auf Kiew",
+              "text": "Der Krieg zwischen Russland und der Ukraine hat sich über die Woche weiter zugespitzt und zum Wochenende einen Höhepunkt erreicht. Russische Streitkräfte führten eine mehr als einen Tag andauernde kombinierte Angriffswelle aus Drohnen (unbemannten, aus der Ferne gesteuerten Fluggeräten) und Raketen vor allem gegen die ukrainische Hauptstadt Kiew, bei der nach ukrainischen Angaben mehrere Dutzend Menschen getötet wurden. Die ukrainische Flugabwehr fing nach eigener Darstellung weit über hundert der Drohnen ab. Zugleich steht das von russischen Truppen kontrollierte Kernkraftwerk Saporischschja, das größte Europas, seit Tagen ohne äußere Stromversorgung, was die Sorge um die Kühlung der Anlage nährt. Warum das zählt: Die anhaltende Eskalation hält Sicherheitslage und Energiepreise in Europa im Blick, auch wenn der Krieg geographisch weit entfernt scheint.",
+              "source": "ZDFheute / internationale Agenturen"
+            },
+            {
+              "title": "EU-Milliardenhilfe für Kiew, Abstimmung in Island über EU-Beitrittsgespräche",
+              "text": "Zwei weitere Entwicklungen prägten die europapolitische Woche. Die Europäische Union (kurz EU, der Staatenverbund von 27 Ländern) sagte der Ukraine zu deren Unabhängigkeitstag weitere Hilfen in Milliardenhöhe zu, um Haushalt und Verteidigung des angegriffenen Landes zu stützen. Parallel stimmten die Menschen in Island am Wochenende darüber ab, ob ihr Land die vor Jahren ausgesetzten Gespräche über einen Beitritt zur Europäischen Union wieder aufnehmen soll. Warum das zählt: Beide Vorgänge zeigen, wie sehr der Krieg die politische Ausrichtung Europas prägt, von der Finanzierung Kiews bis zur Frage, wer künftig zur Union gehört.",
+              "source": "internationale Agenturen"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Erholung festigt sich, drei Frühindikatoren zeigen nach oben",
+              "text": "Die Woche brachte das bislang deutlichste Zeichen einer Erholung der deutschen Wirtschaft in diesem Jahr. Die vom Zentrum für Europäische Wirtschaftsforschung (kurz ZEW, ein Forschungsinstitut in Mannheim) erhobenen Konjunkturerwartungen stiegen den vierten Monat in Folge, das Geschäftsklima des Münchner ifo Instituts (ein wirtschaftliches Forschungsinstitut) legte weiter zu, und das Konjunkturbarometer des Deutschen Instituts für Wirtschaftsforschung (kurz DIW Berlin) kletterte erstmals seit Ende 2017 wieder über die Marke von 100 Punkten, die für durchschnittliches Wachstum steht. Getragen wird das von den Exporten, die einen neuen Höchststand erreichten, besonders dank Nachfrage aus anderen europäischen Ländern. Gebremst wird die Erholung weiter von der Energieseite: Die deutschen Gasspeicher liegen niedrig, und der niedrige Pegel des Rheins, der wichtigsten Wasserstraße für Güter, bleibt ein kurzfristiges Risiko. Die Europäische Zentralbank (kurz EZB, die Notenbank des Euroraums) dürfte nach Markterwartung vorerst keine weiteren Zinsschritte vornehmen.",
+              "source": "ZEW Mannheim / ifo Institut / DIW Berlin"
+            }
+          ],
+          "merk": {
+            "text": "Wenn gleich drei wichtige Frühindikatoren in dieselbe Richtung nach oben zeigen, sind Kunden erfahrungsgemäß eher zu Investitionen bereit. Das ist ein guter Zeitpunkt, liegengebliebene Angebote oder Gespräche jetzt aktiv anzugehen, statt auf eine noch klarere Lage zu warten.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Buckelwale kehren zurück, vier Jahrzehnte nach dem Walfang-Verbot",
+              "text": "Eine der ermutigendsten Naturmeldungen der Woche betrifft die Buckelwale, große, für ihren Gesang bekannte Bartenwale. Rund vierzig Jahre nach dem weltweiten Walfang-Moratorium (dem 1986 in Kraft getretenen internationalen Verbot des kommerziellen Walfangs) erholen sich mehrere Bestände so weit, dass die Tiere in frühere Verbreitungsgebiete zurückkehren, unter anderem vor dem südlichen Afrika. Fachleute werten das als seltenes Beispiel dafür, dass eine konsequent umgesetzte Schutzregel über Jahrzehnte messbar wirkt. Warum das zählt: Es zeigt, dass sich große ökologische Schäden umkehren lassen, wenn eine klare Regel lange genug eingehalten wird.",
+              "img": "https://live.staticflickr.com/7486/15194165793_619455e948_b.jpg",
+              "source": "Good News Network"
+            },
+            {
+              "title": "Erblindete Frau gewinnt nach Netzhaut-Verpflanzung ihr Augenlicht zurück",
+              "text": "In der Medizin sorgte ein Eingriff für Aufsehen, bei dem eine erblindete Frau nach einer der weltweit ersten Verpflanzungen von Netzhaut-Gewebe wieder sehen konnte. Die Netzhaut ist die lichtempfindliche Schicht im hinteren Teil des Auges, die Bilder in Nervensignale umwandelt; ihre Schädigung galt lange als kaum behandelbar. Der Erfolg ist ein Einzelfall und noch kein Standardverfahren, weist aber einen möglichen Weg für bestimmte Formen der Erblindung. Warum das zählt: Solche Fortschritte machen Hoffnung, dass bisher unumkehrbarer Verlust von Sehkraft eines Tages behandelbar wird.",
+              "source": "Good News Network"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Klarstes Bild vom lange gesuchten Begleitstern der Beteigeuze",
+              "text": "Astronominnen und Astronomen gelang in dieser Woche das bislang schärfste Bild eines kleinen Sterns, der den bekannten Riesenstern Beteigeuze umkreist. Beteigeuze ist ein sogenannter Roter Überriese im Sternbild Orion, einer der hellsten Sterne am Nachthimmel, dessen regelmäßiges Schwächerwerden lange Rätsel aufgab. Ein direkter Nachweis des vermuteten Begleiters war bisher nicht gelungen, weil er im Glanz des Riesen fast verschwindet. Warum das zählt: Der Fund hilft, das ungewöhnliche Verhalten eines der auffälligsten Sterne besser zu verstehen, und zeigt, wie fein moderne Teleskope inzwischen auflösen.",
+              "img": "https://live.staticflickr.com/65535/46721597845_18502d47a3_b.jpg",
+              "source": "ScienceDaily"
+            },
+            {
+              "title": "Im Gehirn entdeckte Bremse könnte gegen chronische Nervenschmerzen helfen",
+              "text": "Ein Forschungsteam beschrieb im Verlauf der Woche einen körpereigenen Schaltkreis im Gehirn, der chronische Nervenschmerzen dämpfen kann. Chronischer Nervenschmerz entsteht, wenn geschädigte Nerven dauerhaft falsche Schmerzsignale senden, und ist mit heutigen Mitteln oft schwer zu behandeln. Wird diese natürliche Bremse gezielt aktiviert, lässt sich der Schmerz in Versuchen deutlich verringern. Warum das zählt: Der Ansatz könnte langfristig zu Therapien führen, die weniger auf starke Schmerzmittel angewiesen sind.",
+              "source": "ScienceDaily"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Regnerischer Spätsommer-Sonntag über dem Neckartal",
+              "text": "Über Horb am Neckar liegt zum Wochenausklang ein regnerischer Spätsommertag mit einzelnen Schauern bei rund 25 Grad. Die Woche war wechselhaft, von milden bis heißen Tagen bis zu Gewitter und Regen, ein typisches Bild für den ausklingenden August im Neckartal. Wer heute etwas vorhat, plant es am besten mit Blick auf die Schauer und hält eine Regenjacke bereit. Für die neue Woche lohnt der Blick in den Veranstaltungskalender der Stadt: Am Freitag findet regelmäßig der Wochenmarkt auf dem Flößerwasen statt, dazu gibt es in der Region wiederkehrende Floh- und Kulturtermine.",
+              "img": "https://live.staticflickr.com/3187/2969566789_bd32b8bab2_b.jpg",
+              "source": "Deutscher Wetterdienst / Stadt Horb am Neckar"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Eine Woche ist selten so eindeutig, wie ihre einzelnen Tage vermuten lassen; am Sonntag zeigt sich, welche Linie sich durch sie zieht."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "BAFA-Zuschuss für Unternehmensberatung, nutzbar bis Ende 2026",
+            "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (kurz BAFA, eine Bundesbehörde) fördert im Rahmen des Programms Förderung unternehmerischen Know-hows die Beratung kleiner und mittlerer Unternehmen. Bezuschusst werden Honorare für eine qualifizierte, in einer amtlichen Beraterbörse gelistete Beratung, etwa zu Wirtschaftlichkeit, Digitalisierung oder Ausrichtung des Betriebs. Das Programm ist in seiner jetzigen Form bis Ende 2026 nutzbar; der Antrag wird vor Beginn der Beratung über das Portal des BAFA gestellt.",
+            "why": "Für dich als Solo-Unternehmer ist das eine Möglichkeit, externe Fachberatung zu einem Teil aus Fördermitteln zu finanzieren, statt sie vollständig selbst zu tragen. Gerade wenn du deine MORGENLAGE-Routine und deine Werkzeugkette geschäftlich weiterentwickeln willst, kann eine geförderte Beratung Struktur und einen Außenblick bringen. Weil der Antrag vor Beginn der Beratung gestellt werden muss, lohnt es sich, die Frist bis Ende 2026 früh einzuplanen und nicht bis zum Jahresende zu warten.",
+            "source": "BAFA",
+            "url": "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Die Entwickler-Signale der Woche zeigten alle in dieselbe Richtung: serverseitige Web-Werkzeuge sind reif genug, um eigene, selbstgebaute Such-Anbindungen zu ersetzen. Die folgende Karte fasst das als eine größere, strategische Aufgabe zusammen; die Einzelschritte findest du gebündelt in den Systemanpassungen darunter.",
+          "cards": [
+            {
+              "icon": "gauge",
+              "title": "Deiner Automatisierung echte Web-Recherche geben, statt eigene Such-Anbindungen zu pflegen",
+              "tag": "Strategie der Woche",
+              "paras": [
+                "Die Signale dieser Woche ergaben ein klares Bild. Der Entwickler Simon Willison, ein bekannter Fachautor zu KI-Werkzeugen, veröffentlichte die Pflege-Fassung 0.32.1 seines offenen Kommandozeilen-Werkzeugs LLM (ein Programm, mit dem sich Sprachmodelle direkt aus dem Terminal, also der textbasierten Eingabezeile des Rechners, ansprechen lassen) und dazu llm-openrouter 0.7. Diese Erweiterung bindet über den Vermittler OpenRouter (ein Dienst, der viele KI-Modelle über eine einzige Schnittstelle zugänglich macht) drei serverseitige Werkzeuge an: eine Websuche (WebSearch), einen Seitenabruf (WebFetch) und eine abgesicherte Kommando-Ausführung (Shell). Serverseitig heißt, dass diese Schritte direkt beim Anbieter laufen und nicht mehr von dir selbst gebaut und betrieben werden müssen.",
+                "Für dich heißt das strategisch: Statt für deine MORGENLAGE-Routine eigene Anbindungen an Suchmaschinen zu programmieren und zu warten, lässt du das Modell die Recherche über ein serverseitiges Werkzeug erledigen. Das senkt den Wartungsaufwand, macht die Recherche über viele Modelle hinweg gleich nutzbar und verringert die Zahl der Stellen, an denen etwas kaputtgehen kann. Kombiniere das mit den inhaltsadressierten, durchsuchbaren Protokollen aus LLM 0.32, damit du später nachvollziehen kannst, welche Quelle zu welcher Aussage führte."
+              ],
+              "konkret": "Bringe LLM auf 0.32.1 und installiere llm-openrouter 0.7. Ersetze in deiner Routine einen selbstgebauten Recherche-Schritt versuchsweise durch das serverseitige WebSearch-Werkzeug und vergleiche Ergebnis, Tempo und Kosten. Setze diese Punkte gebündelt um, statt sie über Tage verteilt einzeln anzufassen.",
+              "snippetLabel": "Serverseitige Websuche über OpenRouter nutzen",
+              "snippet": "# Werkzeugkette aktualisieren\nllm install -U llm llm-openrouter\n\n# Recherche serverseitig ausfuehren lassen\nllm -m openrouter/<span class=\"ph\">{modell}</span> \\\n  --tool web_search \\\n  \"<span class=\"ph\">{Recherche-Frage der Routine}</span>\" \\\n  --td",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+              "score": "hoch"
+            }
+          ]
+        },
+        {
+          "type": "systemtips",
+          "eyebrow": "Systemanpassungen der Woche",
+          "intro": "Hier sind alle konkreten System- und Prompt-Tipps der Woche gebündelt. Weiter unten steht ein einziger, kopierfertiger Text, den du in einem Schritt in dein System einspielen kannst.",
+          "items": [
+            {
+              "title": "Werkzeugkette auf LLM 0.32.1 und llm-openrouter 0.7 bringen",
+              "text": "Aktualisiere das Kommandozeilen-Werkzeug LLM auf die Pflege-Fassung 0.32.1 und installiere die Erweiterung llm-openrouter in Fassung 0.7. Damit stehen dir die neuen serverseitigen Werkzeuge über viele Modelle hinweg zur Verfügung, ohne dass du sie selbst bauen musst."
+            },
+            {
+              "title": "Recherche auf serverseitige Web-Werkzeuge verlagern",
+              "text": "Ersetze selbstgebaute Such-Anbindungen durch die serverseitigen Werkzeuge WebSearch (Websuche) und WebFetch (Seitenabruf), die direkt beim Anbieter laufen. Das senkt den Wartungsaufwand und macht die Recherche in deiner MORGENLAGE-Routine robuster."
+            },
+            {
+              "title": "Quellen über inhaltsadressierte Protokolle nachvollziehbar halten",
+              "text": "Nutze die durchsuchbaren, inhaltsadressierten Protokolle aus LLM 0.32, um festzuhalten, welche Quelle zu welcher Aussage führte. So kannst du später Fragen wie woher stammt diese Zahl zuverlässig beantworten."
+            },
+            {
+              "title": "Denk-Aufwand je Aufgabe bewusst steuern",
+              "text": "Stelle den Denk-Aufwand niedrig, wenn ein Schritt reine Fleißarbeit ist, und hebe ihn nur für schwierige Einordnungen an. Das spart bei wiederkehrenden Routine-Schritten spürbar Zeit und Kosten."
+            },
+            {
+              "title": "Modell-Routing als feste Regel beibehalten",
+              "text": "Halte in einer kurzen Datei fest, welche Schritte an ein kleines oder lokales Modell gehen und welche das Hauptmodell brauchen. Ergänze die serverseitige Recherche als eigenen, klar benannten Schritt in dieser Regel."
+            },
+            {
+              "title": "Geförderte Beratung rechtzeitig einplanen",
+              "text": "Prüfe den BAFA-Zuschuss zur Unternehmensberatung, der bis Ende 2026 nutzbar ist, und stelle den Antrag vor Beginn einer Beratung. So kannst du die Weiterentwicklung deiner Routine zum Teil aus Fördermitteln finanzieren."
+            }
+          ],
+          "copytext": "MORGENLAGE Systemanpassungen fuer die Woche vom 30. August 2026\n\n1. Werkzeugkette aktualisieren\nBring das Kommandozeilen-Werkzeug LLM auf Fassung 0.32.1 und installiere llm-openrouter in Fassung 0.7:\n   llm install -U llm llm-openrouter\n\n2. Recherche serverseitig ausfuehren lassen\nErsetze selbstgebaute Such-Anbindungen durch die serverseitigen Werkzeuge WebSearch und WebFetch, die direkt beim Anbieter laufen. Beispiel:\n   llm -m openrouter/{modell} --tool web_search \"{Recherche-Frage}\" --td\n\n3. Quellen nachvollziehbar halten\nNutze die inhaltsadressierten, durchsuchbaren Protokolle aus LLM 0.32, damit du zu jeder Aussage die Quelle zurueckverfolgen kannst.\n\n4. Denk-Aufwand je Aufgabe steuern\nStelle den Denk-Aufwand fuer einfache Routine-Schritte niedrig und hebe ihn nur fuer schwierige Einordnungen an:\n   llm -m {kleines-modell} -o reasoning_effort low \"{einfacher Schritt}\"\n\n5. Modell-Routing als feste Regel fuehren\nHalte in einer kurzen Datei (routing.md) fest, welche Schritte an ein kleines oder lokales Modell gehen, welche das Hauptmodell brauchen und wo die serverseitige Recherche einzusetzen ist.\n\n6. Foerderung einplanen\nPruefe den BAFA-Zuschuss zur Unternehmensberatung (nutzbar bis Ende 2026) und stelle den Antrag vor Beginn der Beratung ueber das Portal des BAFA."
+        },
+        {
+          "type": "thought",
+          "text": "Was diese Woche verband, war weniger ein neues Werkzeug als die ruhige Einsicht, weniger selbst zu bauen und mehr das Vorhandene bewusst zu waehlen."
         }
       ]
     }
