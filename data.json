@@ -2,169 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Dienstag, 25. August 2026",
-   "weather": "rain",
-   "temp": "19°C · Regen",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt heute verbreitet Regen, und mit milden bis zu 19 Grad bleibt es deutlich kühler als in den vergangenen Wochen. In der Weltlage geht der Krieg in der Ukraine mit einem nächtlichen Luftangriff auf die Stadt Kramatorsk weiter, während in China der Gründer des einst größten Immobilienkonzerns Evergrande zu lebenslanger Haft verurteilt wurde. In der Wirtschaft richtet sich der Blick heute auf das neue ifo-Geschäftsklima, den wichtigsten Frühindikator für die deutsche Konjunktur. Als Lichtblick hat England ein wichtiges Ziel der Weltgesundheitsorganisation bei der Leberentzündung Hepatitis C erreicht, und aus der Forschung meldet das Weltraumteleskop James Webb überraschende Funde über die ersten Galaxien. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Nächtlicher Luftangriff auf Kramatorsk in der Ostukraine",
-       "text": "Bei einem russischen Luftangriff auf die Stadt Kramatorsk im Osten der Ukraine ist nach Angaben des ukrainischen Katastrophenschutzes in der Nacht mindestens ein Mensch getötet und siebzehn weitere verletzt worden. Kramatorsk liegt in der Region Donezk, einem seit Jahren umkämpften Gebiet nahe der Frontlinie zwischen russischen und ukrainischen Truppen. Angaben aus einem Kriegsgebiet lassen sich unabhängig kaum überprüfen, weshalb solche Meldungen mit Vorsicht einzuordnen sind. Das zählt, weil es nüchtern in Erinnerung ruft, dass der seit Februar 2022 andauernde russische Angriffskrieg unvermindert weitergeht und weiter Todesopfer unter der Zivilbevölkerung fordert.",
-       "source": "internationale Agenturen / Euronews",
-       "url": "https://www.euronews.com/news/international"
-      },
-      {
-       "title": "Waldbrand bei Omiš an der kroatischen Küste",
-       "text": "An der Adriaküste in Kroatien hat ein Waldbrand nahe der Kleinstadt Omiš, rund fünfundzwanzig Kilometer südöstlich der Hafenstadt Split, in der Nacht die Feuerwehr in Atem gehalten. Nach Behördenangaben mussten etwa eintausendzweihundert Anwohner und Urlauber vorsorglich in Sicherheit gebracht werden, weil starker Wind die Flammen in Richtung der Küste trieb. Solche Brände häufen sich im Mittelmeerraum in den heißen und trockenen Sommermonaten. Das zählt, weil es zeigt, wie stark die Urlaubsregionen Südeuropas inzwischen von Hitze und Trockenheit betroffen sind, was auch für Reisende aus Deutschland spürbare Folgen haben kann.",
-       "source": "internationale Agenturen / Euronews",
-       "url": "https://www.euronews.com/news/international"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Neues ifo-Geschäftsklima wird heute veröffentlicht",
-       "text": "An diesem Dienstag um 10:30 Uhr veröffentlicht das Münchner ifo Institut, eines der wichtigsten wirtschaftlichen Forschungsinstitute Deutschlands, seinen neuen Geschäftsklimaindex für August. Dieser Index bildet die Stimmung in rund neuntausend Unternehmen ab und gilt als bedeutendster Frühindikator für die deutsche Konjunktur, also für die allgemeine wirtschaftliche Lage im Auf und Ab. Zuletzt war der Wert im Juli den dritten Monat in Folge auf 86,6 Punkte gestiegen, getragen vor allem von deutlich besseren Erwartungen der Unternehmen. Das zählt, weil ein weiterer Anstieg die vorsichtige Erholung bestätigen würde, während ein Rückschlag zeigen könnte, dass die Zuversicht noch auf wackligem Grund steht, und beides das Umfeld für Aufträge und Selbstständige berührt.",
-       "source": "ifo Institut / Konjunkturdaten",
-       "url": "https://www.ifo.de/en/survey/ifo-business-climate-index-germany"
-      },
-      {
-       "title": "Evergrande-Gründer in China zu lebenslanger Haft verurteilt",
-       "text": "Ein Gericht in der südchinesischen Stadt Shenzhen hat Hui Ka Yan, den Gründer des Immobilienkonzerns Evergrande, zu lebenslanger Haft verurteilt. Evergrande war zeitweise der am höchsten verschuldete Immobilienentwickler der Welt und geriet 2021 mit Verbindlichkeiten von mehr als dreihundert Milliarden US-Dollar in eine Zahlungsunfähigkeit, die eine schwere Krise am chinesischen Immobilienmarkt auslöste. Der Konzern wurde zu einer Strafe von umgerechnet rund 1,3 Milliarden US-Dollar verurteilt; insgesamt erhielten über fünfzig Beteiligte Haftstrafen. Das zählt, weil der chinesische Immobiliensektor als wichtige Stütze der zweitgrößten Volkswirtschaft der Welt gilt und seine Schwäche über den Welthandel auch die deutsche Exportwirtschaft berührt.",
-       "source": "Bloomberg / South China Morning Post",
-       "url": "https://www.scmp.com/business/china-business/article/3364641/china-evergrande-founder-hui-ka-yan-sentenced-life-imprisonment"
-      }
-     ],
-     "merk": {
-      "text": "Für dich lohnt es sich, das ifo-Geschäftsklima am späten Vormittag kurz nachzuschlagen und als Stimmungsmesser für deine eigene Planung zu nutzen. Bessert sich die Lage weiter, sind Kunden eher zu Investitionen bereit; kühlt sie ab, ist es klug, Angebote und Zahlungsziele vorsichtiger anzusetzen.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "England erreicht wichtiges WHO-Ziel bei Hepatitis C",
-       "text": "England hat nach eigenen Angaben ein zentrales Ziel der Weltgesundheitsorganisation, kurz WHO genannt, bereits vier Jahre früher als vorgesehen erreicht: Es hat mehr als achtzig Prozent der bekannten Fälle von Hepatitis C behandelt. Hepatitis C ist eine durch Viren verursachte Entzündung der Leber, die unbehandelt zu schweren Leberschäden führen kann, sich heute aber gut heilen lässt. Der staatliche Gesundheitsdienst NHS hat dafür über das vergangene Jahrzehnt rund einhunderttausend Menschen behandelt. Das zählt, weil es zeigt, dass sich eine einst gefürchtete Krankheit mit entschlossener und flächendeckender Versorgung tatsächlich zurückdrängen lässt.",
-       "source": "Positive News / NHS",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
-      },
-      {
-       "title": "Blauflossen-Thunfisch kehrt vor Nordostengland zurück",
-       "text": "Vor der Küste Nordostenglands ist der Atlantische Blauflossen-Thunfisch erstmals seit mehr als sechzig Jahren wieder aufgetaucht. Dieser große, schnelle Raubfisch war in europäischen Gewässern lange selten geworden. Die Biologin Lucy Hawkes, eine Meeresforscherin, versah fünf der Tiere mit kleinen Sendern, um ihre Wege zu verfolgen, und wertet ihre Rückkehr als Zeichen für ein gesünderes Ökosystem, also ein besser funktionierendes Zusammenspiel der Lebewesen im Meer. Das zählt, weil die Rückkehr einer solchen Art zeigt, dass sich die Natur bei nachlassendem Druck und besserem Schutz auch nach langer Zeit wieder erholen kann.",
-       "img": "https://live.staticflickr.com/27/67077546_297899eb67_b.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "James-Webb-Teleskop findet mehr kleine Sterne in frühen Galaxien",
-       "text": "Mit dem Weltraumteleskop James Webb, dem derzeit leistungsstärksten Observatorium im All, haben Astronomen entdeckt, dass massereiche Galaxien aus der Frühzeit des Universums weit mehr kleine, lichtschwache Sterne enthalten als bislang angenommen. Eine Galaxie ist ein riesiges, durch die Schwerkraft zusammengehaltenes System aus Sternen, Gas und Staub; unsere eigene Milchstraße ist eine davon. Der Fund bedeutet, dass Modelle darüber, wie sich Sterne kurz nach dem Urknall gebildet haben, angepasst werden müssen. Das zählt, weil solche Beobachtungen helfen zu verstehen, wie aus dem frühen Universum die Strukturen wurden, die wir heute am Himmel sehen.",
-       "img": "https://live.staticflickr.com/4068/4269753734_caa148f2ca_b.jpg",
-       "source": "ScienceDaily / Astronomie",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Experimenteller Wirkstoff lässt den Körper mehr Energie verbrennen",
-       "text": "Forschende haben einen experimentellen Wirkstoff mit der Kurzbezeichnung TOFA untersucht, der einen neuen Weg zur Behandlung von starkem Übergewicht eröffnen könnte. Statt wie viele bisherige Mittel vor allem den Appetit zu dämpfen, bringt er den Körper dazu, mehr Energie zu verbrennen. In Versuchen mit Mäusen stieg der Energieverbrauch um bis zu achtzehn Prozent, und der Körperfettanteil sank, ohne dass nennenswert Muskelmasse verloren ging. Das zählt, weil ein solcher Ansatz, sollte er sich später auch beim Menschen bewähren, die Behandlung von Adipositas, also von krankhaftem Übergewicht, breiter aufstellen könnte.",
-       "source": "ScienceDaily / Medizin",
-       "url": "https://www.sciencedaily.com/news/health_medicine/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Verregneter, kühler Dienstag in Horb",
-       "text": "Über Horb am Neckar, der Stadt an der oberen Neckarschleife im Nordschwarzwald, fällt an diesem Dienstag verbreitet Regen, und mit milden bis zu 19 Grad bleibt es spürbar kühler als zuletzt. Das ist ein guter Tag, um drinnen die Arbeiten anzugehen, die Ruhe und Konzentration verlangen, und Erledigungen im Freien auf kurze trockene Fenster zu legen. Für Gärten und die Natur der Region ist der anhaltende Regen nach der sommerlichen Trockenheit weiterhin eine willkommene Erfrischung. Das zählt, weil sich der Tag mit einem kurzen Blick auf den Wetterverlauf entspannter planen lässt und der Regen den Böden ringsum gut tut.",
-       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-       "source": "open-meteo / Stadt Horb am Neckar",
-       "url": "https://www.horb.de/Veranstaltungen"
-      },
-      {
-       "title": "Kulturtermine der Region im Blick behalten",
-       "text": "Wer die Woche plant, findet die aktuellen Veranstaltungen der Region gebündelt im Veranstaltungskalender der Stadt Horb am Neckar sowie beim Kunstverein Oberer Neckar mit Sitz in Horb, der regelmäßig wechselnde Ausstellungen zeigt. Ein solcher Blick lohnt sich gerade an einem verregneten Tag, um einen wettergeschützten Programmpunkt für die kommenden Tage zu finden. Das zählt, weil wohnortnahe Kultur- und Freizeitangebote eine unkomplizierte Möglichkeit sind, in der Ferienzeit andere Menschen zu treffen und die Region abseits der großen Feste kennenzulernen.",
-       "source": "Stadt Horb am Neckar / Kunstverein Oberer Neckar",
-       "url": "https://www.horb.de/Veranstaltungen"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein grauer Regentag drängt nicht nach draußen, sondern schenkt die Ruhe, das Liegengebliebene mit klarem Kopf zu ordnen."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Innovationsgutscheine Baden-Württemberg: Zuschuss für kleine Vorhaben",
-      "text": "Das Land Baden-Württemberg fördert mit den sogenannten Innovationsgutscheinen kleine und mittlere Unternehmen bei Forschungs-, Entwicklungs- und Digitalisierungsvorhaben. Ein Innovationsgutschein ist ein Zuschuss, mit dem sich ein Teil der Kosten für externe Leistungen wie Beratung, Konzeption oder Umsetzung abdecken lässt; je nach Variante sind Zuschüsse von bis zu zwanzigtausend Euro möglich. Beantragt und bewilligt wird laufend über die zuständigen Landesstellen, sodass kein fester Stichtag verpasst werden kann, die Mittel aber begrenzt sind. Ergänzend fördert das Land über die Digitalisierungsfinanzierung auch die Einführung künstlicher Intelligenz und tiefer gehende Digitalisierungsprojekte mit Zuschüssen von bis zu fünfzig Prozent.",
-      "why": "Für dich als Solo-Unternehmer in Baden-Württemberg ist das eine seltene Gelegenheit, ein klar umrissenes Digital- oder KI-Vorhaben mit Landesmitteln teilweise gegenfinanzieren zu lassen, ohne ein großes Antragsverfahren stemmen zu müssen. Weil die Programme regional und aktuell sind, lohnt sich vor einer geplanten Anschaffung oder Beratung ein kurzer Blick auf die genauen Bedingungen, statt die Kosten allein zu tragen.",
-      "source": "IHK / Land Baden-Württemberg",
-      "url": "https://www.ihk.de/rhein-neckar/innovation/innovationsberatung/foerdermittel/digitalisierungsfinanzierung-3786170"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale stammen aus der großen Fassung 0.32 des freien Werkzeugs LLM von Simon Willison. Dein Hebel liegt darin, deine MORGENLAGE-Routine schlanker und nachvollziehbarer zu machen, indem du Protokollierung und schnelle Einzelabfragen vereinfachst.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Schnelle Einzelabfragen ohne Protokoll-Ballast",
-       "tag": "Werkzeugkette",
-       "paras": [
-        "Der Entwickler Simon Willison, ein bekannter Fachautor zu KI-Werkzeugen, hat mit Fassung 0.32 die bislang größte Erweiterung seines freien Kommandozeilen-Werkzeugs LLM veröffentlicht, mit dem sich Sprachmodelle direkt aus der Eingabezeile des Rechners ansprechen lassen. Neu ist unter anderem der Befehl llm openai endpoint, mit dem sich eine einzelne Abfrage gegen jeden kompatiblen Dienst oder ein lokal laufendes Modell absetzen lässt, ohne dass die Abfrage in die Protokolldatenbank geschrieben wird.",
-        "Für deine MORGENLAGE-Routine bedeutet das mehr Übersicht: Probeläufe und schnelle Zwischenfragen verstopfen nicht länger dein Protokoll, während die eigentlichen Läufe sauber dokumentiert bleiben. So trennst du das Ausprobieren vom produktiven Lauf, ohne zwei getrennte Umgebungen pflegen zu müssen."
-       ],
-       "konkret": "Nutze für einmalige Test- und Zwischenabfragen künftig den Befehl llm openai endpoint und behalte die reguläre, protokollierte Abfrage nur für die tatsächlichen MORGENLAGE-Läufe.",
-       "snippetLabel": "Einzelabfrage ohne Protokoll",
-       "snippet": "# schnelle Testabfrage, wird NICHT ins Protokoll geschrieben\nllm openai endpoint \\\n  -m <span class=\"ph\">{modellname}</span> \\\n  \"<span class=\"ph\">{kurze Testfrage}</span>\"",
-       "source": "Simon Willison / LLM 0.32",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      },
-      {
-       "icon": "layers",
-       "title": "Nachvollziehbare Protokolle mit inhaltsadressiertem Speicher",
-       "tag": "Ausbau",
-       "paras": [
-        "Dieselbe Fassung führt eine neu gestaltete Protokolldatenbank ein, die nach dem Vorbild des Versionsverwaltungssystems Git arbeitet. Der Speicher ist inhaltsadressiert, das heißt gleiche Nachrichteninhalte werden nur einmal abgelegt und über einen Prüfwert wiedergefunden. Dadurch werden wiederkehrende Textbausteine nicht mehr bei jedem Aufruf doppelt gespeichert, und der Befehl llm logs stellt aus diesem kompakten Format weiterhin die vollständigen Verläufe her.",
-        "Für dich heißt das, dass du die täglichen Läufe deiner Routine ohne stark wachsende Datenmengen sauber mitschreiben und später gezielt nachschlagen kannst, etwa um zu prüfen, welche Quellen an einem Tag verwendet wurden. Das erleichtert die Fehlersuche und macht nachvollziehbar, wie eine bestimmte Ausgabe zustande gekommen ist."
-       ],
-       "konkret": "Aktualisiere LLM auf Fassung 0.32 oder neuer und richte an, dass deine MORGENLAGE-Läufe protokolliert werden; prüfe mit llm logs stichprobenartig, ob sich die verwendeten Quellen eines Tages sauber nachvollziehen lassen.",
-       "source": "Simon Willison / LLM 0.32",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Mittwoch, 26. August 2026",
    "weather": "clouds",
    "temp": "28°C · bewölkt",
@@ -618,7 +455,6 @@
    "weather": "rain",
    "temp": "24°C · Regen",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt heute Regen bei milden bis zu 24 Grad, eine willkommene Erfrischung nach den trockenen Wochen. In der Weltlage stimmt Island heute darüber ab, ob es die ausgesetzten Beitrittsgespräche mit der Europäischen Union wieder aufnehmen soll. In der Wirtschaft klettert das Konjunkturbarometer des DIW erstmals seit Ende 2017 wieder über die Wachstumsmarke von 100 Punkten. Als Lichtblick ist in der kasachischen Steppe das erste Przewalski-Fohlen seit 200 Jahren zur Welt gekommen, und aus der Forschung kommt das bislang klarste Bild von Betelgeuses lange gesuchtem Begleitstern. Hier ist deine Morgenlage.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -760,7 +596,6 @@
    "weather": "rain",
    "temp": "25°C · Regenschauer",
    "greeting": "Guten Morgen, Gerik. Die Woche in drei Bewegungen: In der Weltlage spitzte sich der Krieg zwischen Russland und der Ukraine weiter zu und gipfelte zum Wochenende in einer über einen Tag andauernden russischen Angriffswelle auf die Hauptstadt Kiew mit zahlreichen Todesopfern, begleitet von neuer EU-Milliardenhilfe für die Ukraine und einer Abstimmung in Island über die Wiederaufnahme der Gespräche über einen Beitritt zur Europäischen Union. In der Wirtschaft festigte sich die Erholung sichtbar: Mit ZEW, ifo und dem DIW-Konjunkturbarometer, das erstmals seit Ende 2017 wieder über 100 Punkte stieg, zeigten drei wichtige Stimmungsmesser nach oben, und die deutschen Exporte erreichten einen Rekord, während niedrige Gasspeicher und ein niedriger Rhein-Pegel die Risiken blieben. Und im Zusammenspiel von Lichtblick und Forschung standen die Rückkehr der Buckelwale vier Jahrzehnte nach dem Walfang-Verbot, eine erblindete Frau, die nach einer Netzhaut-Verpflanzung ihr Augenlicht zurückgewann, sowie das bislang klarste Bild vom lange gesuchten Begleitstern des Riesensterns Beteigeuze und eine im Gehirn entdeckte Bremse gegen chronische Nervenschmerzen. Über Horb am Neckar liegt heute ein regnerischer Spätsommertag mit einzelnen Schauern bei rund 25 Grad. Hier ist dein Wochenrückblick.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -929,7 +764,6 @@
    "weather": "rain",
    "temp": "22°C · Regenschauer",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt die Woche mit einem kühlen, regnerischen Spätsommertag und einzelnen Schauern bei rund 22 Grad. In der Welt richtet sich der Blick heute auf eine neue Zuspitzung zwischen den Vereinigten Staaten und dem Iran am Persischen Golf sowie auf ein Gipfeltreffen mehrerer asiatischer Staaten in Kirgistan. In der Wirtschaft steht mit dem heutigen Tag eine ganze Reihe wichtiger Konjunktur- und Preisdaten an. Hier ist dein Briefing.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1065,6 +899,155 @@
        "konkret": "Leite bei deiner nächsten Erzeugung die Denk-Spuren in eine eigene Log-Datei um und die reine Ausgabe in data.json, um beides sauber zu trennen.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dienstag, 1. September 2026",
+   "weather": "clouds",
+   "temp": "23°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt der Tag zunächst neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperaturen steigen auf rund 23 Grad. In der Welt geht heute der große Gipfel eines von China und Russland getragenen Staatenbündnisses in Zentralasien zu Ende, während in der Straße von Hormus ein Öltanker beschossen wurde. In der Wirtschaft wird aus der Deutschen Post offiziell die DHL, und die Europäische Zentralbank steuert auf ihre nächste Zinsentscheidung zu. Hier ist dein Briefing.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Öltanker in der Straße von Hormus beschossen",
+       "text": "In der Straße von Hormus, der schmalen Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird, ist nach Angaben der britischen Seehandelsbehörde UKMTO (kurz für United Kingdom Maritime Trade Operations, eine Stelle der britischen Marine, die die zivile Schifffahrt vor Gefahren warnt) ein Öltanker beim Auslaufen von drei nicht näher bekannten Geschossen getroffen worden. Verletzte oder Umweltschäden wurden zunächst nicht gemeldet. Der Vorfall reiht sich in die zuletzt gestiegenen Spannungen zwischen den Vereinigten Staaten und dem Iran in dieser Region ein. Warum das zählt: Jede Störung an der Straße von Hormus kann die Öl- und damit die Energiepreise auch in Europa bewegen, weil ein sehr großer Teil des Rohöls diese eine Wasserstraße passiert.",
+       "source": "UKMTO / TASS / internationale Agenturen"
+      },
+      {
+       "title": "Gipfel des Staatenbündnisses SOZ in Kirgistan geht zu Ende",
+       "text": "In Bischkek, der Hauptstadt des zentralasiatischen Landes Kirgistan, geht heute der zweitägige Gipfel der Shanghaier Organisation für Zusammenarbeit (kurz SOZ, ein von China und Russland getragenes Staatenbündnis für Sicherheit und Wirtschaft) zu Ende. Am Rande des Treffens kamen der chinesische Staats- und Parteichef Xi Jinping und der russische Präsident Wladimir Putin zusammen und bekräftigten ihre enge Zusammenarbeit; es war bereits ihre zweite persönliche Begegnung in diesem Jahr. Der Gipfel stand im Zeichen des 25-jährigen Bestehens des Bündnisses unter dem Leitwort dauerhafter Frieden und gemeinsame Entwicklung. Warum das zählt: Solche Treffen zeigen, wie sich abseits der westlichen Bündnisse eigene politische und wirtschaftliche Blöcke enger zusammenschließen, was auch für Handel und Rohstoffe Europas Bedeutung hat.",
+       "source": "Al Jazeera / SCMP / internationale Agenturen"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Aus der Deutschen Post wird zum 1. September die DHL AG",
+       "text": "Der Bonner Logistikkonzern hat seine Umbenennung vollzogen: Mit einem Eintrag ins Handelsregister an diesem 1. September wird aus der Deutsche Post AG die DHL AG (die Abkürzung DHL steht für die Nachnamen der drei Firmengründer Dalsey, Hillblom und Lynn). Der vertraute Name Deutsche Post verschwindet damit nicht ganz, sondern rückt eine Ebene tiefer und bleibt als Tochtergesellschaft für das inländische Brief- und Paketgeschäft erhalten; die gelben Fahrzeuge und Filialen behalten ihren Namen. Hintergrund ist keine Werbeidee, sondern ein Umbau der Konzernstruktur, den die Aktionäre bereits im Mai mit großer Mehrheit beschlossen hatten. Der Schritt spiegelt wider, dass das klassische Postgeschäft, also der Transport von Briefen und Paketen im Inland, nur noch etwa ein Fünftel des Umsatzes ausmacht.",
+       "source": "t-online / Verkehrsrundschau"
+      },
+      {
+       "title": "Europäische Zentralbank steuert auf mögliche Zinserhöhung zu",
+       "text": "Die Europäische Zentralbank (kurz EZB, die Notenbank für die Länder mit dem Euro als Währung) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen, und an den Finanzmärkten gilt eine weitere Anhebung der Leitzinsen als sehr wahrscheinlich. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent und könnte auf 2,50 Prozent steigen. Hintergrund ist die weiter erhöhte Teuerung: Das Statistische Bundesamt meldete für August in Deutschland eine Inflationsrate von 2,9 Prozent im Jahresvergleich, wobei vor allem die Energiepreise ein wichtiger Treiber blieben. Zugleich kehrt die deutsche Wirtschaft nach mehreren schwachen Jahren mit Wachstumsraten von etwa 0,7 bis 1,0 Prozent langsam auf einen Wachstumspfad zurück.",
+       "source": "ftd.de / Börsen-Zeitung / Statistisches Bundesamt"
+      }
+     ],
+     "merk": {
+      "text": "Steigende Leitzinsen verteuern Kredite und machen zugleich Guthaben wieder etwas ertragreicher. Für dich als Solo-Unternehmer heißt das: größere Anschaffungen auf Pump werden teurer, während vorhandene Rücklagen wieder ein wenig mehr abwerfen. Wer investieren will, rechnet die Finanzierungskosten jetzt bewusst mit ein.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Erfinder eines Malaria-Impfstoffs erhält europäischen Preis",
+       "text": "Ein an der Universität Oxford entwickelter Malaria-Impfstoff mit dem Namen R21/Matrix-M ist mit dem Europäischen Erfinderpreis 2026 ausgezeichnet worden, einer Auszeichnung des Europäischen Patentamts für bedeutende Erfindungen. Malaria ist eine von Mücken übertragene Infektionskrankheit, an der jedes Jahr besonders viele Kinder sterben. Der Impfstoff erreichte in Studien einen Schutz von rund 75 bis 80 Prozent und wird inzwischen in etwa 20 Ländern eingesetzt, wodurch sich nach Schätzungen zehntausende Todesfälle verhindern lassen. Warum das zählt: Es ist ein Beispiel dafür, dass geduldige Forschung über viele Jahre am Ende sehr konkret Leben retten kann.",
+       "source": "Positive News / Good News Network"
+      },
+      {
+       "title": "Weltweit weniger Regenwald gerodet als im Vorjahr",
+       "text": "Nach neuen Auswertungen ist in der ersten Hälfte des Jahres 2026 deutlich weniger Regenwald verloren gegangen als im gleichen Zeitraum des Vorjahres. Statt rund 807 Quadratmeilen wurden etwa 500 Quadratmeilen gerodet, ein Rückgang um ungefähr 38 Prozent. Regenwälder sind wichtige Speicher für Kohlenstoff und beheimaten einen großen Teil der Tier- und Pflanzenarten der Erde, weshalb ihr Erhalt für das Klima und die Artenvielfalt zählt. Warum das zählt: Der Rückgang zeigt, dass sich der Verlust von Wäldern bremsen lässt, wenn Schutz und politischer Wille zusammenkommen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rainforest_Aerial_Garden_-_Flickr_-_Eye_Steel_Film.jpg",
+       "source": "Positive News"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Zelltherapie bringt schwere rheumatoide Arthritis zum Stillstand",
+       "text": "Ein Forschungsteam hat berichtet, dass eine sogenannte CAR-T-Zelltherapie die Krankheitsaktivität bei sechs Menschen mit schwerer rheumatoider Arthritis stark verringert hat. Die rheumatoide Arthritis ist eine Erkrankung, bei der sich das körpereigene Abwehrsystem gegen die eigenen Gelenke richtet und diese entzündet. Bei der CAR-T-Therapie werden bestimmte Abwehrzellen des Patienten im Labor so verändert, dass sie gezielt die fehlgeleiteten Zellen angreifen; ursprünglich stammt das Verfahren aus der Krebsbehandlung. Bei drei der Behandelten kam die Erkrankung sogar ganz ohne weitere Medikamente zur Ruhe. Warum das zählt: Sollte sich der Ansatz in größeren Studien bestätigen, könnte er schwer behandelbaren Autoimmunkrankheiten eine neue Richtung geben.",
+       "source": "ScienceDaily"
+      },
+      {
+       "title": "Spirulina liefert aktives Vitamin B12 in beachtlicher Menge",
+       "text": "Forschende haben eine Form der Blaualge Spirulina erzeugt, die biologisch wirksames Vitamin B12 in einer Menge enthält, die mit der von Rindfleisch vergleichbar ist. Spirulina ist eine nährstoffreiche Mikroalge, die bereits als Nahrungsergänzung genutzt wird; Vitamin B12 wiederum ist für Nerven und Blutbildung wichtig und kommt sonst vor allem in tierischen Lebensmitteln vor. Bislang enthielt Spirulina meist eine Form des Vitamins, die der menschliche Körper kaum verwerten kann, was die neue Züchtung nun ändert. Warum das zählt: Eine gut verwertbare, pflanzliche Quelle für Vitamin B12 könnte gerade für vegetarische und vegane Ernährung eine sinnvolle Ergänzung werden.",
+       "img": "https://live.staticflickr.com/5149/5680757625_f15496a0f9_b.jpg",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Nebliger Start in den September, Ausblick auf den Denkmaltag",
+       "text": "Über Horb am Neckar beginnt der erste Septembertag neblig und trüb, im Lauf des Vormittags dürfte sich der Nebel lichten und milde rund 23 Grad zulassen. Wer früh unterwegs ist, sollte an schlechte Sicht im Neckartal denken; am späteren Tag lohnt sich der Aufenthalt im Freien. Für die kommenden Wochen lohnt der Blick in den Kalender: Am 13. September findet bundesweit der Tag des offenen Denkmals statt, an dem historische Gebäude ihre Türen öffnen; das Motto lautet in diesem Jahr NetzWERKE, Denkmale und Infrastruktur. Wer regelmäßig regionale Erzeugnisse einkaufen möchte, findet zudem im Stadtgebiet die wiederkehrenden Wochenmärkte, etwa im Ortsteil Altheim.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "Deutscher Wetterdienst / Tag des offenen Denkmals / Stadt Horb am Neckar"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Wenn der Morgennebel steht, hilft kein Drängen, nur der erste ruhige Schritt, bis die Sicht von selbst zurückkehrt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "BAFA-Zuschuss zu Unternehmensberatung: bis zu 80 Prozent der Kosten",
+      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (kurz BAFA, eine Bundesbehörde) fördert mit dem Programm Förderung unternehmerischen Know-hows die Beratung kleiner und mittlerer Unternehmen sowie von Freiberuflern. Bezuschusst werden je nach Region 50 Prozent (in den westlichen Bundesländern) oder bis zu 80 Prozent der Beratungskosten, gedeckelt auf 1.750 beziehungsweise 2.800 Euro. Förderfähig sind wirtschaftliche, finanzielle, personelle und organisatorische Fragen der Unternehmensführung, ausdrücklich auch Beratungen zur Digitalisierung. Die zugrundeliegende Richtlinie gilt bis zum 31. Dezember 2026, pro Jahr sind höchstens zwei Anträge möglich.",
+      "why": "Für dich als Solo-Unternehmer ist das ein Weg, externen Rat zu Digitalisierung, KI-Werkzeugen oder der Ausrichtung deines Angebots einzuholen und einen großen Teil der Kosten aus Fördermitteln zu decken. Nachdem 2026 mehrere andere Digitalisierungsprogramme ausgelaufen sind, ist die BAFA-Beratungsförderung das wichtigste verbliebene Bundesprogramm dieser Art. Weil der Antrag vor Beginn der Beratung gestellt werden muss und die Richtlinie Ende 2026 ausläuft, lohnt es sich, ein passendes Thema frühzeitig zu prüfen.",
+      "source": "BAFA / Handelskammer",
+      "url": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Die Entwickler-Signale der letzten Wochen drehen sich stark darum, Sprachmodelle über einheitliche Werkzeug-Schnittstellen an eigene Datenquellen anzubinden. Beide Karten unten zeigen einen konkreten Hebel für deine MORGENLAGE-Routine.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Serverseitige Web-Werkzeuge über das Kommandozeilen-Werkzeug LLM nutzen",
+       "tag": "Werkzeugkette",
+       "paras": [
+        "Der Entwickler Simon Willison (ein bekannter Fachautor zu Sprachmodellen) hat in seinem Werkzeug LLM (ein freies Programm für die Kommandozeile, mit dem sich Sprachmodelle steuern lassen) die bisher größte Neuerung veröffentlicht: Modelle können jetzt serverseitige Werkzeuge des Anbieters direkt aufrufen, darunter Websuche (WebSearch), das Abrufen einzelner Webseiten (WebFetch), das Ausführen von Code (CodeExecution) und die Anbindung des Model Context Protocol (kurz MCP, ein offener Standard, über den Modelle einheitlich auf externe Werkzeuge und Datenquellen zugreifen).",
+        "Für deine MORGENLAGE-Routine bedeutet das: Statt Suche und Seitenabruf selbst zu verdrahten, kannst du sie über die eingebaute Schnittstelle mit dem Kürzel minus T an das Modell übergeben. Das verkürzt deine eigene Werkzeugkette und macht sie leichter wartbar."
+       ],
+       "konkret": "Prüfe, ob deine Routine die Recherche noch über eigene Skripte erledigt. Wo das der Fall ist, kannst du testweise die serverseitigen Werkzeuge über die minus-T-Schnittstelle einsetzen und den Aufwand vergleichen.",
+       "snippetLabel": "Beispiel für einen Aufruf mit angebundenem MCP-Server",
+       "snippet": "llm -m claude-sonnet-5 \\\n  -T 'AnthropicMCP(\"<span class=\"ph\">{DEINE_MCP_SERVER_URL}</span>\")' \\\n  '<span class=\"ph\">{DEINE_FRAGE}</span>'",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
+      },
+      {
+       "icon": "layers",
+       "title": "Auf die neue, zustandslose Fassung des Model Context Protocol achten",
+       "tag": "Architektur",
+       "paras": [
+        "Am Model Context Protocol (kurz MCP, der offene Standard für die Anbindung von Werkzeugen an Sprachmodelle) gab es die größte Änderung seit seiner Einführung: Die neue Fassung setzt stärker auf einen zustandslosen Betrieb. Zustandslos bedeutet, dass der Server sich zwischen einzelnen Anfragen nichts merken muss, was den Betrieb einfacher, robuster und leichter skalierbar macht.",
+        "Für deine MORGENLAGE-Routine ist das eher eine Weichenstellung als eine Sofortaufgabe: Wenn du künftig eigene Werkzeuge über MCP anbindest, lohnt es sich, gleich auf die zustandslose Variante zu setzen, damit die Anbindung ohne komplizierte Sitzungsverwaltung auskommt und auch in einer frischen Cloud-Umgebung zuverlässig läuft."
+       ],
+       "konkret": "Wenn du eigene MCP-Server betreibst oder planst, richte sie nach dem zustandslosen Muster aus. Bestehende Anbindungen musst du nicht sofort umbauen, aber bei der nächsten Überarbeitung im Hinterkopf behalten.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
       }
      ]
     }
