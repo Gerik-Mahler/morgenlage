@@ -2,157 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Mittwoch, 26. August 2026",
-   "weather": "clouds",
-   "temp": "28°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute nach einem trüben, teils neblig-diesigen Morgen ein wechselnd bewölkter Tag bei rund 28 Grad, mild und ohne die Hitze früherer Wochen. In der Weltlage sichert die Europäische Union der Ukraine zum Unabhängigkeitstag weitere Milliardenhilfen zu, und in Island steht am Wochenende eine Volksabstimmung über die Wiederaufnahme von EU-Beitrittsgesprächen an. In der Wirtschaft hellt sich das ifo-Geschäftsklima den vierten Monat in Folge auf. Als Lichtblick gewinnt eine erblindete Frau nach einer weltweit ersten Netzhaut-Verpflanzung ihr Augenlicht zurück, und aus der Forschung kommt der Hinweis, dass die Impfung gegen Gürtelrose das Risiko einer Demenz senken könnte. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "EU sagt der Ukraine zum Unabhängigkeitstag weitere Milliardenhilfe zu",
-       "text": "Anlässlich des ukrainischen Unabhängigkeitstags am 24. August hat sich die sogenannte Koalition der Willigen, ein loser Zusammenschluss von rund vierunddreißig Staaten zur Unterstützung der Ukraine, zu Beratungen zusammengeschaltet, und die Europäische Union hat der Ukraine weitere 6,1 Milliarden Euro zugesagt. Die Europäische Union, kurz EU, ist der Staatenverbund von siebenundzwanzig europäischen Ländern, zu denen auch Deutschland gehört. Das Geld soll dem angegriffenen Land helfen, seinen Haushalt und seine Verteidigung aufrechtzuerhalten, während der russische Angriffskrieg weitergeht. Das zählt, weil die Höhe und Verlässlichkeit westlicher Hilfe mit darüber entscheidet, wie lange die Ukraine durchhält, und weil diese Ausgaben zugleich die Haushalte der europäischen Geberländer und damit auch Deutschlands belasten.",
-       "source": "Europäische Union / internationale Agenturen",
-       "url": "https://european-union.europa.eu/news-and-events_en"
-      },
-      {
-       "title": "Island stimmt am Wochenende über EU-Beitrittsgespräche ab",
-       "text": "In Island ist für den kommenden Samstag, den 29. August, eine Volksabstimmung darüber angesetzt, ob das Land seine seit 2013 auf Eis liegenden Verhandlungen über einen Beitritt zur Europäischen Union wieder aufnehmen soll. Island, ein Inselstaat im Nordatlantik mit rund vierhunderttausend Einwohnern, hatte 2009 einen Beitrittsantrag gestellt, die Gespräche dann aber ausgesetzt. Im Mittelpunkt der Debatte stehen die Fischerei, die staatliche Selbstbestimmung und die Sicherheit des Landes in einem sich wandelnden Nordatlantik. Das zählt, weil eine mögliche Annäherung Islands zeigt, wie die veränderte Sicherheitslage in Europa auch lange zurückgestellte Fragen der europäischen Zusammenarbeit wieder in Bewegung bringt.",
-       "source": "internationale Agenturen / Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "ifo-Geschäftsklima steigt den vierten Monat in Folge",
-       "text": "Das Münchner ifo Institut, eines der wichtigsten wirtschaftlichen Forschungsinstitute Deutschlands, hat seinen Geschäftsklimaindex für August auf 88,8 Punkte gemeldet, nach 86,7 Punkten im Juli. Der Index bildet die Stimmung in rund neuntausend Unternehmen ab und gilt als bedeutendster Frühindikator für die deutsche Konjunktur, also für die allgemeine wirtschaftliche Lage im Auf und Ab. Sowohl die Einschätzung der aktuellen Lage mit 88,5 Punkten als auch die Erwartungen mit 89,1 Punkten legten zu, und die Zuversicht verbesserte sich quer durch Industrie, Dienstleister, Handel und Bau. Damit fiel der Wert höher aus als von Fachleuten erwartet und bestätigt den gestern an dieser Stelle erwarteten vierten Anstieg in Folge. Das zählt, weil eine sich festigende Zuversicht der Unternehmen mit einiger Verzögerung auch in Aufträgen und Nachfrage für kleine Betriebe und Selbstständige ankommen kann.",
-       "source": "ifo Institut",
-       "url": "https://www.ifo.de/fakten/2026-08-25/ifo-geschaeftsklimaindex-gestiegen-august-2026"
-      }
-     ],
-     "merk": {
-      "text": "Wenn sich die Stimmung der Unternehmen den vierten Monat in Folge aufhellt, sind Kunden erfahrungsgemäß eher zu Investitionen bereit. Das ist ein guter Moment, liegen gebliebene Angebote nachzufassen und geplante Vorhaben aktiv anzusprechen, solange die Zuversicht trägt, ohne dabei deine Preise und Zahlungsziele aus der Hand zu geben.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Erblindete Frau gewinnt nach weltweit erster Netzhaut-Verpflanzung ihr Augenlicht zurück",
-       "text": "Eine Frau, die nach einem Autounfall erblindet war, hat durch eine weltweit erstmals durchgeführte Verpflanzung des zentralen Teils der Netzhaut wieder Sehkraft gewonnen. Die Netzhaut ist die lichtempfindliche innere Schicht des Auges, die einfallendes Licht in Nervensignale umwandelt und an das Gehirn weiterleitet; ihr zentraler Bereich ist für das scharfe Sehen zuständig. Durchgeführt wurde der Eingriff von Professor Michele Reibaldi am Krankenhaus Molinette im italienischen Turin. Das zählt, weil ein solcher Ersteingriff zeigt, dass selbst schwere, bislang als endgültig geltende Schädigungen des Auges eines Tages behandelbar sein könnten, auch wenn bis zu einem breiten Einsatz noch viel Forschung nötig ist.",
-       "source": "Good News Network",
-       "url": "https://www.goodnewsnetwork.org/"
-      },
-      {
-       "title": "Günstige Batterien machen Solarstrom rund um die Uhr nutzbar",
-       "text": "Nach einer Auswertung der auf Energiedaten spezialisierten Denkfabrik Ember wächst der weltweite Zubau an Batteriespeichern 2026 um rund die Hälfte auf etwa 459 Gigawattstunden, nach 307 Gigawattstunden im Vorjahr. Ein Batteriespeicher ist eine Anlage, die tagsüber erzeugten Sonnenstrom aufnimmt und ihn abends oder nachts wieder abgibt; eine Gigawattstunde ist eine Maßeinheit für eine sehr große Menge gespeicherter Energie. Rechnerisch reichen die neuen Speicher aus, um im Schnitt rund vierunddreißig Prozent des zusätzlich erzeugten Solarstroms in sonnenlose Stunden zu verschieben, in den Vorreiterländern Bulgarien und Chile sogar rund siebenundsiebzig beziehungsweise sechsundsiebzig Prozent. Das zählt, weil billige Speicher die größte Schwäche der Sonnenenergie, ihre Abhängigkeit vom Tageslicht, mildern und damit den Umbau der Stromversorgung beschleunigen.",
-       "img": "https://live.staticflickr.com/2876/11868770425_0ebf7e9b3a_b.jpg",
-       "source": "Ember / Positive News",
-       "url": "https://ember-energy.org/latest-insights/batteries-have-unlocked-the-era-of-anytime-solar/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Impfung gegen Gürtelrose mit geringerem Demenzrisiko verbunden",
-       "text": "Eine große Untersuchung mit mehr als fünfhunderttausend Teilnehmenden hat einen Zusammenhang zwischen der Impfung gegen Gürtelrose und einem selteneren Auftreten von Demenz gefunden. Bei Menschen, die den modernen Impfstoff Shingrix erhalten hatten, wurde über einen Zeitraum von vier Jahren eine um rund vierundzwanzig Prozent niedrigere Rate an Demenzdiagnosen festgestellt. Gürtelrose ist eine schmerzhafte Nervenerkrankung, die durch das Wiederaufflammen des Windpocken-Virus ausgelöst wird; Demenz bezeichnet den fortschreitenden Verlust geistiger Fähigkeiten wie Gedächtnis und Orientierung. Das zählt, weil ein solcher Zusammenhang, sollte er sich weiter bestätigen, einer verbreiteten und bereits verfügbaren Impfung einen zusätzlichen Nutzen geben könnte, auch wenn eine Beobachtungsstudie allein noch keinen Beweis für Ursache und Wirkung liefert.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Irdische Mikroben könnten in den kalten Schattenzonen des Mondes überdauern",
-       "text": "Forschende der US-Raumfahrtbehörde NASA haben herausgefunden, dass von der Erde eingeschleppte Mikroben in den dauerhaft verschatteten, extrem kalten Regionen nahe dem Südpol des Mondes überleben könnten. Mikroben sind winzige, mit bloßem Auge nicht sichtbare Lebewesen wie Bakterien, die als Blinde Passagiere an Raumfahrzeugen anhaften können. In den Schattenkratern des Mondsüdpols herrschen so tiefe Temperaturen, dass solche Keime dort lange konserviert werden könnten. Das zählt, weil künftige Missionen dort nach ursprünglichem Eis und nach Spuren fremden Lebens suchen wollen und eingeschleppte irdische Keime diese Proben verfälschen könnten, was die Planung solcher Erkundungen erschwert.",
-       "img": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxNTc3My1pbWFnZS1rd3lzMDF5MC5qcGc.jpg",
-       "source": "ScienceDaily / NASA",
-       "url": "https://www.sciencedaily.com/news/space_time/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Milder Spätsommertag, am Freitag Wochenmarkt auf dem Flößerwasen",
-       "text": "Über Horb am Neckar, der Stadt an der oberen Neckarschleife im Nordschwarzwald, liegt heute nach neblig-trübem Morgen ein wechselnd bewölkter Tag bei rund 28 Grad, mild und angenehm für Erledigungen im Freien. Wer die Tage plant: Am kommenden Freitag, dem 28. August, findet auf dem Flößerwasen wieder der Wochenmarkt statt, jeweils von 7 bis 13 Uhr, mit frischen Erzeugnissen aus der Region. Der Flößerwasen ist ein zentraler Platz in Horb, dessen Name an die Tradition der Flößerei erinnert, bei der früher Holz auf dem Neckar flussabwärts transportiert wurde. Das zählt, weil ein solcher Wochenmarkt eine unkomplizierte Möglichkeit ist, sich mit regionalen Lebensmitteln zu versorgen und zugleich einen kurzen Gang durch die Stadt mit einem Einkauf zu verbinden.",
-       "img": "https://live.staticflickr.com/3470/3828791073_cb3a460956_b.jpg",
-       "source": "meinestadt.de / Stadt Horb am Neckar",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein milder, wechselhafter Tag ohne große Extreme ist eine gute Gelegenheit, in kleinen, verlässlichen Schritten voranzukommen statt auf den einen großen Wurf zu warten."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Claude for Open Source: sechs Monate Vollzugang für Open-Source-Pflegende",
-      "text": "Das KI-Unternehmen Anthropic, der Hersteller der Sprachmodell-Familie Claude, hat mit dem Programm Claude for Open Source ein Angebot für Menschen geschaffen, die frei verfügbare Software pflegen. Open Source bezeichnet Software, deren Quelltext offen einsehbar ist und von jedem genutzt und verbessert werden darf; Pflegende, im Englischen Maintainer, sind die Personen, die ein solches Projekt betreuen. Qualifizierte Maintainer erhalten nach Angaben des Programms sechs Monate lang kostenfreien Zugang zur höchsten Nutzungsstufe Claude Max. Weil sich Umfang und Bedingungen solcher Programme ändern können, lohnt sich vor einer Bewerbung ein Blick auf die aktuellen Voraussetzungen direkt bei Anthropic.",
-      "why": "Für dich als Solo-Entwickler kann das ein Weg sein, ein leistungsfähiges KI-Werkzeug für die Arbeit an deinen offenen Projekten über mehrere Monate ohne laufende Kosten zu nutzen. Prüfe zunächst, ob eines deiner Vorhaben die Bedingungen erfüllt, und stelle den zeitlichen Wert dem Aufwand der Bewerbung gegenüber, bevor du dich anmeldest.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale drehen sich um dieselbe Bewegung: Werkzeuge lassen sich heute schlanker mit deinem eigenen System verbinden. Dein Hebel liegt darin, Datenquellen und Fähigkeiten über ein einheitliches, zustandsloses Protokoll anzubinden, statt für jede Verbindung eine eigene Sonderlösung zu pflegen.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "Werkzeuge über das schlankere, zustandslose MCP anbinden",
-       "tag": "Anbindung",
-       "paras": [
-        "Ende Juli ist die überarbeitete Fassung des Model Context Protocol, kurz MCP, erschienen, die der Entwickler Simon Willison als bedeutendste Änderung seit dem Start des Protokolls bezeichnet. MCP ist eine einheitliche Schnittstelle, über die ein Sprachmodell auf äußere Datenquellen und Werkzeuge zugreifen kann, ohne dass für jede Verbindung eine eigene Sonderlösung nötig ist. Neu ist, dass die Anbindung nun zustandslos funktioniert, das heißt der Server muss sich keine laufenden Sitzungen mehr merken.",
-        "Für dein System bedeutet das, dass sich Werkzeuge und Datenquellen künftig einfacher und stabiler anbinden lassen, gerade wenn mehrere Aufgaben parallel laufen. Wo du bisher eigene Brücken zwischen Modell und Datenquelle gebaut hast, kann ein zustandsloser MCP-Zugang die Wartung verringern und den Aufbau neuer Verbindungen beschleunigen."
-       ],
-       "konkret": "Prüfe bei einer wiederkehrenden Aufgabe deiner MORGENLAGE-Routine, ob sich die genutzte Datenquelle über einen zustandslosen MCP-Zugang anbinden lässt, statt eine eigene Sonderlösung dafür zu pflegen.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
-      },
-      {
-       "icon": "terminal",
-       "title": "MCP-Server direkt aus dem Kommandozeilen-Werkzeug LLM ansprechen",
-       "tag": "Werkzeug",
-       "paras": [
-        "Passend dazu hat Simon Willison eine frühe Fassung der Erweiterung llm-mcp-client veröffentlicht, mit der sich sein freies Kommandozeilen-Werkzeug LLM mit MCP-Servern verbinden lässt. Ein Kommandozeilen-Werkzeug wird über eingetippte Befehle statt über Fenster und Knöpfe bedient. Damit kannst du einem Modell aus der Kommandozeile heraus Zugriff auf die Werkzeuge eines MCP-Servers geben, etwa auf eine Datenbank oder einen Dateidienst.",
-        "Für deine Abläufe heißt das: Du kannst eine bestehende Datenquelle als MCP-Server bereitstellen und sie in einem einzigen Befehl an ein Modell übergeben, statt die Daten von Hand in den Auftrag zu kopieren. Weil es sich um eine frühe Vorabfassung handelt, eignet sie sich zunächst zum Ausprobieren an einer unkritischen Aufgabe, bevor du sie in einen festen Ablauf übernimmst."
-       ],
-       "konkret": "Verbinde in einem Testlauf dein LLM-Werkzeug über llm-mcp-client mit einem einfachen MCP-Server und lass das Modell eine kleine Aufgabe über dessen Werkzeuge erledigen.",
-       "snippetLabel": "LLM mit einem MCP-Server verbinden",
-       "snippet": "llm install llm-mcp-client\nllm --mcp \"<span class=\"ph\">{befehl-oder-adresse-des-mcp-servers}</span>\" \\\n  \"<span class=\"ph\">{deine Aufgabe fuer das Modell}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Donnerstag, 27. August 2026",
    "weather": "clouds",
    "temp": "32°C · neblig-trüb",
@@ -909,7 +758,6 @@
    "weather": "clouds",
    "temp": "23°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt der Tag zunächst neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperaturen steigen auf rund 23 Grad. In der Welt geht heute der große Gipfel eines von China und Russland getragenen Staatenbündnisses in Zentralasien zu Ende, während in der Straße von Hormus ein Öltanker beschossen wurde. In der Wirtschaft wird aus der Deutschen Post offiziell die DHL, und die Europäische Zentralbank steuert auf ihre nächste Zinsentscheidung zu. Hier ist dein Briefing.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1048,6 +896,155 @@
        "konkret": "Wenn du eigene MCP-Server betreibst oder planst, richte sie nach dem zustandslosen Muster aus. Bestehende Anbindungen musst du nicht sofort umbauen, aber bei der nächsten Überarbeitung im Hinterkopf behalten.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 2. September 2026",
+   "weather": "clouds",
+   "temp": "25°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar startet der Tag zunächst neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperatur auf rund 25 Grad steigen. In der Welt bleibt die Straße von Hormus am Persischen Golf ein Spannungsherd, nachdem die Vereinigten Staaten Angriffe auf iranische Ziele in der Region gemeldet haben. In der Wirtschaft ist die Teuerung im Euroraum im August auf 3,3 Prozent gestiegen, den höchsten Wert seit rund drei Jahren, während die Europäische Zentralbank vor ihrer Sitzung am 10. September steht. Hier ist dein Briefing.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Vereinigte Staaten melden Angriffe auf iranische Ziele nahe der Straße von Hormus",
+       "text": "Der Präsident der Vereinigten Staaten von Amerika, Donald Trump, erklärte, amerikanische Streitkräfte hätten iranische Ziele in der Nähe der Straße von Hormus angegriffen, und warnte Teheran, die Hauptstadt des Iran, vor Vergeltung. Die Straße von Hormus ist eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein sehr großer Teil des weltweit verschifften Erdöls transportiert wird. Der Vorfall folgt auf Meldungen der vergangenen Tage über den Beschuss eines Öltankers in derselben Meerenge und markiert eine weitere Zuspitzung zwischen Washington und Teheran. Belastbare Angaben zu Schäden oder Opfern lagen zunächst nicht vor. Warum das zählt: Jede militärische Eskalation an der Straße von Hormus kann die Öl- und damit die Energiepreise auch in Europa spürbar bewegen, weil ein Großteil des Rohöls diese eine Wasserstraße passiert.",
+       "source": "Anadolu Agency / internationale Agenturen"
+      },
+      {
+       "title": "Hongkonger Aktivist Joshua Wong bekennt sich in weiterem Verfahren schuldig",
+       "text": "Der inhaftierte Demokratie-Aktivist Joshua Wong, eine der bekanntesten Figuren der früheren Protestbewegung in der chinesischen Sonderverwaltungsregion Hongkong, hat sich in einem weiteren Gerichtsverfahren schuldig bekannt. Dem 29-Jährigen wird vorgeworfen, sich mit ausländischen Kräften verschworen zu haben, ein Vorwurf nach dem umstrittenen Gesetz zum Schutz der nationalen Sicherheit, das China 2020 in Hongkong eingeführt hat. Wong sitzt bereits seit mehreren Jahren in Haft. Warum das zählt: Der Fall steht sinnbildlich dafür, wie sehr sich der politische Spielraum in Hongkong seit den Protesten von 2019 verengt hat, und wird international als Prüfstein für Rechtsstaatlichkeit beobachtet.",
+       "source": "internationale Agenturen"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Teuerung im Euroraum steigt im August auf 3,3 Prozent",
+       "text": "Die Inflation im Euroraum, also in den Ländern mit dem Euro als gemeinsamer Währung, ist im August deutlich gestiegen: Die Verbraucherpreise legten im Jahresvergleich um 3,3 Prozent zu. Das ist die höchste Teuerungsrate seit September 2023. Als wichtigster Treiber gelten erneut die Energiepreise. Inflation bezeichnet den allgemeinen Anstieg der Preise, der die Kaufkraft des Geldes mindert; die Europäische Zentralbank strebt mittelfristig einen Wert von rund 2 Prozent an. Warum das zählt: Eine höhere Teuerung schmälert reale Einkommen und Ersparnisse und erhöht den Druck auf die Notenbank, mit den Zinsen gegenzuhalten.",
+       "source": "Eurostat / dpa-AFX"
+      },
+      {
+       "title": "Europäische Zentralbank vor Zinssitzung am 10. September",
+       "text": "Die Europäische Zentralbank (kurz EZB, die gemeinsame Notenbank der Euro-Länder) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent, der Hauptrefinanzierungssatz bei 2,40 Prozent. Die Notenbank hat betont, dass ihre nächsten Schritte von der Datenlage abhängen, insbesondere von der Entwicklung der Inflation. Angesichts der zuletzt gestiegenen Teuerung wird an den Finanzmärkten über eine mögliche Anhebung der Leitzinsen spekuliert. Für Deutschland erwarten die Wirtschaftsinstitute 2026 ein Wachstum von etwa 0,5 bis 1,2 Prozent.",
+       "source": "LBBW / dpa-AFX"
+      }
+     ],
+     "merk": {
+      "text": "Steigende Preise und mögliche höhere Zinsen wirken für dich als Solo-Unternehmer in zwei Richtungen: Einkäufe und Fremdkapital werden teurer, zugleich werfen Rücklagen auf dem Konto wieder etwas mehr ab. Wer in den nächsten Wochen größere Anschaffungen oder Finanzierungen plant, sollte die Konditionen jetzt bewusst durchrechnen und Angebote vergleichen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "In Nepal erholen sich die Bestände wildlebender Tiger",
+       "text": "Aus Nepal, dem Himalaya-Staat zwischen Indien und China, werden erfreuliche Zahlen zum Tigerschutz gemeldet: Nach jahrelangen Bemühungen um Schutzgebiete und den Kampf gegen Wilderei kehren die Bestände des Bengal-Tigers, der größten lebenden Katzenart, wieder in Regionen zurück, aus denen sie fast verschwunden waren. Nepal gilt als eines der wenigen Länder, das seinen Tigerbestand in den vergangenen Jahren mehr als verdoppeln konnte. Warum das zählt: Es zeigt, dass sich der Rückgang bedrohter Arten mit klaren Schutzmaßnahmen und Beteiligung der örtlichen Bevölkerung umkehren lässt, und macht Mut für ähnliche Naturschutzprojekte weltweit.",
+       "img": "https://live.staticflickr.com/3318/3620032404_c674320ac5_b.jpg",
+       "source": "Positive News"
+      },
+      {
+       "title": "Zahl der hungernden Menschen weltweit geht weiter zurück",
+       "text": "Nach aktuellen Auswertungen setzt sich der Rückgang des weltweiten Hungers fort: Der Anteil der Menschen, die nicht ausreichend mit Nahrung versorgt sind, ist erneut gesunken. Grundlage sind Erhebungen internationaler Organisationen, die die Ernährungslage in einzelnen Ländern beobachten. Auch wenn regionale Krisen und Konflikte das Bild stellenweise trüben, weist der langfristige Trend nach unten. Warum das zählt: Der weltweite Hunger galt lange als kaum beeinflussbar, und jeder messbare Rückgang bedeutet, dass Millionen Menschen etwas verlässlicher zu essen haben.",
+       "source": "Positive News / Global Good News"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "NASA-Weltraumteleskop Roman auf dem Weg zum Beobachtungspunkt L2",
+       "text": "Das Nancy-Grace-Roman-Weltraumteleskop, ein neues Beobachtungsinstrument der US-Raumfahrtbehörde NASA, hat sich auf eine rund 1,5 Millionen Kilometer weite Reise zu einem Punkt im All namens L2 begeben. L2 ist ein stabiler Ort hinter der Erde, von dem aus Teleskope ungestört und mit gleichbleibender Ausrichtung ins All blicken können. Von dort soll Roman einen sehr großen Himmelsausschnitt absuchen und dabei Hinweise auf die dunkle Materie und die dunkle Energie sammeln, zwei bislang unverstandene Bestandteile des Universums, die zusammen den weitaus größten Teil seines Inhalts ausmachen. Warum das zählt: Solche Missionen können unser Bild vom Aufbau des Kosmos grundlegend schärfen und liefern über Jahre hinweg Daten für die Forschung.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Arecibo_radio_telescope_observatory_Puerto_Rico_-_panoramio_%2811%29.jpg",
+       "source": "ScienceDaily"
+      },
+      {
+       "title": "Sieben neue Froscharten auf Madagaskar entdeckt",
+       "text": "Ein Forschungsteam hat auf Madagaskar, der großen Insel vor der Ostküste Afrikas, sieben bislang unbekannte Arten sogenannter Diamantfrösche beschrieben. Möglich wurde das durch den Vergleich von Erbgut aus frisch gesammelten Tieren mit dem Erbgut über hundert Jahre alter Exemplare aus Museumssammlungen. Diamantfrösche sind kleine, unauffällige Amphibien, die in den Wäldern der Insel leben und sich äußerlich kaum unterscheiden lassen; erst die Genanalyse machte die Artenvielfalt sichtbar. Warum das zählt: Der Fund verdeutlicht, wie viele Arten selbst heute noch unentdeckt sind, und wie wertvoll alte Museumsbestände für die moderne Forschung bleiben.",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Nebliger, milder Septembertag und Rückblick im RuheWald",
+       "text": "Über Horb am Neckar beginnt der Tag neblig und trüb, im Lauf des Vormittags dürfte sich der Nebel lichten und milde rund 25 Grad zulassen. Wer früh im Neckartal unterwegs ist, sollte auf schlechte Sicht achten; am Nachmittag lohnt der Aufenthalt im Freien. Im Kalender der Stadt steht für Sonntag, den 20. September, eine Gedenkveranstaltung zum zehnjährigen Bestehen des RuheWald Horb, eines Bestattungswaldes, in dem Verstorbene an Bäumen beigesetzt werden. Bereits am 13. September findet zudem bundesweit der Tag des offenen Denkmals statt, an dem historische Gebäude ihre Türen öffnen; das Motto lautet in diesem Jahr NetzWERKE, Denkmale und Infrastruktur.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
+       "source": "Deutscher Wetterdienst / Stadt Horb am Neckar / Tag des offenen Denkmals"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Auch der dichteste Morgennebel hebt sich nicht auf Kommando, sondern in seinem eigenen Tempo, und meist genau dann, wenn man den ersten Schritt schon gegangen ist."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS-Förderung: bis zu 90 Prozent der Weiterbildungskosten für Solo-Selbständige",
+      "text": "Das Programm KOMPASS (kurz für Kompetenzentwicklung und Qualifizierung für Solo-Selbständige), gefördert vom Bundesministerium für Arbeit und Soziales, unterstützt hauptberuflich Solo-Selbständige gezielt bei der beruflichen Weiterbildung. Übernommen werden bis zu 90 Prozent der Weiterbildungskosten, gedeckelt auf 4.500 Euro. Der Weg führt über eine kostenlose Erstberatung in einer der bundesweiten Anlaufstellen, in der der eigene Qualifizierungsbedarf ermittelt wird; danach lassen sich passende Kurse auswählen und bezuschussen.",
+      "why": "Für dich als Solo-Unternehmer ist das ein konkreter Hebel, um Weiterbildungen etwa zu KI-Werkzeugen, Digitalisierung oder Unternehmensführung zu einem großen Teil aus Fördermitteln zu finanzieren. Anders als reine Beratungsprogramme zielt KOMPASS ausdrücklich auf die eigene Qualifizierung ab und richtet sich genau an Einzelunternehmer ohne Angestellte. Weil die Förderung an eine vorherige Beratung gebunden ist und Mittel begrenzt sein können, lohnt es sich, den ersten Beratungstermin frühzeitig zu vereinbaren.",
+      "source": "Bundesministerium für Arbeit und Soziales / KOMPASS",
+      "url": "https://www.kompass-fuer-solo-selbststaendige.de/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Die aktuellen Entwickler-Signale drehen sich um zwei Dinge, die deine MORGENLAGE-Routine direkt betreffen: die Absicherung der Web-Werkzeuge und die neuen, standardmäßig nachdenkenden Claude-5-Modelle. Beide Karten zeigen einen konkreten Hebel.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Web-Werkzeuge der Routine auf vertrauenswürdige Quellen begrenzen",
+       "tag": "Absicherung",
+       "paras": [
+        "Auf der Claude-Entwicklerplattform von Anthropic (dem Unternehmen hinter den Claude-Sprachmodellen) lässt sich seit Kurzem einstellen, welche Websites die eingebauten Werkzeuge zur Websuche (web_search) und zum Seitenabruf (web_fetch) überhaupt erreichen dürfen. Das geschieht über die Felder allowed_domains (eine Liste ausdrücklich erlaubter Domains) beziehungsweise blocked_domains (eine Liste gesperrter Domains).",
+        "Für deine MORGENLAGE-Routine ist das ein einfacher Sicherheitsgewinn: Wenn du die Recherche auf eine feste Liste seriöser Nachrichten- und Fachquellen beschränkst, kann das Modell nicht versehentlich auf unseriöse oder manipulierte Seiten geraten. Das macht das tägliche Briefing verlässlicher und schützt vor eingeschleusten Anweisungen aus fremden Webseiten."
+       ],
+       "konkret": "Lege eine Liste der Quellen fest, denen deine Routine wirklich vertraut (etwa die im Briefing genannten), und trage sie als allowed_domains in die Konfiguration der Web-Werkzeuge ein. So bleibt die Recherche auf geprüfte Seiten begrenzt.",
+       "snippetLabel": "Beispiel für die Beschränkung der Websuche auf erlaubte Domains",
+       "snippet": "{\n  \"type\": \"web_search\",\n  \"name\": \"web_search\",\n  \"allowed_domains\": [\n    \"tagesschau.de\",\n    \"sciencedaily.com\",\n    \"positive.news\",\n    \"<span class=\"ph\">{WEITERE_QUELLE}</span>\"\n  ]\n}",
+       "source": "Anthropic / Releasebot",
+       "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
+      },
+      {
+       "icon": "layers",
+       "title": "Sichtbare Denkspuren und die neuen Claude-5-Modelle nutzen",
+       "tag": "Modelle",
+       "paras": [
+        "Die aktuellen Claude-5-Modelle von Anthropic (darunter claude-sonnet-5 und claude-opus-5) denken standardmäßig nach, das heißt, sie arbeiten schwierige Aufgaben in mehreren gedanklichen Schritten durch, bevor sie antworten. In neueren Werkzeugen wie dem Kommandozeilenprogramm LLM von Simon Willison (einem bekannten Fachautor zu Sprachmodellen) lassen sich diese Denkspuren jetzt sichtbar machen, was Fehler in der Recherche leichter nachvollziehbar macht.",
+        "Für deine MORGENLAGE-Routine heißt das: Bei anspruchsvollen Schritten wie dem Abwägen von Quellen oder dem Einordnen einer Meldung profitierst du vom standardmäßigen Nachdenken der Modelle. Wo es dagegen nur um einfaches Umformatieren geht, kannst du das Nachdenken mit der Option minus o thinking 0 abschalten und so Zeit und Kosten sparen."
+       ],
+       "konkret": "Setze für die inhaltliche Auswahl und Einordnung ein Claude-5-Modell mit aktiviertem Nachdenken ein und schalte das Nachdenken nur für rein mechanische Schritte gezielt ab. Prüfe bei Zweifeln die sichtbaren Denkspuren, um die Quellenauswahl der Routine nachzuvollziehen.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
       }
      ]
     }
