@@ -2,151 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 27. August 2026",
-   "weather": "clouds",
-   "temp": "32°C · neblig-trüb",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute nach einem neblig-trüben Morgen ein sommerlich warmer Spätsommertag um 32 Grad. In der Weltlage hat eine schwere Sturzflut an der Grenze zwischen Nepal und Tibet Hunderte Menschen in Gefahr gebracht, und Island stimmt am Samstag über neue EU-Beitrittsgespräche ab. In der Wirtschaft hellen sich die ZEW-Konjunkturerwartungen deutlich auf. Als Lichtblick ist die Entwaldung im brasilianischen Amazonasgebiet auf den niedrigsten Stand seit dreizehn Jahren gefallen, und aus der Forschung kommt der Hinweis, dass künstliche Intelligenz einen zentralen Schalter im Erbgut entschlüsselt hat. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Schwere Sturzflut an der Grenze zwischen Nepal und Tibet",
-       "text": "An der Himalaya-Grenze zwischen Nepal und der zu China gehörenden Region Tibet hat am Mittwoch eine Sturzflut schwere Verwüstungen angerichtet. Eine Sturzflut ist eine sehr plötzlich einsetzende Überschwemmung; ausgelöst wurde sie nach Behördenangaben durch einen Eis- und Felsabbruch an einem Gletscher, der einen Fluss aufstaute und dann eine Flutwelle talwärts schickte. Nach unterschiedlichen Angaben von Behörden und Nachrichtenagenturen kamen mindestens rund einhundertfünfzig Menschen ums Leben, und mehrere Hundert Reisende wurden vermisst, darunter zahlreiche ausländische Touristen sowie viele indische Pilger auf dem Weg zum heiligen Berg Kailash in Tibet. Häuser, Straßen und Wasserkraftanlagen wurden fortgerissen. Das zählt, weil solche durch schmelzende Gletscher begünstigten Fluten in Hochgebirgsregionen häufiger werden und zeigen, wie verletzlich abgelegene Grenzregionen bei Extremwetter sind.",
-       "source": "internationale Agenturen / NPR",
-       "url": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods"
-      },
-      {
-       "title": "Island stimmt am Samstag über neue EU-Beitrittsgespräche ab",
-       "text": "In Island, einem Inselstaat im Nordatlantik mit rund vierhunderttausend Einwohnern, ist für diesen Samstag, den 29. August, eine Volksabstimmung angesetzt. Gefragt wird, ob die seit 2013 ausgesetzten Verhandlungen über einen Beitritt zur Europäischen Union, dem Staatenverbund von siebenundzwanzig europäischen Ländern, wieder aufgenommen werden sollen. Die Abstimmung ist beratend, entscheidet also nicht unmittelbar über einen Beitritt, sondern nur über die Wiederaufnahme der Gespräche; ein tatsächlicher Beitritt müsste später in einer zweiten Abstimmung und von allen Mitgliedstaaten bestätigt werden. Umfragen sehen ein sehr knappes Rennen: Eine im August veröffentlichte Erhebung des Meinungsforschungsinstituts Gallup verortete Befürworter und Gegner bei jeweils sechsundvierzig Prozent, acht Prozent waren unentschlossen. Das zählt, weil das Ergebnis zeigt, wie die veränderte Sicherheitslage in Europa auch lange zurückgestellte Fragen der Zusammenarbeit wieder in Bewegung bringt.",
-       "source": "internationale Agenturen / Wikipedia",
-       "url": "https://en.wikipedia.org/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "ZEW-Konjunkturerwartungen steigen im August deutlich",
-       "text": "Das Zentrum für Europäische Wirtschaftsforschung, kurz ZEW, ein wirtschaftswissenschaftliches Institut in Mannheim, hat seinen viel beachteten Stimmungsindikator für August veröffentlicht. Die sogenannten Konjunkturerwartungen, die abbilden, wie Finanzfachleute die wirtschaftliche Entwicklung der kommenden sechs Monate einschätzen, stiegen auf 34,2 Punkte und damit um 7,9 Punkte gegenüber dem Vormonat. Als Gründe gelten gute Zahlen zum Wirtschaftswachstum im zweiten Quartal und ein jüngstes Hoch bei den Ausfuhren, also den ins Ausland verkauften Waren. Damit setzt sich die Aufhellung fort, die zuletzt schon das ifo-Geschäftsklima gezeigt hatte. Das zählt, weil eine bessere Stimmung an den Finanzmärkten und in den Unternehmen mit einiger Verzögerung auch bei kleinen Betrieben und Selbstständigen in Form von Aufträgen ankommen kann.",
-       "source": "finanznachrichten.de / ZEW",
-       "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69339868-zew-konjunkturerwartungen-fuer-deutschland-steigen-im-august-015.htm"
-      }
-     ],
-     "merk": {
-      "text": "Mit ZEW und ifo zeigen nun zwei wichtige Frühindikatoren in dieselbe Richtung nach oben. Das ist ein guter Zeitpunkt, geplante Angebote und Nachfassaktionen jetzt anzustoßen, solange die Zuversicht der Kundschaft trägt, ohne dabei bei deinen Preisen und Zahlungszielen nachzugeben.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Entwaldung im brasilianischen Amazonasgebiet auf niedrigstem Stand seit dreizehn Jahren",
-       "text": "Im brasilianischen Teil des Amazonas-Regenwaldes, des größten tropischen Regenwaldes der Erde, ist die Entwaldung auf den niedrigsten Stand seit dreizehn Jahren gefallen. Nach Daten des brasilianischen Weltrauminstituts INPE, das die Waldflächen mit Satelliten überwacht, wurden in den zwölf Monaten bis zum 31. Juli Warnmeldungen für 2.874 Quadratkilometer gerodete Fläche erfasst, rund ein Drittel weniger als im Vorjahreszeitraum und etwa sechsundfünfzig Prozent unter dem Durchschnitt des vergangenen Jahrzehnts. Als Gründe gelten eine strengere Überwachung und Strafverfolgung sowie ein besserer Schutz der Gebiete indigener, also der ursprünglich dort lebenden Völker; Brasilien strebt bis 2030 eine vollständig gestoppte Entwaldung an. Das zählt, weil der Amazonas-Regenwald riesige Mengen des Treibhausgases Kohlendioxid speichert und sein Erhalt für das Weltklima von großer Bedeutung ist.",
-       "img": "https://live.staticflickr.com/5026/5641583430_6fac4e655f_b.jpg",
-       "source": "Positive News / INPE",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Künstliche Intelligenz entschlüsselt einen zentralen Schalter im Erbgut",
-       "text": "Forschende haben mithilfe künstlicher Intelligenz die charakteristische Signatur eines wichtigen Schalters im Erbgut aufgespürt, der darüber mitbestimmt, wann ein Gen abgelesen und aktiv wird. Ein Gen ist ein Abschnitt der Erbinformation DNA, der den Bauplan für ein bestimmtes Merkmal oder Eiweiß enthält; künstliche Intelligenz bezeichnet Computerprogramme, die aus großen Datenmengen selbstständig Muster erkennen. Nachdem das Programm rund fünfhunderttausend DNA-Abschnitte ausgewertet hatte, konnte es diesen sogenannten Initiator, also den Startpunkt für das Ablesen eines Gens, in etwa sechzig Prozent der menschlichen Gene erkennen. Das zählt, weil ein genaueres Verständnis davon, wie Gene an- und abgeschaltet werden, langfristig helfen kann, Krankheiten besser zu verstehen und Therapien gezielter zu entwickeln.",
-       "img": "https://live.staticflickr.com/263/20468181866_d5c72f3984_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Neuer Materialansatz könnte Transistoren über das Silizium hinausführen",
-       "text": "Ein Transistor ist ein winziger elektronischer Schalter; Milliarden davon bilden das Herz jedes Computerchips, und je kleiner sie werden, desto leistungsfähiger und sparsamer können Chips sein. Forschende haben nun eine nur 0,42 Nanometer dünne Grenzschicht gestaltet, die den Fluss der Elektronen schützt und zugleich extrem dünne Isolierschichten erlaubt. Ein Nanometer ist der millionste Teil eines Millimeters, die Grenzschicht ist also weniger als ein Hundertstel des Durchmessers eines menschlichen Haares dick. Das Ergebnis sind Transistoren mit ungewöhnlich guter elektrischer Steuerbarkeit, die an die Grenzen des heute mit dem Halbleiter Silizium Machbaren stoßen. Das zählt, weil die weitere Verkleinerung von Transistoren an physikalische Grenzen stößt und solche neuen Materialansätze zeigen, wie die Rechenleistung künftiger Geräte trotzdem weiter wachsen könnte.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Heißer Spätsommertag, am Freitag Wochenmarkt und am Samstag Termine in der Region",
-       "text": "Über Horb am Neckar, der Stadt an der oberen Neckarschleife im Nordschwarzwald, liegt heute nach einem neblig-trüben Morgen ein sommerlich warmer Tag um 32 Grad; wer länger im Freien unterwegs ist, sollte an ausreichend Trinken und etwas Schatten denken. Wer die Tage plant: Am morgigen Freitag, dem 28. August, findet auf dem Flößerwasen von 7 bis 13 Uhr der Wochenmarkt mit Erzeugnissen aus der Region statt, und für Samstag, den 30. August, ist unter anderem ein Termin am Alten Freibad von 15 bis 17 Uhr angekündigt. Der Flößerwasen ist ein zentraler Platz in Horb, dessen Name an die frühere Flößerei erinnert, bei der Holz auf dem Neckar flussabwärts transportiert wurde. Das zählt, weil sich solche Termine gut mit Besorgungen oder einem kurzen Gang durch die Stadt verbinden lassen und das warme Wetter Unternehmungen im Freien begünstigt.",
-       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-       "source": "meinestadt.de / Stadt Horb am Neckar",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein warmer, ruhiger Spätsommertag lädt dazu ein, das Wichtigste früh anzugehen, solange Kopf und Kräfte frisch sind, und die heißen Mittagsstunden für Gelasseneres zu nutzen."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "GitHub Models: kostenloser Zugang zu starken KI-Modellen zum Ausprobieren",
-      "text": "GitHub, die weltweit größte Plattform zum Speichern und Verwalten von Programmcode und eine Tochter des Softwarekonzerns Microsoft, bietet mit GitHub Models nach eigenen Angaben einen kostenlosen Zugang zu mehreren leistungsfähigen KI-Sprachmodellen. Ein Sprachmodell ist ein Programm, das Texte verstehen und erzeugen kann. Der Zugang erfolgt über eine Schnittstelle, die mit der weit verbreiteten Schnittstelle des Anbieters OpenAI kompatibel ist, sowie über eine Testumgebung im Browser, in der sich Anweisungen an das Modell ausprobieren lassen, bevor man sie in eigene Abläufe einbaut. Weil Umfang, Modellauswahl und Nutzungsgrenzen solcher Angebote sich ändern können, lohnt sich vor dem Einbau ein Blick auf die aktuellen Bedingungen direkt bei GitHub.",
-      "why": "Für dich als Solo-Entwickler ist das eine kostengünstige Möglichkeit, verschiedene Modelle für kleine Aufgaben deines Systems zu testen, ohne gleich eine kostenpflichtige Schnittstelle einrichten zu müssen. Prüfe zuerst, ob die kostenlosen Nutzungsgrenzen für einen konkreten Testlauf ausreichen, und wäge den Nutzen gegen den Einrichtungsaufwand ab.",
-      "source": "GitHub",
-      "url": "https://github.com/marketplace/models"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale drehen sich um dieselbe Bewegung: Dein Kommandozeilen-Werkzeug für Sprachmodelle kann jetzt selbst im Web suchen und jeden Lauf nachvollziehbar protokollieren. Dein Hebel liegt darin, Recherche und Nachweisbarkeit direkt in bestehende Abläufe wie die MORGENLAGE-Routine zu holen.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "LLM 0.32: Web-Recherche direkt aus dem Kommandozeilen-Werkzeug",
-       "tag": "Werkzeug",
-       "paras": [
-        "Anfang August ist Version 0.32 des freien Werkzeugs LLM des Entwicklers Simon Willison erschienen, die er als bedeutendste Neuerung seit dem Start des Projekts bezeichnet. LLM ist ein über eingetippte Befehle bedientes Kommandozeilen-Werkzeug, mit dem sich Sprachmodelle ansprechen lassen; ein Sprachmodell erzeugt und versteht Texte. Neu sind unter anderem sichtbare Denkspuren der Modelle und serverseitige Werkzeuge, darunter eine Websuche und ein Abruf von Webseiten, die sich mit der Option -T WebSearch einschalten lassen.",
-        "Für dein System bedeutet das, dass ein Modell für eine Aufgabe selbst aktuelle Informationen im Web nachschlagen kann, statt dass du sie vorab von Hand zusammensuchst und einfügst. Gerade für wiederkehrende Recherchen wie deine MORGENLAGE-Routine kann das den Aufwand verringern; weil serverseitige Websuche je nach Anbieter Kosten verursachen kann, lohnt sich ein erster Test an einer kleinen, unkritischen Aufgabe."
-       ],
-       "konkret": "Probiere in einem Testlauf die neue Websuche von LLM an einer einzelnen, klar umrissenen Frage aus und vergleiche das Ergebnis mit deiner bisherigen Handrecherche.",
-       "snippetLabel": "Websuche mit LLM einschalten",
-       "snippet": "llm install -U llm\nllm -T WebSearch \\\n  \"<span class=\"ph\">{deine Recherchefrage}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Nachvollziehbare Protokolle für reproduzierbare Abläufe nutzen",
-       "tag": "Nachweis",
-       "paras": [
-        "Dieselbe Version bringt neu gestaltete Protokolle auf Basis einer sogenannten inhaltsadressierten SQLite-Datenbank. SQLite ist eine schlanke, in einer einzigen Datei gespeicherte Datenbank; inhaltsadressiert bedeutet, dass Inhalte anhand ihres eigenen Fingerabdrucks abgelegt werden, sodass gleiche Inhalte nur einmal gespeichert werden und sich jeder Lauf eindeutig wiederfinden lässt.",
-        "Für deine Abläufe heißt das, dass sich jede Anfrage samt Modell, Eingabe und Antwort sauber protokollieren und später genau nachvollziehen lässt. Das ist hilfreich, wenn du eine automatische Routine wie MORGENLAGE später prüfen oder einen einzelnen Lauf reproduzieren willst, etwa um einen Fehler zu finden."
-       ],
-       "konkret": "Aktiviere die Protokollierung deiner LLM-Läufe und sieh dir nach einem MORGENLAGE-Testlauf an, ob du Eingabe und Antwort später eindeutig wiederfinden kannst.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 28. August 2026",
    "weather": "thunder",
    "temp": "22°C · Gewitter",
@@ -906,7 +761,6 @@
    "weather": "clouds",
    "temp": "25°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar startet der Tag zunächst neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperatur auf rund 25 Grad steigen. In der Welt bleibt die Straße von Hormus am Persischen Golf ein Spannungsherd, nachdem die Vereinigten Staaten Angriffe auf iranische Ziele in der Region gemeldet haben. In der Wirtschaft ist die Teuerung im Euroraum im August auf 3,3 Prozent gestiegen, den höchsten Wert seit rund drei Jahren, während die Europäische Zentralbank vor ihrer Sitzung am 10. September steht. Hier ist dein Briefing.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1045,6 +899,155 @@
        "konkret": "Setze für die inhaltliche Auswahl und Einordnung ein Claude-5-Modell mit aktiviertem Nachdenken ein und schalte das Nachdenken nur für rein mechanische Schritte gezielt ab. Prüfe bei Zweifeln die sichtbaren Denkspuren, um die Quellenauswahl der Routine nachzuvollziehen.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 3. September 2026",
+   "weather": "clouds",
+   "temp": "26°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt der Tag neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperatur auf rund 26 Grad steigen. In der Welt bleibt die Straße von Hormus am Persischen Golf ein Spannungsherd, nachdem der Iran die Verlegung weiterer Seeminen gemeldet hat. In der Wirtschaft hat das europäische Statistikamt Eurostat die Teuerung im Euroraum für August mit 3,3 Prozent bestätigt, dem höchsten Wert des Jahres, während die Europäische Zentralbank am 10. September über die Zinsen entscheidet. Hier ist dein Briefing.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Iran meldet weitere Seeminen in der Straße von Hormus",
+       "text": "Die Spannungen zwischen den Vereinigten Staaten von Amerika und dem Iran an der Straße von Hormus halten an. Der Iran erklärte, in der Meerenge weitere Seeminen verlegt zu haben, und wies zugleich die Darstellung der Vereinigten Staaten zurück, wonach diese die Passage kontrollierten. Die Straße von Hormus ist eine schmale Wasserstraße am Ausgang des Persischen Golfs, durch die ein sehr großer Teil des weltweit verschifften Erdöls transportiert wird. Der Präsident der Vereinigten Staaten, Donald Trump, begründete das Vorgehen seines Landes damit, Israel, den Nahen Osten und den Westen schützen zu wollen. Belastbare, unabhängig bestätigte Angaben zu Schäden lagen zunächst nicht vor. Warum das zählt: Jede Störung an dieser einen Meerenge kann die Öl- und damit die Energiepreise auch in Europa spürbar bewegen, weil kaum eine Alternativroute für diese Öltransporte besteht.",
+       "source": "Anadolu Agency"
+      },
+      {
+       "title": "Nordrhein-Westfalen prüft mutmaßliche Sabotage an Stromnetz",
+       "text": "In Deutschland untersuchen die Behörden des Bundeslandes Nordrhein-Westfalen einen Verdachtsfall von, wie es heißt, staatlich gesteuerter Sabotage. Auslöser ist ein mutmaßlicher Angriff auf Anlagen der Stromversorgung in der Nähe von Köln, der größten Stadt des Bundeslandes. Nähere Angaben zu möglichen Urhebern oder zum Ausmaß machten die Ermittler zunächst nicht. Sabotage bezeichnet die gezielte Beschädigung oder Störung von Anlagen, hier von Teilen des Netzes, das Haushalte und Betriebe mit Strom versorgt. Warum das zählt: Angriffe auf sogenannte kritische Infrastruktur, also auf lebenswichtige Versorgungssysteme wie Strom, Wasser oder Kommunikation, gelten als besonders sensibel, weil ein Ausfall viele Menschen und Betriebe zugleich treffen kann.",
+       "source": "Anadolu Agency"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Eurostat bestätigt Teuerung von 3,3 Prozent im Euroraum für August",
+       "text": "Das europäische Statistikamt Eurostat, die Statistikbehörde der Europäischen Union, hat die Inflation im Euroraum für August mit 3,3 Prozent im Jahresvergleich beziffert, nach 2,9 Prozent im Juli. Das ist der höchste Wert des laufenden Jahres. Inflation bezeichnet den allgemeinen Anstieg der Preise, der die Kaufkraft des Geldes mindert. Haupttreiber war erneut die Energie mit einer Jahresrate von 14,3 Prozent, gefolgt von Dienstleistungen mit 3,0 Prozent. Die sogenannte Kernrate, die die schwankungsanfälligen Preise für Energie, Nahrungsmittel, Alkohol und Tabak ausklammert, ging leicht auf 2,4 Prozent zurück. Warum das zählt: Eine höhere Teuerung schmälert reale Einkommen und Ersparnisse, und der Rückgang der Kernrate deutet an, dass der Preisdruck vor allem von der Energie kommt.",
+       "source": "Eurostat"
+      },
+      {
+       "title": "Europäische Zentralbank entscheidet am 10. September über die Zinsen",
+       "text": "Die Europäische Zentralbank (kurz EZB, die gemeinsame Notenbank der Länder mit dem Euro als Währung) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent. Die Notenbank betont, dass ihre Schritte von der Datenlage abhängen, insbesondere von der Entwicklung der Inflation. Angesichts der zuletzt gestiegenen Teuerung wird an den Finanzmärkten darüber gesprochen, ob die EZB die Zinsen noch einmal anhebt oder zunächst abwartet. Die Notenbank erwartet für das laufende Jahr im Mittel eine Inflation von rund 3 Prozent und damit weiter über ihrem mittelfristigen Zielwert von etwa 2 Prozent.",
+       "source": "LBBW / Eurostat"
+      }
+     ],
+     "merk": {
+      "text": "Steigende Preise und mögliche höhere Zinsen wirken für dich als Solo-Unternehmer in zwei Richtungen: Einkäufe und Fremdkapital werden teurer, zugleich werfen Rücklagen auf dem Konto wieder etwas mehr ab. Wer in den nächsten Wochen größere Anschaffungen oder eine Finanzierung plant, sollte die Konditionen jetzt bewusst durchrechnen und den Zinsentscheid am 10. September abwarten.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Rodung im brasilianischen Regenwald sinkt auf niedrigsten Stand seit zehn Jahren",
+       "text": "Aus Brasilien, dem größten Land Südamerikas, kommen ermutigende Zahlen zum Schutz des Amazonas-Regenwaldes, des größten zusammenhängenden Regenwaldes der Erde. In der ersten Jahreshälfte 2026 wurden rund 500 Quadratmeilen Wald gerodet, gegenüber 807 Quadratmeilen im gleichen Zeitraum des Vorjahres, ein Rückgang um etwa 38 Prozent und der niedrigste Wert seit zehn Jahren. Die Regierung unter Präsident Luiz Inácio Lula da Silva kündigte an, die Kontrollen weiter zu verschärfen. Warum das zählt: Der Amazonas-Regenwald bindet große Mengen des klimaschädlichen Gases Kohlendioxid und beherbergt eine der größten Artenvielfalten der Welt, weshalb jede verlangsamte Rodung weltweit spürbar ist.",
+       "img": "https://live.staticflickr.com/4057/4698736205_6eaaa3460e_b.jpg",
+       "source": "Positive News"
+      },
+      {
+       "title": "Zahl der hungernden Menschen weltweit sinkt das dritte Jahr in Folge",
+       "text": "Nach aktuellen Auswertungen internationaler Organisationen ist der Anteil der von Hunger betroffenen Menschen weltweit auf 7,8 Prozent der Bevölkerung gesunken, nach 8,1 Prozent im Jahr zuvor. Es ist das dritte Jahr in Folge mit einem Rückgang. Besonders in Asien sowie in Lateinamerika und der Karibik verbesserte sich die Ernährungslage spürbar. Auch wenn regionale Krisen und Konflikte das Bild stellenweise trüben, weist der langfristige Trend nach unten. Warum das zählt: Der weltweite Hunger galt lange als kaum beeinflussbar, und jeder messbare Rückgang bedeutet, dass Millionen Menschen verlässlicher zu essen haben.",
+       "source": "Positive News"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Gesteinsplaneten könnten schon 100 Millionen Jahre nach dem Urknall entstanden sein",
+       "text": "Eine neue Studie legt nahe, dass feste Gesteinsplaneten wie die Erde bereits rund 100 Millionen Jahre nach dem Urknall entstanden sein könnten, dem Anfangsereignis, aus dem sich das gesamte Universum entwickelte. Möglich gemacht hätten dies gewaltige frühe Supernovae, also die Explosionen sehr großer Sterne am Ende ihres Lebens, bei denen schwere Elemente wie Eisen und Silizium freigesetzt werden. Diese Elemente sind der Baustoff, aus dem Gesteinsplaneten überhaupt erst entstehen können. Bisher gingen Fachleute davon aus, dass es dafür deutlich länger gedauert hat. Warum das zählt: Träfe das zu, hätte das Universum schon sehr früh die Voraussetzungen für erdähnliche Welten geboten, was auch die Frage nach möglichem Leben in einem neuen Licht erscheinen lässt.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HL_Tau_protoplanetary_disk.jpg",
+       "source": "ScienceDaily"
+      },
+      {
+       "title": "Nächtliche Tablette verringert Atemaussetzer bei Schlafapnoe deutlich",
+       "text": "In einer großen klinischen Studie der sogenannten Phase drei, der letzten Testphase vor einer möglichen Zulassung, hat eine einmal abends einzunehmende Tablette die nächtlichen Atemaussetzer bei Schlafapnoe um rund 44 Prozent verringert. Schlafapnoe ist eine verbreitete Schlafstörung, bei der die Atmung im Schlaf immer wieder kurz aussetzt, was den Schlaf zerstört und das Herz-Kreislauf-System belastet. Zugleich verbesserten sich in der Studie die Sauerstoffwerte im Blut und der Schweregrad der Erkrankung. Warum das zählt: Bislang wird die Schlafapnoe vor allem mit Atemmasken behandelt, die viele Betroffene als unangenehm empfinden; eine wirksame Tablette könnte die Behandlung für viele Menschen erleichtern.",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Nebliger Morgen im Neckartal und Tag des offenen Denkmals am 13. September",
+       "text": "Über Horb am Neckar und dem umgebenden Neckartal beginnt der Tag neblig und trüb, im Lauf des Vormittags dürfte sich der Nebel lichten und milde rund 26 Grad zulassen. Wer früh im Tal unterwegs ist, sollte auf schlechte Sicht achten; am Nachmittag lohnt der Aufenthalt im Freien. Im Kalender steht für Samstag, den 13. September, der bundesweite Tag des offenen Denkmals, an dem historische Gebäude ihre Türen öffnen; das Motto lautet in diesem Jahr NetzWERKE, Denkmale und Infrastruktur. In der weiteren Region locken zudem der Naturpark-Markt in Schömberg am 6. September und das mittelalterliche Burgfest auf Burg Stettenfels am 19. September mit Kunsthandwerk und Vorführungen.",
+       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+       "source": "Deutscher Wetterdienst / Tag des offenen Denkmals / meinestadt.de"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Der Nebel im Tal verschluckt jede Fernsicht, und doch bleibt der nächste Schritt immer klar erkennbar; oft reicht genau das, um weiterzukommen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Digitalisierungsfinanzierung der L-Bank in Baden-Württemberg",
+      "text": "Das frühere Programm Digitalisierungsprämie Plus des Landes Baden-Württemberg ist seit Mitte 2025 in der neuen Digitalisierungsfinanzierung der L-Bank aufgegangen. Die L-Bank ist die Förderbank des Landes Baden-Württemberg, zu dem auch Horb am Neckar gehört. Gefördert werden Vorhaben, mit denen kleine und mittlere Unternehmen ihre Technik aufbauen oder modernisieren oder Abläufe mithilfe künstlicher Intelligenz automatisieren. Die Förderung erfolgt über zinsverbilligte Darlehen, also Kredite mit besonders niedrigem Zins, ergänzt um einen Tilgungszuschuss, bei dem ein Teil des Kredits nicht zurückgezahlt werden muss.",
+      "why": "Für dich als Solo-Unternehmer in Baden-Württemberg ist das der aktuelle Weg, um Investitionen in Hardware, Software oder KI-gestützte Prozesse günstiger zu finanzieren. Weil die Konditionen und die genaue Ausgestaltung für Kleinstunternehmen zuletzt überarbeitet wurden, lohnt vor einer geplanten Anschaffung ein Blick auf die aktuellen Bedingungen der L-Bank oder ein Gespräch mit der örtlichen Industrie- und Handelskammer.",
+      "source": "L-Bank / Wirtschaftsministerium Baden-Württemberg",
+      "url": "https://www.l-bank.de/produkte/finanzhilfen/digiplus-zuschuss.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Die aktuellen Entwickler-Signale drehen sich um zwei Dinge, die deine MORGENLAGE-Routine direkt betreffen: die neue, schlankere Version des Protokolls, über das dein System Werkzeuge anbindet, und die weiterhin realen Risiken durch eingeschleuste Anweisungen aus dem Web. Beide Karten zeigen einen konkreten Hebel.",
+     "cards": [
+      {
+       "icon": "layers",
+       "title": "Model Context Protocol 2.0: den zustandslosen Ansatz im Blick behalten",
+       "tag": "Protokoll",
+       "paras": [
+        "Ende Juli ist eine neue Fassung des Model Context Protocol erschienen, der offenen Schnittstelle, über die Sprachmodelle wie Claude externe Werkzeuge und Datenquellen anbinden (kurz MCP). Die Spezifikation mit dem Datum 28. Juli 2026 gilt als größte Änderung seit dem Start des Protokolls. Kern ist ein zustandsloser Betrieb (englisch stateless): Der Server merkt sich zwischen zwei Anfragen keinen Sitzungszustand, was den Betrieb einfacher und robuster macht.",
+        "Der Fachautor Simon Willison, ein bekannter Beobachter der Sprachmodell-Szene, hat dazu am 1. September die Erweiterung datasette-mcp in der Version 0.2 veröffentlicht, mit der sich beliebige Datenbanken über einen solchen zustandslosen MCP-Server anbinden lassen. Für deine MORGENLAGE-Routine ist das relevant, weil zustandslose Server leichter zu betreiben und abzusichern sind, wenn du eigene Datenquellen wie das Archiv deiner bisherigen Ausgaben anbinden möchtest."
+       ],
+       "konkret": "Wenn du planst, deiner Routine eine eigene Datenquelle anzubinden, prüfe, ob sich das als zustandsloser MCP-Server umsetzen lässt. Das spart Aufwand beim Betrieb und verringert die Angriffsfläche gegenüber langlebigen Sitzungen.",
+       "source": "simonwillison.net / Model Context Protocol",
+       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Automatische Agenten nicht ohne Quellenbegrenzung im Web arbeiten lassen",
+       "tag": "Absicherung",
+       "paras": [
+        "Mehrere aktuelle Analysen zeigen, dass eingeschleuste Anweisungen aus fremden Webseiten (englisch prompt injection) weiterhin ein reales Risiko sind. In einem dokumentierten Versuch gelang es, die Schutzmechanismen eines im vollautomatischen Modus laufenden Programmierassistenten in vier von fünf Fällen zu überwinden, indem manipulierte Inhalte in Webseiten oder Dateien versteckt wurden. Prompt injection meint, dass Text auf einer Seite das Modell zu Handlungen verleitet, die der Nutzer nie beabsichtigt hat.",
+        "Für deine MORGENLAGE-Routine, die selbst Webseiten abruft, heißt das: Lasse die Recherche nicht völlig ungefiltert laufen. Auf der Claude-Entwicklerplattform von Anthropic, dem Unternehmen hinter den Claude-Modellen, lässt sich über das Feld allowed_domains festlegen, welche Domains die eingebauten Werkzeuge zur Websuche und zum Seitenabruf überhaupt erreichen dürfen."
+       ],
+       "konkret": "Beschränke die Web-Werkzeuge deiner Routine über allowed_domains auf eine feste Liste seriöser Quellen und vermeide vollautomatische Modi ohne solche Grenzen. So kann manipulierter Inhalt einer fremden Seite deine Routine nicht zu unerwünschten Aktionen verleiten.",
+       "snippetLabel": "Websuche auf vertrauenswürdige Domains begrenzen",
+       "snippet": "{\n  \"type\": \"web_search\",\n  \"name\": \"web_search\",\n  \"allowed_domains\": [\n    \"eurostat.ec.europa.eu\",\n    \"sciencedaily.com\",\n    \"positive.news\",\n    \"<span class=\"ph\">{WEITERE_QUELLE}</span>\"\n  ]\n}",
+       "source": "simonwillison.net / Anthropic",
+       "url": "https://simonwillison.net/2026/Aug/27/"
       }
      ]
     }
