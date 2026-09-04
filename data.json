@@ -2,159 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Freitag, 28. August 2026",
-   "weather": "thunder",
-   "temp": "22°C · Gewitter",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zieht heute unbeständiges, gewittriges Wetter auf, mit Höchstwerten um 22 Grad und der Gefahr kräftiger Schauer. In der Weltlage hat ein US-Bundesgericht den Ausschluss des KI-Unternehmens Anthropic von Militäraufträgen gestoppt, während der Rettungseinsatz nach der Sturzflut an der Grenze zwischen Nepal und Tibet unterbrochen werden musste. In der Wirtschaft hellt sich die Stimmung der deutschen Unternehmen laut ifo-Institut weiter auf, vor allem bei den Exporterwartungen. Als Lichtblick hat England ein wichtiges Etappenziel im Kampf gegen die Leberentzündung Hepatitis C erreicht, und aus der Forschung kommt der Hinweis auf eine Art Bremse im Gehirn, die chronische Nervenschmerzen dämpfen kann. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "US-Bundesgericht stoppt Ausschluss von Anthropic von Militäraufträgen",
-       "text": "Ein Bundesgericht in San Francisco hat entschieden, dass das US-Verteidigungsministerium, auch Pentagon genannt, das KI-Unternehmen Anthropic zu Unrecht von bestimmten Militäraufträgen ausgeschlossen hat. Anthropic ist ein US-amerikanisches Unternehmen für künstliche Intelligenz, das das Sprachmodell Claude entwickelt; ein Sprachmodell ist ein Computerprogramm, das Texte verstehen und erzeugen kann. Die zuständige Richterin Rita Lin hob die Einstufung des Unternehmens als Sicherheitsrisiko für die Lieferkette auf und erklärte, das Ministerium habe damit gegen Grundrechte verstoßen; die bloße Berufung auf die nationale Sicherheit sei kein Freibrief, um Kritiker zu bestrafen. Ausgelöst wurde der Streit, nachdem Anthropic sich geweigert hatte, seine Modelle für Überwachung oder autonome, also selbstständig zielende Waffen einsetzen zu lassen. Das zählt, weil der Fall zeigt, wie stark Staat und KI-Anbieter inzwischen um die Bedingungen ringen, unter denen diese Technik im sicherheitsempfindlichen Bereich genutzt werden darf.",
-       "source": "CNBC / NBC News",
-       "url": "https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825"
-      },
-      {
-       "title": "Rettungseinsatz nach Sturzflut an der Grenze Nepal-Tibet unterbrochen",
-       "text": "Nach der schweren Sturzflut, die zu Wochenbeginn an der Himalaya-Grenze zwischen Nepal und der zu China gehörenden Region Tibet zahlreiche Menschen tötete, mussten die Rettungsarbeiten zeitweise unterbrochen werden. Eine Sturzflut ist eine sehr plötzlich einsetzende Überschwemmung; im Zentrum des Katastrophengebiets begann nun ein neuer See, der sich hinter Schlamm und Geröll aufgestaut hatte, über die Ufer zu treten und drohte, eine weitere Flutwelle auszulösen. Die Helfer zogen sich daher vorübergehend aus dem gefährdeten Talabschnitt zurück, während weiterhin mehrere Hundert Menschen vermisst werden. Das zählt, weil sich an diesem Beispiel zeigt, wie solche durch schmelzende Gletscher begünstigten Fluten selbst die Rettung erschweren und abgelegene Gebirgsregionen über Tage hinweg in Gefahr bleiben.",
-       "source": "internationale Agenturen / ZDF",
-       "url": "https://www.zdfheute.de/politik/ausland"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "ifo-Geschäftsklima steigt im August, Exporterwartungen springen deutlich",
-       "text": "Das ifo-Institut, ein wirtschaftswissenschaftliches Forschungsinstitut in München, hat seinen viel beachteten Geschäftsklimaindex für August veröffentlicht. Dieser Index fasst zusammen, wie rund neuntausend Unternehmen in Deutschland ihre aktuelle Lage und ihre Aussichten für die kommenden Monate einschätzen; er stieg auf 88,8 Punkte, nach 86,7 Punkten im Juli. Besonders auffällig ist der Sprung bei den Exporterwartungen, also den Aussichten für den Verkauf von Waren ins Ausland: Sie kletterten auf plus 9,6 Punkte und damit auf den höchsten Wert seit Februar 2022. Zugleich bleiben die Stimmungswerte in Industrie, Handel, Dienstleistungen und Bau insgesamt noch im negativen Bereich, und die schwache Auftragslage begrenzt die Aussagekraft der Aufhellung. Das zählt, weil eine anziehende Nachfrage aus dem Ausland mit einiger Verzögerung auch bei kleineren Betrieben und Selbstständigen für neue Aufträge sorgen kann.",
-       "source": "ifo-Institut / experten.de",
-       "url": "https://www.ifo.de/en/facts/2026-08-25/ifo-business-climate-rises-august-2026"
-      }
-     ],
-     "merk": {
-      "text": "Nach den ZEW-Erwartungen zeigen nun auch das ifo-Geschäftsklima und vor allem die Exporterwartungen klar nach oben. Wenn du Kundschaft im Ausland oder exportnahe Betriebe bedienst, ist jetzt ein guter Zeitpunkt, Angebote und Nachfassaktionen vorzubereiten, ohne dabei bei deinen Preisen oder Zahlungszielen nachzugeben.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "England erreicht wichtiges Etappenziel gegen Hepatitis C",
-       "text": "In England ist im vergangenen Jahrzehnt nach Angaben des staatlichen Gesundheitsdienstes NHS bei rund einhunderttausend Menschen die Leberentzündung Hepatitis C behandelt worden. Hepatitis C ist eine durch ein Virus ausgelöste Entzündung der Leber, die unbehandelt zu schweren Leberschäden führen kann, sich heute aber mit modernen Medikamenten in den meisten Fällen heilen lässt. Damit hat England ein Ziel der Weltgesundheitsorganisation WHO, der für Gesundheit zuständigen Sonderorganisation der Vereinten Nationen, bereits vorzeitig erreicht: Es wurden mehr als achtzig Prozent der geschätzten Betroffenen behandelt. Das zählt, weil es zeigt, dass sich eine einst schwer beherrschbare Infektionskrankheit durch konsequente Reihenuntersuchungen und gute Medikamente in einem großen Land tatsächlich zurückdrängen lässt.",
-       "source": "Positive News / NHS England",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
-      },
-      {
-       "title": "Buckelwale kehren zurück, vierzig Jahre nach dem Walfang-Moratorium",
-       "text": "Rund vier Jahrzehnte nach dem weltweiten Walfang-Moratorium erholen sich die Bestände der Buckelwale spürbar. Ein Moratorium ist ein vereinbarter Aufschub oder ein Verbot; das Verbot des kommerziellen Walfangs wurde 1986 wirksam und stellte die jahrhundertelange Jagd auf die großen Meeressäuger weitgehend ein. Buckelwale sind bis zu fünfzehn Meter lange Bartenwale, die für ihre weiten Wanderungen und ihre komplexen Gesänge bekannt sind; Fachleute berichten, dass die Zahl der Sichtungen vor Südafrika und im Pazifik seit den 2010er Jahren stark gestiegen ist. Das zählt, weil es ein seltenes Beispiel dafür ist, wie sich eine einst stark bedrohte Tierart nach einem klaren internationalen Schutzabkommen über Jahrzehnte hinweg wieder erholen kann.",
-       "img": "https://live.staticflickr.com/7310/10029930165_674f024b62_b.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Forschende finden eine Bremse im Gehirn gegen chronische Nervenschmerzen",
-       "text": "Forschende haben im Gehirn von Mäusen eine Art natürliche Bremse entdeckt, die chronische Nervenschmerzen abschalten kann. Chronische Nervenschmerzen sind lang anhaltende Schmerzen, die von einem gestörten oder überaktiven Nervensystem ausgehen und sich oft nur schwer behandeln lassen. Die Wissenschaftler konnten einen überaktiven Schmerzschaltkreis im Gehirn gezielt beruhigen und so die Schmerzreaktion der Tiere dämpfen, und zwar ohne die aus der Schmerzmedizin bekannten Opioid-Rezeptoren anzusprechen, also jene Andockstellen, an denen stark abhängig machende Schmerzmittel wirken. Weil es sich bislang um Versuche an Mäusen handelt, ist der Weg zu einer Anwendung beim Menschen noch weit. Das zählt, weil chronische Schmerzen für viele Menschen eine schwere Belastung sind und ein solcher Ansatz langfristig auf Schmerztherapien ohne das Risiko einer Abhängigkeit hoffen lässt.",
-       "img": "https://live.staticflickr.com/7046/6884698095_5b4bfac5e2_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm"
-      },
-      {
-       "title": "Neue Brennstoffzelle könnte Rechenzentren einen Teil ihres Stroms selbst liefern",
-       "text": "Forschende haben einen Fortschritt bei Brennstoffzellen erzielt, der Rechenzentren helfen könnte, einen Teil ihres Stroms selbst zu erzeugen. Eine Brennstoffzelle ist ein Gerät, das aus Wasserstoff und Sauerstoff direkt elektrischen Strom gewinnt, wobei als Abfallprodukt vor allem Wasser entsteht; Wasserstoff ist das leichteste chemische Element und lässt sich als Energieträger speichern. Rechenzentren sind große Gebäude voller Computer, die etwa das Internet und KI-Dienste betreiben und dabei sehr viel Strom verbrauchen. Der neue Ansatz verspricht, Wasserstoff effizienter in Elektrizität umzuwandeln und damit einen Teil des wachsenden Energiehungers dieser Anlagen vor Ort und mit geringeren Verlusten zu decken. Das zählt, weil der Stromverbrauch von Rechenzentren durch den Ausbau künstlicher Intelligenz stark steigt und solche Techniken helfen könnten, ihn verträglicher zu gestalten.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Gewittriger Freitag, Wochenmarkt am Vormittag und Flohmärkte in der Region",
-       "text": "Über Horb am Neckar, der Stadt an der oberen Neckarschleife im Nordschwarzwald, ist es heute unbeständig und gewittrig bei Höchstwerten um 22 Grad; wer Erledigungen plant, sollte Regenschutz einpacken und kräftige Schauer am Nachmittag einkalkulieren. Am Vormittag findet auf dem Flößerwasen von 7 bis 13 Uhr der Wochenmarkt mit Erzeugnissen aus der Region statt; der Flößerwasen ist ein zentraler Platz in Horb, dessen Name an die frühere Flößerei erinnert, bei der Holz auf dem Neckar flussabwärts transportiert wurde. Für das Wochenende bieten sich bei wechselhaftem Wetter Ausflüge in die nähere Umgebung an, etwa der Riesenflohmarkt in Tübingen am Samstag ab 9 Uhr oder der Flohmarkt in Herrenberg am Festplatz ab 7 Uhr. Das zählt, weil sich der Marktbesuch gut in den Vormittag legen lässt, bevor am Nachmittag die Gewitterneigung zunimmt, und die Region auch bei durchwachsenem Wetter überdachte Alternativen bereithält.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-       "source": "meinestadt.de / Stadt Horb am Neckar",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein wechselhafter, gewittriger Tag belohnt es, das Wichtigste in die ruhigen Morgenstunden zu legen und für den Nachmittag flexibel und wetterfest zu planen."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "BAFA-Zuschuss für Unternehmensberatung, nutzbar bis Ende 2026",
-      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle, kurz BAFA, eine Behörde des Bundes, fördert mit dem Programm zur Förderung unternehmerischen Know-hows professionelle Beratungsleistungen für kleine und mittlere Unternehmen sowie für Selbstständige. Gefördert wird ein Teil der Kosten für eine externe Beratung, etwa zu betriebswirtschaftlichen Fragen oder zur Digitalisierung, also der Umstellung von Abläufen auf digitale Werkzeuge. Nach den vorliegenden Angaben läuft die Förderung noch bis zum 31. Dezember 2026, danach ist ihre Fortführung offen. Weil sich Höhe des Zuschusses, Voraussetzungen und Antragsweg ändern können, lohnt sich vor einem Antrag ein Blick auf die aktuellen Bedingungen direkt beim BAFA oder in der Förderdatenbank des Bundes.",
-      "why": "Für dich als Solo-Unternehmer kann ein solcher Zuschuss eine gezielte, extern begleitete Weiterentwicklung deines Betriebs verbilligen, etwa im Bereich Digitalisierung oder Positionierung. Prüfe zunächst, ob du die Voraussetzungen erfüllst und ob ein passendes, zugelassenes Beratungsangebot vorhanden ist, und plane den Antrag rechtzeitig vor Ablauf der Frist.",
-      "source": "BAFA / Förderdatenbank des Bundes",
-      "url": "https://www.foerderdatenbank.de/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale drehen sich um dieselbe Bewegung: Die serverseitige Web-Recherche, die dein Kommandozeilen-Werkzeug für Sprachmodelle seit Kurzem kann, steht jetzt über einen Vermittlungsdienst auch für viele weitere Modelle zur Verfügung. Dein Hebel liegt darin, Recherche-Abläufe wie die MORGENLAGE-Routine flexibel über verschiedene Modelle laufen zu lassen und deine Werkzeugkette dafür aktuell zu halten.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "llm-openrouter 0.7: serverseitige Websuche für viele Modelle",
-       "tag": "Werkzeug",
-       "paras": [
-        "Am 21. August ist Version 0.7 der Erweiterung llm-openrouter des Entwicklers Simon Willison erschienen. Diese Erweiterung verbindet das freie Kommandozeilen-Werkzeug LLM, mit dem sich Sprachmodelle über eingetippte Befehle ansprechen lassen, mit OpenRouter, einem Vermittlungsdienst, über den sich viele verschiedene KI-Modelle unter einem Zugang nutzen lassen. Neu sind die Unterstützung der aktuellen LLM-Version 0.32 sowie drei serverseitige Werkzeuge mit den Namen Shell, WebFetch und WebSearch, die sich mit einer Option wie -T WebSearch einschalten lassen.",
-        "Für dein System bedeutet das, dass ein Modell für eine Aufgabe selbst aktuelle Informationen im Web nachschlagen kann und du dabei nicht mehr an einen einzigen Anbieter gebunden bist, sondern über OpenRouter zwischen vielen Modellen wählen kannst. Weil serverseitige Websuche je nach Modell und Anbieter Kosten verursacht, lohnt sich ein erster Test an einer kleinen, unkritischen Frage, bevor du sie in eine wiederkehrende Routine einbaust."
-       ],
-       "konkret": "Installiere die Erweiterung, wähle ein OpenRouter-Modell und lass es eine einzelne, klar umrissene Frage mit eingeschalteter Websuche beantworten; vergleiche das Ergebnis mit deiner bisherigen Handrecherche.",
-       "snippetLabel": "Websuche über OpenRouter einschalten",
-       "snippet": "llm install -U llm-openrouter\nllm -m openrouter/<span class=\"ph\">{modellname}</span> \\\n  -T WebSearch \\\n  \"<span class=\"ph\">{deine Recherchefrage}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Werkzeugkette aktuell halten: LLM 0.32.1 und passende Erweiterungen",
-       "tag": "Pflege",
-       "paras": [
-        "Ebenfalls am 21. August ist die Fehlerbehebungs-Version LLM 0.32.1 erschienen, die Probleme bei einer frischen Neuinstallation beseitigt; kurz darauf folgte am 24. August die Erweiterung llm-anthropic 0.27, die für die neue Programmbibliothek anthropic in der Version 1.0.0 angepasst wurde. Eine Programmbibliothek ist eine Sammlung fertiger Bausteine, die Programme gemeinsam nutzen.",
-        "Für dich heißt das, dass sich die neuen Fähigkeiten der Version 0.32 wie die sichtbaren Denkspuren und die serverseitigen Werkzeuge nur dann zuverlässig nutzen lassen, wenn Werkzeug und Erweiterungen zueinander passen. Ein kurzer Aktualisierungslauf beugt schwer auffindbaren Fehlern in deinen automatischen Abläufen vor."
-       ],
-       "konkret": "Bringe LLM und deine genutzten Erweiterungen in einem Schritt auf den aktuellen Stand und prüfe danach an einem kleinen Testlauf, ob deine MORGENLAGE-Routine unverändert durchläuft.",
-       "snippetLabel": "Werkzeug und Erweiterungen aktualisieren",
-       "snippet": "llm install -U llm\nllm install -U llm-openrouter llm-anthropic",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Aug/21/llm/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Samstag, 29. August 2026",
    "weather": "rain",
    "temp": "24°C · Regen",
@@ -909,7 +756,6 @@
    "weather": "clouds",
    "temp": "26°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt der Tag neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperatur auf rund 26 Grad steigen. In der Welt bleibt die Straße von Hormus am Persischen Golf ein Spannungsherd, nachdem der Iran die Verlegung weiterer Seeminen gemeldet hat. In der Wirtschaft hat das europäische Statistikamt Eurostat die Teuerung im Euroraum für August mit 3,3 Prozent bestätigt, dem höchsten Wert des Jahres, während die Europäische Zentralbank am 10. September über die Zinsen entscheidet. Hier ist dein Briefing.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1048,6 +894,149 @@
        "snippet": "{\n  \"type\": \"web_search\",\n  \"name\": \"web_search\",\n  \"allowed_domains\": [\n    \"eurostat.ec.europa.eu\",\n    \"sciencedaily.com\",\n    \"positive.news\",\n    \"<span class=\"ph\">{WEITERE_QUELLE}</span>\"\n  ]\n}",
        "source": "simonwillison.net / Anthropic",
        "url": "https://simonwillison.net/2026/Aug/27/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Freitag, 4. September 2026",
+   "weather": "clouds",
+   "temp": "30°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt der Himmel heute weitgehend bewölkt, dabei wird es mit rund 30 Grad noch einmal spätsommerlich warm. In der Welt richtet sich der Blick auf mögliche neue Gespräche über den Krieg in der Ukraine, während die Kämpfe zunächst weitergehen. In der Wirtschaft steht der Zinsentscheid der Europäischen Zentralbank am 10. September im Mittelpunkt, nachdem die Inflation in Deutschland im August bei 2,9 Prozent lag. Hier ist dein Briefing.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Mögliche neue Dreiergespräche über den Krieg in der Ukraine",
+       "text": "Im Krieg zwischen Russland und der Ukraine deutet sich eine mögliche Wiederaufnahme diplomatischer Gespräche an. Nach Angaben aus Kiew, der Hauptstadt der Ukraine, könnten sogenannte Dreiergespräche zwischen der Ukraine, den Vereinigten Staaten von Amerika und Russland noch im September wieder aufgenommen werden; diese direkten Verhandlungen der drei Seiten liegen seit dem Frühjahr auf Eis. Der Kreml, der Sitz der russischen Regierung in Moskau, erklärte hingegen, es lägen derzeit keine neuen Vorschläge vor und die Gespräche ruhten. Strittig bleibt vor allem die Kontrolle über den Donbass, ein Industriegebiet im Osten der Ukraine, das Moskau vollständig beansprucht, während Kiew eine Abtretung ablehnt. Warum das zählt: Ob und wann verhandelt wird, entscheidet mit darüber, wie lange dieser Krieg mitten in Europa andauert und welche Folgen er für Sicherheit und Energiepreise auf dem Kontinent hat.",
+       "source": "The New Voice of Ukraine / Al Jazeera"
+      },
+      {
+       "title": "Finnland übt den Zivilschutz mit der Übung Shelter 2026",
+       "text": "Finnland, das nordeuropäische Nachbarland Russlands, hat am 2. September in der Stadt Kuopio eine Zivilschutzübung mit dem Namen Shelter 2026 abgehalten. Zivilschutz bezeichnet alle Maßnahmen, die die Bevölkerung im Fall von Krisen, Katastrophen oder Angriffen schützen sollen, etwa das Aufsuchen von Schutzräumen. Finnland verfügt über ein dicht ausgebautes Netz solcher Schutzräume und bereitet die Bevölkerung regelmäßig auf Notlagen vor. Hintergrund ist die angespannte Sicherheitslage in der Region, seit das Land im Jahr 2023 dem westlichen Verteidigungsbündnis NATO beigetreten ist und eine lange gemeinsame Grenze mit Russland hat. Warum das zählt: Solche Übungen zeigen, wie ernst die Staaten an der Ostflanke Europas die Vorsorge nehmen, und sie sind ein Gradmesser für das Sicherheitsempfinden auf dem Kontinent.",
+       "source": "Euronews"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Inflation in Deutschland im August bei 2,9 Prozent",
+       "text": "Das Statistische Bundesamt in Wiesbaden, die zentrale Statistikbehörde Deutschlands, hat die Teuerungsrate für August mit 2,9 Prozent im Jahresvergleich beziffert. Teuerung, auch Inflation genannt, bezeichnet den allgemeinen Anstieg der Preise, der die Kaufkraft des Geldes mindert. Haupttreiber blieb die Energie mit einem Anstieg von 10,5 Prozent binnen Jahresfrist, unter anderem, weil eine zeitweilige Steuervergünstigung auf Kraftstoff Ende Juni ausgelaufen ist. Die sogenannte Kernrate, die die schwankungsanfälligen Preise für Energie und Nahrungsmittel ausklammert, lag bei 2,4 Prozent. Warum das zählt: Höhere Preise schmälern reale Einkommen und Ersparnisse, und die Energie bleibt der wichtigste Grund, warum die Teuerung noch über dem Zielwert der Notenbank liegt.",
+       "source": "Statistisches Bundesamt / ftd.de"
+      },
+      {
+       "title": "Europäische Zentralbank entscheidet am 10. September über die Zinsen",
+       "text": "Die Europäische Zentralbank (kurz EZB, die gemeinsame Notenbank der Länder mit dem Euro als Währung) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent. An den Finanzmärkten gilt eine Anhebung um 0,25 Prozentpunkte auf 2,50 Prozent als sehr wahrscheinlich, da die Inflation im Euroraum zuletzt wieder gestiegen ist. Isabel Schnabel, ein Mitglied des sechsköpfigen Direktoriums der EZB, hatte signalisiert, dass eine weitere Straffung der Geldpolitik nötig sein könnte; Straffung bedeutet, die Zinsen anzuheben, um die Nachfrage und damit den Preisdruck zu dämpfen. Warum das zählt: Steigende Leitzinsen verteuern Kredite, erhöhen aber zugleich die Erträge auf Erspartes.",
+       "source": "LBBW / Europäische Zentralbank"
+      }
+     ],
+     "merk": {
+      "text": "Für dich als Solo-Unternehmer heißt ein weiter steigender Leitzins zweierlei: Neue Finanzierungen und der Kontokorrentkredit, also der Überziehungsrahmen des Geschäftskontos, werden teurer, während Rücklagen auf Tages- oder Festgeld wieder mehr Zinsen bringen. Wer in den nächsten Wochen eine größere Anschaffung oder eine Finanzierung plant, sollte die Konditionen vor dem 10. September prüfen und danach neu vergleichen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Drei Millionen Austern lassen New Yorks Riffe zurückkehren",
+       "text": "In der amerikanischen Millionenstadt New York bauen Naturschützer mit Austern die einst verschwundenen Riffe im Hafen wieder auf. Nach aktuellen Angaben wurden bereits rund drei Millionen Austern angesiedelt, unter anderem mithilfe leerer Muschelschalen aus Restaurants, auf denen sich junge Austern festsetzen. Austern filtern das Wasser und schaffen mit ihren Riffen Lebensraum für zahlreiche Meerestiere; ein Riff ist eine feste Struktur am Meeresgrund, die vielen Arten Schutz bietet. Zugleich dämpfen solche Riffe die Wucht der Wellen und schützen so die Küste. Warum das zählt: Das Projekt zeigt, dass sich zerstörte Lebensräume mit einfachen Mitteln und langem Atem tatsächlich zurückholen lassen.",
+       "img": "https://live.staticflickr.com/5678/22819976251_d1ba3e6360_b.jpg",
+       "source": "Good News Network"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Am Südpol des Saturn zeigt sich ein zehneckiges Wettermuster",
+       "text": "Am Südpol des Planeten Saturn, des zweitgrößten Planeten unseres Sonnensystems, haben Forschende ein riesiges zehneckiges Muster in der Atmosphäre entdeckt. Es ist ein Gegenstück zu dem seit langem bekannten Sechseck am Nordpol des Planeten, einem stabilen, sechseckigen Sturmmuster von gewaltiger Ausdehnung. Solche vieleckigen Strukturen entstehen vermutlich durch das Zusammenspiel schneller Windströmungen in der Gashülle des Planeten. Saturn besitzt keine feste Oberfläche, sondern besteht überwiegend aus Gas, weshalb seine Atmosphäre besonders klare Strömungsmuster ausbilden kann. Warum das zählt: Solche Beobachtungen helfen zu verstehen, wie großräumige Wettermuster auf Planeten entstehen, und schärfen zugleich den Blick auf die Vorgänge in unserer eigenen Atmosphäre.",
+       "img": "https://live.staticflickr.com/1864/42419131330_e056e47927_b.jpg",
+       "source": "ScienceDaily"
+      },
+      {
+       "title": "Fledermäuse mit doppeltem Bauplan für die Immunabwehr",
+       "text": "Forschende haben herausgefunden, dass mehr als 500 Arten der sogenannten Glattnasen-Fledermäuse (englisch vesper bats) über zwei getrennte Sätze von Antikörper-Genen verfügen. Antikörper sind Eiweiße des Immunsystems, die Krankheitserreger erkennen und unschädlich machen; die zugehörigen Gene enthalten gewissermaßen den Bauplan dafür. Eine solche doppelte Ausstattung wurde bei Säugetieren bisher noch nie beobachtet. Fledermäuse gelten ohnehin als bemerkenswert widerstandsfähig gegenüber vielen Viren, und dieser doppelte Bauplan könnte ein Grund dafür sein. Warum das zählt: Wer versteht, wie Fledermäuse Krankheitserreger so gut abwehren, gewinnt womöglich neue Ansätze für die Behandlung von Infektionen beim Menschen.",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Bewölkter Spätsommertag und der Tag des offenen Denkmals am 13. September",
+       "text": "Über Horb am Neckar und dem umgebenden Neckartal bleibt der Himmel heute überwiegend bewölkt, dabei wird es mit rund 30 Grad noch einmal spätsommerlich warm; ein guter Tag für einen Ausflug ohne pralle Sonne. Im Kalender steht für Sonntag, den 13. September, der bundesweite Tag des offenen Denkmals, an dem historische Gebäude in ganz Deutschland ihre Türen für Besucher öffnen. Passend dazu begeht der RuheWald Horb, ein von der Stadt betriebener Bestattungswald, in diesem Jahr sein zehnjähriges Bestehen. Wer einen ruhigen Nachmittag sucht, findet entlang des Neckars und in der historischen Altstadt von Horb zahlreiche Wege und Aussichtspunkte.",
+       "img": "https://live.staticflickr.com/5460/6946362074_00152b6b85_b.jpg",
+       "source": "Tag des offenen Denkmals / Stadt Horb"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Auch ein Riff aus Millionen einzelner Muscheln entsteht Schale für Schale, und selten zeigt sich der ganze Nutzen schon am ersten Tag."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS: bis zu 4.500 Euro Zuschuss für die Weiterbildung von Solo-Selbstständigen",
+      "text": "Das Programm KOMPASS (die Abkürzung steht für Kompetenzentwicklung über Plattformen für Solo-Selbstständige) ist ein Förderangebot der Bundesagentur für Arbeit, der zentralen Behörde für Arbeitsförderung in Deutschland. Es richtet sich gezielt an Selbstständige ohne Angestellte und übernimmt einen großen Teil der Kosten für berufliche Weiterbildung, zum Beispiel in den Bereichen Digitalisierung und künstliche Intelligenz. Gefördert werden bis zu 4.500 Euro je Person, wobei ein hoher Anteil der Weiterbildungskosten erstattet wird. Die Aufnahme neuer Teilnehmer war zwischenzeitlich ausgesetzt, weshalb sich vor einer Bewerbung ein Blick auf den aktuellen Stand lohnt.",
+      "why": "Für dich als Solo-Unternehmer ist das ein möglicher Weg, gezielt Kompetenzen etwa im Umgang mit KI-Werkzeugen aufzubauen, ohne die Kosten allein zu tragen. Weil die Aufnahme zeitweise pausiert war, solltest du vor einer Bewerbung den aktuellen Status auf der Seite der Bundesagentur für Arbeit prüfen oder dich bei einer der regionalen Anlaufstellen des Programms informieren.",
+      "source": "Bundesagentur für Arbeit / KOMPASS"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei Entwickler-Signale dieser Woche betreffen deine MORGENLAGE-Routine unmittelbar: ein neues, besonders leistungsfähiges Modell von Anthropic und eine gereifte Möglichkeit, eigene Datenquellen über das Protokoll anzubinden, mit dem dein System Werkzeuge nutzt.",
+     "cards": [
+      {
+       "icon": "layers",
+       "title": "Neues Modell Claude Fable 5.1 im Blick behalten",
+       "tag": "Modell",
+       "paras": [
+        "Am 1. September hat Anthropic, das Unternehmen hinter den Claude-Modellen, mit Claude Fable 5.1 ein neues Sprachmodell vorgestellt. Ein Sprachmodell ist ein KI-System, das Texte versteht und erzeugt; Fable 5.1 soll laut Anbieter besonders gut im Programmieren und im Lösen komplexer Aufgaben sein. In einem Test namens Terminal-Bench-Science, der die Fähigkeit misst, wissenschaftliche Aufgaben über die Kommandozeile zu bearbeiten, erreichte es einen deutlich höheren Wert als bisherige Modelle.",
+        "Für deine MORGENLAGE-Routine, die selbst von einem Claude-Modell erzeugt wird, ist ein leistungsfähigeres Modell dann interessant, wenn es Recherche und Textqualität verbessert, ohne die Kosten stark zu erhöhen. Bevor du wechselst, lohnt ein nüchterner Vergleich an einem echten Tagesbeispiel."
+       ],
+       "konkret": "Teste Fable 5.1 an einer echten Tagesausgabe, bevor du das Modell deiner Routine dauerhaft umstellst. Erzeuge dieselbe Ausgabe mit dem bisherigen und dem neuen Modell, vergleiche Genauigkeit, Tonfall und Kosten und wechsle nur, wenn der Gewinn den Aufwand rechtfertigt.",
+       "source": "simonwillison.net / Anthropic",
+       "url": "https://simonwillison.net/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Eigene Datenquelle anbinden: MCP-Werkzeuge liefern jetzt benannte Felder",
+       "tag": "Anbindung",
+       "paras": [
+        "Am 1. September ist die erste stabile Fassung der Erweiterung datasette-mcp erschienen, Version 0.2. Sie bindet Datenbanken über das Model Context Protocol an, kurz MCP, die offene Schnittstelle, über die Sprachmodelle wie Claude externe Werkzeuge und Datenquellen nutzen. Neu ist, dass die Ergebniszeilen einer Datenbankabfrage nun als benannte Felder geliefert werden, also als Objekte mit Feldnamen, statt als bloße Wertelisten.",
+        "Der Fachautor Simon Willison, ein bekannter Beobachter der KI-Szene, weist darauf hin, dass benannte Felder gerade für kleinere Modelle hilfreich sind, weil sie Verwechslungen zwischen den Spalten vermeiden. Für deine MORGENLAGE-Routine ist das relevant, falls du künftig ein Archiv deiner bisherigen Ausgaben als Datenquelle anbinden willst, um Themen nicht doppelt zu bringen oder auf frühere Meldungen zu verweisen."
+       ],
+       "konkret": "Wenn du deiner Routine eine Datenquelle wie das Archiv deiner bisherigen Ausgaben anbindest, achte darauf, dass die Abfrageergebnisse benannte Felder zurückgeben. Das macht die Auswertung für das Modell zuverlässiger und beugt Verwechslungen zwischen Spalten vor.",
+       "snippetLabel": "Prompt: bisherige Themen vor der Auswahl prüfen",
+       "snippet": "Bevor du eine Meldung aufnimmst, vergleiche ihren Titel mit den Ausgaben der letzten sieben Tage aus <span class=\"ph\">{DATENQUELLE}</span>.\nÜberspringe Themen, die dort bereits vorkommen, und vermerke kurz, warum ein Thema erneut relevant ist.",
+       "source": "simonwillison.net / Model Context Protocol",
+       "url": "https://simonwillison.net/"
       }
      ]
     }
