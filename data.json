@@ -2,154 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Dienstag, 1. September 2026",
-   "weather": "clouds",
-   "temp": "23°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt der Tag zunächst neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperaturen steigen auf rund 23 Grad. In der Welt geht heute der große Gipfel eines von China und Russland getragenen Staatenbündnisses in Zentralasien zu Ende, während in der Straße von Hormus ein Öltanker beschossen wurde. In der Wirtschaft wird aus der Deutschen Post offiziell die DHL, und die Europäische Zentralbank steuert auf ihre nächste Zinsentscheidung zu. Hier ist dein Briefing.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Öltanker in der Straße von Hormus beschossen",
-       "text": "In der Straße von Hormus, der schmalen Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird, ist nach Angaben der britischen Seehandelsbehörde UKMTO (kurz für United Kingdom Maritime Trade Operations, eine Stelle der britischen Marine, die die zivile Schifffahrt vor Gefahren warnt) ein Öltanker beim Auslaufen von drei nicht näher bekannten Geschossen getroffen worden. Verletzte oder Umweltschäden wurden zunächst nicht gemeldet. Der Vorfall reiht sich in die zuletzt gestiegenen Spannungen zwischen den Vereinigten Staaten und dem Iran in dieser Region ein. Warum das zählt: Jede Störung an der Straße von Hormus kann die Öl- und damit die Energiepreise auch in Europa bewegen, weil ein sehr großer Teil des Rohöls diese eine Wasserstraße passiert.",
-       "source": "UKMTO / TASS / internationale Agenturen"
-      },
-      {
-       "title": "Gipfel des Staatenbündnisses SOZ in Kirgistan geht zu Ende",
-       "text": "In Bischkek, der Hauptstadt des zentralasiatischen Landes Kirgistan, geht heute der zweitägige Gipfel der Shanghaier Organisation für Zusammenarbeit (kurz SOZ, ein von China und Russland getragenes Staatenbündnis für Sicherheit und Wirtschaft) zu Ende. Am Rande des Treffens kamen der chinesische Staats- und Parteichef Xi Jinping und der russische Präsident Wladimir Putin zusammen und bekräftigten ihre enge Zusammenarbeit; es war bereits ihre zweite persönliche Begegnung in diesem Jahr. Der Gipfel stand im Zeichen des 25-jährigen Bestehens des Bündnisses unter dem Leitwort dauerhafter Frieden und gemeinsame Entwicklung. Warum das zählt: Solche Treffen zeigen, wie sich abseits der westlichen Bündnisse eigene politische und wirtschaftliche Blöcke enger zusammenschließen, was auch für Handel und Rohstoffe Europas Bedeutung hat.",
-       "source": "Al Jazeera / SCMP / internationale Agenturen"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Aus der Deutschen Post wird zum 1. September die DHL AG",
-       "text": "Der Bonner Logistikkonzern hat seine Umbenennung vollzogen: Mit einem Eintrag ins Handelsregister an diesem 1. September wird aus der Deutsche Post AG die DHL AG (die Abkürzung DHL steht für die Nachnamen der drei Firmengründer Dalsey, Hillblom und Lynn). Der vertraute Name Deutsche Post verschwindet damit nicht ganz, sondern rückt eine Ebene tiefer und bleibt als Tochtergesellschaft für das inländische Brief- und Paketgeschäft erhalten; die gelben Fahrzeuge und Filialen behalten ihren Namen. Hintergrund ist keine Werbeidee, sondern ein Umbau der Konzernstruktur, den die Aktionäre bereits im Mai mit großer Mehrheit beschlossen hatten. Der Schritt spiegelt wider, dass das klassische Postgeschäft, also der Transport von Briefen und Paketen im Inland, nur noch etwa ein Fünftel des Umsatzes ausmacht.",
-       "source": "t-online / Verkehrsrundschau"
-      },
-      {
-       "title": "Europäische Zentralbank steuert auf mögliche Zinserhöhung zu",
-       "text": "Die Europäische Zentralbank (kurz EZB, die Notenbank für die Länder mit dem Euro als Währung) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen, und an den Finanzmärkten gilt eine weitere Anhebung der Leitzinsen als sehr wahrscheinlich. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent und könnte auf 2,50 Prozent steigen. Hintergrund ist die weiter erhöhte Teuerung: Das Statistische Bundesamt meldete für August in Deutschland eine Inflationsrate von 2,9 Prozent im Jahresvergleich, wobei vor allem die Energiepreise ein wichtiger Treiber blieben. Zugleich kehrt die deutsche Wirtschaft nach mehreren schwachen Jahren mit Wachstumsraten von etwa 0,7 bis 1,0 Prozent langsam auf einen Wachstumspfad zurück.",
-       "source": "ftd.de / Börsen-Zeitung / Statistisches Bundesamt"
-      }
-     ],
-     "merk": {
-      "text": "Steigende Leitzinsen verteuern Kredite und machen zugleich Guthaben wieder etwas ertragreicher. Für dich als Solo-Unternehmer heißt das: größere Anschaffungen auf Pump werden teurer, während vorhandene Rücklagen wieder ein wenig mehr abwerfen. Wer investieren will, rechnet die Finanzierungskosten jetzt bewusst mit ein.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Erfinder eines Malaria-Impfstoffs erhält europäischen Preis",
-       "text": "Ein an der Universität Oxford entwickelter Malaria-Impfstoff mit dem Namen R21/Matrix-M ist mit dem Europäischen Erfinderpreis 2026 ausgezeichnet worden, einer Auszeichnung des Europäischen Patentamts für bedeutende Erfindungen. Malaria ist eine von Mücken übertragene Infektionskrankheit, an der jedes Jahr besonders viele Kinder sterben. Der Impfstoff erreichte in Studien einen Schutz von rund 75 bis 80 Prozent und wird inzwischen in etwa 20 Ländern eingesetzt, wodurch sich nach Schätzungen zehntausende Todesfälle verhindern lassen. Warum das zählt: Es ist ein Beispiel dafür, dass geduldige Forschung über viele Jahre am Ende sehr konkret Leben retten kann.",
-       "source": "Positive News / Good News Network"
-      },
-      {
-       "title": "Weltweit weniger Regenwald gerodet als im Vorjahr",
-       "text": "Nach neuen Auswertungen ist in der ersten Hälfte des Jahres 2026 deutlich weniger Regenwald verloren gegangen als im gleichen Zeitraum des Vorjahres. Statt rund 807 Quadratmeilen wurden etwa 500 Quadratmeilen gerodet, ein Rückgang um ungefähr 38 Prozent. Regenwälder sind wichtige Speicher für Kohlenstoff und beheimaten einen großen Teil der Tier- und Pflanzenarten der Erde, weshalb ihr Erhalt für das Klima und die Artenvielfalt zählt. Warum das zählt: Der Rückgang zeigt, dass sich der Verlust von Wäldern bremsen lässt, wenn Schutz und politischer Wille zusammenkommen.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rainforest_Aerial_Garden_-_Flickr_-_Eye_Steel_Film.jpg",
-       "source": "Positive News"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Zelltherapie bringt schwere rheumatoide Arthritis zum Stillstand",
-       "text": "Ein Forschungsteam hat berichtet, dass eine sogenannte CAR-T-Zelltherapie die Krankheitsaktivität bei sechs Menschen mit schwerer rheumatoider Arthritis stark verringert hat. Die rheumatoide Arthritis ist eine Erkrankung, bei der sich das körpereigene Abwehrsystem gegen die eigenen Gelenke richtet und diese entzündet. Bei der CAR-T-Therapie werden bestimmte Abwehrzellen des Patienten im Labor so verändert, dass sie gezielt die fehlgeleiteten Zellen angreifen; ursprünglich stammt das Verfahren aus der Krebsbehandlung. Bei drei der Behandelten kam die Erkrankung sogar ganz ohne weitere Medikamente zur Ruhe. Warum das zählt: Sollte sich der Ansatz in größeren Studien bestätigen, könnte er schwer behandelbaren Autoimmunkrankheiten eine neue Richtung geben.",
-       "source": "ScienceDaily"
-      },
-      {
-       "title": "Spirulina liefert aktives Vitamin B12 in beachtlicher Menge",
-       "text": "Forschende haben eine Form der Blaualge Spirulina erzeugt, die biologisch wirksames Vitamin B12 in einer Menge enthält, die mit der von Rindfleisch vergleichbar ist. Spirulina ist eine nährstoffreiche Mikroalge, die bereits als Nahrungsergänzung genutzt wird; Vitamin B12 wiederum ist für Nerven und Blutbildung wichtig und kommt sonst vor allem in tierischen Lebensmitteln vor. Bislang enthielt Spirulina meist eine Form des Vitamins, die der menschliche Körper kaum verwerten kann, was die neue Züchtung nun ändert. Warum das zählt: Eine gut verwertbare, pflanzliche Quelle für Vitamin B12 könnte gerade für vegetarische und vegane Ernährung eine sinnvolle Ergänzung werden.",
-       "img": "https://live.staticflickr.com/5149/5680757625_f15496a0f9_b.jpg",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Nebliger Start in den September, Ausblick auf den Denkmaltag",
-       "text": "Über Horb am Neckar beginnt der erste Septembertag neblig und trüb, im Lauf des Vormittags dürfte sich der Nebel lichten und milde rund 23 Grad zulassen. Wer früh unterwegs ist, sollte an schlechte Sicht im Neckartal denken; am späteren Tag lohnt sich der Aufenthalt im Freien. Für die kommenden Wochen lohnt der Blick in den Kalender: Am 13. September findet bundesweit der Tag des offenen Denkmals statt, an dem historische Gebäude ihre Türen öffnen; das Motto lautet in diesem Jahr NetzWERKE, Denkmale und Infrastruktur. Wer regelmäßig regionale Erzeugnisse einkaufen möchte, findet zudem im Stadtgebiet die wiederkehrenden Wochenmärkte, etwa im Ortsteil Altheim.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-       "source": "Deutscher Wetterdienst / Tag des offenen Denkmals / Stadt Horb am Neckar"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Wenn der Morgennebel steht, hilft kein Drängen, nur der erste ruhige Schritt, bis die Sicht von selbst zurückkehrt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "BAFA-Zuschuss zu Unternehmensberatung: bis zu 80 Prozent der Kosten",
-      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (kurz BAFA, eine Bundesbehörde) fördert mit dem Programm Förderung unternehmerischen Know-hows die Beratung kleiner und mittlerer Unternehmen sowie von Freiberuflern. Bezuschusst werden je nach Region 50 Prozent (in den westlichen Bundesländern) oder bis zu 80 Prozent der Beratungskosten, gedeckelt auf 1.750 beziehungsweise 2.800 Euro. Förderfähig sind wirtschaftliche, finanzielle, personelle und organisatorische Fragen der Unternehmensführung, ausdrücklich auch Beratungen zur Digitalisierung. Die zugrundeliegende Richtlinie gilt bis zum 31. Dezember 2026, pro Jahr sind höchstens zwei Anträge möglich.",
-      "why": "Für dich als Solo-Unternehmer ist das ein Weg, externen Rat zu Digitalisierung, KI-Werkzeugen oder der Ausrichtung deines Angebots einzuholen und einen großen Teil der Kosten aus Fördermitteln zu decken. Nachdem 2026 mehrere andere Digitalisierungsprogramme ausgelaufen sind, ist die BAFA-Beratungsförderung das wichtigste verbliebene Bundesprogramm dieser Art. Weil der Antrag vor Beginn der Beratung gestellt werden muss und die Richtlinie Ende 2026 ausläuft, lohnt es sich, ein passendes Thema frühzeitig zu prüfen.",
-      "source": "BAFA / Handelskammer",
-      "url": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Die Entwickler-Signale der letzten Wochen drehen sich stark darum, Sprachmodelle über einheitliche Werkzeug-Schnittstellen an eigene Datenquellen anzubinden. Beide Karten unten zeigen einen konkreten Hebel für deine MORGENLAGE-Routine.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Serverseitige Web-Werkzeuge über das Kommandozeilen-Werkzeug LLM nutzen",
-       "tag": "Werkzeugkette",
-       "paras": [
-        "Der Entwickler Simon Willison (ein bekannter Fachautor zu Sprachmodellen) hat in seinem Werkzeug LLM (ein freies Programm für die Kommandozeile, mit dem sich Sprachmodelle steuern lassen) die bisher größte Neuerung veröffentlicht: Modelle können jetzt serverseitige Werkzeuge des Anbieters direkt aufrufen, darunter Websuche (WebSearch), das Abrufen einzelner Webseiten (WebFetch), das Ausführen von Code (CodeExecution) und die Anbindung des Model Context Protocol (kurz MCP, ein offener Standard, über den Modelle einheitlich auf externe Werkzeuge und Datenquellen zugreifen).",
-        "Für deine MORGENLAGE-Routine bedeutet das: Statt Suche und Seitenabruf selbst zu verdrahten, kannst du sie über die eingebaute Schnittstelle mit dem Kürzel minus T an das Modell übergeben. Das verkürzt deine eigene Werkzeugkette und macht sie leichter wartbar."
-       ],
-       "konkret": "Prüfe, ob deine Routine die Recherche noch über eigene Skripte erledigt. Wo das der Fall ist, kannst du testweise die serverseitigen Werkzeuge über die minus-T-Schnittstelle einsetzen und den Aufwand vergleichen.",
-       "snippetLabel": "Beispiel für einen Aufruf mit angebundenem MCP-Server",
-       "snippet": "llm -m claude-sonnet-5 \\\n  -T 'AnthropicMCP(\"<span class=\"ph\">{DEINE_MCP_SERVER_URL}</span>\")' \\\n  '<span class=\"ph\">{DEINE_FRAGE}</span>'",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      },
-      {
-       "icon": "layers",
-       "title": "Auf die neue, zustandslose Fassung des Model Context Protocol achten",
-       "tag": "Architektur",
-       "paras": [
-        "Am Model Context Protocol (kurz MCP, der offene Standard für die Anbindung von Werkzeugen an Sprachmodelle) gab es die größte Änderung seit seiner Einführung: Die neue Fassung setzt stärker auf einen zustandslosen Betrieb. Zustandslos bedeutet, dass der Server sich zwischen einzelnen Anfragen nichts merken muss, was den Betrieb einfacher, robuster und leichter skalierbar macht.",
-        "Für deine MORGENLAGE-Routine ist das eher eine Weichenstellung als eine Sofortaufgabe: Wenn du künftig eigene Werkzeuge über MCP anbindest, lohnt es sich, gleich auf die zustandslose Variante zu setzen, damit die Anbindung ohne komplizierte Sitzungsverwaltung auskommt und auch in einer frischen Cloud-Umgebung zuverlässig läuft."
-       ],
-       "konkret": "Wenn du eigene MCP-Server betreibst oder planst, richte sie nach dem zustandslosen Muster aus. Bestehende Anbindungen musst du nicht sofort umbauen, aber bei der nächsten Überarbeitung im Hinterkopf behalten.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Mittwoch, 2. September 2026",
    "weather": "clouds",
    "temp": "25°C · neblig",
@@ -918,7 +770,6 @@
    "weather": "clouds",
    "temp": "30°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute zunächst Nebel, der sich im Lauf des Vormittags lichten und einem milden Spätsommertag mit bis zu etwa 30 Grad weichen soll. In der Weltlage bewegt sich der Krieg in der Ukraine erstmals seit Monaten wieder Richtung Gespräche, während im Nahen Osten eine brüchige Waffenruhe hält. In der Wirtschaft richtet sich der Blick auf den Donnerstag, an dem die Europäische Zentralbank über die Zinsen entscheidet. Dazu gibt es Gutes aus der Energiewelt, eine Entdeckung am Saturn und einen lokalen Termin aus Horb. Hier ist dein Briefing für heute.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1059,6 +910,167 @@
        "konkret": "Prüfe bei deinen wichtigsten MCP-Servern, ob sie die Spezifikation vom 28. Juli 2026 unterstützen, und plane Aktualisierungen ein, wo nötig.",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/tags/model-context-protocol/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dienstag, 8. September 2026",
+   "weather": "clouds",
+   "temp": "31°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute erneut Nebel, der sich im Lauf des Vormittags lichten und einem warmen Spätsommertag mit bis zu etwa 31 Grad weichen soll. In der Weltlage sind nach dem Ende einer kurzen Feuerpause wieder russische Luftangriffe auf die ukrainische Hauptstadt Kiew gemeldet, während in Berlin über den Bundeshaushalt für das kommende Jahr beraten wird. In der Wirtschaft richtet sich der Blick weiter auf die Zinssitzung der Europäischen Zentralbank am Donnerstag. Dazu gibt es Gutes aus der Energiewelt, zwei Fortschritte aus der Forschung und einen Ausblick auf den Tag des offenen Denkmals in der Region. Hier ist dein Briefing für heute.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Kiew: Russische Luftangriffe nach Ende der Feuerpause",
+       "text": "Im Krieg zwischen Russland und der Ukraine sind die Kämpfe nach einer kurzen Unterbrechung wieder aufgeflammt. Während des Besuchs von US-Sondergesandten, also persönlichen Beauftragten des amerikanischen Präsidenten für Verhandlungen, hatten beide Seiten für einige Tage zugesagt, die jeweiligen Hauptstädte nicht anzugreifen. Nach dem Ende dieser befristeten Feuerpause meldete die ukrainische Hauptstadt Kiew in der Nacht erneut Explosionen; nach Behördenangaben wurden unter anderem Wohnhäuser, eine Schule und Fahrzeuge durch herabstürzende Trümmer beschädigt. Ein Durchbruch bei den Gesprächen war zuvor nicht verkündet worden. Warum das zählt: Die rasche Rückkehr zu Angriffen zeigt, wie fragil die diplomatischen Ansätze der vergangenen Tage bislang geblieben sind.",
+       "source": "Euronews",
+       "url": "https://de.euronews.com/video/2026/09/08/nachrichten-des-tages-8-september-2026-morgenausgabe"
+      },
+      {
+       "title": "Berlin: Bundeshaushalt für 2027 im Bundestag beraten",
+       "text": "Im Deutschen Bundestag, dem nationalen Parlament in Berlin, hat Bundesfinanzminister Lars Klingbeil von der SPD, den Sozialdemokraten, an diesem Dienstag den Entwurf für den Bundeshaushalt des Jahres 2027 vorgestellt. Der Bundeshaushalt ist der jährliche Plan, der festlegt, wofür der Staat sein Geld ausgibt und wie er es einnimmt. Die Beratungen fallen in eine Zeit, in der über Spielräume für Investitionen und über die Aufnahme neuer Schulden gestritten wird. Warum das zählt: Der Haushalt setzt die finanziellen Leitplanken für staatliche Aufgaben von der Verteidigung bis zur Infrastruktur und betrifft damit mittelbar auch Unternehmen und Bürger.",
+       "source": "ZDFheute",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Deutsche Wirtschaft: KI-Rechenzentren stützen den Maschinenbau",
+       "text": "Für die deutsche Wirtschaft mehren sich vorsichtig zuversichtliche Signale. Nach Einschätzung von Fachleuten dürfte die größte Volkswirtschaft der Europäischen Union in diesem Jahr wieder wachsen; die Prognosen liegen bei etwa 0,7 bis 1,0 Prozent. Als eine Stütze gilt der weltweite Bau von Rechenzentren für Künstliche Intelligenz, also von großen Anlagen, in denen die Computer für KI-Anwendungen stehen. Er verschafft dem deutschen Maschinenbau zusätzliche Aufträge aus dem Ausland. Warum das zählt: Nach zwei schwachen Jahren wäre schon ein moderates Wachstum ein Zeichen der Stabilisierung, auch wenn die Erholung noch fragil ist.",
+       "source": "Statista",
+       "url": "https://de.statista.com/themen/4862/konjunktur-in-deutschland"
+      },
+      {
+       "title": "EZB: Zinsentscheidung am Donnerstag erwartet",
+       "text": "Am Donnerstag entscheidet der Rat der Europäischen Zentralbank, kurz EZB, über die Leitzinsen, also über den Preis, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen. Lange galt eine weitere Anhebung als ausgemacht, doch eine Reihe ermutigender Konjunkturdaten hat den Druck auf die Notenbank verringert, sodass der Schritt inzwischen als offen gilt. Hintergrund ist die weiterhin erhöhte Teuerung: Für 2026 erwartet die EZB im Euroraum eine durchschnittliche Inflation von rund 3 Prozent, deutlich über ihrem Ziel von 2 Prozent, bei einem Wachstum von nur etwa 0,8 Prozent. Warum das zählt: Die Zinsentscheidung wirkt auf Kredite, Sparzinsen und Investitionen und damit unmittelbar auf die Bedingungen für kleine Unternehmen.",
+       "source": "Börsen-Zeitung",
+       "url": "https://www.boersen-zeitung.de/konjunktur-politik/ezb-zinserhoehung-im-september-wackelt"
+      }
+     ],
+     "merk": {
+      "text": "Merken: EZB-Zinsentscheid am Donnerstag.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "China: Kohle liefert erstmals weniger als die Hälfte des Stroms",
+       "text": "In China, dem bevölkerungsreichsten Land der Erde und dem größten Stromverbraucher der Welt, haben Windkraft und Sonnenenergie im ersten Halbjahr 2026 zusammen rund 24,6 Prozent des Stroms gedeckt. Zugleich fiel der Anteil der Kohle, des lange dominierenden Energieträgers, auf etwa 49,7 Prozent und damit erstmals seit Beginn der Aufzeichnungen unter die Marke von 50 Prozent. Getragen wird die Entwicklung vor allem vom raschen Ausbau der Solarenergie. Warum das zählt: Weil China für einen großen Teil des weltweiten Ausstoßes von Treibhausgasen verantwortlich ist, hat dort jeder Rückgang des Kohleanteils auch weltweit Gewicht.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+       "source": "Good Good Good",
+       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-september-5-2026"
+      },
+      {
+       "title": "England: Halbe Million Kinder mehr erhält kostenloses Schulessen",
+       "text": "In England, dem größten Landesteil des Vereinigten Königreichs, haben durch eine geänderte Regel rund eine halbe Million zusätzliche Schülerinnen und Schüler Anspruch auf ein kostenloses Mittagessen in der Schule. Künftig sind alle Kinder anspruchsberechtigt, deren Eltern die staatliche Grundsicherung Universal Credit beziehen, eine zusammengefasste Sozialleistung für Menschen mit geringem Einkommen. Warum das zählt: Ein warmes Mittagessen entlastet Familien mit knappem Budget und kann sich messbar auf Gesundheit und Lernfähigkeit von Kindern auswirken.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Künstliche Intelligenz steuert Fusionsplasma in Millisekunden",
+       "text": "Forschende der Princeton University in den Vereinigten Staaten haben ein System der Künstlichen Intelligenz erprobt, das ein Fusionsplasma in Echtzeit überwachen und steuern kann. Ein Plasma ist ein extrem heißes, elektrisch geladenes Gas; in der Kernfusion soll es Energie liefern, indem Atomkerne verschmelzen, so wie es auch im Inneren der Sonne geschieht. Das System reagiert innerhalb von Millisekunden, also weit schneller als ein Mensch, und sagt gefährliche Instabilitäten des Plasmas rund 200 Millisekunden voraus, bevor sie auftreten. Warum das zählt: Die Beherrschung solcher Instabilitäten gilt als eine der größten Hürden auf dem Weg zu einem Kraftwerk, das Strom aus Kernfusion gewinnt.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/U.S._Department_of_Energy_-_Science_-_114_035_002_%2814281232230%29.jpg/1280px-U.S._Department_of_Energy_-_Science_-_114_035_002_%2814281232230%29.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Neues Werkzeug erkennt Herzkrankheiten im EKG in Sekunden",
+       "text": "Am Imperial College London, einer britischen Hochschule mit Schwerpunkt auf Technik und Medizin, haben Forschende ein Computerwerkzeug entwickelt, das Anzeichen von Herzkrankheiten binnen Sekunden erkennen soll. Es wertet ein Elektrokardiogramm aus, kurz EKG, also die Aufzeichnung der elektrischen Aktivität des Herzens, und findet dabei Hinweise, die für Ärztinnen und Ärzte mit bloßem Auge nicht erkennbar sind. Warum das zählt: Eine schnelle und breit verfügbare Auswertung könnte helfen, Herzerkrankungen früher zu erkennen, wenn eine Behandlung noch besser wirkt.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/12_lead_ECG.jpg/1280px-12_lead_ECG.jpg",
+       "source": "Good Good Good",
+       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-september-5-2026"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Tag des offenen Denkmals am kommenden Sonntag",
+       "text": "In der Region rund um Horb am Neckar steht ein Ausflugstermin bevor: Am kommenden Sonntag, dem 13. September, findet bundesweit der Tag des offenen Denkmals statt, ein jährlicher Aktionstag, an dem sonst oft verschlossene historische Gebäude und Denkmäler geöffnet und mit Führungen vorgestellt werden. Über Horb liegt heute zunächst Nebel, der sich im Lauf des Vormittags lichten und einem warmen Spätsommertag mit bis zu etwa 31 Grad weichen soll. Warum das zählt: Ein guter Anlass, das kommende Wochenende für einen Spaziergang durch die Altstadt oder einen Ausflug in die Umgebung einzuplanen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "Stadt Horb",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Nebelmorgen erinnert daran, dass Klarheit oft weniger eine Frage des Suchens ist als des Abwartens."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Digitalisierung in Baden-Württemberg: Förderdarlehen bis Mitte 2027",
+      "text": "Das Land Baden-Württemberg unterstützt kleine und mittlere Unternehmen sowie Solo-Selbstständige bei Digitalisierungsvorhaben über das Programm Digitalisierungsprämie Plus. Die frühere Zuschussvariante ist zwar ausgelaufen, das zinsgünstige Förderdarlehen, also ein staatlich verbilligter Kredit, steht nach aktuellem Stand aber noch bis zum 30. Juni 2027 zur Verfügung. Gefördert werden zum Beispiel die Einführung neuer Software, die Anbindung von Prozessen oder Vorhaben rund um Künstliche Intelligenz. Die Abwicklung läuft über die L-Bank, die Förderbank des Landes.",
+      "why": "Ein günstiger Finanzierungsweg genau für die Art von Digitalisierungs- und KI-Vorhaben, an denen du ohnehin arbeitest, mit komfortablem zeitlichem Vorlauf.",
+      "source": "Wirtschaftsministerium Baden-Württemberg",
+      "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme-und-aufrufe/liste-foerderprogramme/digitalisierungspraemie"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei kleine Anpassungen, die deine Modell-Nutzung vergleichbarer und weniger fehleranfällig machen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Modelle aus der Kommandozeile vergleichen",
+       "tag": "Werkzeuge",
+       "paras": [
+        "Der Entwickler Simon Willison, der das quelloffene Werkzeug llm pflegt, hat am 7. September die Version 0.35 veröffentlicht. llm ist ein kleines Programm für die Kommandozeile, also die textbasierte Eingabe am Rechner, mit dem sich verschiedene Sprachmodelle unterschiedlicher Anbieter über einen einheitlichen Befehl ansprechen lassen. Die neue Fassung ergänzt unter anderem den Zugriff auf ein neues Modell des Anbieters OpenAI.",
+        "Für dich ist weniger das einzelne Modell interessant als das Werkzeug selbst: Damit kannst du dieselbe Aufgabe rasch an mehrere Modelle geben und die Antworten nüchtern vergleichen, ohne dich an einen Anbieter zu binden."
+       ],
+       "konkret": "Installiere oder aktualisiere llm und schicke einen typischen Arbeitsauftrag nacheinander an zwei Modelle, um Qualität und Kosten zu vergleichen.",
+       "snippetLabel": "Zwei Modelle vergleichen",
+       "snippet": "pipx install llm    # oder Aktualisierung: llm install -U llm\n\nllm -m <span class=\"ph\">{modell-a}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"\nllm -m <span class=\"ph\">{modell-b}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"\n\nllm logs -n 2   # die letzten beiden Antworten ansehen",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/7/llm/"
+      },
+      {
+       "icon": "layers",
+       "title": "Tabellen als benannte Datensätze an Modelle geben",
+       "tag": "Zuverlässigkeit",
+       "paras": [
+        "In einem aktuellen Hinweis beschreibt Simon Willison eine kleine, aber wirkungsvolle Änderung: Wenn ein Sprachmodell Tabellendaten erhält, sollten die Zeilen nicht als reine Wertelisten übergeben werden, sondern als Datensätze mit benannten Feldern, also mit dem Spaltennamen an jedem Wert. Schwächere Modelle verlieren bei bloßen Wertelisten leicht den Überblick, welche Zahl zu welcher Spalte gehört.",
+        "Wenn du in deinem System Tabellen, Exporte oder Datenbankabfragen an ein Modell weiterreichst, lohnt sich dieselbe Umstellung: Sie kostet kaum Aufwand und verringert Fehlzuordnungen spürbar."
+       ],
+       "konkret": "Wandle Tabellen vor der Übergabe an ein Modell von Zeilen wie [1, Anna, 42] in benannte Datensätze wie {id: 1, name: Anna, alter: 42} um.",
+       "snippetLabel": "Zeilen in benannte Datensätze umwandeln",
+       "snippet": "# statt (positionsabhaengig, fehleranfaellig):\n[[1, \"Anna\", 42], [2, \"Ben\", 37]]\n\n# besser (benannte Felder):\n[\n  {\"id\": 1, \"name\": \"Anna\", \"alter\": 42},\n  {\"id\": 2, \"name\": \"Ben\", \"alter\": 37}\n]",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/"
       }
      ]
     }
