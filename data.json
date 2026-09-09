@@ -2,154 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Mittwoch, 2. September 2026",
-   "weather": "clouds",
-   "temp": "25°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar startet der Tag zunächst neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperatur auf rund 25 Grad steigen. In der Welt bleibt die Straße von Hormus am Persischen Golf ein Spannungsherd, nachdem die Vereinigten Staaten Angriffe auf iranische Ziele in der Region gemeldet haben. In der Wirtschaft ist die Teuerung im Euroraum im August auf 3,3 Prozent gestiegen, den höchsten Wert seit rund drei Jahren, während die Europäische Zentralbank vor ihrer Sitzung am 10. September steht. Hier ist dein Briefing.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Vereinigte Staaten melden Angriffe auf iranische Ziele nahe der Straße von Hormus",
-       "text": "Der Präsident der Vereinigten Staaten von Amerika, Donald Trump, erklärte, amerikanische Streitkräfte hätten iranische Ziele in der Nähe der Straße von Hormus angegriffen, und warnte Teheran, die Hauptstadt des Iran, vor Vergeltung. Die Straße von Hormus ist eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein sehr großer Teil des weltweit verschifften Erdöls transportiert wird. Der Vorfall folgt auf Meldungen der vergangenen Tage über den Beschuss eines Öltankers in derselben Meerenge und markiert eine weitere Zuspitzung zwischen Washington und Teheran. Belastbare Angaben zu Schäden oder Opfern lagen zunächst nicht vor. Warum das zählt: Jede militärische Eskalation an der Straße von Hormus kann die Öl- und damit die Energiepreise auch in Europa spürbar bewegen, weil ein Großteil des Rohöls diese eine Wasserstraße passiert.",
-       "source": "Anadolu Agency / internationale Agenturen"
-      },
-      {
-       "title": "Hongkonger Aktivist Joshua Wong bekennt sich in weiterem Verfahren schuldig",
-       "text": "Der inhaftierte Demokratie-Aktivist Joshua Wong, eine der bekanntesten Figuren der früheren Protestbewegung in der chinesischen Sonderverwaltungsregion Hongkong, hat sich in einem weiteren Gerichtsverfahren schuldig bekannt. Dem 29-Jährigen wird vorgeworfen, sich mit ausländischen Kräften verschworen zu haben, ein Vorwurf nach dem umstrittenen Gesetz zum Schutz der nationalen Sicherheit, das China 2020 in Hongkong eingeführt hat. Wong sitzt bereits seit mehreren Jahren in Haft. Warum das zählt: Der Fall steht sinnbildlich dafür, wie sehr sich der politische Spielraum in Hongkong seit den Protesten von 2019 verengt hat, und wird international als Prüfstein für Rechtsstaatlichkeit beobachtet.",
-       "source": "internationale Agenturen"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Teuerung im Euroraum steigt im August auf 3,3 Prozent",
-       "text": "Die Inflation im Euroraum, also in den Ländern mit dem Euro als gemeinsamer Währung, ist im August deutlich gestiegen: Die Verbraucherpreise legten im Jahresvergleich um 3,3 Prozent zu. Das ist die höchste Teuerungsrate seit September 2023. Als wichtigster Treiber gelten erneut die Energiepreise. Inflation bezeichnet den allgemeinen Anstieg der Preise, der die Kaufkraft des Geldes mindert; die Europäische Zentralbank strebt mittelfristig einen Wert von rund 2 Prozent an. Warum das zählt: Eine höhere Teuerung schmälert reale Einkommen und Ersparnisse und erhöht den Druck auf die Notenbank, mit den Zinsen gegenzuhalten.",
-       "source": "Eurostat / dpa-AFX"
-      },
-      {
-       "title": "Europäische Zentralbank vor Zinssitzung am 10. September",
-       "text": "Die Europäische Zentralbank (kurz EZB, die gemeinsame Notenbank der Euro-Länder) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent, der Hauptrefinanzierungssatz bei 2,40 Prozent. Die Notenbank hat betont, dass ihre nächsten Schritte von der Datenlage abhängen, insbesondere von der Entwicklung der Inflation. Angesichts der zuletzt gestiegenen Teuerung wird an den Finanzmärkten über eine mögliche Anhebung der Leitzinsen spekuliert. Für Deutschland erwarten die Wirtschaftsinstitute 2026 ein Wachstum von etwa 0,5 bis 1,2 Prozent.",
-       "source": "LBBW / dpa-AFX"
-      }
-     ],
-     "merk": {
-      "text": "Steigende Preise und mögliche höhere Zinsen wirken für dich als Solo-Unternehmer in zwei Richtungen: Einkäufe und Fremdkapital werden teurer, zugleich werfen Rücklagen auf dem Konto wieder etwas mehr ab. Wer in den nächsten Wochen größere Anschaffungen oder Finanzierungen plant, sollte die Konditionen jetzt bewusst durchrechnen und Angebote vergleichen.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "In Nepal erholen sich die Bestände wildlebender Tiger",
-       "text": "Aus Nepal, dem Himalaya-Staat zwischen Indien und China, werden erfreuliche Zahlen zum Tigerschutz gemeldet: Nach jahrelangen Bemühungen um Schutzgebiete und den Kampf gegen Wilderei kehren die Bestände des Bengal-Tigers, der größten lebenden Katzenart, wieder in Regionen zurück, aus denen sie fast verschwunden waren. Nepal gilt als eines der wenigen Länder, das seinen Tigerbestand in den vergangenen Jahren mehr als verdoppeln konnte. Warum das zählt: Es zeigt, dass sich der Rückgang bedrohter Arten mit klaren Schutzmaßnahmen und Beteiligung der örtlichen Bevölkerung umkehren lässt, und macht Mut für ähnliche Naturschutzprojekte weltweit.",
-       "img": "https://live.staticflickr.com/3318/3620032404_c674320ac5_b.jpg",
-       "source": "Positive News"
-      },
-      {
-       "title": "Zahl der hungernden Menschen weltweit geht weiter zurück",
-       "text": "Nach aktuellen Auswertungen setzt sich der Rückgang des weltweiten Hungers fort: Der Anteil der Menschen, die nicht ausreichend mit Nahrung versorgt sind, ist erneut gesunken. Grundlage sind Erhebungen internationaler Organisationen, die die Ernährungslage in einzelnen Ländern beobachten. Auch wenn regionale Krisen und Konflikte das Bild stellenweise trüben, weist der langfristige Trend nach unten. Warum das zählt: Der weltweite Hunger galt lange als kaum beeinflussbar, und jeder messbare Rückgang bedeutet, dass Millionen Menschen etwas verlässlicher zu essen haben.",
-       "source": "Positive News / Global Good News"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "NASA-Weltraumteleskop Roman auf dem Weg zum Beobachtungspunkt L2",
-       "text": "Das Nancy-Grace-Roman-Weltraumteleskop, ein neues Beobachtungsinstrument der US-Raumfahrtbehörde NASA, hat sich auf eine rund 1,5 Millionen Kilometer weite Reise zu einem Punkt im All namens L2 begeben. L2 ist ein stabiler Ort hinter der Erde, von dem aus Teleskope ungestört und mit gleichbleibender Ausrichtung ins All blicken können. Von dort soll Roman einen sehr großen Himmelsausschnitt absuchen und dabei Hinweise auf die dunkle Materie und die dunkle Energie sammeln, zwei bislang unverstandene Bestandteile des Universums, die zusammen den weitaus größten Teil seines Inhalts ausmachen. Warum das zählt: Solche Missionen können unser Bild vom Aufbau des Kosmos grundlegend schärfen und liefern über Jahre hinweg Daten für die Forschung.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Arecibo_radio_telescope_observatory_Puerto_Rico_-_panoramio_%2811%29.jpg",
-       "source": "ScienceDaily"
-      },
-      {
-       "title": "Sieben neue Froscharten auf Madagaskar entdeckt",
-       "text": "Ein Forschungsteam hat auf Madagaskar, der großen Insel vor der Ostküste Afrikas, sieben bislang unbekannte Arten sogenannter Diamantfrösche beschrieben. Möglich wurde das durch den Vergleich von Erbgut aus frisch gesammelten Tieren mit dem Erbgut über hundert Jahre alter Exemplare aus Museumssammlungen. Diamantfrösche sind kleine, unauffällige Amphibien, die in den Wäldern der Insel leben und sich äußerlich kaum unterscheiden lassen; erst die Genanalyse machte die Artenvielfalt sichtbar. Warum das zählt: Der Fund verdeutlicht, wie viele Arten selbst heute noch unentdeckt sind, und wie wertvoll alte Museumsbestände für die moderne Forschung bleiben.",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Nebliger, milder Septembertag und Rückblick im RuheWald",
-       "text": "Über Horb am Neckar beginnt der Tag neblig und trüb, im Lauf des Vormittags dürfte sich der Nebel lichten und milde rund 25 Grad zulassen. Wer früh im Neckartal unterwegs ist, sollte auf schlechte Sicht achten; am Nachmittag lohnt der Aufenthalt im Freien. Im Kalender der Stadt steht für Sonntag, den 20. September, eine Gedenkveranstaltung zum zehnjährigen Bestehen des RuheWald Horb, eines Bestattungswaldes, in dem Verstorbene an Bäumen beigesetzt werden. Bereits am 13. September findet zudem bundesweit der Tag des offenen Denkmals statt, an dem historische Gebäude ihre Türen öffnen; das Motto lautet in diesem Jahr NetzWERKE, Denkmale und Infrastruktur.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-       "source": "Deutscher Wetterdienst / Stadt Horb am Neckar / Tag des offenen Denkmals"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Auch der dichteste Morgennebel hebt sich nicht auf Kommando, sondern in seinem eigenen Tempo, und meist genau dann, wenn man den ersten Schritt schon gegangen ist."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "KOMPASS-Förderung: bis zu 90 Prozent der Weiterbildungskosten für Solo-Selbständige",
-      "text": "Das Programm KOMPASS (kurz für Kompetenzentwicklung und Qualifizierung für Solo-Selbständige), gefördert vom Bundesministerium für Arbeit und Soziales, unterstützt hauptberuflich Solo-Selbständige gezielt bei der beruflichen Weiterbildung. Übernommen werden bis zu 90 Prozent der Weiterbildungskosten, gedeckelt auf 4.500 Euro. Der Weg führt über eine kostenlose Erstberatung in einer der bundesweiten Anlaufstellen, in der der eigene Qualifizierungsbedarf ermittelt wird; danach lassen sich passende Kurse auswählen und bezuschussen.",
-      "why": "Für dich als Solo-Unternehmer ist das ein konkreter Hebel, um Weiterbildungen etwa zu KI-Werkzeugen, Digitalisierung oder Unternehmensführung zu einem großen Teil aus Fördermitteln zu finanzieren. Anders als reine Beratungsprogramme zielt KOMPASS ausdrücklich auf die eigene Qualifizierung ab und richtet sich genau an Einzelunternehmer ohne Angestellte. Weil die Förderung an eine vorherige Beratung gebunden ist und Mittel begrenzt sein können, lohnt es sich, den ersten Beratungstermin frühzeitig zu vereinbaren.",
-      "source": "Bundesministerium für Arbeit und Soziales / KOMPASS",
-      "url": "https://www.kompass-für-solo-selbststaendige.de/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Die aktuellen Entwickler-Signale drehen sich um zwei Dinge, die deine MORGENLAGE-Routine direkt betreffen: die Absicherung der Web-Werkzeuge und die neuen, standardmäßig nachdenkenden Claude-5-Modelle. Beide Karten zeigen einen konkreten Hebel.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Web-Werkzeuge der Routine auf vertrauenswürdige Quellen begrenzen",
-       "tag": "Absicherung",
-       "paras": [
-        "Auf der Claude-Entwicklerplattform von Anthropic (dem Unternehmen hinter den Claude-Sprachmodellen) lässt sich seit Kurzem einstellen, welche Websites die eingebauten Werkzeuge zur Websuche (web_search) und zum Seitenabruf (web_fetch) überhaupt erreichen dürfen. Das geschieht über die Felder allowed_domains (eine Liste ausdrücklich erlaubter Domains) beziehungsweise blocked_domains (eine Liste gesperrter Domains).",
-        "Für deine MORGENLAGE-Routine ist das ein einfacher Sicherheitsgewinn: Wenn du die Recherche auf eine feste Liste seriöser Nachrichten- und Fachquellen beschränkst, kann das Modell nicht versehentlich auf unseriöse oder manipulierte Seiten geraten. Das macht das tägliche Briefing verlässlicher und schützt vor eingeschleusten Anweisungen aus fremden Webseiten."
-       ],
-       "konkret": "Lege eine Liste der Quellen fest, denen deine Routine wirklich vertraut (etwa die im Briefing genannten), und trage sie als allowed_domains in die Konfiguration der Web-Werkzeuge ein. So bleibt die Recherche auf geprüfte Seiten begrenzt.",
-       "snippetLabel": "Beispiel für die Beschränkung der Websuche auf erlaubte Domains",
-       "snippet": "{\n  \"type\": \"web_search\",\n  \"name\": \"web_search\",\n  \"allowed_domains\": [\n    \"tagesschau.de\",\n    \"sciencedaily.com\",\n    \"positive.news\",\n    \"<span class=\"ph\">{WEITERE_QUELLE}</span>\"\n  ]\n}",
-       "source": "Anthropic / Releasebot",
-       "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
-      },
-      {
-       "icon": "layers",
-       "title": "Sichtbare Denkspuren und die neuen Claude-5-Modelle nutzen",
-       "tag": "Modelle",
-       "paras": [
-        "Die aktuellen Claude-5-Modelle von Anthropic (darunter claude-sonnet-5 und claude-opus-5) denken standardmäßig nach, das heißt, sie arbeiten schwierige Aufgaben in mehreren gedanklichen Schritten durch, bevor sie antworten. In neueren Werkzeugen wie dem Kommandozeilenprogramm LLM von Simon Willison (einem bekannten Fachautor zu Sprachmodellen) lassen sich diese Denkspuren jetzt sichtbar machen, was Fehler in der Recherche leichter nachvollziehbar macht.",
-        "Für deine MORGENLAGE-Routine heißt das: Bei anspruchsvollen Schritten wie dem Abwägen von Quellen oder dem Einordnen einer Meldung profitierst du vom standardmäßigen Nachdenken der Modelle. Wo es dagegen nur um einfaches Umformatieren geht, kannst du das Nachdenken mit der Option minus o thinking 0 abschalten und so Zeit und Kosten sparen."
-       ],
-       "konkret": "Setze für die inhaltliche Auswahl und Einordnung ein Claude-5-Modell mit aktiviertem Nachdenken ein und schalte das Nachdenken nur für rein mechanische Schritte gezielt ab. Prüfe bei Zweifeln die sichtbaren Denkspuren, um die Quellenauswahl der Routine nachzuvollziehen.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Donnerstag, 3. September 2026",
    "weather": "clouds",
    "temp": "26°C · neblig",
@@ -920,7 +772,6 @@
    "weather": "clouds",
    "temp": "31°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute erneut Nebel, der sich im Lauf des Vormittags lichten und einem warmen Spätsommertag mit bis zu etwa 31 Grad weichen soll. In der Weltlage sind nach dem Ende einer kurzen Feuerpause wieder russische Luftangriffe auf die ukrainische Hauptstadt Kiew gemeldet, während in Berlin über den Bundeshaushalt für das kommende Jahr beraten wird. In der Wirtschaft richtet sich der Blick weiter auf die Zinssitzung der Europäischen Zentralbank am Donnerstag. Dazu gibt es Gutes aus der Energiewelt, zwei Fortschritte aus der Forschung und einen Ausblick auf den Tag des offenen Denkmals in der Region. Hier ist dein Briefing für heute.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1071,6 +922,159 @@
        "snippet": "# statt (positionsabhaengig, fehleranfaellig):\n[[1, \"Anna\", 42], [2, \"Ben\", 37]]\n\n# besser (benannte Felder):\n[\n  {\"id\": 1, \"name\": \"Anna\", \"alter\": 42},\n  {\"id\": 2, \"name\": \"Ben\", \"alter\": 37}\n]",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 9. September 2026",
+   "weather": "rain",
+   "temp": "20°C · Regen",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen heute Regenschauer durch, dazu bleibt es mit höchstens etwa 20 Grad merklich kühler als in den vergangenen Tagen. In der Weltlage steht die weitere Zuspitzung des Konflikts zwischen den USA und dem Iran am Persischen Golf im Vordergrund, die auch die Ölpreise nach oben treibt. Im Bundestag treffen bei der Generaldebatte Bundeskanzler Friedrich Merz und AfD-Fraktionschefin Alice Weidel aufeinander, während der Rat der Europäischen Zentralbank am morgigen Donnerstag über die Leitzinsen entscheidet. Dazu gibt es Gutes aus der Energiewelt, zwei Fortschritte aus der Forschung und einen Hinweis auf den Tag des offenen Denkmals in der Region. Hier ist dein Briefing für heute.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "USA und Iran: Zuspitzung an der Straße von Hormus",
+       "text": "Der Konflikt zwischen den Vereinigten Staaten und dem Iran hat sich weiter verschärft. Nach amerikanischen Angaben zerstörte das US-Militär mehrere iranische Öltanker als Vergeltung für Angriffe auf ein US-Kriegsschiff; die iranischen Revolutionsgarden, eine eigenständige Streitkraft neben der regulären Armee, meldeten daraufhin Raketenangriffe auf einen von US-Truppen genutzten Stützpunkt im Nachbarland Jordanien, von denen die jordanische Armee den Großteil abfing. Betroffen ist auch die Straße von Hormus, eine schmale Meerenge am Ausgang des Persischen Golfs, durch die ein erheblicher Teil des weltweit auf Schiffen transportierten Erdöls fließt. Nach Berichten wurden dort mehrere Schiffe angegriffen, der Verkehr ist beeinträchtigt. Warum das zählt: Eine Störung dieser Route kann die Energieversorgung und die Preise weltweit unmittelbar treffen.",
+       "source": "Euronews",
+       "url": "https://de.euronews.com/video/2026/09/09/nachrichten-des-tages-9-september-2026-morgenausgabe"
+      },
+      {
+       "title": "Bundestag: Generaldebatte zwischen Merz und Weidel",
+       "text": "Im Deutschen Bundestag, dem nationalen Parlament in Berlin, steht heute die sogenannte Generaldebatte an, eine jährliche Aussprache über die Grundlinien der Regierungspolitik, die traditionell beim Etat des Bundeskanzlers geführt wird. Dabei treffen Bundeskanzler Friedrich Merz von der CDU, den Christdemokraten, und Alice Weidel, die Fraktionsvorsitzende der AfD, der größten Oppositionspartei, direkt aufeinander. Anlass ist unter anderem der jüngste Wahlerfolg der AfD bei der Landtagswahl in Sachsen-Anhalt. Warum das zählt: Die Generaldebatte gilt als parlamentarischer Höhepunkt und macht die Kräfteverhältnisse zwischen Regierung und Opposition sichtbar.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/859975130/9-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Ölpreis steigt wegen der Golf-Krise",
+       "text": "Die Zuspitzung am Persischen Golf hat die Preise für Rohöl deutlich steigen lassen. Die Nordsee-Sorte Brent, ein weltweit wichtiger Referenzpreis für Erdöl, kletterte Berichten zufolge bis in die Nähe von 100 US-Dollar je Barrel, also je Fass zu rund 159 Litern; die amerikanische Sorte WTI notierte etwas darunter. Hintergrund ist die Sorge, dass Lieferungen durch die Straße von Hormus, eine der wichtigsten Transportrouten für Öl, ausfallen könnten. Warum das zählt: Höhere Ölpreise verteuern über Kraftstoffe und Energie viele Waren und können den Rückgang der Inflation bremsen, gerade wenn sich die Konjunktur ohnehin nur langsam erholt.",
+       "source": "imticker.ch",
+       "url": "https://imticker.ch/imticker-mittwoch-morgen-update-schweiz-welt-09-09-2026/"
+      },
+      {
+       "title": "EZB entscheidet am Donnerstag über die Zinsen",
+       "text": "Der Rat der Europäischen Zentralbank, kurz EZB, entscheidet am morgigen Donnerstag über die Leitzinsen, also über den Preis, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen. Es handelt sich um eine sogenannte Projektionssitzung, bei der die Fachleute der EZB zugleich neue Schätzungen zu Inflation und Wirtschaftswachstum bis 2028 vorlegen. Beobachter verweisen auf einen Zielkonflikt: Der durch die höheren Energiepreise verstärkte Preisdruck spricht eher für straffere Zinsen, die schwache Konjunktur dagegen für Vorsicht. Warum das zählt: Die Zinsentscheidung wirkt sich auf Kredite, Sparzinsen und die Finanzierungskosten von Unternehmen im gesamten Euroraum aus.",
+       "source": "LBBW",
+       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-september-2026_ando7c1xsi_d.html"
+      }
+     ],
+     "merk": {
+      "text": "Bei stark steigenden Energiepreisen lohnt ein prüfender Blick auf laufende Kosten und, wo sinnvoll, ein längerfristiger Fixpreis statt eines variablen Tarifs.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Sonne und Wind überholen Erdgas bei der Stromerzeugung",
+       "text": "Aus der Energiewelt kommt eine ermutigende Nachricht. Nach Auswertungen von Fachleuten haben Windkraft und Photovoltaik, also die Stromgewinnung aus Sonnenlicht, im Frühjahr weltweit erstmals gemeinsam mehr Strom erzeugt als Erdgas. Zugleich wurde in diesem Jahr die Schwelle von drei Terawatt weltweit installierter Solarleistung überschritten; ein Terawatt ist eine Billion Watt und entspricht der Leistung sehr vieler großer Kraftwerke. In Europa hat die günstige Solarenergie seit dem Frühjahr nach diesen Schätzungen mehrere Milliarden Euro an Brennstoffkosten erspart. Warum das zählt: Ein wachsender Anteil erneuerbarer Energien macht die Stromversorgung unabhängiger von schwankenden Öl- und Gaspreisen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-19-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Künstliche Intelligenz steuert Fusionsplasma in Millisekunden",
+       "text": "Forschende der Universität Princeton in den USA haben ein System der Künstlichen Intelligenz, also lernfähiger Software, getestet, das ein sogenanntes Fusionsplasma überwachen und steuern kann. Bei der Kernfusion sollen leichte Atomkerne wie in der Sonne verschmelzen und dabei Energie freisetzen; das dafür nötige, extrem heiße Gas, das Plasma, muss stabil in einem Magnetfeld gehalten werden. Das KI-System reagiert Berichten zufolge innerhalb von Millisekunden und damit weit schneller als ein menschlicher Bediener. Warum das zählt: Eine zuverlässige, schnelle Regelung ist eine der zentralen Hürden auf dem langen Weg zu einer möglichen Energiequelle aus Kernfusion.",
+       "img": "https://live.staticflickr.com/65535/50402096131_3fde1f334a_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Injizierbares Gerüst hilft nach Schlaganfall im Tiermodell",
+       "text": "An der Duke University in den USA haben Forschende ein injizierbares Stützgerüst entwickelt, also ein spritzbares Material, das im Gewebe ein Grundgerüst bildet. Bei Mäusen, deren Gehirn durch einen Schlaganfall geschädigt war, unterstützte es das Wachstum neuer Blutgefäße und von Nervenfasern und förderte die Rückkehr von Bewegungsfähigkeit. Ein Schlaganfall entsteht meist, wenn ein Blutgefäß im Gehirn verstopft und Hirngewebe nicht mehr versorgt wird. Warum das zählt: Ergebnisse aus Tierversuchen sind nicht direkt auf den Menschen übertragbar, weisen aber einen möglichen Weg zu Therapien, die die Selbstheilung des Gehirns anstoßen.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/health_medicine/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Tag des offenen Denkmals am kommenden Sonntag",
+       "text": "Am kommenden Sonntag, dem 13. September, findet bundesweit der Tag des offenen Denkmals statt, an dem sonst oft verschlossene historische Bauten und Orte kostenlos zu besichtigen sind. Das diesjährige Motto lautet NetzWERKE: Denkmale und Infrastruktur und rückt Bauwerke wie Brücken, Bahnhöfe und Versorgungsanlagen in den Mittelpunkt. Auch in der Region um Horb am Neckar mit seiner gut erhaltenen Altstadt lohnt ein Blick in das Programm der teilnehmenden Orte. Das heutige, eher regnerische Wetter mit rund 20 Grad lädt ohnehin eher zu einem Spaziergang mit Regenschirm oder einem Besuch im Trockenen ein; bis zum Sonntag bleibt Zeit, die Ausflüge zu planen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "Tag des offenen Denkmals",
+       "url": "https://www.tag-des-offenen-denkmals.de/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Kühlere, regnerische Tage sind eine gute Gelegenheit, liegengebliebene Dinge in Ruhe zu ordnen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Startkredite für die Claude-API auch ohne Wagniskapital",
+      "text": "Anthropic, das Unternehmen hinter dem KI-Assistenten Claude, führt ein Programm für junge Firmen, das Guthaben für die Nutzung der Programmierschnittstelle, kurz API, sowie zusätzliche Unterstützung bereitstellt. Laut den Angaben des Programms ist eine Bewerbung ausdrücklich auch ohne Beteiligung von Wagniskapitalgebern möglich, was es für Einzelunternehmer interessant macht. Bewerbung und Bedingungen sind auf der offiziellen Programmseite beschrieben.",
+      "why": "Für ein KI-gestütztes Ein-Personen-System können solche Guthaben die laufenden Modellkosten spürbar senken; die konkrete Höhe und die Voraussetzungen sind vor einer Bewerbung genau zu prüfen.",
+      "source": "Anthropic Startups",
+      "url": "https://www.anthropic.com/startups"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale stammen aus dem Weblog des Entwicklers Simon Willison, einer bekannten Quelle für praktische Hinweise rund um KI-Werkzeuge.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Coding-Agent vorhandene Programme bedienen lassen",
+       "tag": "Werkzeuge verketten",
+       "paras": [
+        "Ein Coding-Agent ist ein KI-Assistent, der eigenständig Befehle ausführen und Programme steuern kann. Simon Willison zeigt, dass sich ein solcher Agent auf ein bereits installiertes Desktop-Programm richten lässt, das eine eigene Skript-Schnittstelle mitbringt, etwa das kostenlose 3D-Programm Blender. Statt eine Aufgabe selbst zu erledigen, weist man den Agenten an, das vorhandene Programm über dessen Schnittstelle zu nutzen.",
+        "Der Hebel für dein System: Du musst nicht für jede Aufgabe neuen Code schreiben lassen, sondern kannst spezialisierte Programme, die du ohnehin hast, vom Agenten fernsteuern lassen. Das spart Zeit und nutzt bewährte Werkzeuge."
+       ],
+       "konkret": "Prüfe, welche deiner installierten Programme eine Skript- oder Kommandozeilen-Schnittstelle bieten, und formuliere Aufgaben so, dass der Agent diese Schnittstelle verwendet.",
+       "snippetLabel": "Prompt-Snippet",
+       "snippet": "Nutze das bereits installierte Programm <span class=\"ph\">{Programmname}</span> über seine Skript-Schnittstelle,\num folgende Aufgabe zu erledigen: <span class=\"ph\">{Aufgabe}</span>.\nSchreibe keinen eigenen Ersatz, sondern rufe die vorhandenen Funktionen des Programms auf.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Sep/5/blender/"
+      },
+      {
+       "icon": "layers",
+       "title": "Auf zustandslose MCP-Server setzen",
+       "tag": "Architektur",
+       "paras": [
+        "MCP steht für Model Context Protocol, einen offenen Standard, über den KI-Modelle auf externe Werkzeuge und Datenquellen zugreifen. Willison beschreibt sein wiedergewonnenes Interesse an zustandslosen MCP-Servern, also Servern, die zwischen einzelnen Anfragen keine Sitzungsdaten speichern müssen. Solche Dienste sind einfacher zu betreiben und lassen sich unkompliziert in Umgebungen einsetzen, die Anfragen unabhängig voneinander verarbeiten.",
+        "Der Hebel für dein System: Wenn du eigene MCP-Anbindungen für deine Werkzeuge baust, erspart dir ein zustandsloser Aufbau die Verwaltung von Sitzungen und macht den Betrieb robuster und günstiger, besonders in einer Cloud-Umgebung wie deiner Routine."
+       ],
+       "konkret": "Entwirf neue MCP-Server so, dass jede Anfrage alle nötigen Angaben selbst mitbringt und der Server keinen dauerhaften Sitzungszustand halten muss.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+       "score": 4
       }
      ]
     }
