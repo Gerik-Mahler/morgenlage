@@ -2,154 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 3. September 2026",
-   "weather": "clouds",
-   "temp": "26°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt der Tag neblig und trüb, im Lauf des Vormittags soll sich der Nebel lichten und die Temperatur auf rund 26 Grad steigen. In der Welt bleibt die Straße von Hormus am Persischen Golf ein Spannungsherd, nachdem der Iran die Verlegung weiterer Seeminen gemeldet hat. In der Wirtschaft hat das europäische Statistikamt Eurostat die Teuerung im Euroraum für August mit 3,3 Prozent bestätigt, dem höchsten Wert des Jahres, während die Europäische Zentralbank am 10. September über die Zinsen entscheidet. Hier ist dein Briefing.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Iran meldet weitere Seeminen in der Straße von Hormus",
-       "text": "Die Spannungen zwischen den Vereinigten Staaten von Amerika und dem Iran an der Straße von Hormus halten an. Der Iran erklärte, in der Meerenge weitere Seeminen verlegt zu haben, und wies zugleich die Darstellung der Vereinigten Staaten zurück, wonach diese die Passage kontrollierten. Die Straße von Hormus ist eine schmale Wasserstraße am Ausgang des Persischen Golfs, durch die ein sehr großer Teil des weltweit verschifften Erdöls transportiert wird. Der Präsident der Vereinigten Staaten, Donald Trump, begründete das Vorgehen seines Landes damit, Israel, den Nahen Osten und den Westen schützen zu wollen. Belastbare, unabhängig bestätigte Angaben zu Schäden lagen zunächst nicht vor. Warum das zählt: Jede Störung an dieser einen Meerenge kann die Öl- und damit die Energiepreise auch in Europa spürbar bewegen, weil kaum eine Alternativroute für diese Öltransporte besteht.",
-       "source": "Anadolu Agency"
-      },
-      {
-       "title": "Nordrhein-Westfalen prüft mutmaßliche Sabotage an Stromnetz",
-       "text": "In Deutschland untersuchen die Behörden des Bundeslandes Nordrhein-Westfalen einen Verdachtsfall von, wie es heißt, staatlich gesteuerter Sabotage. Auslöser ist ein mutmaßlicher Angriff auf Anlagen der Stromversorgung in der Nähe von Köln, der größten Stadt des Bundeslandes. Nähere Angaben zu möglichen Urhebern oder zum Ausmaß machten die Ermittler zunächst nicht. Sabotage bezeichnet die gezielte Beschädigung oder Störung von Anlagen, hier von Teilen des Netzes, das Haushalte und Betriebe mit Strom versorgt. Warum das zählt: Angriffe auf sogenannte kritische Infrastruktur, also auf lebenswichtige Versorgungssysteme wie Strom, Wasser oder Kommunikation, gelten als besonders sensibel, weil ein Ausfall viele Menschen und Betriebe zugleich treffen kann.",
-       "source": "Anadolu Agency"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Eurostat bestätigt Teuerung von 3,3 Prozent im Euroraum für August",
-       "text": "Das europäische Statistikamt Eurostat, die Statistikbehörde der Europäischen Union, hat die Inflation im Euroraum für August mit 3,3 Prozent im Jahresvergleich beziffert, nach 2,9 Prozent im Juli. Das ist der höchste Wert des laufenden Jahres. Inflation bezeichnet den allgemeinen Anstieg der Preise, der die Kaufkraft des Geldes mindert. Haupttreiber war erneut die Energie mit einer Jahresrate von 14,3 Prozent, gefolgt von Dienstleistungen mit 3,0 Prozent. Die sogenannte Kernrate, die die schwankungsanfälligen Preise für Energie, Nahrungsmittel, Alkohol und Tabak ausklammert, ging leicht auf 2,4 Prozent zurück. Warum das zählt: Eine höhere Teuerung schmälert reale Einkommen und Ersparnisse, und der Rückgang der Kernrate deutet an, dass der Preisdruck vor allem von der Energie kommt.",
-       "source": "Eurostat"
-      },
-      {
-       "title": "Europäische Zentralbank entscheidet am 10. September über die Zinsen",
-       "text": "Die Europäische Zentralbank (kurz EZB, die gemeinsame Notenbank der Länder mit dem Euro als Währung) kommt am 10. September zu ihrer nächsten Zinssitzung zusammen. Der für Sparen und Kredite maßgebliche Einlagensatz liegt derzeit bei 2,25 Prozent. Die Notenbank betont, dass ihre Schritte von der Datenlage abhängen, insbesondere von der Entwicklung der Inflation. Angesichts der zuletzt gestiegenen Teuerung wird an den Finanzmärkten darüber gesprochen, ob die EZB die Zinsen noch einmal anhebt oder zunächst abwartet. Die Notenbank erwartet für das laufende Jahr im Mittel eine Inflation von rund 3 Prozent und damit weiter über ihrem mittelfristigen Zielwert von etwa 2 Prozent.",
-       "source": "LBBW / Eurostat"
-      }
-     ],
-     "merk": {
-      "text": "Steigende Preise und mögliche höhere Zinsen wirken für dich als Solo-Unternehmer in zwei Richtungen: Einkäufe und Fremdkapital werden teurer, zugleich werfen Rücklagen auf dem Konto wieder etwas mehr ab. Wer in den nächsten Wochen größere Anschaffungen oder eine Finanzierung plant, sollte die Konditionen jetzt bewusst durchrechnen und den Zinsentscheid am 10. September abwarten.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Rodung im brasilianischen Regenwald sinkt auf niedrigsten Stand seit zehn Jahren",
-       "text": "Aus Brasilien, dem größten Land Südamerikas, kommen ermutigende Zahlen zum Schutz des Amazonas-Regenwaldes, des größten zusammenhängenden Regenwaldes der Erde. In der ersten Jahreshälfte 2026 wurden rund 500 Quadratmeilen Wald gerodet, gegenüber 807 Quadratmeilen im gleichen Zeitraum des Vorjahres, ein Rückgang um etwa 38 Prozent und der niedrigste Wert seit zehn Jahren. Die Regierung unter Präsident Luiz Inácio Lula da Silva kündigte an, die Kontrollen weiter zu verschärfen. Warum das zählt: Der Amazonas-Regenwald bindet große Mengen des klimaschädlichen Gases Kohlendioxid und beherbergt eine der größten Artenvielfalten der Welt, weshalb jede verlangsamte Rodung weltweit spürbar ist.",
-       "img": "https://live.staticflickr.com/4057/4698736205_6eaaa3460e_b.jpg",
-       "source": "Positive News"
-      },
-      {
-       "title": "Zahl der hungernden Menschen weltweit sinkt das dritte Jahr in Folge",
-       "text": "Nach aktuellen Auswertungen internationaler Organisationen ist der Anteil der von Hunger betroffenen Menschen weltweit auf 7,8 Prozent der Bevölkerung gesunken, nach 8,1 Prozent im Jahr zuvor. Es ist das dritte Jahr in Folge mit einem Rückgang. Besonders in Asien sowie in Lateinamerika und der Karibik verbesserte sich die Ernährungslage spürbar. Auch wenn regionale Krisen und Konflikte das Bild stellenweise trüben, weist der langfristige Trend nach unten. Warum das zählt: Der weltweite Hunger galt lange als kaum beeinflussbar, und jeder messbare Rückgang bedeutet, dass Millionen Menschen verlässlicher zu essen haben.",
-       "source": "Positive News"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Gesteinsplaneten könnten schon 100 Millionen Jahre nach dem Urknall entstanden sein",
-       "text": "Eine neue Studie legt nahe, dass feste Gesteinsplaneten wie die Erde bereits rund 100 Millionen Jahre nach dem Urknall entstanden sein könnten, dem Anfangsereignis, aus dem sich das gesamte Universum entwickelte. Möglich gemacht hätten dies gewaltige frühe Supernovae, also die Explosionen sehr großer Sterne am Ende ihres Lebens, bei denen schwere Elemente wie Eisen und Silizium freigesetzt werden. Diese Elemente sind der Baustoff, aus dem Gesteinsplaneten überhaupt erst entstehen können. Bisher gingen Fachleute davon aus, dass es dafür deutlich länger gedauert hat. Warum das zählt: Träfe das zu, hätte das Universum schon sehr früh die Voraussetzungen für erdähnliche Welten geboten, was auch die Frage nach möglichem Leben in einem neuen Licht erscheinen lässt.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HL_Tau_protoplanetary_disk.jpg",
-       "source": "ScienceDaily"
-      },
-      {
-       "title": "Nächtliche Tablette verringert Atemaussetzer bei Schlafapnoe deutlich",
-       "text": "In einer großen klinischen Studie der sogenannten Phase drei, der letzten Testphase vor einer möglichen Zulassung, hat eine einmal abends einzunehmende Tablette die nächtlichen Atemaussetzer bei Schlafapnoe um rund 44 Prozent verringert. Schlafapnoe ist eine verbreitete Schlafstörung, bei der die Atmung im Schlaf immer wieder kurz aussetzt, was den Schlaf zerstört und das Herz-Kreislauf-System belastet. Zugleich verbesserten sich in der Studie die Sauerstoffwerte im Blut und der Schweregrad der Erkrankung. Warum das zählt: Bislang wird die Schlafapnoe vor allem mit Atemmasken behandelt, die viele Betroffene als unangenehm empfinden; eine wirksame Tablette könnte die Behandlung für viele Menschen erleichtern.",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Nebliger Morgen im Neckartal und Tag des offenen Denkmals am 13. September",
-       "text": "Über Horb am Neckar und dem umgebenden Neckartal beginnt der Tag neblig und trüb, im Lauf des Vormittags dürfte sich der Nebel lichten und milde rund 26 Grad zulassen. Wer früh im Tal unterwegs ist, sollte auf schlechte Sicht achten; am Nachmittag lohnt der Aufenthalt im Freien. Im Kalender steht für Samstag, den 13. September, der bundesweite Tag des offenen Denkmals, an dem historische Gebäude ihre Türen öffnen; das Motto lautet in diesem Jahr NetzWERKE, Denkmale und Infrastruktur. In der weiteren Region locken zudem der Naturpark-Markt in Schömberg am 6. September und das mittelalterliche Burgfest auf Burg Stettenfels am 19. September mit Kunsthandwerk und Vorführungen.",
-       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-       "source": "Deutscher Wetterdienst / Tag des offenen Denkmals / meinestadt.de"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Der Nebel im Tal verschluckt jede Fernsicht, und doch bleibt der nächste Schritt immer klar erkennbar; oft reicht genau das, um weiterzukommen."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Digitalisierungsfinanzierung der L-Bank in Baden-Württemberg",
-      "text": "Das frühere Programm Digitalisierungsprämie Plus des Landes Baden-Württemberg ist seit Mitte 2025 in der neuen Digitalisierungsfinanzierung der L-Bank aufgegangen. Die L-Bank ist die Förderbank des Landes Baden-Württemberg, zu dem auch Horb am Neckar gehört. Gefördert werden Vorhaben, mit denen kleine und mittlere Unternehmen ihre Technik aufbauen oder modernisieren oder Abläufe mithilfe künstlicher Intelligenz automatisieren. Die Förderung erfolgt über zinsverbilligte Darlehen, also Kredite mit besonders niedrigem Zins, ergänzt um einen Tilgungszuschuss, bei dem ein Teil des Kredits nicht zurückgezahlt werden muss.",
-      "why": "Für dich als Solo-Unternehmer in Baden-Württemberg ist das der aktuelle Weg, um Investitionen in Hardware, Software oder KI-gestützte Prozesse günstiger zu finanzieren. Weil die Konditionen und die genaue Ausgestaltung für Kleinstunternehmen zuletzt überarbeitet wurden, lohnt vor einer geplanten Anschaffung ein Blick auf die aktuellen Bedingungen der L-Bank oder ein Gespräch mit der örtlichen Industrie- und Handelskammer.",
-      "source": "L-Bank / Wirtschaftsministerium Baden-Württemberg",
-      "url": "https://www.l-bank.de/produkte/finanzhilfen/digiplus-zuschuss.html"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Die aktuellen Entwickler-Signale drehen sich um zwei Dinge, die deine MORGENLAGE-Routine direkt betreffen: die neue, schlankere Version des Protokolls, über das dein System Werkzeuge anbindet, und die weiterhin realen Risiken durch eingeschleuste Anweisungen aus dem Web. Beide Karten zeigen einen konkreten Hebel.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "Model Context Protocol 2.0: den zustandslosen Ansatz im Blick behalten",
-       "tag": "Protokoll",
-       "paras": [
-        "Ende Juli ist eine neue Fassung des Model Context Protocol erschienen, der offenen Schnittstelle, über die Sprachmodelle wie Claude externe Werkzeuge und Datenquellen anbinden (kurz MCP). Die Spezifikation mit dem Datum 28. Juli 2026 gilt als größte Änderung seit dem Start des Protokolls. Kern ist ein zustandsloser Betrieb (englisch stateless): Der Server merkt sich zwischen zwei Anfragen keinen Sitzungszustand, was den Betrieb einfacher und robuster macht.",
-        "Der Fachautor Simon Willison, ein bekannter Beobachter der Sprachmodell-Szene, hat dazu am 1. September die Erweiterung datasette-mcp in der Version 0.2 veröffentlicht, mit der sich beliebige Datenbanken über einen solchen zustandslosen MCP-Server anbinden lassen. Für deine MORGENLAGE-Routine ist das relevant, weil zustandslose Server leichter zu betreiben und abzusichern sind, wenn du eigene Datenquellen wie das Archiv deiner bisherigen Ausgaben anbinden möchtest."
-       ],
-       "konkret": "Wenn du planst, deiner Routine eine eigene Datenquelle anzubinden, prüfe, ob sich das als zustandsloser MCP-Server umsetzen lässt. Das spart Aufwand beim Betrieb und verringert die Angriffsfläche gegenüber langlebigen Sitzungen.",
-       "source": "simonwillison.net / Model Context Protocol",
-       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Automatische Agenten nicht ohne Quellenbegrenzung im Web arbeiten lassen",
-       "tag": "Absicherung",
-       "paras": [
-        "Mehrere aktuelle Analysen zeigen, dass eingeschleuste Anweisungen aus fremden Webseiten (englisch prompt injection) weiterhin ein reales Risiko sind. In einem dokumentierten Versuch gelang es, die Schutzmechanismen eines im vollautomatischen Modus laufenden Programmierassistenten in vier von fünf Fällen zu überwinden, indem manipulierte Inhalte in Webseiten oder Dateien versteckt wurden. Prompt injection meint, dass Text auf einer Seite das Modell zu Handlungen verleitet, die der Nutzer nie beabsichtigt hat.",
-        "Für deine MORGENLAGE-Routine, die selbst Webseiten abruft, heißt das: Lasse die Recherche nicht völlig ungefiltert laufen. Auf der Claude-Entwicklerplattform von Anthropic, dem Unternehmen hinter den Claude-Modellen, lässt sich über das Feld allowed_domains festlegen, welche Domains die eingebauten Werkzeuge zur Websuche und zum Seitenabruf überhaupt erreichen dürfen."
-       ],
-       "konkret": "Beschränke die Web-Werkzeuge deiner Routine über allowed_domains auf eine feste Liste seriöser Quellen und vermeide vollautomatische Modi ohne solche Grenzen. So kann manipulierter Inhalt einer fremden Seite deine Routine nicht zu unerwünschten Aktionen verleiten.",
-       "snippetLabel": "Websuche auf vertrauenswürdige Domains begrenzen",
-       "snippet": "{\n  \"type\": \"web_search\",\n  \"name\": \"web_search\",\n  \"allowed_domains\": [\n    \"eurostat.ec.europa.eu\",\n    \"sciencedaily.com\",\n    \"positive.news\",\n    \"<span class=\"ph\">{WEITERE_QUELLE}</span>\"\n  ]\n}",
-       "source": "simonwillison.net / Anthropic",
-       "url": "https://simonwillison.net/2026/Aug/27/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 4. September 2026",
    "weather": "clouds",
    "temp": "30°C · bewölkt",
@@ -932,7 +784,6 @@
    "weather": "rain",
    "temp": "20°C · Regen",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen heute Regenschauer durch, dazu bleibt es mit höchstens etwa 20 Grad merklich kühler als in den vergangenen Tagen. In der Weltlage steht die weitere Zuspitzung des Konflikts zwischen den USA und dem Iran am Persischen Golf im Vordergrund, die auch die Ölpreise nach oben treibt. Im Bundestag treffen bei der Generaldebatte Bundeskanzler Friedrich Merz und AfD-Fraktionschefin Alice Weidel aufeinander, während der Rat der Europäischen Zentralbank am morgigen Donnerstag über die Leitzinsen entscheidet. Dazu gibt es Gutes aus der Energiewelt, zwei Fortschritte aus der Forschung und einen Hinweis auf den Tag des offenen Denkmals in der Region. Hier ist dein Briefing für heute.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1075,6 +926,166 @@
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
        "score": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 10. September 2026",
+   "weather": "clouds",
+   "temp": "21°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt der Himmel heute überwiegend bewölkt, teils neblig-trüb, bei höchstens etwa 21 Grad. Im Mittelpunkt des Tages steht die Sitzung des Rates der Europäischen Zentralbank (EZB), die am frühen Nachmittag über die Leitzinsen im Euroraum entscheidet. In der Weltlage sorgen ein erneuter Massenandrang von Migranten an der spanischen Exklave Ceuta und ein schweres Schiffsunglück vor den Philippinen für Schlagzeilen. Dazu kommen zwei ermutigende Nachrichten aus dem Artenschutz, zwei Fortschritte aus der Forschung und ein Hinweis auf den bundesweiten Tag des offenen Denkmals am kommenden Sonntag. Am Ende findest du wie immer die Handlungsempfehlungen und den Gelegenheitsradar. Hier ist dein Briefing für heute.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Erneuter Migrationsdruck an der spanischen Exklave Ceuta",
+       "text": "An der Grenze zur spanischen Exklave Ceuta, einer kleinen spanischen Stadt auf dem afrikanischen Festland unmittelbar an Marokko, ist es zu einem erneuten Massenandrang von Migranten gekommen. Nach Angaben aus Sicherheitskreisen hatten der spanische Auslandsgeheimdienst und die Grenzbehörden bereits einen Tag zuvor vor dem Ansturm gewarnt. Ceuta gehört wie die zweite Exklave Melilla zu den einzigen Landgrenzen der Europäischen Union auf dem afrikanischen Kontinent und ist deshalb immer wieder Brennpunkt der Migration. Warum das zählt: Solche Ereignisse belasten das Verhältnis zwischen Spanien und Marokko und befeuern in der gesamten EU die Debatte über den Schutz der Außengrenzen.",
+       "source": "Euronews",
+       "url": "https://de.euronews.com/video/2026/09/10/nachrichten-des-tages-10-september-2026-morgenausgabe"
+      },
+      {
+       "title": "Schweres Schiffsunglück vor den Philippinen",
+       "text": "Vor der philippinischen Provinz Palawan, einer langgestreckten Inselgruppe im Westen des südostasiatischen Inselstaates, ist auf einem Passagierschiff ein schwerer Brand ausgebrochen. Nach offiziellen Angaben werden 87 Menschen vermisst, Rettungskräfte suchen weiter nach Überlebenden. Die Ursache des Feuers ist bislang nicht geklärt. Warum das zählt: Auf den Philippinen ist die Fähre ein wichtiges Verkehrsmittel zwischen den mehr als 7000 Inseln, und schwere Unglücke werfen regelmäßig Fragen nach der Sicherheit im Schiffsverkehr auf.",
+       "source": "Euronews",
+       "url": "https://de.euronews.com/video/2026/09/10/nachrichten-des-tages-10-september-2026-morgenausgabe"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "EZB entscheidet heute über die Leitzinsen",
+       "text": "Der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, entscheidet an diesem Donnerstag über die Höhe der Leitzinsen. Die Veröffentlichung ist für 14:15 Uhr angesetzt, um 14:45 Uhr folgt die Pressekonferenz mit EZB-Präsidentin Christine Lagarde. Volkswirte rechnen mehrheitlich mit einer Anhebung um 25 Basispunkte, also um einen viertel Prozentpunkt, wodurch der sogenannte Einlagenzins von 2,25 auf 2,50 Prozent stiege. Hintergrund ist die weiterhin erhöhte Teuerung: Im August lag die Inflationsrate im Euroraum vorläufig bei 3,3 Prozent und in Deutschland bei 2,9 Prozent, jeweils oberhalb des von der EZB angestrebten Ziels von 2,0 Prozent.",
+       "source": "LBBW",
+       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/ezb-zinsentscheid-morgen-uhrzeit-ablaufplan-10-09-2026_anet77vrx2_d.html"
+      },
+      {
+       "title": "Daimler Truck setzt auf Wasserstoff-Lastwagen",
+       "text": "Der Nutzfahrzeughersteller Daimler Truck, einer der weltweit größten Produzenten von Lastwagen und Bussen mit Sitz in Baden-Württemberg, will bis zum Ende des Jahrzehnts mehrere hundert Millionen Euro in Wasserstoff-Lkw investieren. Gemeint sind schwere Lastwagen, die mit Wasserstoff in einer Brennstoffzelle Strom für den Elektroantrieb erzeugen und dabei nur Wasserdampf ausstoßen. Warum das zählt: Der Güterverkehr auf langen Strecken gilt als schwer auf klimafreundliche Antriebe umstellbar, und die Entscheidung eines großen Herstellers sendet ein Signal an die gesamte Branche.",
+       "source": "Euronews",
+       "url": "https://de.euronews.com/video/2026/09/10/nachrichten-des-tages-10-september-2026-morgenausgabe"
+      }
+     ],
+     "merk": {
+      "text": "Steigt der Leitzins, verteuern sich in der Regel Kredite und Baufinanzierungen, während Tages- und Festgeld etwas mehr abwerfen. Ein guter Moment, die eigenen Zinskonditionen zu prüfen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Gänsegeier auf Sardinien kehren zurück",
+       "text": "Auf der italienischen Mittelmeerinsel Sardinien hat sich der Bestand des Gänsegeiers, eines großen Aasfressers mit fast drei Metern Flügelspannweite, eindrucksvoll erholt. Waren es 2014 nur noch etwa 60 Tiere, so leben dort heute wieder mehr als 500 Gänsegeier. Möglich wurde die Rückkehr durch Schutzprogramme, gesicherte Futterplätze und den Kampf gegen vergiftete Köder. Warum das zählt: Der Fall zeigt, dass gezielter Artenschutz auch bei stark bedrohten Arten in überschaubaren Zeiträumen messbare Erfolge bringen kann.",
+       "img": "https://live.staticflickr.com/150/375776448_6955cb3bcb_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
+      },
+      {
+       "title": "Mehr Nachwuchs bei den Atlantischen Nordkapern",
+       "text": "Der Atlantische Nordkaper, eine stark bedrohte Walart im Nordatlantik, von der nur noch wenige hundert Tiere leben, hat die beste Fortpflanzungssaison seit 2009 verzeichnet. In diesem Jahr wurden 23 Kälber gezählt, was Fachleute als Zeichen für eine sich bessernde Gesundheit der Population werten. Warum das zählt: Jedes einzelne Jungtier ist für den Fortbestand dieser Art von großer Bedeutung, die vor allem durch Schiffskollisionen und Fischereigerät bedroht ist.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Künstliche Intelligenz steuert Fusionsplasma in Millisekunden",
+       "text": "Forschende der US-Universität Princeton haben ein System der künstlichen Intelligenz (KI) getestet, das ein Fusionsplasma überwachen und steuern kann. Als Plasma bezeichnet man das extrem heiße, elektrisch geladene Gas, in dem bei der Kernfusion Atomkerne verschmelzen und Energie freisetzen, so wie im Inneren der Sonne. Das System reagierte den Angaben zufolge im Bereich von Millisekunden und damit weit schneller, als ein menschlicher Operateur eingreifen könnte. Warum das zählt: Die Kernfusion gilt als mögliche saubere Energiequelle der Zukunft, und die schnelle Regelung des instabilen Plasmas ist eine der größten technischen Hürden auf diesem Weg.",
+       "img": "https://live.staticflickr.com/7406/8780675994_cbc84e1f78_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Diabetes-Wirkstoff senkt womöglich Asthma-Anfälle",
+       "text": "Der Wirkstoff Semaglutid, bekannt aus den Medikamenten Ozempic und Wegovy zur Behandlung von Diabetes und Übergewicht, wird in einer großen Auswertung realer Patientendaten mit fast 40 Prozent weniger Asthma-Anfällen in Verbindung gebracht. Auch schwere Schübe der chronischen Lungenkrankheit COPD, einer dauerhaften Verengung der Atemwege, traten der Studie zufolge rund 20 Prozent seltener auf. Warum das zählt: Sollte sich der Zusammenhang in gezielten Studien bestätigen, könnte ein bereits zugelassener Wirkstoff Millionen Menschen mit Atemwegserkrankungen zusätzlich helfen.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/health_medicine/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Kühler Spätsommertag und Tag des offenen Denkmals am Sonntag",
+       "text": "In Horb am Neckar bleibt es heute mit höchstens etwa 21 Grad und dichten Wolken spürbar kühl, ein Tag, der sich eher für einen Besuch im Museum oder in der Altstadt eignet als für lange Ausflüge. Passend dazu findet am kommenden Sonntag, dem 13. September, bundesweit der Tag des offenen Denkmals statt, an dem historische Gebäude und Baudenkmäler ihre Türen für Besucher öffnen. Auch in der Region um Horb beteiligen sich üblicherweise Kirchen, Fachwerkhäuser und andere Baudenkmäler an der Aktion. Warum das zählt: Der Aktionstag ist eine gute Gelegenheit, die eigene Umgebung neu zu entdecken; die genauen Programmpunkte lohnt ein Blick in den Veranstaltungskalender der Stadt.",
+       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+       "source": "Stadt Horb am Neckar",
+       "url": "https://www.horb.de/Veranstaltungen"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein grauer Himmel nimmt dem Tag nichts, er macht nur die kleinen, warmen Dinge sichtbarer."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose Mini-Werkzeuge im Browser nutzen",
+      "text": "Der bekannte Entwickler Simon Willison stellt unter tools.simonwillison.net eine wachsende Sammlung kleiner, kostenloser Werkzeuge bereit, die direkt im Browser laufen, ohne Anmeldung und ohne dass Daten an einen Server gesendet werden. Darunter sind zuletzt etwa ein Video-Komprimierer, der Videos lokal verkleinert, und ein Umrechner für Kartenprojektionen. Viele dieser Werkzeuge sind mithilfe von KI in kurzer Zeit entstanden und zeigen zugleich, wie sich einfache Alltagsaufgaben ohne teure Software lösen lassen.",
+      "why": "Für einen Solo-Unternehmer sind das sofort einsetzbare Helfer für wiederkehrende Aufgaben, kostenlos und datensparsam, und zugleich eine Vorlage dafür, eigene kleine Werkzeuge bauen zu lassen.",
+      "source": "tools.simonwillison.net",
+      "url": "https://tools.simonwillison.net/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale zeigen denselben Trend: neue Modelle und Werkzeuge lassen sich mit wenig Aufwand in eine bestehende Kommandozeilen-Umgebung einbinden.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Neues Modell in der LLM-Kommandozeile testen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Simon Willison hat Version 0.35 seines Werkzeugs LLM veröffentlicht, eines Programms für die Kommandozeile, mit dem sich große Sprachmodelle direkt vom Terminal aus ansprechen lassen. Neu ist die Unterstützung für das Modell gpt-6-astra von OpenAI, sodass du verschiedene Anbieter über dieselbe Oberfläche vergleichen kannst.",
+        "Der konkrete Hebel: Du kannst dasselbe Prompt nacheinander an mehrere Modelle schicken und die Antworten nebeneinander bewerten, ohne für jeden Anbieter eine eigene Anwendung zu öffnen. Das spart Zeit bei der Auswahl des passenden Modells für eine Aufgabe."
+       ],
+       "konkret": "Aktualisiere das Werkzeug (pip install -U llm) und stelle deiner nächsten Routineaufgabe zwei Modelle gegenüber, bevor du dich festlegst.",
+       "snippetLabel": "Zwei Modelle vergleichen",
+       "snippet": "llm -m gpt-6-astra \"<span class=\"ph\">{Fasse diesen Text in drei Stichpunkten zusammen}</span>\" \\\n  && llm -m gpt-4o \"<span class=\"ph\">{Fasse diesen Text in drei Stichpunkten zusammen}</span>\"",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Sep/7/llm/",
+       "score": "hoch"
+      },
+      {
+       "icon": "layers",
+       "title": "Denk-Spuren neuer Modelle prüfen",
+       "tag": "Modell",
+       "paras": [
+        "Zu den jüngsten Neuerungen zählt, dass bei Modellen wie Claude Fable 5.1 die sogenannten Denk-Spuren, also die schrittweisen Zwischenüberlegungen des Modells, nun standardmäßig angezeigt werden. Damit wird nachvollziehbarer, wie ein Modell zu seiner Antwort gelangt.",
+        "Der konkrete Hebel: Wenn du bei einer kniffligen Aufgabe die Zwischenschritte mitliest, erkennst du früher, wo ein Modell falsch abbiegt, und kannst dein Prompt gezielt nachschärfen, statt nur das Endergebnis zu verwerfen."
+       ],
+       "konkret": "Aktiviere bei deiner nächsten anspruchsvollen Aufgabe die Anzeige der Denkschritte und notiere, an welcher Stelle die Kette kippt.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Sep/",
+       "score": "mittel"
       }
      ]
     }
