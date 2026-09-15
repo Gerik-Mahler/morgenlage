@@ -2,166 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Dienstag, 8. September 2026",
-   "weather": "clouds",
-   "temp": "31°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt heute erneut Nebel, der sich im Lauf des Vormittags lichten und einem warmen Spätsommertag mit bis zu etwa 31 Grad weichen soll. In der Weltlage sind nach dem Ende einer kurzen Feuerpause wieder russische Luftangriffe auf die ukrainische Hauptstadt Kiew gemeldet, während in Berlin über den Bundeshaushalt für das kommende Jahr beraten wird. In der Wirtschaft richtet sich der Blick weiter auf die Zinssitzung der Europäischen Zentralbank am Donnerstag. Dazu gibt es Gutes aus der Energiewelt, zwei Fortschritte aus der Forschung und einen Ausblick auf den Tag des offenen Denkmals in der Region. Hier ist dein Briefing für heute.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Kiew: Russische Luftangriffe nach Ende der Feuerpause",
-       "text": "Im Krieg zwischen Russland und der Ukraine sind die Kämpfe nach einer kurzen Unterbrechung wieder aufgeflammt. Während des Besuchs von US-Sondergesandten, also persönlichen Beauftragten des amerikanischen Präsidenten für Verhandlungen, hatten beide Seiten für einige Tage zugesagt, die jeweiligen Hauptstädte nicht anzugreifen. Nach dem Ende dieser befristeten Feuerpause meldete die ukrainische Hauptstadt Kiew in der Nacht erneut Explosionen; nach Behördenangaben wurden unter anderem Wohnhäuser, eine Schule und Fahrzeuge durch herabstürzende Trümmer beschädigt. Ein Durchbruch bei den Gesprächen war zuvor nicht verkündet worden. Warum das zählt: Die rasche Rückkehr zu Angriffen zeigt, wie fragil die diplomatischen Ansätze der vergangenen Tage bislang geblieben sind.",
-       "source": "Euronews",
-       "url": "https://de.euronews.com/video/2026/09/08/nachrichten-des-tages-8-september-2026-morgenausgabe"
-      },
-      {
-       "title": "Berlin: Bundeshaushalt für 2027 im Bundestag beraten",
-       "text": "Im Deutschen Bundestag, dem nationalen Parlament in Berlin, hat Bundesfinanzminister Lars Klingbeil von der SPD, den Sozialdemokraten, an diesem Dienstag den Entwurf für den Bundeshaushalt des Jahres 2027 vorgestellt. Der Bundeshaushalt ist der jährliche Plan, der festlegt, wofür der Staat sein Geld ausgibt und wie er es einnimmt. Die Beratungen fallen in eine Zeit, in der über Spielräume für Investitionen und über die Aufnahme neuer Schulden gestritten wird. Warum das zählt: Der Haushalt setzt die finanziellen Leitplanken für staatliche Aufgaben von der Verteidigung bis zur Infrastruktur und betrifft damit mittelbar auch Unternehmen und Bürger.",
-       "source": "ZDFheute",
-       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Deutsche Wirtschaft: KI-Rechenzentren stützen den Maschinenbau",
-       "text": "Für die deutsche Wirtschaft mehren sich vorsichtig zuversichtliche Signale. Nach Einschätzung von Fachleuten dürfte die größte Volkswirtschaft der Europäischen Union in diesem Jahr wieder wachsen; die Prognosen liegen bei etwa 0,7 bis 1,0 Prozent. Als eine Stütze gilt der weltweite Bau von Rechenzentren für Künstliche Intelligenz, also von großen Anlagen, in denen die Computer für KI-Anwendungen stehen. Er verschafft dem deutschen Maschinenbau zusätzliche Aufträge aus dem Ausland. Warum das zählt: Nach zwei schwachen Jahren wäre schon ein moderates Wachstum ein Zeichen der Stabilisierung, auch wenn die Erholung noch fragil ist.",
-       "source": "Statista",
-       "url": "https://de.statista.com/themen/4862/konjunktur-in-deutschland"
-      },
-      {
-       "title": "EZB: Zinsentscheidung am Donnerstag erwartet",
-       "text": "Am Donnerstag entscheidet der Rat der Europäischen Zentralbank, kurz EZB, über die Leitzinsen, also über den Preis, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen. Lange galt eine weitere Anhebung als ausgemacht, doch eine Reihe ermutigender Konjunkturdaten hat den Druck auf die Notenbank verringert, sodass der Schritt inzwischen als offen gilt. Hintergrund ist die weiterhin erhöhte Teuerung: Für 2026 erwartet die EZB im Euroraum eine durchschnittliche Inflation von rund 3 Prozent, deutlich über ihrem Ziel von 2 Prozent, bei einem Wachstum von nur etwa 0,8 Prozent. Warum das zählt: Die Zinsentscheidung wirkt auf Kredite, Sparzinsen und Investitionen und damit unmittelbar auf die Bedingungen für kleine Unternehmen.",
-       "source": "Börsen-Zeitung",
-       "url": "https://www.boersen-zeitung.de/konjunktur-politik/ezb-zinserhoehung-im-september-wackelt"
-      }
-     ],
-     "merk": {
-      "text": "Merken: EZB-Zinsentscheid am Donnerstag.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "China: Kohle liefert erstmals weniger als die Hälfte des Stroms",
-       "text": "In China, dem bevölkerungsreichsten Land der Erde und dem größten Stromverbraucher der Welt, haben Windkraft und Sonnenenergie im ersten Halbjahr 2026 zusammen rund 24,6 Prozent des Stroms gedeckt. Zugleich fiel der Anteil der Kohle, des lange dominierenden Energieträgers, auf etwa 49,7 Prozent und damit erstmals seit Beginn der Aufzeichnungen unter die Marke von 50 Prozent. Getragen wird die Entwicklung vor allem vom raschen Ausbau der Solarenergie. Warum das zählt: Weil China für einen großen Teil des weltweiten Ausstoßes von Treibhausgasen verantwortlich ist, hat dort jeder Rückgang des Kohleanteils auch weltweit Gewicht.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1280px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-september-5-2026"
-      },
-      {
-       "title": "England: Halbe Million Kinder mehr erhält kostenloses Schulessen",
-       "text": "In England, dem größten Landesteil des Vereinigten Königreichs, haben durch eine geänderte Regel rund eine halbe Million zusätzliche Schülerinnen und Schüler Anspruch auf ein kostenloses Mittagessen in der Schule. Künftig sind alle Kinder anspruchsberechtigt, deren Eltern die staatliche Grundsicherung Universal Credit beziehen, eine zusammengefasste Sozialleistung für Menschen mit geringem Einkommen. Warum das zählt: Ein warmes Mittagessen entlastet Familien mit knappem Budget und kann sich messbar auf Gesundheit und Lernfähigkeit von Kindern auswirken.",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Künstliche Intelligenz steuert Fusionsplasma in Millisekunden",
-       "text": "Forschende der Princeton University in den Vereinigten Staaten haben ein System der Künstlichen Intelligenz erprobt, das ein Fusionsplasma in Echtzeit überwachen und steuern kann. Ein Plasma ist ein extrem heißes, elektrisch geladenes Gas; in der Kernfusion soll es Energie liefern, indem Atomkerne verschmelzen, so wie es auch im Inneren der Sonne geschieht. Das System reagiert innerhalb von Millisekunden, also weit schneller als ein Mensch, und sagt gefährliche Instabilitäten des Plasmas rund 200 Millisekunden voraus, bevor sie auftreten. Warum das zählt: Die Beherrschung solcher Instabilitäten gilt als eine der größten Hürden auf dem Weg zu einem Kraftwerk, das Strom aus Kernfusion gewinnt.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/U.S._Department_of_Energy_-_Science_-_114_035_002_%2814281232230%29.jpg/1280px-U.S._Department_of_Energy_-_Science_-_114_035_002_%2814281232230%29.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Neues Werkzeug erkennt Herzkrankheiten im EKG in Sekunden",
-       "text": "Am Imperial College London, einer britischen Hochschule mit Schwerpunkt auf Technik und Medizin, haben Forschende ein Computerwerkzeug entwickelt, das Anzeichen von Herzkrankheiten binnen Sekunden erkennen soll. Es wertet ein Elektrokardiogramm aus, kurz EKG, also die Aufzeichnung der elektrischen Aktivität des Herzens, und findet dabei Hinweise, die für Ärztinnen und Ärzte mit bloßem Auge nicht erkennbar sind. Warum das zählt: Eine schnelle und breit verfügbare Auswertung könnte helfen, Herzerkrankungen früher zu erkennen, wenn eine Behandlung noch besser wirkt.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/12_lead_ECG.jpg/1280px-12_lead_ECG.jpg",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-september-5-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Tag des offenen Denkmals am kommenden Sonntag",
-       "text": "In der Region rund um Horb am Neckar steht ein Ausflugstermin bevor: Am kommenden Sonntag, dem 13. September, findet bundesweit der Tag des offenen Denkmals statt, ein jährlicher Aktionstag, an dem sonst oft verschlossene historische Gebäude und Denkmäler geöffnet und mit Führungen vorgestellt werden. Über Horb liegt heute zunächst Nebel, der sich im Lauf des Vormittags lichten und einem warmen Spätsommertag mit bis zu etwa 31 Grad weichen soll. Warum das zählt: Ein guter Anlass, das kommende Wochenende für einen Spaziergang durch die Altstadt oder einen Ausflug in die Umgebung einzuplanen.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-       "source": "Stadt Horb",
-       "url": "https://www.horb.de/Veranstaltungen"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein Nebelmorgen erinnert daran, dass Klarheit oft weniger eine Frage des Suchens ist als des Abwartens."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Digitalisierung in Baden-Württemberg: Förderdarlehen bis Mitte 2027",
-      "text": "Das Land Baden-Württemberg unterstützt kleine und mittlere Unternehmen sowie Solo-Selbstständige bei Digitalisierungsvorhaben über das Programm Digitalisierungsprämie Plus. Die frühere Zuschussvariante ist zwar ausgelaufen, das zinsgünstige Förderdarlehen, also ein staatlich verbilligter Kredit, steht nach aktuellem Stand aber noch bis zum 30. Juni 2027 zur Verfügung. Gefördert werden zum Beispiel die Einführung neuer Software, die Anbindung von Prozessen oder Vorhaben rund um Künstliche Intelligenz. Die Abwicklung läuft über die L-Bank, die Förderbank des Landes.",
-      "why": "Ein günstiger Finanzierungsweg genau für die Art von Digitalisierungs- und KI-Vorhaben, an denen du ohnehin arbeitest, mit komfortablem zeitlichem Vorlauf.",
-      "source": "Wirtschaftsministerium Baden-Württemberg",
-      "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme-und-aufrufe/liste-foerderprogramme/digitalisierungspraemie"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei kleine Anpassungen, die deine Modell-Nutzung vergleichbarer und weniger fehleranfällig machen.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Modelle aus der Kommandozeile vergleichen",
-       "tag": "Werkzeuge",
-       "paras": [
-        "Der Entwickler Simon Willison, der das quelloffene Werkzeug llm pflegt, hat am 7. September die Version 0.35 veröffentlicht. llm ist ein kleines Programm für die Kommandozeile, also die textbasierte Eingabe am Rechner, mit dem sich verschiedene Sprachmodelle unterschiedlicher Anbieter über einen einheitlichen Befehl ansprechen lassen. Die neue Fassung ergänzt unter anderem den Zugriff auf ein neues Modell des Anbieters OpenAI.",
-        "Für dich ist weniger das einzelne Modell interessant als das Werkzeug selbst: Damit kannst du dieselbe Aufgabe rasch an mehrere Modelle geben und die Antworten nüchtern vergleichen, ohne dich an einen Anbieter zu binden."
-       ],
-       "konkret": "Installiere oder aktualisiere llm und schicke einen typischen Arbeitsauftrag nacheinander an zwei Modelle, um Qualität und Kosten zu vergleichen.",
-       "snippetLabel": "Zwei Modelle vergleichen",
-       "snippet": "pipx install llm    # oder Aktualisierung: llm install -U llm\n\nllm -m <span class=\"ph\">{modell-a}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"\nllm -m <span class=\"ph\">{modell-b}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"\n\nllm logs -n 2   # die letzten beiden Antworten ansehen",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/7/llm/"
-      },
-      {
-       "icon": "layers",
-       "title": "Tabellen als benannte Datensätze an Modelle geben",
-       "tag": "Zuverlässigkeit",
-       "paras": [
-        "In einem aktuellen Hinweis beschreibt Simon Willison eine kleine, aber wirkungsvolle Änderung: Wenn ein Sprachmodell Tabellendaten erhält, sollten die Zeilen nicht als reine Wertelisten übergeben werden, sondern als Datensätze mit benannten Feldern, also mit dem Spaltennamen an jedem Wert. Schwächere Modelle verlieren bei bloßen Wertelisten leicht den Überblick, welche Zahl zu welcher Spalte gehört.",
-        "Wenn du in deinem System Tabellen, Exporte oder Datenbankabfragen an ein Modell weiterreichst, lohnt sich dieselbe Umstellung: Sie kostet kaum Aufwand und verringert Fehlzuordnungen spürbar."
-       ],
-       "konkret": "Wandle Tabellen vor der Übergabe an ein Modell von Zeilen wie [1, Anna, 42] in benannte Datensätze wie {id: 1, name: Anna, alter: 42} um.",
-       "snippetLabel": "Zeilen in benannte Datensätze umwandeln",
-       "snippet": "# statt (positionsabhaengig, fehleranfaellig):\n[[1, \"Anna\", 42], [2, \"Ben\", 37]]\n\n# besser (benannte Felder):\n[\n  {\"id\": 1, \"name\": \"Anna\", \"alter\": 42},\n  {\"id\": 2, \"name\": \"Ben\", \"alter\": 37}\n]",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Mittwoch, 9. September 2026",
    "weather": "rain",
    "temp": "20°C · Regen",
@@ -943,7 +783,6 @@
    "weather": "clouds",
    "temp": "24°C · bewölkt",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Montag ein bewölkter Himmel bei milden bis zu 24 Grad, ein ruhiger Start in die Woche. International richtet sich der Blick heute in den hohen Norden: Im finnischen Rovaniemi beraten EU-Regierungschefs über Europas Rolle in der Arktis. In der Wirtschaft zeichnen neue Projektionen der Europäischen Zentralbank ein überraschend robustes Bild, während die Teuerung über dem Ziel bleibt. Dazu Lichtblicke aus dem Umweltschutz, ein Fortschritt in der Quantenforschung, ein Rückblick auf dein Stadtfest und am Ende zwei konkrete Signale für dein System.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1078,6 +917,160 @@
        "snippet": "llm -m <span class=\"ph\">{modell-a}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"\nllm -m <span class=\"ph\">{modell-b}</span> \"<span class=\"ph\">{deine Aufgabe}</span>\"",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Sep/7/llm/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dienstag, 15. September 2026",
+   "weather": "clouds",
+   "temp": "28°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hängt an diesem Dienstag zunächst Frühnebel, der sich zu einem trockenen, spätsommerlich warmen Tag mit bis zu 28 Grad lichten dürfte. In der Weltlage bestimmen Sicherheitsfragen den Morgen: Die Nato hat über Litauen eine Drohne abgeschossen, und in der Straße von Hormus sorgt ein havarierter Öltanker für Unruhe an den Energiemärkten. Aus der Wirtschaft kommen die neuen September-Projektionen der Europäischen Zentralbank, dazu ein Meilenstein im Meeresschutz, ein physikalischer Erstnachweis aus der Forschung und ein lokaler Blick auf Horb. Am Ende zwei Signale für dein System und eine Förder-Gelegenheit mit Zuschuss.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Nato schießt Drohne über Litauen ab",
+       "text": "Kampfflugzeuge der Nato, des westlichen Verteidigungsbündnisses Organisation des Nordatlantikvertrags, haben nach Angaben des litauischen Präsidenten Gitanas Nauseda über Litauen eine Drohne abgeschossen. Litauen ist eine baltische Republik und Nato-Mitglied, die im Osten an Russland und dessen Verbündeten Belarus grenzt. Der Vorfall reiht sich in eine Serie von Luftraumverletzungen ein, die die östlichen Bündnismitglieder seit dem russischen Angriffskrieg gegen die Ukraine registrieren, und wird als Reaktion auf diese anhaltende Bedrohung dargestellt. Warum das zählt: Jeder Zwischenfall an der Nato-Ostflanke, dem östlichen Randgebiet des Bündnisses, erhöht das Risiko einer ungewollten Eskalation und hält die Frage nach der Luftverteidigung Europas auf der Tagesordnung.",
+       "source": "news.de / Reuters",
+       "url": "https://www.news.de/panorama/859993505/15-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-15-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Explosion an einem Öltanker in der Straße von Hormus",
+       "text": "In der Straße von Hormus, der schmalen Meerenge zwischen dem Persischen Golf und dem offenen Meer, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird, ist es an einem Öltanker zu einer Explosion gekommen. Nach Darstellung der iranischen Revolutionsgarden, einer eigenständigen Streitmacht der Islamischen Republik Iran, wurde das Schiff von einer Mine getroffen. Die genauen Umstände und Verantwortlichen sind bislang nicht unabhängig bestätigt. Warum das zählt: Die Straße von Hormus gilt als eine der verwundbarsten Stellen der weltweiten Energieversorgung, und schon die Sorge vor einer Störung kann die Ölpreise und damit die Kosten für Kraftstoff und Heizen in Europa bewegen.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/859993505/15-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-15-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "EZB rechnet mit stetigem Wachstum, sieht aber neue Preisrisiken",
+       "text": "Fachleute der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der Länder mit dem Euro, haben ihre September-Projektionen vorgelegt, also ihre regelmäßige Vorausschau auf Wachstum und Preise. Sie erwarten für den Euroraum ein reales Wachstum der Wirtschaftsleistung von 1,2 Prozent in den Jahren 2026 und 2027 und 1,4 Prozent im Jahr 2028; real bedeutet, dass die Teuerung bereits herausgerechnet ist. Zugleich hoben sie ihre Inflationsprognose leicht an, vor allem wegen erwartet höherer Energiepreise, während die Kerninflation, die schwankungsanfällige Posten wie Energie und Nahrung ausklammert, das freundlichere Konjunkturbild und etwas höhere Löhne widerspiegelt. Als größtes Risiko nennt die EZB ausdrücklich den anhaltenden Nahost-Konflikt, eine mögliche Blockade der Straße von Hormus und schwankende Energiepreise. Warum das zählt: Ob die Notenbank die Teuerung in Richtung ihres Ziels von 2,0 Prozent führt, entscheidet mit über Zinsen für Kredite, Sparen und Investitionen.",
+       "source": "Europäische Zentralbank",
+       "url": "https://www.ecb.europa.eu/press/projections/html/ecb.projections202609_ecbstaff~8e340fc69d.de.html"
+      }
+     ],
+     "merk": {
+      "text": "Für 2028 erwartet die EZB, dass die Inflation im Euroraum wieder nahe an das Ziel von zwei Prozent zurückkehrt, sofern die Energiepreise nicht erneut ausschlagen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Mehr als zehn Prozent der Meere stehen jetzt unter Schutz",
+       "text": "Zum ersten Mal ist weltweit mehr als ein Zehntel der Ozeane offiziell geschützt. Nach Zahlen des Umweltprogramms der Vereinten Nationen (UNEP), der für Umweltfragen zuständigen Organisation der Weltgemeinschaft, wurden allein in den vergangenen zwei Jahren rund fünf Millionen Quadratkilometer Meeresfläche unter Schutz gestellt, ein Gebiet größer als die Europäische Union. Der Anteil der geschützten Meere stieg damit auf 10,01 Prozent, nach 8,6 Prozent im Jahr 2024. Möglich wurde der Sprung auch durch das sogenannte Hochsee-Abkommen, einen völkerrechtlichen Vertrag, der erstmals Schutzgebiete in internationalen Gewässern jenseits der nationalen Hoheitszonen erlaubt. Warum das zählt: Intakte Meere binden Kohlenstoff, sichern Nahrung und Artenvielfalt, und eine solche Schwelle zeigt, dass langjährige Verhandlungen doch messbare Ergebnisse bringen können.",
+       "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
+       "source": "Positive News / UNEP",
+       "url": "https://www.positive.news/environment/"
+      },
+      {
+       "title": "Kriminalität sinkt, obwohl viele das Gegenteil glauben",
+       "text": "Eine Befragung von rund 5.000 Menschen in London hat eine bemerkenswerte Lücke zwischen Gefühl und Wirklichkeit zutage gefördert. Während 62 Prozent der Befragten glaubten, die Kriminalität sei zwischen 2019 und 2025 gestiegen, ging sie tatsächlich um 1,4 Prozent zurück; und obwohl 40 Prozent von einer steigenden Mordrate ausgingen, sank diese um etwa 15 Prozent. Solche Zahlen zeigen, wie stark die öffentliche Wahrnehmung von der belegbaren Entwicklung abweichen kann. Warum das zählt: Ein nüchterner Blick auf gesicherte Daten kann unnötige Angst nehmen und hilft, Nachrichten über Verbrechen einzuordnen, statt sich vom Gefühl leiten zu lassen.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung",
+     "items": [
+      {
+       "title": "Optischer Magnus-Effekt erstmals experimentell nachgewiesen",
+       "text": "Forschende haben zum ersten Mal den sogenannten optischen Magnus-Effekt im Experiment gezeigt. Der klassische Magnus-Effekt beschreibt, warum ein angeschnittener Ball, etwa beim Fußball, eine gekrümmte Bahn fliegt; die Fachleute übertrugen diese Idee auf Licht. Sie fanden heraus, dass ein eng gebündelter Laserstrahl, also stark fokussiertes Licht, am stärksten nicht genau im Zentrum, sondern mit einem Atom etwas abseits der Strahlmitte in Wechselwirkung tritt. Warum das zählt: Ein präziseres Verständnis davon, wie Licht und einzelne Atome zusammenspielen, ist eine Grundlage für künftige Quantentechnik und hochgenaue optische Messverfahren.",
+       "img": "https://live.staticflickr.com/5252/5391914387_8256899ff8_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Kurze Nervenbahnen schützen das Denken im Alter",
+       "text": "Eine Studie deutet darauf hin, dass die kurzreichweitige Verdrahtung des Gehirns, also die Verbindungen zwischen nah beieinander liegenden Hirnregionen, das Denkvermögen stützen kann, selbst wenn die graue Substanz mit dem Alter schrumpft. Die graue Substanz ist das Gewebe, in dem die Nervenzellkörper sitzen und ein großer Teil der Informationsverarbeitung stattfindet. Bleiben die kurzen Bahnen intakt, scheint das den altersbedingten Abbau ein Stück weit auszugleichen. Warum das zählt: Der Befund kann helfen zu verstehen, warum manche Menschen im Alter geistig fitter bleiben als andere, und weist Wege für Vorsorge und Forschung.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Ruhiger Wochenauftakt bei Frühnebel, dann spätsommerliche Wärme",
+       "text": "Nach dem Stadt- und Brückenfest am vergangenen Wochenende kehrt in Horb am Neckar der Alltag ein. Der Dienstag beginnt mit Frühnebel über dem Neckartal und klart im Tagesverlauf zu trockenem, spätsommerlich warmem Wetter mit bis zu 28 Grad auf, ein guter Tag für einen Gang durch die Altstadt oder an den Fluss. Wer handwerklich unterwegs ist, findet vom 17. bis 19. September beim Globus Baumarkt in Horb eine Fachaktion rund um Motoröl des Herstellers Liqui Moly. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, den eigenen Tag und die Woche in Ruhe zu planen.",
+       "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
+       "source": "meinestadt / Globus Baumarkt",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Vieles, was am Morgen dringend wirkt, verlangt in Wahrheit nur einen klaren Kopf und den ersten kleinen Schritt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "BAFA-Beratungsförderung: Zuschuss für externe Beratung",
+      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), eine Bundesbehörde, fördert mit dem Programm Förderung unternehmerischen Know-hows die externe Beratung von kleinen und mittleren Unternehmen und ausdrücklich auch von Freiberuflern und Soloselbstständigen. In den westlichen Bundesländern, zu denen Baden-Württemberg zählt, werden 50 Prozent der Beratungskosten bezuschusst, bei einer Bemessungsgrundlage von 3.500 Euro also bis zu 1.750 Euro je Beratung. Der Antrag muss vor Beginn der Beratung gestellt werden, und das Programm läuft nach derzeitigem Stand bis zum 31. Dezember 2026.",
+      "why": "Für ein Ein-Personen-Unternehmen ist das ein niederschwelliger Weg, professionelle Beratung, etwa zu Digitalisierung, Prozessen oder dem Einsatz von Künstlicher Intelligenz, zur Hälfte gegenfinanzieren zu lassen, solange das Jahr 2026 noch läuft.",
+      "source": "BAFA",
+      "url": "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
+     "cards": [
+      {
+       "icon": "layers",
+       "title": "Neues Spitzenmodell erst messen, dann umstellen",
+       "tag": "Modelle",
+       "paras": [
+        "Anfang September ist mit GPT-6 Astra ein neues großes Sprachmodell des Anbieters OpenAI erschienen, verfügbar über die Programmierschnittstelle des Anbieters und über die Cloud-Plattform AWS von Amazon. Parallel wurden Googles Modellfamilie Gemini und weitere Modelle aktualisiert. Erste Vergleichswerte deuten darauf hin, dass die Rangfolge je nach Aufgabe eng beieinander liegt.",
+        "Bevor du dein Standardmodell wechselst, lohnt es sich, das neue Modell an deiner eigenen, typischen Aufgabe zu messen, statt dich auf allgemeine Bestenlisten zu verlassen. Mit dem quelloffenen Kommandozeilenwerkzeug llm des Entwicklers Simon Willison lässt sich das in wenigen Zeilen direkt im Terminal erledigen."
+       ],
+       "konkret": "Lege eine kleine, feste Testaufgabe fest, die deinem Alltag entspricht, und lass sie durch das alte und das neue Modell laufen, bevor du den Standard umstellst.",
+       "snippetLabel": "Dieselbe Aufgabe an altem und neuem Modell testen",
+       "snippet": "llm -m <span class=\"ph\">{dein-bisheriges-modell}</span> \"<span class=\"ph\">{deine typische Aufgabe}</span>\"\nllm -m <span class=\"ph\">{gpt-6-astra}</span> \"<span class=\"ph\">{deine typische Aufgabe}</span>\"",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Mit einem Schlüssel viele Anbieter erreichen",
+       "tag": "Werkzeuge",
+       "paras": [
+        "Für das Werkzeug llm ist die Erweiterung llm-openrouter in der Version 0.7.1 erschienen, dazu llm-gemini 0.34. OpenRouter ist ein Vermittlungsdienst, über den sich Modelle vieler Anbieter über eine einzige Schnittstelle und einen einzigen Zugangsschlüssel ansprechen lassen.",
+        "Das macht dein System unabhängiger von einem einzelnen Anbieter: Fällt ein Dienst aus oder wird zu teuer, kannst du ohne Umbau auf ein anderes Modell ausweichen. Für ein schlankes Ein-Personen-System ist das ein einfacher Weg zu mehr Ausfallsicherheit."
+       ],
+       "konkret": "Richte llm-openrouter mit einem OpenRouter-Schlüssel ein und hinterlege ein Ausweichmodell, auf das dein System bei Störungen automatisch umschalten kann.",
+       "snippetLabel": "OpenRouter in llm einrichten",
+       "snippet": "llm install llm-openrouter\nllm keys set openrouter\nllm -m openrouter/<span class=\"ph\">{anbieter/modell}</span> \"<span class=\"ph\">{Testfrage}</span>\"",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/"
       }
      ]
     }
