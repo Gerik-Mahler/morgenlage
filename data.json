@@ -2,165 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 10. September 2026",
-   "weather": "clouds",
-   "temp": "21°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt der Himmel heute überwiegend bewölkt, teils neblig-trüb, bei höchstens etwa 21 Grad. Im Mittelpunkt des Tages steht die Sitzung des Rates der Europäischen Zentralbank (EZB), die am frühen Nachmittag über die Leitzinsen im Euroraum entscheidet. In der Weltlage sorgen ein erneuter Massenandrang von Migranten an der spanischen Exklave Ceuta und ein schweres Schiffsunglück vor den Philippinen für Schlagzeilen. Dazu kommen zwei ermutigende Nachrichten aus dem Artenschutz, zwei Fortschritte aus der Forschung und ein Hinweis auf den bundesweiten Tag des offenen Denkmals am kommenden Sonntag. Am Ende findest du wie immer die Handlungsempfehlungen und den Gelegenheitsradar. Hier ist dein Briefing für heute.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Erneuter Migrationsdruck an der spanischen Exklave Ceuta",
-       "text": "An der Grenze zur spanischen Exklave Ceuta, einer kleinen spanischen Stadt auf dem afrikanischen Festland unmittelbar an Marokko, ist es zu einem erneuten Massenandrang von Migranten gekommen. Nach Angaben aus Sicherheitskreisen hatten der spanische Auslandsgeheimdienst und die Grenzbehörden bereits einen Tag zuvor vor dem Ansturm gewarnt. Ceuta gehört wie die zweite Exklave Melilla zu den einzigen Landgrenzen der Europäischen Union auf dem afrikanischen Kontinent und ist deshalb immer wieder Brennpunkt der Migration. Warum das zählt: Solche Ereignisse belasten das Verhältnis zwischen Spanien und Marokko und befeuern in der gesamten EU die Debatte über den Schutz der Außengrenzen.",
-       "source": "Euronews",
-       "url": "https://de.euronews.com/video/2026/09/10/nachrichten-des-tages-10-september-2026-morgenausgabe"
-      },
-      {
-       "title": "Schweres Schiffsunglück vor den Philippinen",
-       "text": "Vor der philippinischen Provinz Palawan, einer langgestreckten Inselgruppe im Westen des südostasiatischen Inselstaates, ist auf einem Passagierschiff ein schwerer Brand ausgebrochen. Nach offiziellen Angaben werden 87 Menschen vermisst, Rettungskräfte suchen weiter nach Überlebenden. Die Ursache des Feuers ist bislang nicht geklärt. Warum das zählt: Auf den Philippinen ist die Fähre ein wichtiges Verkehrsmittel zwischen den mehr als 7000 Inseln, und schwere Unglücke werfen regelmäßig Fragen nach der Sicherheit im Schiffsverkehr auf.",
-       "source": "Euronews",
-       "url": "https://de.euronews.com/video/2026/09/10/nachrichten-des-tages-10-september-2026-morgenausgabe"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "EZB entscheidet heute über die Leitzinsen",
-       "text": "Der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, entscheidet an diesem Donnerstag über die Höhe der Leitzinsen. Die Veröffentlichung ist für 14:15 Uhr angesetzt, um 14:45 Uhr folgt die Pressekonferenz mit EZB-Präsidentin Christine Lagarde. Volkswirte rechnen mehrheitlich mit einer Anhebung um 25 Basispunkte, also um einen viertel Prozentpunkt, wodurch der sogenannte Einlagenzins von 2,25 auf 2,50 Prozent stiege. Hintergrund ist die weiterhin erhöhte Teuerung: Im August lag die Inflationsrate im Euroraum vorläufig bei 3,3 Prozent und in Deutschland bei 2,9 Prozent, jeweils oberhalb des von der EZB angestrebten Ziels von 2,0 Prozent.",
-       "source": "LBBW",
-       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/ezb-zinsentscheid-morgen-uhrzeit-ablaufplan-10-09-2026_anet77vrx2_d.html"
-      },
-      {
-       "title": "Daimler Truck setzt auf Wasserstoff-Lastwagen",
-       "text": "Der Nutzfahrzeughersteller Daimler Truck, einer der weltweit größten Produzenten von Lastwagen und Bussen mit Sitz in Baden-Württemberg, will bis zum Ende des Jahrzehnts mehrere hundert Millionen Euro in Wasserstoff-Lkw investieren. Gemeint sind schwere Lastwagen, die mit Wasserstoff in einer Brennstoffzelle Strom für den Elektroantrieb erzeugen und dabei nur Wasserdampf ausstoßen. Warum das zählt: Der Güterverkehr auf langen Strecken gilt als schwer auf klimafreundliche Antriebe umstellbar, und die Entscheidung eines großen Herstellers sendet ein Signal an die gesamte Branche.",
-       "source": "Euronews",
-       "url": "https://de.euronews.com/video/2026/09/10/nachrichten-des-tages-10-september-2026-morgenausgabe"
-      }
-     ],
-     "merk": {
-      "text": "Steigt der Leitzins, verteuern sich in der Regel Kredite und Baufinanzierungen, während Tages- und Festgeld etwas mehr abwerfen. Ein guter Moment, die eigenen Zinskonditionen zu prüfen.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Gänsegeier auf Sardinien kehren zurück",
-       "text": "Auf der italienischen Mittelmeerinsel Sardinien hat sich der Bestand des Gänsegeiers, eines großen Aasfressers mit fast drei Metern Flügelspannweite, eindrucksvoll erholt. Waren es 2014 nur noch etwa 60 Tiere, so leben dort heute wieder mehr als 500 Gänsegeier. Möglich wurde die Rückkehr durch Schutzprogramme, gesicherte Futterplätze und den Kampf gegen vergiftete Köder. Warum das zählt: Der Fall zeigt, dass gezielter Artenschutz auch bei stark bedrohten Arten in überschaubaren Zeiträumen messbare Erfolge bringen kann.",
-       "img": "https://live.staticflickr.com/150/375776448_6955cb3bcb_b.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
-      },
-      {
-       "title": "Mehr Nachwuchs bei den Atlantischen Nordkapern",
-       "text": "Der Atlantische Nordkaper, eine stark bedrohte Walart im Nordatlantik, von der nur noch wenige hundert Tiere leben, hat die beste Fortpflanzungssaison seit 2009 verzeichnet. In diesem Jahr wurden 23 Kälber gezählt, was Fachleute als Zeichen für eine sich bessernde Gesundheit der Population werten. Warum das zählt: Jedes einzelne Jungtier ist für den Fortbestand dieser Art von großer Bedeutung, die vor allem durch Schiffskollisionen und Fischereigerät bedroht ist.",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Künstliche Intelligenz steuert Fusionsplasma in Millisekunden",
-       "text": "Forschende der US-Universität Princeton haben ein System der künstlichen Intelligenz (KI) getestet, das ein Fusionsplasma überwachen und steuern kann. Als Plasma bezeichnet man das extrem heiße, elektrisch geladene Gas, in dem bei der Kernfusion Atomkerne verschmelzen und Energie freisetzen, so wie im Inneren der Sonne. Das System reagierte den Angaben zufolge im Bereich von Millisekunden und damit weit schneller, als ein menschlicher Operateur eingreifen könnte. Warum das zählt: Die Kernfusion gilt als mögliche saubere Energiequelle der Zukunft, und die schnelle Regelung des instabilen Plasmas ist eine der größten technischen Hürden auf diesem Weg.",
-       "img": "https://live.staticflickr.com/7406/8780675994_cbc84e1f78_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Diabetes-Wirkstoff senkt womöglich Asthma-Anfälle",
-       "text": "Der Wirkstoff Semaglutid, bekannt aus den Medikamenten Ozempic und Wegovy zur Behandlung von Diabetes und Übergewicht, wird in einer großen Auswertung realer Patientendaten mit fast 40 Prozent weniger Asthma-Anfällen in Verbindung gebracht. Auch schwere Schübe der chronischen Lungenkrankheit COPD, einer dauerhaften Verengung der Atemwege, traten der Studie zufolge rund 20 Prozent seltener auf. Warum das zählt: Sollte sich der Zusammenhang in gezielten Studien bestätigen, könnte ein bereits zugelassener Wirkstoff Millionen Menschen mit Atemwegserkrankungen zusätzlich helfen.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/health_medicine/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Kühler Spätsommertag und Tag des offenen Denkmals am Sonntag",
-       "text": "In Horb am Neckar bleibt es heute mit höchstens etwa 21 Grad und dichten Wolken spürbar kühl, ein Tag, der sich eher für einen Besuch im Museum oder in der Altstadt eignet als für lange Ausflüge. Passend dazu findet am kommenden Sonntag, dem 13. September, bundesweit der Tag des offenen Denkmals statt, an dem historische Gebäude und Baudenkmäler ihre Türen für Besucher öffnen. Auch in der Region um Horb beteiligen sich üblicherweise Kirchen, Fachwerkhäuser und andere Baudenkmäler an der Aktion. Warum das zählt: Der Aktionstag ist eine gute Gelegenheit, die eigene Umgebung neu zu entdecken; die genauen Programmpunkte lohnt ein Blick in den Veranstaltungskalender der Stadt.",
-       "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
-       "source": "Stadt Horb am Neckar",
-       "url": "https://www.horb.de/Veranstaltungen"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein grauer Himmel nimmt dem Tag nichts, er macht nur die kleinen, warmen Dinge sichtbarer."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Kostenlose Mini-Werkzeuge im Browser nutzen",
-      "text": "Der bekannte Entwickler Simon Willison stellt unter tools.simonwillison.net eine wachsende Sammlung kleiner, kostenloser Werkzeuge bereit, die direkt im Browser laufen, ohne Anmeldung und ohne dass Daten an einen Server gesendet werden. Darunter sind zuletzt etwa ein Video-Komprimierer, der Videos lokal verkleinert, und ein Umrechner für Kartenprojektionen. Viele dieser Werkzeuge sind mithilfe von KI in kurzer Zeit entstanden und zeigen zugleich, wie sich einfache Alltagsaufgaben ohne teure Software lösen lassen.",
-      "why": "Für einen Solo-Unternehmer sind das sofort einsetzbare Helfer für wiederkehrende Aufgaben, kostenlos und datensparsam, und zugleich eine Vorlage dafür, eigene kleine Werkzeuge bauen zu lassen.",
-      "source": "tools.simonwillison.net",
-      "url": "https://tools.simonwillison.net/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale zeigen denselben Trend: neue Modelle und Werkzeuge lassen sich mit wenig Aufwand in eine bestehende Kommandozeilen-Umgebung einbinden.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Neues Modell in der LLM-Kommandozeile testen",
-       "tag": "Werkzeug",
-       "paras": [
-        "Simon Willison hat Version 0.35 seines Werkzeugs LLM veröffentlicht, eines Programms für die Kommandozeile, mit dem sich große Sprachmodelle direkt vom Terminal aus ansprechen lassen. Neu ist die Unterstützung für das Modell gpt-6-astra von OpenAI, sodass du verschiedene Anbieter über dieselbe Oberfläche vergleichen kannst.",
-        "Der konkrete Hebel: Du kannst dasselbe Prompt nacheinander an mehrere Modelle schicken und die Antworten nebeneinander bewerten, ohne für jeden Anbieter eine eigene Anwendung zu öffnen. Das spart Zeit bei der Auswahl des passenden Modells für eine Aufgabe."
-       ],
-       "konkret": "Aktualisiere das Werkzeug (pip install -U llm) und stelle deiner nächsten Routineaufgabe zwei Modelle gegenüber, bevor du dich festlegst.",
-       "snippetLabel": "Zwei Modelle vergleichen",
-       "snippet": "llm -m gpt-6-astra \"<span class=\"ph\">{Fasse diesen Text in drei Stichpunkten zusammen}</span>\" \\\n  && llm -m gpt-4o \"<span class=\"ph\">{Fasse diesen Text in drei Stichpunkten zusammen}</span>\"",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Sep/7/llm/",
-       "score": "hoch"
-      },
-      {
-       "icon": "layers",
-       "title": "Denk-Spuren neuer Modelle prüfen",
-       "tag": "Modell",
-       "paras": [
-        "Zu den jüngsten Neuerungen zählt, dass bei Modellen wie Claude Fable 5.1 die sogenannten Denk-Spuren, also die schrittweisen Zwischenüberlegungen des Modells, nun standardmäßig angezeigt werden. Damit wird nachvollziehbarer, wie ein Modell zu seiner Antwort gelangt.",
-        "Der konkrete Hebel: Wenn du bei einer kniffligen Aufgabe die Zwischenschritte mitliest, erkennst du früher, wo ein Modell falsch abbiegt, und kannst dein Prompt gezielt nachschärfen, statt nur das Endergebnis zu verwerfen."
-       ],
-       "konkret": "Aktiviere bei deiner nächsten anspruchsvollen Aufgabe die Anzeige der Denkschritte und notiere, an welcher Stelle die Kette kippt.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Sep/",
-       "score": "mittel"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 11. September 2026",
    "weather": "clouds",
    "temp": "22°C · neblig",
@@ -928,7 +769,6 @@
    "weather": "rain",
    "temp": "21°C · Regen",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Mittwoch Regen bei milden bis zu 21 Grad, ein Tag eher für drinnen und für einen ruhigen Blick nach vorn. In der Weltlage stellt die Europäische Kommission heute ihre Pläne für ein Mindestalter in sozialen Medien vor, während aus dem Gazastreifen neue militärische Meldungen kommen. Aus der Wirtschaft treten heute die zuletzt erhöhten Leitzinsen der Europäischen Zentralbank in Kraft, dazu ein wissenschaftlicher Fahrplan für schnelleren Umweltschutz, zwei Befunde der Hirnforschung und ein lokaler Blick auf Horb. Am Ende zwei Signale für dein System und eine Förder-Gelegenheit für Solo-Selbstständige.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1064,6 +904,161 @@
        "konkret": "Bevor du einen Teil deines Systems neu aufsetzt, schreibe erst automatische Tests für sein jetziges Verhalten und baue ihn dann in kleinen, überprüfbaren Schritten um, statt ihn komplett zu ersetzen.",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 17. September 2026",
+   "weather": "clouds",
+   "temp": "21°C · neblig-trüb",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar startet dieser Donnerstag neblig-trüb bei milden bis zu 21 Grad, ein ruhiger Morgen, der sich erst nach und nach aufklären dürfte. In der Weltlage stellt die Europäische Kommission heute ihren offiziellen Vorschlag für Altersgrenzen bei sozialen Netzwerken vor, während der US-Kongress ein neues Sanktionsgesetz gegen russische Energieexporte verabschiedet. Aus der Wirtschaft kommen vorsichtig freundlichere Signale für Deutschland, dazu ein Zeichen von Zuversicht aus dem Tierschutz, zwei Blicke in die Forschung und ein Blick auf Horb. Am Ende zwei Signale für dein System und eine zeitlich begrenzte Gelegenheit für Solo-Selbstständige.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "EU-Kommission legt offiziellen Vorschlag zu Altersgrenzen in sozialen Netzwerken vor",
+       "text": "Die Europäische Kommission, die für Gesetzesvorschläge zuständige oberste Verwaltungsbehörde der Europäischen Union (EU), stellt an diesem Donnerstag im Europäischen Parlament in Straßburg ihren offiziellen Vorschlag für einheitliche Regeln zum Schutz von Kindern in sozialen Netzwerken vor. Kommissionspräsidentin Ursula von der Leyen will erreichen, dass soziale Medien für Kinder unter 13 Jahren europaweit grundsätzlich tabu sind und ältere Jugendliche nur mit Zustimmung der Eltern Zugang erhalten. Soziale Netzwerke sind Online-Dienste wie Videoplattformen oder Chat-Apps, über die Nutzer Inhalte teilen und miteinander in Kontakt treten. Zur Prüfung des Alters ist ein europaweites System im Gespräch, das das Alter bestätigt, ohne die vollständige Identität an die Plattform weiterzugeben. Warum das zählt: Aus dem gestern noch als Entwurf bekannten Vorhaben wird heute ein förmlicher Vorschlag, der den Alltag von Familien und die Regeln für Video-, Spiele- und Chatdienste in ganz Europa verändern könnte.",
+       "source": "news.de / Europäische Kommission",
+       "url": "https://www.news.de/panorama/860000837/17-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "US-Kongress verabschiedet Sanktionsgesetz gegen russische Energieexporte",
+       "text": "Der Kongress der Vereinigten Staaten, das aus zwei Kammern bestehende Parlament der USA, hat ein neues Sanktionsgesetz gebilligt, das die Ausfuhr von russischem Öl und Gas weiter eindämmen soll. Sanktionen sind gezielte wirtschaftliche Strafmaßnahmen, mit denen Staaten ein Land unter Druck setzen, hier mit Blick auf den anhaltenden russischen Krieg gegen die Ukraine. Das Gesetz zielt darauf, die Einnahmen Russlands aus dem Energiegeschäft zu verringern, aus denen ein großer Teil der Kriegskosten bezahlt wird. Wie stark die Maßnahmen wirken, hängt davon ab, ob sich weitere Abnehmerländer anschließen. Warum das zählt: Beschränkungen für russisches Öl und Gas können die Preise auf den Weltmärkten bewegen und damit mittelbar auch die Energiekosten in Europa berühren.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860000837/17-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Deutsche Konjunktur sendet ein Lebenszeichen",
+       "text": "Die deutsche Wirtschaft entwickelt sich derzeit besser als befürchtet. Der ZEW-Index, eine viel beachtete monatliche Umfrage des Zentrums für Europäische Wirtschaftsforschung (ZEW) in Mannheim unter Fachleuten aus Finanzwelt und Wirtschaft, ist im September 2026 leicht gestiegen; die Einschätzung der aktuellen Lage zog deutlicher an, blieb aber weiter im negativen Bereich. Nach einer Analyse der Landesbank Baden-Württemberg (LBBW) hat Deutschland den Energiepreisschock in Folge des Iran-Kriegs vergleichsweise gut verkraftet, weshalb die Wachstumserwartung für das laufende Jahr moderat von 0,5 auf 0,7 Prozent angehoben wurde. Rückenwind kommt vor allem vom Außenhandel, während die Binnennachfrage, also der Konsum und die Investitionen im Inland, weiterhin schwach ist. Warum das zählt: Eine etwas festere Konjunktur bedeutet für kleine Unternehmen tendenziell stabilere Auftragslagen, auch wenn die Erholung noch zaghaft und ungleich verteilt ist.",
+       "source": "LBBW / ZEW",
+       "url": "https://www.lbbw.de/artikel/webkonferenzen/lbbw-kapitalmarktkompass-september-2026_ando5tivha_d.html"
+      },
+      {
+       "title": "US-Notenbank hebt ihren Leitzins an",
+       "text": "Die US-Notenbank Federal Reserve, kurz Fed genannt, die die Geldpolitik der Vereinigten Staaten steuert, hat ihren Leitzins auf eine Spanne von 3,75 bis 4,00 Prozent angehoben, um die noch erhöhte Teuerung zu dämpfen. Der Leitzins ist der zentrale Zinssatz, mit dem eine Notenbank die Kosten von Krediten in der gesamten Volkswirtschaft steuert. Höhere Zinsen in den USA können den US-Dollar stärken und die Bedingungen an den internationalen Finanzmärkten straffen, was auch in Europa spürbar wird. Warum das zählt: Die Zinsentscheidungen der beiden größten Notenbanken, der US-Notenbank Fed und der Europäischen Zentralbank, prägen gemeinsam die Rahmenbedingungen für Kredite, Wechselkurse und Investitionen weltweit.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860000837/17-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ],
+     "merk": {
+      "text": "Die Bundesbank rechnet für das dritte Quartal wegen der schwachen Binnennachfrage und niedriger Flusspegel bestenfalls mit einem kleinen Plus; die Erholung steht also noch auf schmalen Füßen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Kasachstan bringt den Kaspischen Tiger zurück",
+       "text": "In Zentralasien nimmt ein ungewöhnliches Naturschutzprojekt Gestalt an: Kasachstan arbeitet daran, den Kaspischen Tiger wieder anzusiedeln, eine große Raubkatze, die in der Region seit rund einem halben Jahrhundert als ausgestorben gilt. Möglich wird das, weil der eng verwandte Amur-Tiger, der im Fernen Osten Russlands lebt, als Ersatz für den verschwundenen Unterart-Verwandten dienen kann. Voraussetzung war, zunächst ausgedehnte Schutzgebiete am Fluss Ili und am Balchaschsee einzurichten und die Bestände von Beutetieren wie Wildschweinen und Hirschen wieder aufzubauen. Warum das zählt: Das Vorhaben zeigt, dass sich verloren geglaubte Naturräume mit Geduld und Planung zurückgewinnen lassen, und macht Mut, dass Artenschutz nicht nur Verluste verwalten muss.",
+       "img": "https://cdn.stocksnap.io/img-thumbs/960w/ARCVR3GFHW.jpg",
+       "source": "Good News Network",
+       "url": "https://www.goodnewsnetwork.org/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung",
+     "items": [
+      {
+       "title": "Forschende rekonstruieren Videobilder aus der Hirnaktivität von Mäusen",
+       "text": "Einem Forschungsteam ist es gelungen, kurze Videoclips allein aus der Aktivität von Nervenzellen im Sehzentrum von Mäusen zu rekonstruieren. Als Sehzentrum, im Fachbegriff visueller Kortex, wird der Teil der Großhirnrinde bezeichnet, der eintreffende Bildinformationen verarbeitet. Die Fachleute zeichneten die Signale einzelner Nervenzellen auf, während die Tiere Filme betrachteten, und errechneten daraus etwa zehn Sekunden lange Videos, die dem tatsächlich Gesehenen nahekommen. Warum das zählt: Solche Verfahren helfen zu verstehen, wie das Gehirn Bilder verarbeitet, und könnten langfristig die Entwicklung von Hilfsmitteln für Menschen mit schweren Wahrnehmungs- oder Bewegungseinschränkungen voranbringen.",
+       "img": "https://live.staticflickr.com/1574/24169282966_5509467a2a_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/mind_brain/"
+      },
+      {
+       "title": "Winde aus einem gewaltigen Schwarzen Loch sind stärker als gedacht",
+       "text": "Astronominnen und Astronomen haben festgestellt, dass die Winde, die von einem sogenannten supermassereichen Schwarzen Loch ausgehen, etwa hundertmal kräftiger sind als bislang angenommen. Ein Schwarzes Loch ist ein Bereich im Weltall, in dem die Schwerkraft so stark ist, dass nicht einmal Licht entkommt; supermassereich heißt, dass es die millionen- bis milliardenfache Masse unserer Sonne besitzt und im Zentrum großer Galaxien sitzt. Solche Winde sind Ströme aus heißem Gas, die das Schwarze Loch mit großer Wucht hinausschleudert. Warum das zählt: Diese Gasströme beeinflussen, wie viele neue Sterne in einer Galaxie entstehen, und der Befund verändert das Bild davon, wie sich ganze Galaxien im Lauf der Zeit entwickeln.",
+       "img": "https://live.staticflickr.com/3114/5836930750_86469ff58a_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Neblig-trüber Donnerstag, dazu Termine in Stadt und Umland",
+       "text": "In Horb am Neckar beginnt dieser Donnerstag neblig-trüb bei milden bis zu 21 Grad; über dem Neckartal dürfte sich der Dunst erst im Lauf des Vormittags lichten, ein guter Tag für Erledigungen in Ruhe. Wer handwerklich unterwegs ist, findet heute und morgen, am 17. und 18. September jeweils von 11 bis 18 Uhr, beim Globus Baumarkt in Horb eine Fachberatung rund um Motoröl des Herstellers Liqui Moly, am Samstag, dem 19., von 10 bis 16 Uhr. In der weiteren Umgebung lädt am 19. September das mittelalterliche Burgfest auf Burg Stettenfels im nahen Untergruppenbach ein, und am 20. September folgt der Naturpark-Markt in Dornhan. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, die eigene Woche in Ruhe und ohne Hektik zu planen.",
+       "img": "https://live.staticflickr.com/2792/4086903249_18df8bd0b1_b.jpg",
+       "source": "meinestadt / Globus Baumarkt",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Morgen im Nebel verlangt keine Eile; er lädt ein, den ersten Schritt bewusst zu setzen und den Tag klarer werden zu lassen, während man geht."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose KI-Beratung der Mittelstand-Digital Zentren",
+      "text": "Die Mittelstand-Digital Zentren sind ein bundesweites Netz von Anlaufstellen, das vom Bundesministerium für Wirtschaft finanziert wird und kleine Unternehmen sowie Selbstständige kostenlos und herstellerneutral bei der Digitalisierung unterstützt. Ein Schwerpunkt liegt inzwischen ausdrücklich auf dem praktischen Einsatz von Künstlicher Intelligenz (KI), also von Computerprogrammen, die Aufgaben übernehmen, für die sonst menschliche Urteilskraft nötig wäre. Angeboten werden unter anderem kostenfreie Erstgespräche, praxisnahe Workshops und begleitete Testprojekte. Zu beachten ist, dass die Zentren in ihrer heutigen Form nach derzeitigem Stand nur bis Ende 2026 gefördert sind.",
+      "why": "Für ein Ein-Personen-Unternehmen ist das ein risikofreier Weg, den eigenen KI-Einsatz von unabhängiger Seite prüfen und sortieren zu lassen, ohne Beratungshonorar. Weil die aktuelle Förderphase Ende 2026 ausläuft, lohnt es sich, ein Erstgespräch eher früher als später zu vereinbaren.",
+      "source": "Mittelstand-Digital",
+      "url": "https://www.mittelstand-digital.de/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Gegen kommende Versionen testen, bevor sie erscheinen",
+       "tag": "Arbeitsweise",
+       "paras": [
+        "Der Entwickler Simon Willison beschreibt in einer Notiz vom 1. September, wie er seine Programme frühzeitig gegen sogenannte Release Candidates von Python testet. Ein Release Candidate ist eine noch nicht endgültige Vorabversion einer Software, die schon fast fertig ist und vor allem dem letzten Test dient; Python ist die Programmiersprache, in der viele KI- und Automatisierungswerkzeuge geschrieben sind.",
+        "Der Hebel dahinter ist allgemein: Wenn deine automatischen Prüfläufe, im Fachjargon Continuous Integration oder kurz CI, zusätzlich gegen die nächste, noch kommende Version einer Grundlage laufen, bemerkst du Unverträglichkeiten Wochen vor dem offiziellen Wechsel, statt an dem Tag, an dem plötzlich etwas stehenbleibt. Für ein schlankes Ein-Personen-System senkt das die Gefahr böser Überraschungen erheblich."
+       ],
+       "konkret": "Ergänze in deinen automatischen Prüfläufen eine Variante, die gegen die jeweils nächste, noch unfertige Version deiner wichtigsten Grundlage läuft, damit Unverträglichkeiten früh auffallen, statt beim Zwangswechsel.",
+       "snippetLabel": "GitHub-Actions: auch Vorabversionen testen",
+       "snippet": "- uses: actions/setup-python@v5\n  with:\n    python-version: \"<span class=\"ph\">{3.15}</span>\"\n    allow-prereleases: true\n    check-latest: true",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Den Agenten bereits installierte Werkzeuge nutzen lassen",
+       "tag": "Automatisierung",
+       "paras": [
+        "In mehreren Notizen aus dem September zeigt Simon Willison, wie er einem Coding-Agenten Aufgaben übergibt, indem dieser bereits auf dem Rechner vorhandene Programme selbst bedient. Ein Coding-Agent ist ein KI-Assistent, der eigenständig Befehle ausführen und Programme steuern kann. In einem Beispiel wies er den Agenten an, das schon installierte 3D-Programm Blender direkt zum Erzeugen von Bildern zu verwenden, statt eine eigene Lösung nachzubauen.",
+        "Der übertragbare Grundsatz: Wo ein zuverlässiges Werkzeug bereits vorhanden ist, spart es Zeit und Fehler, den Agenten dieses bedienen zu lassen, statt die Funktion neu zu programmieren. In Willisons Beispiel entstanden aufwendige Bilder für rund vier US-Dollar an Rechenkosten. Für dein System heißt das, vorhandene, geprüfte Programme als Bausteine zu behandeln, die der Agent ansteuert."
+       ],
+       "konkret": "Bevor du eine neue Funktion nachbaust, prüfe, ob ein zuverlässiges Programm dafür schon installiert ist, und formuliere die Aufgabe so, dass dein Agent genau dieses Werkzeug bedient.",
+       "snippetLabel": "Auftrag an den Agenten",
+       "snippet": "Nutze das bereits installierte <span class=\"ph\">{Programm}</span>, um <span class=\"ph\">{Aufgabe}</span> zu erledigen; baue keine eigene Lösung nach, sondern steuere das vorhandene Werkzeug.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
       }
      ]
     }
