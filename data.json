@@ -2,139 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Freitag, 11. September 2026",
-   "weather": "clouds",
-   "temp": "22°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über dem Neckartal liegt heute früh dichter Nebel, das Thermometer zeigt milde 22 Grad, im Lauf des Vormittags kann sich der Dunst lichten. Ein Tag mit einem symbolträchtigen Datum in der Welt und einem handfesten Termin direkt vor der Haustür in Horb. Hier ist deine Morgenlage.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "25 Jahre nach dem 11. September",
-       "text": "Heute jährt sich zum 25. Mal der 11. September 2001, an dem Attentäter des islamistischen Terrornetzwerks Al-Qaida (arabisch für die Basis) in den USA vier Passagierflugzeuge entführten und die beiden Türme des World Trade Center in New York sowie einen Teil des Pentagon, des US-Verteidigungsministeriums bei Washington, zerstörten. Fast 3000 Menschen kamen damals ums Leben. In New York verlesen Angehörige an der Gedenkstätte Ground Zero (englisch für den Ort des Einschlags) die Namen der Toten, am Pentagon wird eine Gedenkfeier abgehalten. Der Tag gilt als Wendepunkt, der die Sicherheitspolitik vieler westlicher Staaten bis heute prägt.",
-       "source": "Euronews",
-       "url": "https://de.euronews.com/video/2026/09/11/nachrichten-des-tages-11-september-2026-morgenausgabe"
-      },
-      {
-       "title": "Spannungen am Persischen Golf",
-       "text": "Im Nahen Osten hat sich die Lage zwischen den USA und dem Iran zugespitzt. Nach Darstellung des US-Regionalkommandos CENTCOM (Central Command, der für den Nahen Osten zuständige Militärstab) sollen iranische Revolutionsgarden (IRGC, die dem obersten Führer unterstellte Eliteeinheit) zweimal Raketen in Richtung eines US-Kriegsschiffs abgefeuert haben. Die US-Streitkräfte reagierten nach eigenen Angaben mit Gegenschlägen, warnten die Besatzungen aber vorab. Verlässliche unabhängige Bestätigungen der Einzelheiten stehen aus, weshalb die Meldung mit Vorsicht einzuordnen ist. Für die Schifffahrt in der Region bedeutet die Eskalation ein erhöhtes Risiko.",
-       "source": "Euronews",
-       "url": "https://www.euronews.com/news/international"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "EZB hebt die Zinsen erneut an",
-       "text": "Die Europäische Zentralbank (EZB), die für den Euroraum die Geldpolitik bestimmt, hat am gestrigen 10. September ihre Leitzinsen um 25 Basispunkte (ein Basispunkt ist ein Hundertstel Prozentpunkt) angehoben. Hintergrund ist die zähe Inflation, also der allgemeine Anstieg der Preise: Im August lag sie im Euroraum vorläufig bei 3,3 Prozent und in Deutschland bei 2,9 Prozent, jeweils deutlich über dem Ziel der EZB von 2,0 Prozent. Mit diesem Schritt schließt die Notenbank einen der kürzesten Zinserhöhungszyklen seit 2011 ab. Höhere Leitzinsen verteuern Kredite und machen Sparen etwas attraktiver, bremsen aber tendenziell die Konjunktur.",
-       "source": "LBBW",
-       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-september-2026_ando7c1xsi_d.html"
-      }
-     ],
-     "merk": {
-      "text": "Für dich als Selbstständigen heißt das: laufende oder geplante Finanzierungen jetzt gegen den neuen, höheren Zinssatz durchrechnen, kurzfristige Liquidität eher fest verzinst parken.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Abnehmspritze schützt offenbar auch die Lunge",
-       "text": "Eine große Auswertung echter Behandlungsdaten deutet darauf hin, dass der Wirkstoff Semaglutid, bekannt aus den Diabetes- und Abnehmmitteln Ozempic und Wegovy, weit über den Stoffwechsel hinaus wirkt. Menschen, die das Mittel erhielten, hatten in der Studie fast 40 Prozent weniger Asthmaanfälle, also akute Verengungen der Atemwege, und rund 20 Prozent weniger Schübe bei COPD, der chronisch obstruktiven Lungenerkrankung, einer dauerhaften Verengung der Bronchien. Warum das so ist, muss noch genauer erforscht werden, vermutet wird ein entzündungshemmender Effekt. Sollte sich der Befund in kontrollierten Studien bestätigen, könnte er Millionen Atemwegskranken helfen.",
-       "img": "https://live.staticflickr.com/7384/10825843016_650550d46a_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/health_medicine/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Quantenrechner löst eine bislang unerreichte Aufgabe",
-       "text": "Forscher des Technologiekonzerns IBM und der University of Chicago berichten, sie hätten mit einem Quantencomputer eine Berechnung durchgeführt, die sich mit den besten herkömmlichen Computern praktisch nicht nachbilden lasse. Ein Quantencomputer nutzt sogenannte Qubits, quantenmechanische Recheneinheiten, die anders als klassische Bits mehrere Zustände zugleich abbilden können. Der eigentliche Fortschritt liegt laut den Beteiligten in rund 70 fehlerkorrigierten logischen Qubits, also stabilen Recheneinheiten, die aus vielen fehleranfälligen physikalischen zusammengesetzt sind und Rechenfehler ausgleichen. Fehlerkorrektur gilt als die entscheidende Hürde auf dem Weg zu praktisch nutzbaren Quantencomputern. Bis zu Anwendungen im Alltag ist es weiterhin ein weiter Weg.",
-       "img": "https://live.staticflickr.com/4262/35388675155_1eeb6deeb7_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Offene Baustelle der Hochbrücke am Wochenende",
-       "text": "Am morgigen Samstag, 12. September, und am Sonntag, 13. September, öffnet die Baustelle der neuen Hochbrücke Horb jeweils von 10 bis 17 Uhr für Besucher. Die Hochbrücke ist das Kernstück der geplanten Ortsumfahrung im Zuge der Bundesstraße B 32 und eines der größten Infrastrukturprojekte in Baden-Württemberg. Die offene Baustelle findet im Rahmen des Horber Stadtfestes statt und steht unter dem Motto Horb verbindet, Eine Stadt, Eine Brücke. Wenn sich der morgendliche Nebel wie erwartet lichtet, ist das ein guter Anlass, einmal aus nächster Nähe hinter die Kulissen zu schauen.",
-       "img": "https://live.staticflickr.com/5636/20580687334_9f655c4c55_b.jpg",
-       "source": "Stadt Horb",
-       "url": "https://hochbruecke-horb.de/"
-      },
-      {
-       "title": "RuheWald Horb wird zehn Jahre alt",
-       "text": "Der RuheWald Horb, ein Bestattungswald, in dem Verstorbene naturnah an den Wurzeln von Bäumen beigesetzt werden können, feiert sein zehnjähriges Bestehen. Die Stadt Horb lädt dazu am Sonntag, 20. September, zu einem Gedenken ein. Solche Waldfriedhöfe sind in den vergangenen Jahren als naturverbundene Alternative zur klassischen Grabstätte immer beliebter geworden. Der Termin liegt noch etwas voraus, ist aber gut zum Vormerken.",
-       "source": "Stadt Horb",
-       "url": "https://www.horb.de/Stadtnachrichten"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein Datum, das an Zerstörung erinnert, und eine Brücke im eigenen Tal, die verbinden soll, an einem Morgen ist Platz für beides."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Digitalisierungsfinanzierung des Landes Baden-Württemberg",
-      "text": "Die frühere Zuschussvariante der Digitalisierungsprämie Plus, ein direkter Barzuschuss, ist zum 30. Juni 2025 ausgelaufen. An ihre Stelle ist die neue Digitalisierungsfinanzierung getreten, ein zinsverbilligtes Darlehen (Kredit) der L-Bank, der Landeskreditbank Baden-Württemberg, in Zusammenarbeit mit der KfW, der bundeseigenen Kreditanstalt für Wiederaufbau. Gefördert werden gewerbliche Unternehmen und Freie Berufe aller Branchen mit bis zu 500 Beschäftigten, die in Baden-Württemberg investieren, mit Darlehen bis zu 100.000 Euro; nach erfolgreichem Abschluss mindert ein Tilgungszuschuss die Rückzahlung.",
-      "why": "Software, KI-Anwendungen und begleitende Dienstleistungen sind ausdrücklich förderfähig, reine Webseitenerstellung dagegen nicht. Für den Ausbau deines eigenen Systems könnte das ein günstiger Finanzierungshebel sein. Beantragt wird über die Hausbank, ein erstes Gespräch dort kostet nichts.",
-      "source": "L-Bank",
-      "url": "https://www.l-bank.de/produkte/wirtschaftsfoerderung/digitalisierungsfinanzierung.html"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Passt gut zu deinem bestehenden generate.md, das im Grunde bereits eine solche Skill ist.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Claude Skills als Baustein für dein System prüfen",
-       "tag": "KI-Werkzeug",
-       "paras": [
-        "Der Entwickler Simon Willison, ein bekannter Beobachter der KI-Szene und Mitbegründer des Web-Frameworks Django, nennt die neuen Claude Skills sinngemäß beeindruckend und womöglich bedeutender als MCP, das Model Context Protocol (ein offener Standard, über den KI-Modelle mit externen Werkzeugen und Datenquellen sprechen).",
-        "Eine Skill ist schlicht ein Ordner mit einer Anleitung, optionalen Skripten und Hilfsdateien. Das Modell lädt ihn nur dann, wenn er zur Aufgabe passt. Das hält den Kontext schlank und macht wiederkehrende Spezialaufgaben zuverlässiger, etwa das Erzeugen dieses Briefings nach festen Regeln."
-       ],
-       "konkret": "Wandle wiederkehrende Abläufe deines Systems in einzelne, klar benannte Skills mit je einer SKILL.md um, statt alle Regeln in einen großen Prompt zu packen.",
-       "snippetLabel": "Gerüst für eine SKILL.md",
-       "snippet": "---\nname: <span class=\"ph\">{ briefing-morgenlage }</span>\ndescription: <span class=\"ph\">{ Wann diese Skill geladen werden soll, in einem Satz }</span>\n---\n\n# Zweck\n<span class=\"ph\">{ Was die Skill tut }</span>\n\n# Schritte\n1. <span class=\"ph\">{ erster Schritt }</span>\n2. <span class=\"ph\">{ zweiter Schritt }</span>\n\n# Regeln\n- <span class=\"ph\">{ verbindliche Vorgaben, z. B. echte Umlaute }</span>",
-       "source": "Simon Willison",
-       "url": "https://simonw.substack.com/p/claude-skills-are-awesome-maybe-a"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Samstag, 12. September 2026",
    "weather": "clouds",
    "temp": "23°C · neblig",
@@ -914,7 +781,6 @@
    "weather": "clouds",
    "temp": "21°C · neblig-trüb",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar startet dieser Donnerstag neblig-trüb bei milden bis zu 21 Grad, ein ruhiger Morgen, der sich erst nach und nach aufklären dürfte. In der Weltlage stellt die Europäische Kommission heute ihren offiziellen Vorschlag für Altersgrenzen bei sozialen Netzwerken vor, während der US-Kongress ein neues Sanktionsgesetz gegen russische Energieexporte verabschiedet. Aus der Wirtschaft kommen vorsichtig freundlichere Signale für Deutschland, dazu ein Zeichen von Zuversicht aus dem Tierschutz, zwei Blicke in die Forschung und ein Blick auf Horb. Am Ende zwei Signale für dein System und eine zeitlich begrenzte Gelegenheit für Solo-Selbstständige.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1057,6 +923,159 @@
        "konkret": "Bevor du eine neue Funktion nachbaust, prüfe, ob ein zuverlässiges Programm dafür schon installiert ist, und formuliere die Aufgabe so, dass dein Agent genau dieses Werkzeug bedient.",
        "snippetLabel": "Auftrag an den Agenten",
        "snippet": "Nutze das bereits installierte <span class=\"ph\">{Programm}</span>, um <span class=\"ph\">{Aufgabe}</span> zu erledigen; baue keine eigene Lösung nach, sondern steuere das vorhandene Werkzeug.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Freitag, 18. September 2026",
+   "weather": "clouds",
+   "temp": "19°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser Freitag neblig bei milden bis zu 19 Grad, ein ruhiger Morgen, an dem sich der Dunst über dem Neckartal erst im Lauf des Vormittags lichten dürfte. In der Weltlage weiht Dänemark heute den ersten großtechnischen Speicher für Kohlendioxid unter der Nordsee ein, während das Umweltbundesamt in Deutschland einen rascheren Umstieg auf Elektroautos anmahnt. Aus der Wirtschaft kommen die jüngste Zinserhöhung der Europäischen Zentralbank und eine angehobene Wachstumsprognose der deutschen Industrie, dazu ein bewegender Lichtblick aus der Jugendhilfe, zwei Blicke in die Forschung und ein Blick auf Horb. Am Ende zwei Signale für dein System und eine geförderte Weiterbildungsgelegenheit für Solo-Selbstständige.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Dänemark weiht ersten großen CO2-Speicher unter der Nordsee ein",
+       "text": "In der dänischen Hafenstadt Esbjerg wird an diesem Freitag das Projekt Greensand offiziell in Betrieb genommen, der erste großtechnische Speicher für Kohlendioxid unter dem Meeresboden in der Europäischen Union. Kohlendioxid, kurz CO2, ist das farblose Gas, das bei der Verbrennung von Kohle, Öl und Gas entsteht und als Haupttreiber der Erderwärmung gilt. Bei dem Verfahren, im Fachbegriff CCS für Carbon Capture and Storage, wird das Gas an Industrieanlagen abgeschieden, verflüssigt und über eine Leitung rund 1.800 Meter tief in ein leergefördertes Erdölfeld etwa 240 Kilometer vor der Küste gepresst, wo es dauerhaft eingeschlossen bleiben soll. Der dänische König Frederik X. eröffnet die Anlage, die zunächst bis zu 400.000 Tonnen CO2 pro Jahr aufnehmen soll. Warum das zählt: Ob sich solche unterirdischen Speicher als sicherer und bezahlbarer Baustein im Klimaschutz bewähren, wird auch darüber mitentscheiden, wie Europa mit den Abgasen schwer vermeidbarer Industriezweige wie der Zement- und Stahlerzeugung umgeht.",
+       "source": "State of Green / INEOS",
+       "url": "https://stateofgreen.com/en/news/denmark-approves-first-co2-storage-facility/"
+      },
+      {
+       "title": "Umweltbundesamt mahnt schnelleren Umstieg auf Elektroautos an",
+       "text": "Angesichts anhaltend hoher Kraftstoffpreise fordert das Umweltbundesamt (UBA), die zentrale Umweltbehörde der Bundesrepublik, einen zügigeren Wechsel hin zur Elektromobilität, also zu Fahrzeugen mit Elektroantrieb statt Benzin- oder Dieselmotor. Nach Einschätzung der Behörde greifen kurzfristige Entlastungen wie ein Tankrabatt oder Steuerbefreiungen zu kurz und seien zugleich teuer, weil sie die Abhängigkeit vom Öl nicht verringern. Stattdessen plädiert das Amt dafür, den Ausbau von Ladepunkten und die Anreize für sparsame Fahrzeuge in den Vordergrund zu stellen. Warum das zählt: Für Pendler und kleine Betriebe auf dem Land, wo das Auto oft unverzichtbar ist, hängt an solchen Weichenstellungen unmittelbar, wie sich die Mobilitätskosten der kommenden Jahre entwickeln.",
+       "source": "news.de / Umweltbundesamt",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Europäische Zentralbank hebt die Leitzinsen erneut an",
+       "text": "Die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank der Währungsunion, hat auf ihrer Sitzung am 10. September ihre Leitzinsen um 0,25 Prozentpunkte erhöht; der für Sparer und Kredite maßgebliche Einlagensatz liegt seither bei 2,50 Prozent. Leitzinsen sind die zentralen Zinssätze, mit denen eine Notenbank steuert, wie teuer Geld in der gesamten Volkswirtschaft ist. Grund ist die wieder anziehende Teuerung: Die Inflation im Euroraum, also der allgemeine Anstieg der Verbraucherpreise, war im August auf 3,3 Prozent geklettert, nach 2,9 Prozent im Juli. Für das laufende Jahr rechnet die EZB mit einem Wachstum von 0,9 Prozent im Euroraum. Warum das zählt: Höhere Zinsen verteuern Kredite und Investitionen, dämpfen aber die Preissteigerung, sodass die nächste Sitzung am 29. Oktober mit Spannung erwartet wird.",
+       "source": "LBBW / EZB",
+       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/ezb-zinsentscheid-leitzins-prognosen_ait4bfmrfe_d.html"
+      },
+      {
+       "title": "Deutsche Industrie hebt ihre Wachstumsprognose an",
+       "text": "Der Bundesverband der Deutschen Industrie (BDI), der Dachverband der Industrieunternehmen in Deutschland, hat seine Erwartung für die Wirtschaftsleistung des laufenden Jahres angehoben. Als Begründung nennt der Verband eine etwas robustere Nachfrage aus dem Ausland und die bislang glimpflich verkrafteten Folgen der jüngsten Energiepreisschwankungen. Zugleich bleibt der Verband vorsichtig, weil die Binnennachfrage, also der Konsum und die Investitionen im Inland, weiterhin schwach ist und geopolitische Risiken die Erholung jederzeit bremsen könnten. Warum das zählt: Eine etwas festere Industriekonjunktur bedeutet für kleine Unternehmen und Zulieferer tendenziell stabilere Auftragslagen, auch wenn die Erholung noch zaghaft bleibt.",
+       "source": "ZDF / BDI",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ],
+     "merk": {
+      "text": "Steigende Leitzinsen und eine nur zaghafte Binnennachfrage wirken gegenläufig: Die Konjunktur stützt sich derzeit vor allem auf den Export, während höhere Finanzierungskosten Investitionen im Inland bremsen können.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Christian Bale eröffnet Pflegedorf, das Geschwister zusammenhält",
+       "text": "Der Schauspieler Christian Bale, bekannt aus Kinofilmen wie den Batman-Verfilmungen, hat in Palmdale im US-Bundesstaat Kalifornien ein Dorf für Kinder in Pflege eröffnet, das gezielt Geschwister zusammen unterbringt. Together California, so der Name der Einrichtung, umfasst zwölf möblierte Häuser auf einem Gelände von rund 1.000 Quadratmetern und ist nach Angaben der Organisatoren das erste Projekt seiner Art in Kalifornien. Der Hintergrund: Im üblichen Pflegesystem werden Brüder und Schwestern häufig getrennt untergebracht, was den ohnehin schweren Wechsel für die Kinder zusätzlich belastet. Bale hatte fast zwei Jahrzehnte auf die Verwirklichung des Vorhabens hingearbeitet; die ersten Kinder sollen im kommenden Monat einziehen. Warum das zählt: Das Projekt zeigt, wie ein hartnäckig verfolgtes Vorhaben eine bekannte Lücke im Kinderschutz schließen und Geschwistern in einer schwierigen Lebensphase Halt geben kann.",
+       "img": "https://live.staticflickr.com/4153/5082497097_c3a8bdd071_b.jpg",
+       "source": "Good News Network",
+       "url": "https://www.goodnewsnetwork.org/christian-bale-opens-long-dreamed-of-foster-care-village-aimed-at-keeping-siblings-together/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung",
+     "items": [
+      {
+       "title": "Das Gehirn ordnet sein Erbgut ab der Lebensmitte neu",
+       "text": "Ein Forschungsteam hat umfangreiche Veränderungen darin entdeckt, wie das menschliche Gehirn ab der Lebensmitte sein Erbgut steuert und organisiert. Als Erbgut, im Fachbegriff Genom, wird die Gesamtheit der Erbinformationen in jeder Zelle bezeichnet; entscheidend ist dabei nicht nur, welche Gene vorhanden sind, sondern auch, welche gerade an- oder abgeschaltet werden. Die Fachleute fanden, dass sich diese Steuerung etwa ab dem mittleren Lebensalter deutlich verschiebt, und sehen darin einen möglichen Grund, warum das Risiko für Alzheimer und andere Nervenerkrankungen mit dem Alter stark ansteigt. Alzheimer ist die häufigste Form der Demenz, bei der Nervenzellen im Gehirn nach und nach absterben. Warum das zählt: Wer versteht, wann und wie diese Umbauprozesse einsetzen, kann gezielter nach Ansatzpunkten suchen, um dem geistigen Abbau im Alter vorzubeugen.",
+       "img": "https://live.staticflickr.com/7064/6772887666_cbaece5706.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/mind_brain/"
+      },
+      {
+       "title": "Quantenrechnungen werden mehr als tausendfach beschleunigt",
+       "text": "Forschende haben einen Weg gefunden, bestimmte Rechenschritte auf einem Quantencomputer mehr als tausendmal schneller auszuführen als bisher, indem sie tausende wiederholte Steuerungszyklen zu einem einzigen zusammenfassen. Ein Quantencomputer ist ein neuartiger Rechnertyp, der die Gesetze der Quantenphysik nutzt und bestimmte Aufgaben grundsätzlich anders löst als ein herkömmlicher Computer. Bislang mussten für viele Operationen sehr viele einzelne Steuerimpulse nacheinander gesendet werden, was Zeit kostete und Fehler begünstigte. Warum das zählt: Schnellere und fehlerärmere Grundoperationen sind eine Voraussetzung dafür, dass Quantencomputer eines Tages praktische Probleme etwa in Chemie und Werkstoffforschung lösen können.",
+       "img": "https://live.staticflickr.com/26/64846389_6a063f8239_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Nebliger Freitag, dazu Termine am Wochenende in Stadt und Umland",
+       "text": "In Horb am Neckar beginnt dieser Freitag neblig bei milden bis zu 19 Grad; über dem Neckartal dürfte sich der Dunst erst im Lauf des Vormittags lichten, ein ruhiger Tag für Erledigungen ohne Hektik. Am Wochenende lohnt der Blick ins Umland: Am Samstag, dem 19. September, lädt das mittelalterliche Burgfest auf Burg Stettenfels im nahen Untergruppenbach ein, und am Sonntag, dem 20. September, folgt der Naturpark-Markt in Dornhan mit regionalen Erzeugern. In Horb selbst findet am Sonntag zudem eine Gedenkfeier für den RuheWald statt, einen Bestattungswald der Stadt. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, das Wochenende in Ruhe und nach den eigenen Vorlieben zu planen.",
+       "img": "https://live.staticflickr.com/624/22417442237_044f3da345_b.jpg",
+       "source": "meinestadt / Stadt Horb",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Nebel nimmt der Landschaft nichts, er zeigt sie nur langsamer; wer den ersten Schritt ruhig setzt, sieht den Weg klarer werden, während er geht."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Geförderte KI-Weiterbildung für Solo-Selbstständige (KOMPASS)",
+      "text": "Das Programm KOMPASS, kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige, ist eine Förderung der Bundesagentur für Arbeit, die gezielt Einzelunternehmerinnen und Einzelunternehmer bei der beruflichen Weiterbildung unterstützt. Gefördert werden auch Kurse rund um Künstliche Intelligenz (KI) und Digitalisierung, wobei ein großer Teil der Kurskosten bis zu einer Obergrenze von rund 4.500 Euro übernommen wird. Die Antragstellung läuft über eine der anerkannten Anlaufstellen, und wichtig ist, dass die Weiterbildung erst nach der Bewilligung beginnen darf; die Bearbeitung dauert in der Regel einige Wochen.",
+      "why": "Für ein Ein-Personen-Unternehmen ist das ein günstiger Weg, gezielt KI-Kompetenz aufzubauen, ohne die Kosten allein zu tragen. Weil die Bewilligung Vorlauf braucht und die Fördertöpfe begrenzt sind, lohnt es sich, ein passendes Angebot frühzeitig auszuwählen und den Antrag rechtzeitig zu stellen.",
+      "source": "Bundesagentur für Arbeit (KOMPASS)",
+      "url": "https://www.arbeitsagentur.de/vor-ort/rd-bw/kompass"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Vorhandene Spezialwerkzeuge im Browser nutzbar machen",
+       "tag": "Automatisierung",
+       "paras": [
+        "Der Entwickler Simon Willison beschreibt in mehreren Notizen aus dem September, wie er sich mit einem Coding-Agenten kleine, sofort nutzbare Werkzeuge baute, indem er bewährte Spezialprogramme über einen sogenannten WebAssembly-Build direkt im Browser laufen ließ. Ein Coding-Agent ist ein KI-Assistent, der eigenständig Programmcode schreibt und Befehle ausführt; WebAssembly ist ein Format, mit dem sich bestehende Programme wie das Videowerkzeug FFmpeg oder die Grafikbibliothek D3 im Webbrowser ausführen lassen, ohne etwas zu installieren.",
+        "Der übertragbare Hebel: Statt eine Funktion neu zu programmieren, lässt man den Agenten ein etabliertes, geprüftes Werkzeug einbinden. Das spart Zeit, vermeidet Fehler und liefert oft in Minuten eine kleine, in sich geschlossene Anwendung, etwa zum Verkleinern von Videos oder zum Umrechnen von Kartenausschnitten. Für ein schlankes Ein-Personen-System heißt das, aus vorhandener, verlässlicher Software rasch eigene Helfer zusammenzusetzen."
+       ],
+       "konkret": "Wenn du ein kleines Hilfswerkzeug brauchst, prüfe zuerst, ob es dafür ein bewährtes Programm gibt, und lass deinen Agenten es über einen WebAssembly-Build im Browser einbinden, statt die Funktion selbst nachzubauen.",
+       "snippetLabel": "Auftrag an den Agenten",
+       "snippet": "Baue mir eine kleine Browser-Seite, die <span class=\"ph\">{Aufgabe}</span> erledigt, indem sie das bewährte Werkzeug <span class=\"ph\">{z. B. FFmpeg}</span> als WebAssembly-Build einbindet; keine eigene Neuimplementierung, alles läuft lokal im Browser.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Bei heiklen Bausteinen den Agenten eng führen",
+       "tag": "Arbeitsweise",
+       "paras": [
+        "In einer Notiz vom 2. September greift Simon Willison einen Erfahrungsbericht auf, in dem ein Coding-Agent eine komplexe Schnittstelle nachbauen sollte. Der Agent war stark darin, die fremde Schnittstelle zu entschlüsseln, geriet aber bei der Verwaltung von Ressourcen ins Straucheln, etwa beim korrekten Zählen von Verweisen auf Systemobjekte, im Fachjargon Reference Counting. Reference Counting ist eine Buchführung darüber, wie viele Stellen im Programm ein bestimmtes Objekt noch verwenden, damit Speicher weder zu früh freigegeben noch dauerhaft blockiert wird.",
+        "Der übertragbare Grundsatz: Coding-Agenten sind gut im schnellen Erkunden und Entschlüsseln, aber unzuverlässig bei heiklen, langlebigen Entscheidungen zur Architektur und zum Umgang mit Ressourcen. Solche Stellen solltest du selbst festlegen und die Arbeit des Agenten dort besonders genau prüfen, statt ihm blind zu vertrauen. Für dein System bedeutet das, klar zu trennen zwischen dem, was der Agent frei erledigen darf, und dem, was du eng führst."
+       ],
+       "konkret": "Lege vor der Übergabe fest, welche Teile einer Aufgabe heikel sind (Architektur, Speicher- und Ressourcenverwaltung), und prüfe genau dort die Arbeit deines Agenten Schritt für Schritt, statt das Ergebnis im Ganzen zu übernehmen.",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Sep/"
       }
