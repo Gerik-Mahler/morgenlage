@@ -2,159 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Dienstag, 15. September 2026",
-   "weather": "clouds",
-   "temp": "28°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hängt an diesem Dienstag zunächst Frühnebel, der sich zu einem trockenen, spätsommerlich warmen Tag mit bis zu 28 Grad lichten dürfte. In der Weltlage bestimmen Sicherheitsfragen den Morgen: Die Nato hat über Litauen eine Drohne abgeschossen, und in der Straße von Hormus sorgt ein havarierter Öltanker für Unruhe an den Energiemärkten. Aus der Wirtschaft kommen die neuen September-Projektionen der Europäischen Zentralbank, dazu ein Meilenstein im Meeresschutz, ein physikalischer Erstnachweis aus der Forschung und ein lokaler Blick auf Horb. Am Ende zwei Signale für dein System und eine Förder-Gelegenheit mit Zuschuss.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Nato schießt Drohne über Litauen ab",
-       "text": "Kampfflugzeuge der Nato, des westlichen Verteidigungsbündnisses Organisation des Nordatlantikvertrags, haben nach Angaben des litauischen Präsidenten Gitanas Nauseda über Litauen eine Drohne abgeschossen. Litauen ist eine baltische Republik und Nato-Mitglied, die im Osten an Russland und dessen Verbündeten Belarus grenzt. Der Vorfall reiht sich in eine Serie von Luftraumverletzungen ein, die die östlichen Bündnismitglieder seit dem russischen Angriffskrieg gegen die Ukraine registrieren, und wird als Reaktion auf diese anhaltende Bedrohung dargestellt. Warum das zählt: Jeder Zwischenfall an der Nato-Ostflanke, dem östlichen Randgebiet des Bündnisses, erhöht das Risiko einer ungewollten Eskalation und hält die Frage nach der Luftverteidigung Europas auf der Tagesordnung.",
-       "source": "news.de / Reuters",
-       "url": "https://www.news.de/panorama/859993505/15-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-15-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      },
-      {
-       "title": "Explosion an einem Öltanker in der Straße von Hormus",
-       "text": "In der Straße von Hormus, der schmalen Meerenge zwischen dem Persischen Golf und dem offenen Meer, durch die ein großer Teil des weltweit verschifften Erdöls transportiert wird, ist es an einem Öltanker zu einer Explosion gekommen. Nach Darstellung der iranischen Revolutionsgarden, einer eigenständigen Streitmacht der Islamischen Republik Iran, wurde das Schiff von einer Mine getroffen. Die genauen Umstände und Verantwortlichen sind bislang nicht unabhängig bestätigt. Warum das zählt: Die Straße von Hormus gilt als eine der verwundbarsten Stellen der weltweiten Energieversorgung, und schon die Sorge vor einer Störung kann die Ölpreise und damit die Kosten für Kraftstoff und Heizen in Europa bewegen.",
-       "source": "news.de",
-       "url": "https://www.news.de/panorama/859993505/15-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-15-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "EZB rechnet mit stetigem Wachstum, sieht aber neue Preisrisiken",
-       "text": "Fachleute der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der Länder mit dem Euro, haben ihre September-Projektionen vorgelegt, also ihre regelmäßige Vorausschau auf Wachstum und Preise. Sie erwarten für den Euroraum ein reales Wachstum der Wirtschaftsleistung von 1,2 Prozent in den Jahren 2026 und 2027 und 1,4 Prozent im Jahr 2028; real bedeutet, dass die Teuerung bereits herausgerechnet ist. Zugleich hoben sie ihre Inflationsprognose leicht an, vor allem wegen erwartet höherer Energiepreise, während die Kerninflation, die schwankungsanfällige Posten wie Energie und Nahrung ausklammert, das freundlichere Konjunkturbild und etwas höhere Löhne widerspiegelt. Als größtes Risiko nennt die EZB ausdrücklich den anhaltenden Nahost-Konflikt, eine mögliche Blockade der Straße von Hormus und schwankende Energiepreise. Warum das zählt: Ob die Notenbank die Teuerung in Richtung ihres Ziels von 2,0 Prozent führt, entscheidet mit über Zinsen für Kredite, Sparen und Investitionen.",
-       "source": "Europäische Zentralbank",
-       "url": "https://www.ecb.europa.eu/press/projections/html/ecb.projections202609_ecbstaff~8e340fc69d.de.html"
-      }
-     ],
-     "merk": {
-      "text": "Für 2028 erwartet die EZB, dass die Inflation im Euroraum wieder nahe an das Ziel von zwei Prozent zurückkehrt, sofern die Energiepreise nicht erneut ausschlagen.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Mehr als zehn Prozent der Meere stehen jetzt unter Schutz",
-       "text": "Zum ersten Mal ist weltweit mehr als ein Zehntel der Ozeane offiziell geschützt. Nach Zahlen des Umweltprogramms der Vereinten Nationen (UNEP), der für Umweltfragen zuständigen Organisation der Weltgemeinschaft, wurden allein in den vergangenen zwei Jahren rund fünf Millionen Quadratkilometer Meeresfläche unter Schutz gestellt, ein Gebiet größer als die Europäische Union. Der Anteil der geschützten Meere stieg damit auf 10,01 Prozent, nach 8,6 Prozent im Jahr 2024. Möglich wurde der Sprung auch durch das sogenannte Hochsee-Abkommen, einen völkerrechtlichen Vertrag, der erstmals Schutzgebiete in internationalen Gewässern jenseits der nationalen Hoheitszonen erlaubt. Warum das zählt: Intakte Meere binden Kohlenstoff, sichern Nahrung und Artenvielfalt, und eine solche Schwelle zeigt, dass langjährige Verhandlungen doch messbare Ergebnisse bringen können.",
-       "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
-       "source": "Positive News / UNEP",
-       "url": "https://www.positive.news/environment/"
-      },
-      {
-       "title": "Kriminalität sinkt, obwohl viele das Gegenteil glauben",
-       "text": "Eine Befragung von rund 5.000 Menschen in London hat eine bemerkenswerte Lücke zwischen Gefühl und Wirklichkeit zutage gefördert. Während 62 Prozent der Befragten glaubten, die Kriminalität sei zwischen 2019 und 2025 gestiegen, ging sie tatsächlich um 1,4 Prozent zurück; und obwohl 40 Prozent von einer steigenden Mordrate ausgingen, sank diese um etwa 15 Prozent. Solche Zahlen zeigen, wie stark die öffentliche Wahrnehmung von der belegbaren Entwicklung abweichen kann. Warum das zählt: Ein nüchterner Blick auf gesicherte Daten kann unnötige Angst nehmen und hilft, Nachrichten über Verbrechen einzuordnen, statt sich vom Gefühl leiten zu lassen.",
-       "source": "Positive News",
-       "url": "https://www.positive.news/society/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung",
-     "items": [
-      {
-       "title": "Optischer Magnus-Effekt erstmals experimentell nachgewiesen",
-       "text": "Forschende haben zum ersten Mal den sogenannten optischen Magnus-Effekt im Experiment gezeigt. Der klassische Magnus-Effekt beschreibt, warum ein angeschnittener Ball, etwa beim Fußball, eine gekrümmte Bahn fliegt; die Fachleute übertrugen diese Idee auf Licht. Sie fanden heraus, dass ein eng gebündelter Laserstrahl, also stark fokussiertes Licht, am stärksten nicht genau im Zentrum, sondern mit einem Atom etwas abseits der Strahlmitte in Wechselwirkung tritt. Warum das zählt: Ein präziseres Verständnis davon, wie Licht und einzelne Atome zusammenspielen, ist eine Grundlage für künftige Quantentechnik und hochgenaue optische Messverfahren.",
-       "img": "https://live.staticflickr.com/5252/5391914387_8256899ff8_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Kurze Nervenbahnen schützen das Denken im Alter",
-       "text": "Eine Studie deutet darauf hin, dass die kurzreichweitige Verdrahtung des Gehirns, also die Verbindungen zwischen nah beieinander liegenden Hirnregionen, das Denkvermögen stützen kann, selbst wenn die graue Substanz mit dem Alter schrumpft. Die graue Substanz ist das Gewebe, in dem die Nervenzellkörper sitzen und ein großer Teil der Informationsverarbeitung stattfindet. Bleiben die kurzen Bahnen intakt, scheint das den altersbedingten Abbau ein Stück weit auszugleichen. Warum das zählt: Der Befund kann helfen zu verstehen, warum manche Menschen im Alter geistig fitter bleiben als andere, und weist Wege für Vorsorge und Forschung.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Ruhiger Wochenauftakt bei Frühnebel, dann spätsommerliche Wärme",
-       "text": "Nach dem Stadt- und Brückenfest am vergangenen Wochenende kehrt in Horb am Neckar der Alltag ein. Der Dienstag beginnt mit Frühnebel über dem Neckartal und klart im Tagesverlauf zu trockenem, spätsommerlich warmem Wetter mit bis zu 28 Grad auf, ein guter Tag für einen Gang durch die Altstadt oder an den Fluss. Wer handwerklich unterwegs ist, findet vom 17. bis 19. September beim Globus Baumarkt in Horb eine Fachaktion rund um Motoröl des Herstellers Liqui Moly. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, den eigenen Tag und die Woche in Ruhe zu planen.",
-       "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
-       "source": "meinestadt / Globus Baumarkt",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Vieles, was am Morgen dringend wirkt, verlangt in Wahrheit nur einen klaren Kopf und den ersten kleinen Schritt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "BAFA-Beratungsförderung: Zuschuss für externe Beratung",
-      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), eine Bundesbehörde, fördert mit dem Programm Förderung unternehmerischen Know-hows die externe Beratung von kleinen und mittleren Unternehmen und ausdrücklich auch von Freiberuflern und Soloselbstständigen. In den westlichen Bundesländern, zu denen Baden-Württemberg zählt, werden 50 Prozent der Beratungskosten bezuschusst, bei einer Bemessungsgrundlage von 3.500 Euro also bis zu 1.750 Euro je Beratung. Der Antrag muss vor Beginn der Beratung gestellt werden, und das Programm läuft nach derzeitigem Stand bis zum 31. Dezember 2026.",
-      "why": "Für ein Ein-Personen-Unternehmen ist das ein niederschwelliger Weg, professionelle Beratung, etwa zu Digitalisierung, Prozessen oder dem Einsatz von Künstlicher Intelligenz, zur Hälfte gegenfinanzieren zu lassen, solange das Jahr 2026 noch läuft.",
-      "source": "BAFA",
-      "url": "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "Neues Spitzenmodell erst messen, dann umstellen",
-       "tag": "Modelle",
-       "paras": [
-        "Anfang September ist mit GPT-6 Astra ein neues großes Sprachmodell des Anbieters OpenAI erschienen, verfügbar über die Programmierschnittstelle des Anbieters und über die Cloud-Plattform AWS von Amazon. Parallel wurden Googles Modellfamilie Gemini und weitere Modelle aktualisiert. Erste Vergleichswerte deuten darauf hin, dass die Rangfolge je nach Aufgabe eng beieinander liegt.",
-        "Bevor du dein Standardmodell wechselst, lohnt es sich, das neue Modell an deiner eigenen, typischen Aufgabe zu messen, statt dich auf allgemeine Bestenlisten zu verlassen. Mit dem quelloffenen Kommandozeilenwerkzeug llm des Entwicklers Simon Willison lässt sich das in wenigen Zeilen direkt im Terminal erledigen."
-       ],
-       "konkret": "Lege eine kleine, feste Testaufgabe fest, die deinem Alltag entspricht, und lass sie durch das alte und das neue Modell laufen, bevor du den Standard umstellst.",
-       "snippetLabel": "Dieselbe Aufgabe an altem und neuem Modell testen",
-       "snippet": "llm -m <span class=\"ph\">{dein-bisheriges-modell}</span> \"<span class=\"ph\">{deine typische Aufgabe}</span>\"\nllm -m <span class=\"ph\">{gpt-6-astra}</span> \"<span class=\"ph\">{deine typische Aufgabe}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Mit einem Schlüssel viele Anbieter erreichen",
-       "tag": "Werkzeuge",
-       "paras": [
-        "Für das Werkzeug llm ist die Erweiterung llm-openrouter in der Version 0.7.1 erschienen, dazu llm-gemini 0.34. OpenRouter ist ein Vermittlungsdienst, über den sich Modelle vieler Anbieter über eine einzige Schnittstelle und einen einzigen Zugangsschlüssel ansprechen lassen.",
-        "Das macht dein System unabhängiger von einem einzelnen Anbieter: Fällt ein Dienst aus oder wird zu teuer, kannst du ohne Umbau auf ein anderes Modell ausweichen. Für ein schlankes Ein-Personen-System ist das ein einfacher Weg zu mehr Ausfallsicherheit."
-       ],
-       "konkret": "Richte llm-openrouter mit einem OpenRouter-Schlüssel ein und hinterlege ein Ausweichmodell, auf das dein System bei Störungen automatisch umschalten kann.",
-       "snippetLabel": "OpenRouter in llm einrichten",
-       "snippet": "llm install llm-openrouter\nllm keys set openrouter\nllm -m openrouter/<span class=\"ph\">{anbieter/modell}</span> \"<span class=\"ph\">{Testfrage}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Mittwoch, 16. September 2026",
    "weather": "rain",
    "temp": "21°C · Regen",
@@ -946,7 +793,6 @@
    "weather": "clouds",
    "temp": "20°C · bewölkt",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hängt an diesem Montag eine geschlossene Wolkendecke, und die Temperatur erreicht höchstens etwa 20 Grad, ein kühler und ruhiger Start in eine Woche, in der sich der Herbst nun spürbar durchsetzt. Die Lage an diesem Morgen: ein Taifun bedroht die Region um Tokio, die Europäische Zentralbank belässt es nach ihrer jüngsten Zinserhöhung vorerst dabei, und aus der Forschung kommt mit dem jüngsten je bestätigten Planeten ein staunenswerter Fund. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1096,6 +942,165 @@
        "snippet": "# statt den Schluessel offen in die Sitzung zu tippen:\nexport <span class=\"ph\">{DIENST}</span>_API_KEY=\"$(llm keys get <span class=\"ph\">{dienst}</span>)\"",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dienstag, 22. September 2026",
+   "weather": "clouds",
+   "temp": "20°C · neblig-trüb",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Dienstag ein neblig-trüber Schleier, und die Temperatur erreicht höchstens etwa 20 Grad, ein kühler, gedämpfter Morgen genau zum kalendarischen Herbstbeginn, der in diesem Jahr auf den 22. September fällt. Die Lage an diesem Morgen: In New York beginnt die Generaldebatte der Vereinten Nationen, das ifo-Institut hebt seine Wachstumsprognose für Deutschland deutlich an, und aus der Physik kommt mit dem ersten direkten Nachweis eines Quanteneffekts der Schwerkraft ein staunenswerter Fund. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Generaldebatte der Vereinten Nationen beginnt in New York",
+       "text": "In New York beginnt an diesem Dienstag die Generaldebatte der Generalversammlung der Vereinten Nationen (UN), des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und internationaler Zusammenarbeit. In dieser Debatte legen die Staats- und Regierungschefs nacheinander ihre Sicht auf die weltweiten Themen dar; für den Auftakt ist auch eine Rede des US-Präsidenten Donald Trump angekündigt. Im Mittelpunkt stehen in diesem Jahr die anhaltenden Konflikte, die Lage der Weltwirtschaft und der Umgang mit Künstlicher Intelligenz, also lernfähiger Software. Die Einordnung bleibt nüchtern: Die Generaldebatte ist vor allem eine Bühne für Positionen, verbindliche Beschlüsse fallen dort in der Regel nicht.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860015960/22-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-22-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Deutschland setzt im Iran-Konflikt auf Vermittlung durch China",
+       "text": "Mit Blick auf den andauernden Iran-Krieg und dessen Folgen für die internationale Schifffahrt setzt die Bundesregierung auf eine Entspannung mithilfe Chinas. Nach deutscher Lesart könnte die Volksrepublik ihren Einfluss auf den Iran konstruktiv nutzen, um eine weitere Eskalation zu vermeiden. Für Deutschland ist der Konflikt auch wirtschaftlich spürbar: Einer Studie zufolge müssen Haushalte im laufenden Jahr wegen des Krieges mit höheren Heizkosten rechnen, besonders bei Heizöl und bei Holzpellets, also gepressten Holzresten zum Heizen. Die Einordnung: Eine diplomatische Lösung ist nicht in Sicht, doch die Suche nach Vermittlern zeigt, wie stark der Konflikt auf Energiepreise und Lieferwege durchschlägt.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860015960/22-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-22-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "ifo-Institut hebt Wachstumsprognose für Deutschland deutlich an",
+       "text": "Das ifo-Institut, ein führendes deutsches Wirtschaftsforschungsinstitut mit Sitz in München, hat seine Wachstumsprognose für die deutsche Wirtschaft im Jahr 2026 spürbar angehoben, um 0,6 Prozentpunkte auf nun 1,4 Prozent. Getragen wird die Erholung vor allem von der Nachfrage aus dem Ausland und von höheren Staatsausgaben. Zugleich warnen die Fachleute vor steigenden Preisen: Für dieses Jahr erwarten sie eine Inflation, also eine allgemeine Teuerung, von 2,8 Prozent und für 2027 von 3 Prozent, jeweils deutlich über dem Zwei-Prozent-Ziel der Europäischen Zentralbank (EZB). Für dich als Solo-Unternehmer bedeutet das etwas mehr wirtschaftlichen Rückenwind, aber weiter spürbar steigende Kosten.",
+       "source": "Handelsblatt / ifo",
+       "url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-hoffnung-fuer-die-wirtschaft-ifo-erhoeht-prognose-deutlich/100251747.html"
+      },
+      {
+       "title": "Blick auf das ifo-Geschäftsklima: Stimmung hellt sich leicht auf",
+       "text": "Passend dazu richtet sich der Blick an diesem Dienstag auf den ifo-Geschäftsklimaindex, einen viel beachteten Stimmungsmesser, für den das ifo-Institut monatlich mehrere tausend Unternehmen nach ihrer Lage und ihren Erwartungen befragt. Von Fachleuten wird ein leichter Anstieg auf etwa 89,0 Punkte erwartet, nach 88,8 Punkten im August. Lichtblicke zeichnen sich vor allem in der zuletzt kriselnden Industrie ab. Die Einordnung bleibt vorsichtig: Ein kleiner Anstieg ist noch keine Trendwende, deutet aber darauf hin, dass sich die Stimmung in den Unternehmen langsam bessert.",
+       "source": "finanznachrichten.de",
+       "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69619333-konjunktur-im-blick-ifo-geschaeftsklimaindex-und-kleine-zentralbanken-015.htm"
+      }
+     ],
+     "merk": {
+      "text": "Merken: Die Wachstumsaussichten hellen sich auf, doch die Teuerung bleibt über dem Zielwert. Wer investiert, sollte steigende Kosten einkalkulieren; Fördermittel (siehe Gelegenheitsradar) können die Belastung senken.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Auf Sardinien erholt sich der Gänsegeier",
+       "text": "Eine ermutigende Nachricht aus dem Naturschutz: Auf der italienischen Mittelmeerinsel Sardinien erholt sich der Gänsegeier, ein großer, ausschließlich von Aas lebender Greifvogel, der dort einst fast ausgestorben war. Durch gezielte Schutzmaßnahmen und regelmäßige Fütterung ist der Bestand auf der Insel wieder auf über 500 Tiere gewachsen. Solche Geier erfüllen als eine Art natürliche Gesundheitspolizei eine wichtige Aufgabe, weil sie verendete Tiere beseitigen und so die Ausbreitung von Krankheiten bremsen. Die Botschaft: Wo Schutz konsequent umgesetzt wird, können sich selbst stark bedrohte Arten wieder erholen.",
+       "img": "https://live.staticflickr.com/150/375776448_6955cb3bcb_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
+      },
+      {
+       "title": "Weniger Rodung im brasilianischen Atlantik-Regenwald",
+       "text": "Auch aus Brasilien kommt ein Wert, der Mut macht: In der Mata Atlântica, dem an der Atlantikküste gelegenen Regenwald des Landes, wurde 2025 mit rund 8.658 Hektar so wenig Wald gerodet wie noch nie seit Beginn der Messungen im Jahr 1985. Das ist ein Rückgang um etwa 40 Prozent gegenüber dem Vorjahr. Umweltschützer halten es für möglich, dass in diesem Gebiet innerhalb weniger Jahre gar keine Rodung mehr stattfindet, sollte sich der Trend fortsetzen. Die Einordnung: Ein einzelner Jahreswert ist noch keine Garantie, doch die Richtung stimmt und zeigt, dass entschlossener Waldschutz Wirkung entfaltet.",
+       "img": "https://live.staticflickr.com/4577/37873827295_7c3c7981b1_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Physiker beobachten erstmals einen Quanteneffekt der Schwerkraft",
+       "text": "Ein staunenswerter Fortschritt aus der Physik: Forschende haben nach eigenen Angaben erstmals einen lange vorhergesagten Quanteneffekt der Schwerkraft direkt beobachtet. Die Quantenphysik beschreibt das Verhalten allerkleinster Teilchen, während die Schwerkraft die Anziehung zwischen Massen erklärt; beide Bereiche unter einen Hut zu bringen, gilt als eine der größten offenen Fragen der Wissenschaft. Der Nachweis stellt eine grundlegende Idee des Physikers Albert Einstein auf den Prüfstand und liefert einen seltenen experimentellen Anhaltspunkt dort, wo bislang vor allem Theorie herrschte. Die Einordnung: Es handelt sich um Grundlagenforschung, ein unmittelbarer Nutzen im Alltag ist daraus nicht ableitbar, wohl aber ein tieferes Verständnis der Naturgesetze.",
+       "img": "https://live.staticflickr.com/4068/4269753734_caa148f2ca_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/"
+      },
+      {
+       "title": "Aus Bakterien gebaute Schaltelemente bilden lebende Schaltkreise",
+       "text": "Aus der Biotechnologie kommt ein ungewöhnlicher Fund: Forschende am Massachusetts Institute of Technology (MIT), einer renommierten technischen Hochschule in den USA, haben aus Bakterien winzige Schaltelemente gebaut, die sich wie Transistoren verhalten. Ein Transistor ist der grundlegende Baustein elektronischer Schaltungen, der Signale steuert; hier übernehmen lebende Zellen diese Aufgabe. Zu lebenden Schaltkreisen verknüpft, können solche Bakterien einfache Berechnungen ausführen und chemische Signale gezielt weiterleiten. Die Einordnung: Denkbar sind langfristig etwa winzige Sensoren im Körper oder in der Umwelt, doch bis zu einer praktischen Anwendung ist es noch ein weiter Weg.",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Neblig-trüber Herbstauftakt im Neckartal",
+       "text": "In Horb am Neckar beginnt der Tag neblig-trüb bei höchstens etwa 20 Grad, und mit dem kalendarischen Herbstbeginn an diesem 22. September stellt sich das Wetter im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt, spürbar auf die kühlere Jahreszeit um. Der örtliche Veranstaltungskalender ist in dieser Woche eher ruhig; größere kulturelle Termine liegen vor allem in den nahen Städten Tübingen und Rottenburg am Neckar. Wer draußen etwas unternehmen möchte, findet im trockenen Grau gute Bedingungen für einen Spaziergang entlang des Flusses oder durch die historische Altstadt. Ein ruhiger Rahmen also, um den Wochenstart für konzentriertes Arbeiten zu nutzen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "meinestadt.de",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Der Herbst beginnt leise, mit Nebel statt mit Getöse; vielleicht ist das die richtige Tonlage, um in Ruhe das Wesentliche vom Lauten zu trennen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "BAFA-Zuschuss für professionelle Beratung, auch zu Künstlicher Intelligenz",
+      "text": "Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), eine Behörde im Geschäftsbereich des Bundeswirtschaftsministeriums, fördert mit dem Programm Förderung unternehmerischen Know-hows externe Beratungen für kleine Unternehmen und Freiberufler, ausdrücklich auch für Solo-Selbstständige. Übernommen werden in den alten Bundesländern 50 Prozent und in den neuen Ländern sowie in Berlin bis zu 80 Prozent der Beratungskosten, bei förderfähigen Kosten von bis zu 3.500 Euro für Jungunternehmen und 3.000 Euro für bestehende Betriebe. Seit November 2025 rechnet das BAFA bei Antragstellern ohne Vorsteuerabzug mit den Bruttokosten, was gerade kleine Selbstständige zusätzlich entlastet. Wichtig ist die Reihenfolge: Der Antrag muss online beim BAFA gestellt werden, bevor die Beratung beginnt.",
+      "why": "Eine geförderte Beratung lässt sich gezielt auf den Aufbau deines KI- und Automatisierungssystems zuschneiden, etwa zu Datenschutz, Abläufen oder der Auswahl von Werkzeugen. So holst du dir externe Fachsicht ins Haus, ohne die vollen Kosten allein zu tragen, und der geringe Eigenanteil senkt das Risiko eines Fehlgriffs.",
+      "source": "deutschland-startet.de",
+      "url": "https://www.deutschland-startet.de/update-bafa-foerderung/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei konkrete Signale aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich aus erster Hand mit Sprachmodellen und Werkzeugen befassen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Abhängigkeiten festzurren und neue Pakete vor der Nutzung prüfen",
+       "tag": "Sicherheit",
+       "paras": [
+        "Simon Willison hat im September über einen Sicherheitsvorfall rund um die Paketquelle RubyGems berichtet, also den zentralen Fundus fertiger Programmbausteine für die Programmiersprache Ruby. Solche öffentlichen Paketquellen sind praktisch, weil man verbreitete Funktionen nicht selbst schreiben muss, aber sie sind auch ein Einfallstor: Wird ein Baustein manipuliert, gelangt der Schadcode automatisch in jedes Projekt, das ihn nachlädt. Dieses Risiko betrifft jede moderne Entwicklungsumgebung, nicht nur die Sprache Ruby.",
+        "Der Hebel für dein System: Lege für jedes Projekt die genauen Versionen deiner Abhängigkeiten fest, mithilfe einer sogenannten Sperrdatei (englisch lockfile, also einer Datei, die exakt festhält, welche Version verwendet wird), sodass sich nichts unbemerkt ändert. Prüfe neue oder aktualisierte Pakete kurz, bevor du sie einsetzt, statt blind die neueste Version zu ziehen. Gerade in einem Ein-Personen-System, in dem niemand sonst gegenliest, verhindert diese kleine Routine, dass eine manipulierte Fremdkomponente unbemerkt Schaden anrichtet."
+       ],
+       "konkret": "Sieh in deinen wichtigsten Projekten nach, ob eine Sperrdatei vorhanden ist und die Versionen festgelegt sind. Richte dir die Gewohnheit ein, vor jeder Aktualisierung kurz zu prüfen, was sich ändert, statt automatisch die neueste Version zu übernehmen.",
+       "snippetLabel": "Deinen Agenten auf sichere Abhängigkeiten verpflichten",
+       "snippet": "# Ergaenzung fuer deine AGENTS.md / CLAUDE.md\n\n## Abhaengigkeiten\n- Nur mit fester Version und Sperrdatei (lockfile) arbeiten.\n- Neue oder aktualisierte Pakete <span class=\"ph\">{Paketname}</span> vor der Nutzung kurz pruefen.\n- Keine unbekannten Pakete ohne Rueckfrage hinzufuegen.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Für lange, mehrstufige Aufgaben bewusst ein stärkeres Modell wählen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Anthropic, das Unternehmen hinter dem Assistenten Claude, hat Anfang September das Modell Claude Fable 5.1 veröffentlicht, ein Sprachmodell, also lernfähige Software zur Verarbeitung von Text. Nach Anbieterangaben ist es besonders auf Programmieren, Wissensarbeit und lang laufende Aufgaben ausgelegt, die über viele Schritte reichen. Simon Willison hat damit in der Praxis kleinere Werkzeuge gebaut, etwa einen Video-Verkleinerer und einen Karten-Betrachter, und berichtet über spürbare Fortschritte bei langem, zusammenhängendem Arbeiten.",
+        "Der Hebel für dein System: Nicht jede Aufgabe braucht das stärkste Modell, aber bei langen, mehrstufigen Vorgängen, bei denen ein Assistent den Faden über viele Schritte halten muss, kann ein leistungsfähigeres Modell Abbrüche und Fehler verringern. Es lohnt sich, bewusst zu unterscheiden: Alltagsaufgaben mit einem sparsamen Modell, komplexe Vorhaben mit einem stärkeren. So hältst du die Kosten niedrig, ohne bei den anspruchsvollen Aufgaben Qualität zu verlieren."
+       ],
+       "konkret": "Lege für dich fest, welche Art von Aufgabe welches Modell bekommt: ein sparsames für kurze Routineaufgaben, ein stärkeres für lange, mehrstufige Vorhaben. Probiere bei einer aktuell hakeligen, mehrstufigen Aufgabe einmal bewusst das stärkere Modell aus und vergleiche das Ergebnis.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
       }
      ]
     }
