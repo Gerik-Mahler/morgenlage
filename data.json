@@ -2,151 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Mittwoch, 16. September 2026",
-   "weather": "rain",
-   "temp": "21°C · Regen",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Mittwoch Regen bei milden bis zu 21 Grad, ein Tag eher für drinnen und für einen ruhigen Blick nach vorn. In der Weltlage stellt die Europäische Kommission heute ihre Pläne für ein Mindestalter in sozialen Medien vor, während aus dem Gazastreifen neue militärische Meldungen kommen. Aus der Wirtschaft treten heute die zuletzt erhöhten Leitzinsen der Europäischen Zentralbank in Kraft, dazu ein wissenschaftlicher Fahrplan für schnelleren Umweltschutz, zwei Befunde der Hirnforschung und ein lokaler Blick auf Horb. Am Ende zwei Signale für dein System und eine Förder-Gelegenheit für Solo-Selbstständige.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "EU-Kommission stellt Regeln für ein Mindestalter in sozialen Medien vor",
-       "text": "Die Europäische Kommission, die für Gesetzesvorschläge zuständige oberste Verwaltungsbehörde der Europäischen Union (EU), will an diesem Mittwoch erstmals Eckpunkte für ein europaweit einheitliches Mindestalter bei sozialen Medien vorlegen. Der Entwurf, in Medien als EU Kids Act bezeichnet, folgt dem Grundsatz safe by design, also der Idee, dass Plattformen von Grund auf sicher für Kinder gestaltet sein müssen. Fachleute der Kommission empfehlen ein Mindestalter von 13 Jahren bei kontrolliertem Zugang; geprüft wird laut Berichten auch eine strengere Grenze für unter 15-Jährige. Zur Altersprüfung ist ein EU-weites System im Gespräch, das das Alter bestätigt, ohne die volle Identität an die Plattform preiszugeben. Warum das zählt: Sollten die Vorschläge Gesetz werden, würden sie den Alltag von Familien und die Regeln für Video-, Spiele- und Chatbot-Dienste in ganz Europa spürbar verändern.",
-       "source": "news.de / netzpolitik.org",
-       "url": "https://netzpolitik.org/2026/eckpunkte-geleakt-eu-kommission-will-soziale-medien-zu-alterskontrollen-verpflichten/"
-      },
-      {
-       "title": "Israelisches Militär meldet Tötung eines Hamas-Kommandeurs in Rafah",
-       "text": "Das israelische Militär hat nach eigenen Angaben im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Die Hamas ist die islamistische Bewegung, die den Gazastreifen kontrolliert und von der Europäischen Union und weiteren Staaten als Terrororganisation eingestuft wird. Bei dem Getöteten soll es sich um den Befehlshaber der Hamas-Brigade in Rafah handeln, einer Stadt im Süden des Küstenstreifens. Unabhängig überprüfen lassen sich solche Angaben in dem abgeriegelten Gebiet nur eingeschränkt. Warum das zählt: Der andauernde Krieg im Gazastreifen prägt weiterhin die Sicherheitslage im Nahen Osten und die diplomatischen Bemühungen um eine Waffenruhe.",
-       "source": "ad-hoc-news / Reuters",
-       "url": "https://www.ad-hoc-news.de/kalenderblatt/kalenderblatt-16-september-2026-gaza-offensive-stuttgart-21/70107497"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Höhere Leitzinsen der EZB treten heute in Kraft",
-       "text": "Von diesem Mittwoch an gelten im Euroraum die neuen Leitzinsen der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der Länder mit dem Euro. Der EZB-Rat hatte die drei wichtigsten Zinssätze am 10. September um jeweils 0,25 Prozentpunkte angehoben; der für Banken besonders wichtige Einlagensatz, zu dem sie überschüssiges Geld bei der Notenbank parken, steigt damit auf 2,50 Prozent. Leitzinsen sind der zentrale Hebel, mit dem eine Notenbank die Kosten von Krediten steuert und so die Teuerung, also den Anstieg der Preise, bremsen oder stützen kann. Als größtes Risiko nennt die EZB weiterhin den Nahost-Konflikt und schwankende Energiepreise. Warum das zählt: Höhere Leitzinsen verteuern nach und nach Kredite für Anschaffungen und Investitionen, machen aber Sparen wieder etwas attraktiver, und beides wirkt bis in die Kasse kleiner Unternehmen.",
-       "source": "Europäische Zentralbank",
-       "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.de.html"
-      }
-     ],
-     "merk": {
-      "text": "Zugleich meldet die Wirtschaft in Deutschland laut einer Analyse der Bank Barclays wieder etwas mehr Schwung; die EZB hob ihre Wachstumserwartung für den Euroraum 2026 leicht auf 0,9 Prozent an.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Fahrplan der Wissenschaft: 51 Lösungen für schnelleren Umweltschutz",
-       "text": "Ein neues Forschungswerk des Earthshot Prize, einer von Prinz William gegründeten Umweltauszeichnung, und der Universität Exeter in England zeigt 51 konkrete Lösungen auf, mit denen sich der Schutz der Umwelt binnen weniger Jahre stark beschleunigen ließe. Kern der Arbeit sind sogenannte positive Kipppunkte, also Schwellen, ab denen eine saubere Technik so günstig, verbreitet oder beliebt wird, dass sich der Fortschritt von selbst weiterträgt. Als wirksamsten Hebel nennen die Fachleute saubere Elektrizität aus Sonne und Wind, weil billiger Strom zugleich Elektroautos, Wärmepumpen und sauberere Industrie lohnender macht. Warum das zählt: Der Bericht macht anschaulich, dass Umweltschutz nicht nur Verzicht bedeutet, sondern sich an vielen Stellen wirtschaftlich selbst antreiben kann, wenn ein Wendepunkt einmal überschritten ist.",
-       "img": "https://live.staticflickr.com/8535/8628436785_5e26dfe388_b.jpg",
-       "source": "Euronews / University of Exeter",
-       "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/the-new-tipping-points-playbook-the-earthshot-prize-and-the-university-of-exeter-reveal-how-to-make-environmental-repair-unstoppable/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung",
-     "items": [
-      {
-       "title": "Umbau der Gensteuerung im Gehirn ab der Lebensmitte",
-       "text": "Forschende haben umfassende Veränderungen darin entdeckt, wie das menschliche Gehirn ab der Lebensmitte sein Erbgut steuert und ordnet. Das Erbgut, auch Genom genannt, ist die Gesamtheit der Erbinformationen in jeder Zelle; welche dieser Informationen abgelesen werden, entscheidet mit über die Funktion der Nervenzellen. Die Studie liefert neue Hinweise darauf, warum das Alter das Risiko für Alzheimer, die häufigste Form der Demenz mit fortschreitendem Gedächtnisverlust, und andere Nervenerkrankungen deutlich erhöht. Warum das zählt: Wer versteht, wann und wie sich die Gensteuerung im Gehirn verschiebt, kann gezielter nach Ansätzen suchen, um den geistigen Abbau früh zu erkennen oder zu bremsen.",
-       "img": "https://live.staticflickr.com/4288/34276634144_c29f84fa66_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Alternde Zellen halten das Immunsystem im Daueralarm",
-       "text": "Eine weitere Untersuchung zeigt, dass alternde Zellen fehlerhafte Mitochondrien nutzen können, um entzündungsfördernde Gene anzuschalten und das Immunsystem in einem anhaltenden Alarmzustand zu halten. Mitochondrien sind die winzigen Kraftwerke im Inneren der Zellen, die Energie bereitstellen. Bleibt das Immunsystem dauerhaft aktiviert, kann das zu chronischen, also langwierigen Entzündungen beitragen, die mit vielen Alterskrankheiten in Verbindung stehen. Warum das zählt: Der Befund benennt einen möglichen Ansatzpunkt, um schädliche Dauerentzündungen im Alter gezielt zu dämpfen, statt nur ihre Folgen zu behandeln.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/health_medicine/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Regnerischer Mittwoch, dazu eine Fachaktion im Baumarkt",
-       "text": "In Horb am Neckar bleibt es an diesem Mittwoch wechselhaft: Über dem Neckartal fällt Regen bei milden bis zu 21 Grad, ein guter Tag, um Erledigungen unter Dach zu bündeln. Wer handwerklich unterwegs ist, findet von morgen Donnerstag, dem 17., bis Samstag, dem 19. September, beim Globus Baumarkt in Horb eine Fachaktion rund um Motoröl des Herstellers Liqui Moly. In der weiteren Umgebung lädt am 19. September zudem das mittelalterliche Burgfest auf Burg Stettenfels im nahen Untergruppenbach ein. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, die eigene Woche in Ruhe und ohne Hektik zu planen.",
-       "img": "https://live.staticflickr.com/8194/8116669449_49b9200891_b.jpg",
-       "source": "meinestadt / Globus Baumarkt",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein verregneter Tag ist selten verloren; er lädt ein, das Wichtige nach innen zu holen und in Ruhe einen Schritt weiterzudenken."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "KOMPASS: Zuschuss zur Weiterbildung für Solo-Selbstständige",
-      "text": "Das Programm KOMPASS, kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige, ist eine Förderung der Bundesagentur für Arbeit, also der bundesweiten Behörde für Arbeitsmarkt und Weiterbildung. Es richtet sich gezielt an Selbstständige ohne Angestellte und übernimmt bis zu 90 Prozent der Kosten einer Qualifizierung, höchstens jedoch 4.500 Euro. Gefördert werden unter anderem Weiterbildungen zu Digitalisierung, Betriebswirtschaft, Marketing und Vertrieb, oft mit Bezug zu Künstlicher Intelligenz. Zu beachten ist: Von Mai bis voraussichtlich Oktober 2026 ist die Ausgabe der Qualifizierungsschecks bundesweit begrenzt, um vorliegende Anträge schneller zu bearbeiten; die kostenlose Erstberatung läuft aber weiter.",
-      "why": "Für ein Ein-Personen-Unternehmen ist das ein niederschwelliger Weg, gezielte Weiterbildung, etwa zum professionellen Einsatz von KI im eigenen Arbeitsablauf, zu neun Zehnteln fördern zu lassen. Wegen der begrenzten Kontingente lohnt es sich, jetzt die Erstberatung zu buchen und den Antrag früh auf den Weg zu bringen.",
-      "source": "Bundesagentur für Arbeit / KOMPASS",
-      "url": "https://www.kompass-solo.de/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Werkzeug-Antworten als benannte Felder liefern",
-       "tag": "MCP",
-       "paras": [
-        "Für die Erweiterung datasette-mcp ist die Version 0.2 erschienen. datasette-mcp macht eine Datenbank über das Model Context Protocol (MCP) zugänglich, also den offenen Standard, über den KI-Modelle Werkzeuge und Datenquellen ansprechen. Die wichtigste Änderung: Die Ergebnisse einer Datenbankabfrage werden nun als Liste von Objekten mit benannten Feldern zurückgegeben statt als Liste von reinen Wertereihen.",
-        "Dahinter steckt ein übertragbares Prinzip für jedes eigene MCP-Werkzeug: Wenn jede Zeile ihre Spaltennamen mitträgt, muss das Modell nicht erraten, welcher Wert zu welcher Spalte gehört, und gerade schwächere oder günstigere Modelle machen dabei weniger Fehler. Für ein schlankes Ein-Personen-System erhöht das die Verlässlichkeit, ohne dass ein einziges zusätzliches Modell nötig wäre."
-       ],
-       "konkret": "Prüfe deine eigenen MCP-Werkzeuge daraufhin, ob sie tabellarische Ergebnisse als benannte Objekte liefern; wo noch reine Wertereihen zurückkommen, stelle sie auf Objekte mit Spaltennamen um.",
-       "snippetLabel": "Faustregel für die Rückgabe eines MCP-Werkzeugs",
-       "snippet": "// statt reiner Wertereihen:\n[[<span class=\"ph\">{wert1}</span>, <span class=\"ph\">{wert2}</span>]]\n// besser benannte Felder:\n[{ \"<span class=\"ph\">{spalte1}</span>\": <span class=\"ph\">{wert1}</span>, \"<span class=\"ph\">{spalte2}</span>\": <span class=\"ph\">{wert2}</span> }]",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/"
-      },
-      {
-       "icon": "gauge",
-       "title": "Altsystem absichern statt neu schreiben",
-       "tag": "Arbeitsweise",
-       "paras": [
-        "Der Entwickler Simon Willison rät in einem aktuellen Beitrag ausdrücklich davon ab, gewachsene, aber unübersichtliche Software durch einen kompletten Neubau auf der grünen Wiese, im Fachjargon greenfield rewrite, ersetzen zu wollen. Solche Neuschreibungen scheitern häufig, weil das alte System oft mehr Wissen enthält, als auf den ersten Blick sichtbar ist.",
-        "Sein Rat: das bestehende System zuerst mit möglichst vielen automatischen Tests absichern, also mit Prüfprogrammen, die selbsttätig nachweisen, dass alles noch funktioniert, und dann in kleinen, gezielten Schritten umbauen. Für dein System heißt das, vor jedem größeren Umbau die entscheidenden Abläufe mit Tests zu unterlegen, damit du gefahrlos nachbessern kannst."
-       ],
-       "konkret": "Bevor du einen Teil deines Systems neu aufsetzt, schreibe erst automatische Tests für sein jetziges Verhalten und baue ihn dann in kleinen, überprüfbaren Schritten um, statt ihn komplett zu ersetzen.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Donnerstag, 17. September 2026",
    "weather": "clouds",
    "temp": "21°C · neblig-trüb",
@@ -1099,6 +954,167 @@
         "Der Hebel für dein System: Nicht jede Aufgabe braucht das stärkste Modell, aber bei langen, mehrstufigen Vorgängen, bei denen ein Assistent den Faden über viele Schritte halten muss, kann ein leistungsfähigeres Modell Abbrüche und Fehler verringern. Es lohnt sich, bewusst zu unterscheiden: Alltagsaufgaben mit einem sparsamen Modell, komplexe Vorhaben mit einem stärkeren. So hältst du die Kosten niedrig, ohne bei den anspruchsvollen Aufgaben Qualität zu verlieren."
        ],
        "konkret": "Lege für dich fest, welche Art von Aufgabe welches Modell bekommt: ein sparsames für kurze Routineaufgaben, ein stärkeres für lange, mehrstufige Vorhaben. Probiere bei einer aktuell hakeligen, mehrstufigen Aufgabe einmal bewusst das stärkere Modell aus und vergleiche das Ergebnis.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 23. September 2026",
+   "weather": "clouds",
+   "temp": "23°C · neblig-trüb",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Mittwoch ein neblig-trüber Morgen, und die Temperatur klettert am Nachmittag auf höchstens etwa 23 Grad, ein mildes, gedämpftes Herbstwetter, das erst allmählich aufklart. Die Lage an diesem Morgen: In New York bestimmt die Generaldebatte der Vereinten Nationen mit dem Auftritt des ukrainischen Präsidenten weiter das Geschehen, in Washington beginnt ein dreitägiger Staatsbesuch des chinesischen Staatschefs, und die Bundesbank dämpft kurzfristig die Konjunkturerwartungen. Dazu kommen ein Erfolg im Kampf gegen die Tollwut in Chile und ein staunenswerter Fund aus der Quantenphysik. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Ukraine im Mittelpunkt der UN-Generaldebatte in New York",
+       "text": "Bei der Generaldebatte der Vereinten Nationen (UN), des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit, steht an diesem Mittwoch die Ukraine im Vordergrund. Der ukrainische Präsident Wolodymyr Selenskyj nimmt an einer Beratung des UN-Sicherheitsrats teil, des mächtigsten UN-Gremiums für Fragen von Krieg und Frieden, und spricht anschließend vor der Vollversammlung. Am Rande der Debatte kommen zudem der russische Außenminister Sergej Lawrow und sein US-amerikanischer Amtskollege Marco Rubio zusammen. Die Einordnung bleibt nüchtern: Solche Treffen sind vor allem diplomatische Signale; verbindliche Beschlüsse zur Beendigung des Krieges sind daraus nicht zu erwarten.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860019347/23-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Chinas Staatschef Xi Jinping zu dreitägigem Besuch in Washington",
+       "text": "Der chinesische Staats- und Parteichef Xi Jinping trifft an diesem Mittwoch zu einem dreitägigen Staatsbesuch in der US-Hauptstadt Washington ein. Im Mittelpunkt der Gespräche stehen der anhaltende Zoll- und Handelsstreit zwischen den beiden größten Volkswirtschaften der Welt sowie Fragen der Sicherheit bei Künstlicher Intelligenz, also lernfähiger Software. Auch der Iran-Krieg und der Krieg in der Ukraine dürften zur Sprache kommen. Die Einordnung: Ein persönliches Treffen auf höchster Ebene kann Spannungen abbauen, doch die grundlegenden Interessengegensätze zwischen China und den USA bleiben bestehen.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860019347/23-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Bundesbank: Deutsche Wirtschaft verliert vorübergehend an Fahrt",
+       "text": "Die Deutsche Bundesbank, die Zentralbank der Bundesrepublik, erwartet laut ihrem jüngsten Monatsbericht, dass die deutsche Wirtschaft im dritten Quartal des Jahres vorübergehend an Schwung verliert. Als bremsende Faktoren nennt sie unter anderem die Dürre und die niedrigen Pegelstände der Flüsse im zweiten Halbjahr, die den Warentransport auf dem Wasser erschweren. Für das vierte Quartal rechnet die Bundesbank jedoch wieder mit einem kräftigeren Zuwachs. Die Einordnung: Es handelt sich um eine Delle, nicht um eine Trendwende, doch sie zeigt, wie stark auch das Wetter auf die Konjunktur, also den Gang der Wirtschaft, durchschlagen kann.",
+       "source": "Tagesspiegel / Bundesbank",
+       "url": "https://www.tagesspiegel.de/wirtschaft/dpa-bundesbank-monatsbericht-deutsche-wirtschaft-verliert-vorubergehend-an-fahrt-16080250.html"
+      },
+      {
+       "title": "ZEW-Konjunkturerwartungen steigen im September leicht an",
+       "text": "Ein gegenläufiges, aufmunterndes Signal liefert das ZEW, das Leibniz-Zentrum für Europäische Wirtschaftsforschung in Mannheim, das monatlich Fachleute aus Finanzwelt und Wirtschaft nach ihren Erwartungen befragt. Der Index der Konjunkturerwartungen stieg im September 2026 leicht um 0,5 Punkte auf nun plus 34,7 Punkte und blieb damit im deutlich positiven Bereich. Zugleich wird von der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der Euro-Länder, im September noch ein weiterer Zinsschritt nach oben erwartet, gefolgt von einer voraussichtlich längeren Zinspause. Die Einordnung: Die Fachleute blicken vorsichtig optimistisch nach vorn, während die Geldpolitik ihren straffen Kurs vorerst beibehält.",
+       "source": "ad-hoc-news.de / ZEW",
+       "url": "https://www.ad-hoc-news.de/wirtschaft/die-zew-konjunkturerwartungen-fuer-deutschland-haben-sich-im-september/70104478"
+      }
+     ],
+     "merk": {
+      "text": "Merken: Kurzfristig bremst die deutsche Wirtschaft, mittelfristig zeigen die Erwartungen nach oben, und die Zinsen bleiben vorerst hoch. Wer Investitionen plant, sollte die noch straffe Geldpolitik und damit teurere Kredite einkalkulieren.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Chile besiegt als erstes Land Südamerikas die von Hunden übertragene Tollwut",
+       "text": "Eine ermutigende Nachricht aus dem Gesundheitswesen: Chile ist nach Angaben der Weltgesundheitsorganisation (WHO), der für Gesundheitsfragen zuständigen Sonderorganisation der Vereinten Nationen, das erste Land Südamerikas, das die von Hunden auf Menschen übertragene Tollwut ausgerottet hat. Tollwut ist eine Viruserkrankung, die unbehandelt fast immer tödlich verläuft und weltweit noch immer viele Menschen das Leben kostet. Erreicht wurde der Erfolg durch über 50 Jahre konsequenter Impfkampagnen für Haustiere und sorgfältige Überwachung. Die Botschaft: Mit langem Atem und verlässlichen Programmen lassen sich selbst uralte Geißeln der Menschheit zurückdrängen.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/"
+      },
+      {
+       "title": "Regelmäßiges Lesen senkt einer Studie zufolge das Demenzrisiko",
+       "text": "Aus der Forschung kommt ein Befund, der zum Lesen einlädt: Nach einer Auswertung der Universität Cambridge in Großbritannien geht regelmäßiges Lesen mit einem um etwa 33 Prozent verringerten Risiko einher, an Alzheimer zu erkranken, der häufigsten Form der Demenz, also des fortschreitenden Verlusts geistiger Fähigkeiten im Alter. Zusätzlich wurden eine bessere seelische Gesundheit und mehr Einfühlungsvermögen beobachtet. Solche Studien zeigen einen Zusammenhang, keinen zwingenden Ursache-Wirkung-Beweis. Die Botschaft bleibt dennoch ermutigend: Eine einfache, günstige Gewohnheit kann Geist und Wohlbefinden nachweislich guttun.",
+       "img": "https://live.staticflickr.com/1190/5099718716_2f066cebc7.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Physiker beobachten erstmals einzelne Quantensprünge des Schalls",
+       "text": "Ein staunenswerter Fortschritt aus der Physik: Forschende der Universität Stanford in den USA haben nach eigenen Angaben erstmals in Echtzeit einzelne Quantensprünge des Schalls beobachtet. Dabei geht es um Phononen, also die kleinstmöglichen Energiepakete einer Schallschwingung, die in dem Experiment sichtbar von einem Energiezustand in einen anderen springen. Die Quantenphysik beschreibt das Verhalten allerkleinster Teilchen, bei denen Energie nicht stufenlos, sondern in winzigen Sprüngen auftritt. Die Einordnung: Es handelt sich um Grundlagenforschung, doch sie könnte langfristig helfen, Quantencomputer, also neuartige Rechner nach den Regeln der Quantenwelt, weniger fehleranfällig zu machen.",
+       "img": "https://live.staticflickr.com/3602/3639738130_60f7a3dcda_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/"
+      },
+      {
+       "title": "Aus Plastikabfall werden benzin- und dieselähnliche Kraftstoffe",
+       "text": "Aus der Materialforschung kommt ein praktischer Fund: Wissenschaftler am Oak Ridge National Laboratory, einem großen staatlichen Forschungszentrum in den USA, haben ein Verfahren entwickelt, um Polyethylen in kraftstoffähnliche Stoffe umzuwandeln. Polyethylen ist der weit verbreitete Kunststoff, aus dem etwa Einkaufstüten und Schneidebretter bestehen. Das Verfahren macht aus diesem Abfall Flüssigkeiten, die sich wie Benzin und Diesel verwenden lassen. Die Einordnung: Ein solcher Weg könnte helfen, Plastikmüll sinnvoller zu verwerten, doch bis zu einem großtechnischen Einsatz und einer sauberen Gesamtbilanz sind noch viele Fragen zu klären.",
+       "img": "https://live.staticflickr.com/7754/26742176942_0eef7c9d8b_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Neblig-trüber Herbstmorgen im Neckartal",
+       "text": "In Horb am Neckar beginnt der Tag neblig-trüb, ehe sich die Wolken tagsüber allmählich lichten und die Temperatur auf höchstens etwa 23 Grad steigt, ein mildes Herbstwetter im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Der örtliche Veranstaltungskalender ist unter der Woche eher ruhig; größere kulturelle Termine finden sich vor allem am Wochenende und in den nahen Städten Tübingen und Rottenburg am Neckar. Sobald der Nebel weicht, bieten die milden Nachmittage gute Bedingungen für einen Spaziergang entlang des Neckars oder durch die historische Altstadt mit ihren Fachwerkhäusern. Ein ruhiger Rahmen also, um den Tag für konzentriertes Arbeiten zu nutzen und die kurze Auszeit an der frischen Luft bewusst zu setzen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "meinestadt.de",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Der Nebel nimmt der Landschaft die Weite und schenkt ihr die Nähe; manchmal hilft genau das, den Blick auf das zu richten, was heute unmittelbar vor einem liegt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS-Förderung: bis zu 4.500 Euro für Weiterbildung von Solo-Selbstständigen",
+      "text": "Das Programm KOMPASS (kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige) fördert gezielt die Weiterbildung von Selbstständigen ohne Angestellte, also genau deiner Situation. Übernommen werden 90 Prozent der Kurskosten bis zu einer Höchstsumme von 4.500 Euro; den kleinen Rest trägt der Teilnehmer selbst. Thematische Schwerpunkte für 2026 sind ausdrücklich Digitalisierung und Automatisierung, teils mit Bezug zu Anwendungen der Künstlichen Intelligenz, also lernfähiger Software. Wichtig ist die Reihenfolge: Der Antrag muss vor Kursbeginn gestellt werden, eine nachträgliche Förderung ist nicht möglich. Zu beachten ist außerdem, dass die Ausgabe der sogenannten Qualifizierungsschecks von Mai bis Oktober 2026 bundesweit begrenzt wurde, um bestehende Anträge zügiger zu bearbeiten.",
+      "why": "Eine geförderte Weiterbildung lässt sich gezielt auf den Ausbau deines KI- und Automatisierungssystems zuschneiden, etwa zu Werkzeugen, Abläufen oder Datenschutz. Bei einem Eigenanteil von nur zehn Prozent ist das Risiko gering, und du eignest dir strukturiert Wissen an, statt es dir mühsam nebenher zusammenzusuchen.",
+      "source": "skill-sprinters.de",
+      "url": "https://skill-sprinters.de/blog/foerderung/kompass-foerderung-solo-selbststaendige-2026-ki-weiterbildung/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei konkrete Signale aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich aus erster Hand mit Sprachmodellen und Entwicklerwerkzeugen befassen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Deine Projekte automatisch gegen die nächste Programmiersprachen-Version testen",
+       "tag": "Robustheit",
+       "paras": [
+        "Simon Willison empfiehlt Anfang September, die eigenen Testsuiten schon gegen Vorabversionen der kommenden Programmiersprache laufen zu lassen, konkret gegen die Release Candidates von Python 3.15. Ein Release Candidate ist eine fast fertige Vorabversion, die kurz vor der offiziellen Freigabe steht; eine Testsuite ist eine Sammlung automatischer Prüfungen, die bestätigen, dass dein Programm noch wie erwartet arbeitet. Wer früh gegen die Vorabversion testet, bemerkt Unverträglichkeiten Wochen vor allen anderen und kann sie in Ruhe beheben.",
+        "Der Hebel für dein System: In dem verbreiteten Dienst GitHub Actions, der bei jeder Änderung automatisch Prüfungen ausführt, genügt ein zusätzlicher Schalter, damit auch Vorabversionen einbezogen werden. Für ein Ein-Personen-System, in dem niemand sonst gegenliest, ist das eine günstige Versicherung: Du erfährst von Problemen, solange sie noch klein und leicht zu beheben sind, statt am Tag der offiziellen Freigabe überrascht zu werden."
+       ],
+       "konkret": "Aktiviere in deinen wichtigsten Projekten das Testen gegen Vorabversionen, indem du in der Ablaufdatei von GitHub Actions die Vorabversionen zulässt und Python 3.15 in die getestete Liste aufnimmst. So läuft die Prüfung ab jetzt automatisch bei jeder Änderung mit.",
+       "snippetLabel": "GitHub-Actions-Schritt für das Testen gegen Vorabversionen",
+       "snippet": "# Auszug aus .github/workflows/test.yml\n- uses: actions/setup-python@v5\n  with:\n    python-version: <span class=\"ph\">{3.15}</span>\n    allow-prereleases: true",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Werkzeug-Rückgaben mit benannten Feldern gestalten, damit Modelle sie besser verstehen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Aus Simon Willisons Arbeit an datasette-mcp, einer Erweiterung, die Sprachmodelle über das Model Context Protocol (MCP) mit Daten verbindet, stammt eine praktische Lehre. MCP ist ein offener Standard, über den ein Assistent auf Werkzeuge und Datenquellen zugreift. Willison beobachtete, dass Modelle die Ergebnisse deutlich zuverlässiger verarbeiten, wenn eine Werkzeug-Antwort als Liste von Objekten mit benannten Feldern zurückkommt, statt als Liste von Positions-Listen, bei denen die Bedeutung jeder Spalte nur aus der Reihenfolge hervorgeht.",
+        "Der Hebel für dein System: Wenn du eigene Werkzeuge oder MCP-Schnittstellen baust, gib Daten mit klaren Feldnamen zurück, also zum Beispiel benannte Eigenschaften wie Name und Preis, statt bloßer Wertlisten. Das Modell muss dann nicht raten, welche Position welche Bedeutung hat, und macht spürbar weniger Fehler. Der Aufwand ist gering, der Gewinn an Verlässlichkeit gerade bei automatisierten Abläufen aber deutlich."
+       ],
+       "konkret": "Sieh deine eigenen Werkzeuge und MCP-Schnittstellen durch und stelle Rückgaben von Positions-Listen auf Listen von Objekten mit benannten Feldern um. Prüfe an einem Beispiel, ob dein Assistent die benannte Variante zuverlässiger auswertet.",
+       "snippetLabel": "Rückgabe mit benannten Feldern statt Positions-Liste",
+       "snippet": "// statt: [[\"Apfel\", 2], [\"Birne\", 3]]\n// besser:\n[\n  { \"name\": \"<span class=\"ph\">{Apfel}</span>\", \"preis\": 2 },\n  { \"name\": \"<span class=\"ph\">{Birne}</span>\", \"preis\": 3 }\n]",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Sep/"
       }
