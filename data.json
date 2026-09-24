@@ -2,160 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 17. September 2026",
-   "weather": "clouds",
-   "temp": "21°C · neblig-trüb",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar startet dieser Donnerstag neblig-trüb bei milden bis zu 21 Grad, ein ruhiger Morgen, der sich erst nach und nach aufklären dürfte. In der Weltlage stellt die Europäische Kommission heute ihren offiziellen Vorschlag für Altersgrenzen bei sozialen Netzwerken vor, während der US-Kongress ein neues Sanktionsgesetz gegen russische Energieexporte verabschiedet. Aus der Wirtschaft kommen vorsichtig freundlichere Signale für Deutschland, dazu ein Zeichen von Zuversicht aus dem Tierschutz, zwei Blicke in die Forschung und ein Blick auf Horb. Am Ende zwei Signale für dein System und eine zeitlich begrenzte Gelegenheit für Solo-Selbstständige.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "EU-Kommission legt offiziellen Vorschlag zu Altersgrenzen in sozialen Netzwerken vor",
-       "text": "Die Europäische Kommission, die für Gesetzesvorschläge zuständige oberste Verwaltungsbehörde der Europäischen Union (EU), stellt an diesem Donnerstag im Europäischen Parlament in Straßburg ihren offiziellen Vorschlag für einheitliche Regeln zum Schutz von Kindern in sozialen Netzwerken vor. Kommissionspräsidentin Ursula von der Leyen will erreichen, dass soziale Medien für Kinder unter 13 Jahren europaweit grundsätzlich tabu sind und ältere Jugendliche nur mit Zustimmung der Eltern Zugang erhalten. Soziale Netzwerke sind Online-Dienste wie Videoplattformen oder Chat-Apps, über die Nutzer Inhalte teilen und miteinander in Kontakt treten. Zur Prüfung des Alters ist ein europaweites System im Gespräch, das das Alter bestätigt, ohne die vollständige Identität an die Plattform weiterzugeben. Warum das zählt: Aus dem gestern noch als Entwurf bekannten Vorhaben wird heute ein förmlicher Vorschlag, der den Alltag von Familien und die Regeln für Video-, Spiele- und Chatdienste in ganz Europa verändern könnte.",
-       "source": "news.de / Europäische Kommission",
-       "url": "https://www.news.de/panorama/860000837/17-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      },
-      {
-       "title": "US-Kongress verabschiedet Sanktionsgesetz gegen russische Energieexporte",
-       "text": "Der Kongress der Vereinigten Staaten, das aus zwei Kammern bestehende Parlament der USA, hat ein neues Sanktionsgesetz gebilligt, das die Ausfuhr von russischem Öl und Gas weiter eindämmen soll. Sanktionen sind gezielte wirtschaftliche Strafmaßnahmen, mit denen Staaten ein Land unter Druck setzen, hier mit Blick auf den anhaltenden russischen Krieg gegen die Ukraine. Das Gesetz zielt darauf, die Einnahmen Russlands aus dem Energiegeschäft zu verringern, aus denen ein großer Teil der Kriegskosten bezahlt wird. Wie stark die Maßnahmen wirken, hängt davon ab, ob sich weitere Abnehmerländer anschließen. Warum das zählt: Beschränkungen für russisches Öl und Gas können die Preise auf den Weltmärkten bewegen und damit mittelbar auch die Energiekosten in Europa berühren.",
-       "source": "news.de",
-       "url": "https://www.news.de/panorama/860000837/17-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Deutsche Konjunktur sendet ein Lebenszeichen",
-       "text": "Die deutsche Wirtschaft entwickelt sich derzeit besser als befürchtet. Der ZEW-Index, eine viel beachtete monatliche Umfrage des Zentrums für Europäische Wirtschaftsforschung (ZEW) in Mannheim unter Fachleuten aus Finanzwelt und Wirtschaft, ist im September 2026 leicht gestiegen; die Einschätzung der aktuellen Lage zog deutlicher an, blieb aber weiter im negativen Bereich. Nach einer Analyse der Landesbank Baden-Württemberg (LBBW) hat Deutschland den Energiepreisschock in Folge des Iran-Kriegs vergleichsweise gut verkraftet, weshalb die Wachstumserwartung für das laufende Jahr moderat von 0,5 auf 0,7 Prozent angehoben wurde. Rückenwind kommt vor allem vom Außenhandel, während die Binnennachfrage, also der Konsum und die Investitionen im Inland, weiterhin schwach ist. Warum das zählt: Eine etwas festere Konjunktur bedeutet für kleine Unternehmen tendenziell stabilere Auftragslagen, auch wenn die Erholung noch zaghaft und ungleich verteilt ist.",
-       "source": "LBBW / ZEW",
-       "url": "https://www.lbbw.de/artikel/webkonferenzen/lbbw-kapitalmarktkompass-september-2026_ando5tivha_d.html"
-      },
-      {
-       "title": "US-Notenbank hebt ihren Leitzins an",
-       "text": "Die US-Notenbank Federal Reserve, kurz Fed genannt, die die Geldpolitik der Vereinigten Staaten steuert, hat ihren Leitzins auf eine Spanne von 3,75 bis 4,00 Prozent angehoben, um die noch erhöhte Teuerung zu dämpfen. Der Leitzins ist der zentrale Zinssatz, mit dem eine Notenbank die Kosten von Krediten in der gesamten Volkswirtschaft steuert. Höhere Zinsen in den USA können den US-Dollar stärken und die Bedingungen an den internationalen Finanzmärkten straffen, was auch in Europa spürbar wird. Warum das zählt: Die Zinsentscheidungen der beiden größten Notenbanken, der US-Notenbank Fed und der Europäischen Zentralbank, prägen gemeinsam die Rahmenbedingungen für Kredite, Wechselkurse und Investitionen weltweit.",
-       "source": "news.de",
-       "url": "https://www.news.de/panorama/860000837/17-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      }
-     ],
-     "merk": {
-      "text": "Die Bundesbank rechnet für das dritte Quartal wegen der schwachen Binnennachfrage und niedriger Flusspegel bestenfalls mit einem kleinen Plus; die Erholung steht also noch auf schmalen Füßen.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Kasachstan bringt den Kaspischen Tiger zurück",
-       "text": "In Zentralasien nimmt ein ungewöhnliches Naturschutzprojekt Gestalt an: Kasachstan arbeitet daran, den Kaspischen Tiger wieder anzusiedeln, eine große Raubkatze, die in der Region seit rund einem halben Jahrhundert als ausgestorben gilt. Möglich wird das, weil der eng verwandte Amur-Tiger, der im Fernen Osten Russlands lebt, als Ersatz für den verschwundenen Unterart-Verwandten dienen kann. Voraussetzung war, zunächst ausgedehnte Schutzgebiete am Fluss Ili und am Balchaschsee einzurichten und die Bestände von Beutetieren wie Wildschweinen und Hirschen wieder aufzubauen. Warum das zählt: Das Vorhaben zeigt, dass sich verloren geglaubte Naturräume mit Geduld und Planung zurückgewinnen lassen, und macht Mut, dass Artenschutz nicht nur Verluste verwalten muss.",
-       "img": "https://cdn.stocksnap.io/img-thumbs/960w/ARCVR3GFHW.jpg",
-       "source": "Good News Network",
-       "url": "https://www.goodnewsnetwork.org/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung",
-     "items": [
-      {
-       "title": "Forschende rekonstruieren Videobilder aus der Hirnaktivität von Mäusen",
-       "text": "Einem Forschungsteam ist es gelungen, kurze Videoclips allein aus der Aktivität von Nervenzellen im Sehzentrum von Mäusen zu rekonstruieren. Als Sehzentrum, im Fachbegriff visueller Kortex, wird der Teil der Großhirnrinde bezeichnet, der eintreffende Bildinformationen verarbeitet. Die Fachleute zeichneten die Signale einzelner Nervenzellen auf, während die Tiere Filme betrachteten, und errechneten daraus etwa zehn Sekunden lange Videos, die dem tatsächlich Gesehenen nahekommen. Warum das zählt: Solche Verfahren helfen zu verstehen, wie das Gehirn Bilder verarbeitet, und könnten langfristig die Entwicklung von Hilfsmitteln für Menschen mit schweren Wahrnehmungs- oder Bewegungseinschränkungen voranbringen.",
-       "img": "https://live.staticflickr.com/1574/24169282966_5509467a2a_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/mind_brain/"
-      },
-      {
-       "title": "Winde aus einem gewaltigen Schwarzen Loch sind stärker als gedacht",
-       "text": "Astronominnen und Astronomen haben festgestellt, dass die Winde, die von einem sogenannten supermassereichen Schwarzen Loch ausgehen, etwa hundertmal kräftiger sind als bislang angenommen. Ein Schwarzes Loch ist ein Bereich im Weltall, in dem die Schwerkraft so stark ist, dass nicht einmal Licht entkommt; supermassereich heißt, dass es die millionen- bis milliardenfache Masse unserer Sonne besitzt und im Zentrum großer Galaxien sitzt. Solche Winde sind Ströme aus heißem Gas, die das Schwarze Loch mit großer Wucht hinausschleudert. Warum das zählt: Diese Gasströme beeinflussen, wie viele neue Sterne in einer Galaxie entstehen, und der Befund verändert das Bild davon, wie sich ganze Galaxien im Lauf der Zeit entwickeln.",
-       "img": "https://live.staticflickr.com/3114/5836930750_86469ff58a_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Neblig-trüber Donnerstag, dazu Termine in Stadt und Umland",
-       "text": "In Horb am Neckar beginnt dieser Donnerstag neblig-trüb bei milden bis zu 21 Grad; über dem Neckartal dürfte sich der Dunst erst im Lauf des Vormittags lichten, ein guter Tag für Erledigungen in Ruhe. Wer handwerklich unterwegs ist, findet heute und morgen, am 17. und 18. September jeweils von 11 bis 18 Uhr, beim Globus Baumarkt in Horb eine Fachberatung rund um Motoröl des Herstellers Liqui Moly, am Samstag, dem 19., von 10 bis 16 Uhr. In der weiteren Umgebung lädt am 19. September das mittelalterliche Burgfest auf Burg Stettenfels im nahen Untergruppenbach ein, und am 20. September folgt der Naturpark-Markt in Dornhan. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, die eigene Woche in Ruhe und ohne Hektik zu planen.",
-       "img": "https://live.staticflickr.com/2792/4086903249_18df8bd0b1_b.jpg",
-       "source": "meinestadt / Globus Baumarkt",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein Morgen im Nebel verlangt keine Eile; er lädt ein, den ersten Schritt bewusst zu setzen und den Tag klarer werden zu lassen, während man geht."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Kostenlose KI-Beratung der Mittelstand-Digital Zentren",
-      "text": "Die Mittelstand-Digital Zentren sind ein bundesweites Netz von Anlaufstellen, das vom Bundesministerium für Wirtschaft finanziert wird und kleine Unternehmen sowie Selbstständige kostenlos und herstellerneutral bei der Digitalisierung unterstützt. Ein Schwerpunkt liegt inzwischen ausdrücklich auf dem praktischen Einsatz von Künstlicher Intelligenz (KI), also von Computerprogrammen, die Aufgaben übernehmen, für die sonst menschliche Urteilskraft nötig wäre. Angeboten werden unter anderem kostenfreie Erstgespräche, praxisnahe Workshops und begleitete Testprojekte. Zu beachten ist, dass die Zentren in ihrer heutigen Form nach derzeitigem Stand nur bis Ende 2026 gefördert sind.",
-      "why": "Für ein Ein-Personen-Unternehmen ist das ein risikofreier Weg, den eigenen KI-Einsatz von unabhängiger Seite prüfen und sortieren zu lassen, ohne Beratungshonorar. Weil die aktuelle Förderphase Ende 2026 ausläuft, lohnt es sich, ein Erstgespräch eher früher als später zu vereinbaren.",
-      "source": "Mittelstand-Digital",
-      "url": "https://www.mittelstand-digital.de/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Gegen kommende Versionen testen, bevor sie erscheinen",
-       "tag": "Arbeitsweise",
-       "paras": [
-        "Der Entwickler Simon Willison beschreibt in einer Notiz vom 1. September, wie er seine Programme frühzeitig gegen sogenannte Release Candidates von Python testet. Ein Release Candidate ist eine noch nicht endgültige Vorabversion einer Software, die schon fast fertig ist und vor allem dem letzten Test dient; Python ist die Programmiersprache, in der viele KI- und Automatisierungswerkzeuge geschrieben sind.",
-        "Der Hebel dahinter ist allgemein: Wenn deine automatischen Prüfläufe, im Fachjargon Continuous Integration oder kurz CI, zusätzlich gegen die nächste, noch kommende Version einer Grundlage laufen, bemerkst du Unverträglichkeiten Wochen vor dem offiziellen Wechsel, statt an dem Tag, an dem plötzlich etwas stehenbleibt. Für ein schlankes Ein-Personen-System senkt das die Gefahr böser Überraschungen erheblich."
-       ],
-       "konkret": "Ergänze in deinen automatischen Prüfläufen eine Variante, die gegen die jeweils nächste, noch unfertige Version deiner wichtigsten Grundlage läuft, damit Unverträglichkeiten früh auffallen, statt beim Zwangswechsel.",
-       "snippetLabel": "GitHub-Actions: auch Vorabversionen testen",
-       "snippet": "- uses: actions/setup-python@v5\n  with:\n    python-version: \"<span class=\"ph\">{3.15}</span>\"\n    allow-prereleases: true\n    check-latest: true",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/"
-      },
-      {
-       "icon": "gauge",
-       "title": "Den Agenten bereits installierte Werkzeuge nutzen lassen",
-       "tag": "Automatisierung",
-       "paras": [
-        "In mehreren Notizen aus dem September zeigt Simon Willison, wie er einem Coding-Agenten Aufgaben übergibt, indem dieser bereits auf dem Rechner vorhandene Programme selbst bedient. Ein Coding-Agent ist ein KI-Assistent, der eigenständig Befehle ausführen und Programme steuern kann. In einem Beispiel wies er den Agenten an, das schon installierte 3D-Programm Blender direkt zum Erzeugen von Bildern zu verwenden, statt eine eigene Lösung nachzubauen.",
-        "Der übertragbare Grundsatz: Wo ein zuverlässiges Werkzeug bereits vorhanden ist, spart es Zeit und Fehler, den Agenten dieses bedienen zu lassen, statt die Funktion neu zu programmieren. In Willisons Beispiel entstanden aufwendige Bilder für rund vier US-Dollar an Rechenkosten. Für dein System heißt das, vorhandene, geprüfte Programme als Bausteine zu behandeln, die der Agent ansteuert."
-       ],
-       "konkret": "Bevor du eine neue Funktion nachbaust, prüfe, ob ein zuverlässiges Programm dafür schon installiert ist, und formuliere die Aufgabe so, dass dein Agent genau dieses Werkzeug bedient.",
-       "snippetLabel": "Auftrag an den Agenten",
-       "snippet": "Nutze das bereits installierte <span class=\"ph\">{Programm}</span>, um <span class=\"ph\">{Aufgabe}</span> zu erledigen; baue keine eigene Lösung nach, sondern steuere das vorhandene Werkzeug.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 18. September 2026",
    "weather": "clouds",
    "temp": "19°C · neblig",
@@ -966,7 +812,6 @@
    "weather": "clouds",
    "temp": "23°C · neblig-trüb",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Mittwoch ein neblig-trüber Morgen, und die Temperatur klettert am Nachmittag auf höchstens etwa 23 Grad, ein mildes, gedämpftes Herbstwetter, das erst allmählich aufklart. Die Lage an diesem Morgen: In New York bestimmt die Generaldebatte der Vereinten Nationen mit dem Auftritt des ukrainischen Präsidenten weiter das Geschehen, in Washington beginnt ein dreitägiger Staatsbesuch des chinesischen Staatschefs, und die Bundesbank dämpft kurzfristig die Konjunkturerwartungen. Dazu kommen ein Erfolg im Kampf gegen die Tollwut in Chile und ein staunenswerter Fund aus der Quantenphysik. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1117,6 +962,168 @@
        "snippet": "// statt: [[\"Apfel\", 2], [\"Birne\", 3]]\n// besser:\n[\n  { \"name\": \"<span class=\"ph\">{Apfel}</span>\", \"preis\": 2 },\n  { \"name\": \"<span class=\"ph\">{Birne}</span>\", \"preis\": 3 }\n]",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Sep/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 24. September 2026",
+   "weather": "clouds",
+   "temp": "20°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Donnerstag ein bewölkter Himmel, und die Temperatur erreicht am Nachmittag höchstens etwa 20 Grad, ein mildes, gedämpftes Herbstwetter ohne Sonne. Die Lage an diesem Morgen: In New York bestimmt die Generaldebatte der Vereinten Nationen mit Blick auf den Nahost-Konflikt das Geschehen, in Washington setzt der chinesische Staatschef seinen Staatsbesuch fort, und in Berlin legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Dazu kommen ein ermutigender Fahrplan für den Umweltschutz und zwei Fortschritte aus der Forschung, von geheilten Nervenzellen bis zu klimafreundlichem Beton. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Nahost-Konflikt im Mittelpunkt der UN-Generaldebatte in New York",
+       "text": "Bei der Generaldebatte der Vereinten Nationen (UN), des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit, rückt an diesem Donnerstag der Nahost-Konflikt in den Vordergrund. Erwartet werden Reden des israelischen Ministerpräsidenten Benjamin Netanjahu vor der Vollversammlung sowie ein Auftritt des Palästinenserpräsidenten Mahmud Abbas, der per Videoschaltung zugeschaltet wird, weil ihm die Einreise in die Vereinigten Staaten verweigert wurde. Die Generaldebatte ist der Teil der jährlichen UN-Sitzung, in dem die Staats- und Regierungschefs nacheinander ihre Sicht auf die Weltlage darlegen. Die Einordnung bleibt nüchtern: Solche Reden sind vor allem politische Signale nach außen; verbindliche Beschlüsse zur Lösung des Konflikts entstehen daraus in aller Regel nicht.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860022626/24-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-24-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Xi Jinping in Washington, USA verlängern Zollpause gegenüber China",
+       "text": "Der chinesische Staats- und Parteichef Xi Jinping setzt an diesem Donnerstag seinen dreitägigen Staatsbesuch in der US-Hauptstadt Washington fort, mit einem Empfang im Weißen Haus, dem Amtssitz des US-Präsidenten, und einem Staatsbankett am Abend. Begleitend kündigte US-Finanzminister Scott Bessent an, die zusätzlichen Zölle auf chinesische Waren, also die staatlichen Abgaben auf eingeführte Güter, um zwei weitere Monate bis Januar aufzuschieben. Im Mittelpunkt der Gespräche stehen der Handelsstreit zwischen den beiden größten Volkswirtschaften der Welt sowie Fragen der Sicherheit bei Künstlicher Intelligenz, also lernfähiger Software. Die Einordnung: Die verlängerte Zollpause verschafft der Weltwirtschaft eine Atempause, löst die zugrunde liegenden Handelskonflikte aber nicht.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860022626/24-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-24-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Wirtschaftsinstitute legen Herbstgutachten vor, höheres Wachstum erwartet",
+       "text": "Die führenden deutschen Wirtschaftsforschungsinstitute stellen an diesem Donnerstag um 10 Uhr in Berlin ihr Herbstgutachten vor. Das Herbstgutachten ist eine zweimal jährlich erscheinende gemeinsame Konjunkturprognose mehrerer unabhängiger Institute, die als wichtige Grundlage für die Wirtschaftspolitik der Bundesregierung dient. Erwartet wird, dass die Fachleute ihre Wachstumserwartung für die deutsche Wirtschaft anheben, unter anderem wegen der gestiegenen staatlichen Ausgaben für Verteidigung und Rüstung. Die Einordnung: Höhere Staatsausgaben können die Konjunktur, also den Gang der Wirtschaft, kurzfristig ankurbeln; ob daraus dauerhaftes Wachstum wird, hängt von Investitionen und Produktivität ab.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860022626/24-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-24-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Einkaufsmanager-Umfrage deutet auf kräftigeres Wachstum im Euro-Raum",
+       "text": "Ein aufmunterndes Signal liefern die Einkaufsmanagerindizes für Deutschland und den Euro-Raum. Diese Indizes beruhen auf regelmäßigen Umfragen unter Einkaufsleitern von Unternehmen und gelten als früher Fühler für die Konjunktur, weil sie zeigen, ob Firmen mehr oder weniger Aufträge und Produktion erwarten. Nach den jüngsten Daten könnte die Wirtschaftsleistung im Euro-Raum so stark zulegen wie seit rund dreieinhalb Jahren nicht mehr. Die Einordnung: Umfragewerte sind Stimmungsbilder, keine harten Zahlen, doch der Aufwärtstrend stützt die vorsichtig optimistische Erwartung, dass sich die Wirtschaft zum Jahresende hin festigt.",
+       "source": "Handelsblatt",
+       "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umfrage-deutet-auf-deutlich-staerkeres-wachstum-im-euro-raum-hin/100256806.html"
+      }
+     ],
+     "merk": {
+      "text": "Merken: Die Signale zeigen mehrheitlich nach oben, getragen von Staatsausgaben und besserer Stimmung in den Unternehmen. Wer Aufträge oder Investitionen plant, kann mit einer sich festigenden Nachfrage rechnen, sollte aber im Blick behalten, dass ein Teil des Schubs aus staatlichen Programmen stammt und damit nicht dauerhaft gesichert ist.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Studie nennt 51 Lösungen, die den Umweltschutz beschleunigen könnten",
+       "text": "Eine ermutigende Studie des Earthshot Prize, einer internationalen Umweltauszeichnung, gemeinsam mit der Universität Exeter in Großbritannien benennt 51 Lösungen, die den Schutz des Planeten binnen fünf Jahren spürbar voranbringen könnten. Die Untersuchung stützt sich auf das Konzept der positiven Kipppunkte, also Schwellen, ab denen sich eine gute Entwicklung von selbst verstärkt und immer schneller ausbreitet, ähnlich wie sich eine gute Gewohnheit mit der Zeit festigt. Viele der Ansätze, von sauberer Energie bis zum Schutz der Meere, wurden andernorts bereits erfolgreich erprobt und müssten nur breiter angewendet werden. Die Botschaft: Fortschritt im Umweltschutz muss nicht mühsam bleiben, sondern kann bei richtigem Ansatzpunkt eine Eigendynamik entfalten.",
+       "img": "https://s0.geograph.org.uk/geophotos/03/67/04/3670419_e4ae6e5a.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/"
+      },
+      {
+       "title": "Eindrucksvolle Naturfotografie beim Wettbewerb Bird Photographer of the Year",
+       "text": "Für einen Moment des Staunens sorgt der internationale Fotowettbewerb Bird Photographer of the Year, also Vogelfotograf des Jahres, dessen diesjährige Preisträger vorgestellt wurden. Zu den ausgezeichneten Bildern gehört die Aufnahme eines Basstölpels, eines großen Seevogels, im pfeilschnellen Sturzflug ins Wasser, mit dem er unter der Oberfläche Fische jagt. Solche Wettbewerbe würdigen nicht nur fotografisches Können, sondern lenken den Blick auch auf die Vielfalt und Verletzlichkeit der Vogelwelt. Die Botschaft: Ein einziges gelungenes Bild kann Neugier auf die Natur wecken und daran erinnern, wie viel Bewahrenswertes vor unserer Haustür lebt.",
+       "img": "https://live.staticflickr.com/1794/42126174400_d76d699cfc_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/environment/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Stammzellen lassen im Tierversuch geschädigtes Hirngewebe nachwachsen",
+       "text": "Ein hoffnungsvoller Fund aus der Medizinforschung: Wissenschaftler haben nach eigenen Angaben mit Stammzell-Transplantationen bei Mäusen Hirngewebe regeneriert, das durch einen Schlaganfall geschädigt worden war. Stammzellen sind unspezialisierte Körperzellen, die sich noch in verschiedene Zelltypen verwandeln können, hier in neue Nervenzellen. In den Versuchstieren bildeten sich daraufhin neue Neuronen, und verlorene Bewegungsfunktionen kehrten teilweise zurück. Die Einordnung: Es handelt sich zunächst um einen Erfolg im Tiermodell; bis daraus eine Behandlung für Menschen werden kann, sind noch umfangreiche Studien nötig, doch die Richtung ist ermutigend.",
+       "img": "https://live.staticflickr.com/7462/16018799427_4abbbc3602.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Neuer Beton ist zugleich fester und bindet Kohlendioxid",
+       "text": "Aus der Materialforschung kommt ein praktischer Fortschritt: Forschende haben eine Betonmischung entwickelt, die stabiler ist als üblicher Beton und zugleich Kohlendioxid aufnehmen kann. Kohlendioxid, kurz CO2, ist das Treibhausgas, das maßgeblich zur Erderwärmung beiträgt und unter anderem bei der Herstellung von Zement in großen Mengen freigesetzt wird. Ein Baustoff, der einen Teil dieses Gases wieder einbindet und dabei auch noch belastbarer ist, könnte die Klimabilanz des Bauens verbessern. Die Einordnung: Der Weg von der Laborprobe bis zum breiten Einsatz auf Baustellen ist noch weit, doch gerade weil weltweit so viel Beton verbaut wird, wäre selbst eine kleine Verbesserung von großer Wirkung.",
+       "img": "https://live.staticflickr.com/5774/30452706885_b381615b01_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Bewölkter Herbsttag im Neckartal, ruhige Wochenmitte",
+       "text": "In Horb am Neckar bleibt der Himmel an diesem Donnerstag bewölkt, und die Temperatur steigt auf höchstens etwa 20 Grad, ein mildes, aber sonnenarmes Herbstwetter im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Der örtliche Veranstaltungskalender ist unter der Woche eher ruhig; als Ausblick lohnt ein Blick auf den 16. und 17. Oktober, an denen im Gasthof Adler ein sogenanntes Kriminal-Dinner stattfindet, ein geselliger Abend mit mehrgängigem Menü und einer Rätselgeschichte zum Mitraten. Auch ohne Sonne laden die milden Nachmittage zu einem Spaziergang entlang des Neckars oder durch die historische Altstadt mit ihren Fachwerkhäusern ein. Ein ruhiger Rahmen also, um den Tag für konzentriertes Arbeiten zu nutzen und die kurze Bewegung an der frischen Luft bewusst einzuplanen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "meinestadt.de",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Himmel ohne Sonne nimmt dem Tag nichts von seinem Wert; oft entsteht das Beste in der gleichmäßigen Ruhe, die kein greller Glanz stört."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Digitalisierungsfinanzierung Baden-Württemberg mit Tilgungszuschuss des Landes",
+      "text": "Das Land Baden-Württemberg, in dem auch Horb liegt, bündelt seine Unterstützung für Digitalisierungsvorhaben seit Mitte 2025 im Programm Digitalisierungsfinanzierung, das über die Förderbank L-Bank abgewickelt wird. Kern ist ein zinsgünstiges Darlehen, also ein staatlich verbilligter Kredit; für Vorhaben bis 250.000 Euro erhalten kleine und mittlere Unternehmen zusätzlich einen einmaligen Tilgungszuschuss, die sogenannte Digitalisierungsprämie, mit der ein Teil des Kredits nicht zurückgezahlt werden muss. Gefördert werden ausdrücklich der Aufbau und die Modernisierung der IT sowie die Automatisierung von Abläufen mithilfe Künstlicher Intelligenz, also lernfähiger Software. Der Antrag wird über die eigene Hausbank gestellt, und das Programm läuft nach jetzigem Stand bis zum 30. Juni 2027.",
+      "why": "Für den Ausbau deines KI- und Automatisierungssystems ist das eine Möglichkeit, größere Anschaffungen oder Entwicklungsschritte zinsgünstig zu finanzieren und über die Prämie einen Teil davon als echten Zuschuss zu behalten. Weil der Antrag über die Hausbank läuft, lohnt sich ein frühes Vorgespräch, um Ablauf und Voraussetzungen zu klären, bevor konkrete Ausgaben anstehen.",
+      "source": "L-Bank",
+      "url": "https://www.l-bank.de/produkte/finanzhilfen/digiplus-zuschuss.html"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei konkrete Signale aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich aus erster Hand mit Sprachmodellen und Entwicklerwerkzeugen befassen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Öffentlich erreichbare Dienste gegen ausufernde Zugriffe von Bots absichern",
+       "tag": "Sicherheit",
+       "paras": [
+        "Simon Willison weist Anfang September darauf hin, dass automatische Programme, sogenannte Crawler oder Bots, die Webseiten selbsttätig abgrasen, inzwischen einen großen Teil der Rechenlast öffentlicher Dienste verursachen, teils mehr als die echten menschlichen Nutzer. Ein Crawler ist ein Programm, das Seite für Seite automatisch abruft, etwa um Inhalte für Suchmaschinen oder zum Training von Modellen einzusammeln. Für ein Ein-Personen-System, hinter dem keine große Betriebsmannschaft steht, kann das zu unnötig hohen Serverkosten oder sogar zu Ausfällen führen.",
+        "Der Hebel für dein System: Wenn du eigene Dienste oder kleine Web-Werkzeuge öffentlich erreichbar betreibst, richte eine Begrenzung der Zugriffe pro Zeiteinheit ein, ein sogenanntes Rate-Limiting, und filtere offensichtliche Bots heraus. So bleibt der Dienst für echte Nutzer schnell, während massenhafte automatische Abrufe früh abgebremst werden. Der Aufwand ist gering, schützt dich aber vor überraschend hohen Kosten und Lastspitzen."
+       ],
+       "konkret": "Prüfe deine öffentlich erreichbaren Dienste und ergänze für den vorgelagerten Webserver eine einfache Zugriffsbegrenzung pro Adresse. Beobachte anschließend, ob sich die Last messbar verringert, und passe die Grenzwerte an dein normales Nutzeraufkommen an.",
+       "snippetLabel": "Beispiel für eine Zugriffsbegrenzung im Webserver nginx",
+       "snippet": "# in der nginx-Konfiguration\nlimit_req_zone $binary_remote_addr zone=web:10m rate=<span class=\"ph\">{10}</span>r/s;\n\nserver {\n  location / {\n    limit_req zone=web burst=20 nodelay;\n  }\n}",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Geodaten per Sprachmodell beschaffen, statt sie mühsam von Hand zu suchen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Anfang September stellt Simon Willison einen kleinen GeoJSON-Kartenbetrachter vor und beschreibt dabei einen praktischen Kniff. GeoJSON ist ein offenes Textformat, in dem geografische Formen wie Grenzen, Wege oder Punkte gespeichert werden und das die meisten Kartenwerkzeuge direkt lesen können. Statt eine Gebietsgrenze mühsam aus amtlichen Quellen herauszusuchen, lässt er sich von einem Sprachmodell wie ChatGPT direkt ein passendes Vieleck, also einen umgrenzten Flächenzug, als GeoJSON ausgeben.",
+        "Der Hebel für dein System: Wenn du in einem Projekt eine Karte, ein Einzugsgebiet oder eine regionale Auswertung brauchst, kannst du die grobe Umrandung zunächst per Sprachmodell erzeugen lassen und danach verfeinern, statt bei null anzufangen. Das spart Recherchezeit bei einfachen geografischen Aufgaben. Wichtig bleibt eine kurze Kontrolle des Ergebnisses, denn ein Modell kann Grenzen ungenau oder falsch wiedergeben."
+       ],
+       "konkret": "Wenn in einem deiner Vorhaben eine Kartengrenze oder ein Gebietsumriss gebraucht wird, lass ihn dir zunächst als GeoJSON vom Sprachmodell ausgeben und prüfe die Form in einem Kartenbetrachter. Nutze das Ergebnis als Entwurf und gleiche es bei Bedarf mit einer amtlichen Quelle ab.",
+       "snippetLabel": "Prompt-Snippet für eine Gebietsgrenze als GeoJSON",
+       "snippet": "Gib mir ein GeoJSON-Polygon, das die ungefähre Grenze von\n<span class=\"ph\">{Region oder Stadt}</span> darstellt.\nNur gültiges GeoJSON ausgeben, ohne weitere Erklärung.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/1/geojson/"
       }
      ]
     }
