@@ -2,158 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Samstag, 19. September 2026",
-   "weather": "clouds",
-   "temp": "23°C · Nebel",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser Samstag neblig-trüb bei mild bis zu 23 Grad, ehe sich der Dunst über dem Neckartal im Lauf des Vormittags heben dürfte, ein ruhiger Auftakt ins Wochenende. In der Weltlage schlägt die Europäische Kommission ein bündnisweites Verbot sozialer Netzwerke für Kinder unter 13 Jahren vor, und die Bundeswehr hat ihren ersten Tarnkappen-Kampfjet vom Typ F-35 übernommen. Aus der Wirtschaft kommen leicht steigende Konjunkturerwartungen und eine angehobene Wachstumsprognose, dazu ein medizinischer Lichtblick aus London, zwei Blicke in die Forschung und ein Blick auf Horb, wo heute ein Flohmarkt lockt. Am Ende zwei technische Signale für dein System und eine geförderte Beratungsgelegenheit für Solo-Selbstständige.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "EU-Kommission will soziale Netzwerke für Kinder unter 13 verbieten",
-       "text": "Die Präsidentin der Europäischen Kommission, Ursula von der Leyen, hat in ihrer Rede zur Lage der Union am 16. September in Straßburg ein bündnisweites Verbot sozialer Netzwerke für Kinder unter 13 Jahren angekündigt. Die Europäische Kommission ist die Behörde, die Gesetze für die Europäische Union (EU) vorschlägt und deren Regeln überwacht; soziale Netzwerke sind Online-Dienste wie Videoplattformen und Nachrichten-Apps, über die Menschen Inhalte teilen. Nach dem Vorschlag, der unter dem Namen EU Kids Act läuft, sollen Jugendliche zwischen 13 und 15 Jahren nur mit Zustimmung der Eltern ein Konto anlegen dürfen; Plattformen sollen zudem süchtig machende Gestaltungsmerkmale zurücknehmen. Bei Verstößen drohen Bußgelder von bis zu sechs Prozent des Jahresumsatzes. Warum das zählt: Der Vorstoß bündelt bislang einzelstaatliche Regeln zu einem gemeinsamen europäischen Rahmen und könnte prägen, wie Familien in ganz Europa den Umgang von Kindern mit dem Internet gestalten.",
-       "source": "CNN / Europäische Kommission",
-       "url": "https://www.cnn.com/2026/09/16/europe/eu-social-media-ban-children-intl"
-      },
-      {
-       "title": "Bundeswehr übernimmt ersten F-35-Kampfjet in den USA",
-       "text": "Bundesverteidigungsminister Boris Pistorius hat am 18. September im texanischen Fort Worth den ersten von 35 bestellten Kampfjets des Typs F-35A für die Bundeswehr übernommen. Die F-35 ist ein sogenannter Tarnkappen-Kampfjet, also ein Militärflugzeug, das durch seine Bauform für gegnerische Radargeräte schwer zu erfassen ist; hergestellt wird er vom US-Konzern Lockheed Martin. Pistorius sprach vom Beginn einer neuen Ära für die Luftwaffe und bezeichnete das Flugzeug als modernstes Kampfflugzeug der Welt; alle 35 Maschinen sollen bis 2029 geliefert und aus einem Sondervermögen für die Bundeswehr mit rund zehn Milliarden Euro finanziert werden. Auf die Frage nach einer Abhängigkeit von den Vereinigten Staaten sagte der Minister, man wolle nicht unabhängig, aber unabhängiger werden. Warum das zählt: Die Beschaffung ist eines der teuersten Rüstungsvorhaben Deutschlands und zeigt, wie stark die europäische Verteidigung noch auf amerikanische Technik setzt.",
-       "source": "ZDF / Bundeswehr",
-       "url": "https://www.zdfheute.de/politik/ausland/usa-pistorius-f-35-kampfjet-ruestung-100.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Konjunkturerwartungen für Deutschland steigen leicht",
-       "text": "Der ZEW-Index, ein viel beachteter Stimmungsmesser, für den das Zentrum für Europäische Wirtschaftsforschung (ZEW) in Mannheim monatlich Finanzfachleute befragt, ist im September auf 34,7 Punkte gestiegen, ein Plus von 0,5 Punkten gegenüber August. Der Index bildet die Erwartungen an die wirtschaftliche Entwicklung der kommenden Monate ab; ein positiver Wert bedeutet, dass mehr Befragte mit einer Besserung als mit einer Verschlechterung rechnen. Deutlich kräftiger, um 14,0 Punkte, verbesserte sich die Bewertung der aktuellen Lage auf minus 47,1 Punkte, bleibt damit aber weiter klar im negativen Bereich. Warum das zählt: Steigende Erwartungen deuten darauf hin, dass die Fachleute mit einer allmählichen Erholung rechnen, auch wenn die gegenwärtige Lage noch als schwach eingeschätzt wird.",
-       "source": "ad-hoc-news / ZEW",
-       "url": "https://www.ad-hoc-news.de/wirtschaft/die-zew-konjunkturerwartungen-fuer-deutschland-haben-sich-im-september/70104478"
-      },
-      {
-       "title": "Deutsche Wirtschaft verkraftet Energiepreisschock besser als befürchtet",
-       "text": "Nach einer Einschätzung der Landesbank Baden-Württemberg (LBBW), einer der größten deutschen Geschäftsbanken, hat die deutsche Wirtschaft die Folgen der jüngsten Energiepreissprünge vergleichsweise gut überstanden. Die Wachstumsprognose für das laufende Jahr wurde daher moderat von 0,5 auf 0,7 Prozent angehoben. Rückenwind kommt vor allem aus dem Außenhandel, während die Binnenkonjunktur, also der Konsum und die Investitionen im Inland, weiterhin schwach bleibt. Die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank, hatte ihre Leitzinsen zuletzt am 10. September angehoben; danach wird eine längere Zinspause erwartet. Warum das zählt: Eine, wenn auch zaghafte, festere Konjunktur bedeutet für kleine Betriebe und Zulieferer tendenziell stabilere Auftragslagen.",
-       "source": "LBBW",
-       "url": "https://www.lbbw.de/artikel/news-und-einschaetzungen-2026/bwq-2026-1-konjunkturelle-lage-deutschland_ammjchuq3i_d.html"
-      }
-     ],
-     "merk": {
-      "text": "Erwartungen und aktuelle Lage laufen auseinander: Die Fachleute blicken vorsichtig optimistischer nach vorn, während die Gegenwart noch klar negativ bewertet wird. Die Erholung stützt sich derzeit vor allem auf den Export.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Künstliche Intelligenz erkennt Herzschwäche in Sekunden im EKG",
-       "text": "Forschende des Imperial College London, einer renommierten Hochschule in der britischen Hauptstadt, haben ein Programm der Künstlichen Intelligenz (KI) entwickelt, das ein alltägliches EKG in weniger als zwei Sekunden auf Anzeichen einer geschwächten Herzpumpleistung und einer Erkrankung der Aortenklappe durchsucht. Ein EKG, kurz für Elektrokardiogramm, ist eine einfache Untersuchung, bei der die elektrischen Signale des Herzschlags über Elektroden auf der Haut aufgezeichnet werden. Das Modell wurde mit 10,6 Millionen EKG-Aufzeichnungen trainiert und erkannte bis zu 81 Prozent der Fälle von Herzschwäche und bis zu 90 Prozent der Klappenerkrankungen, obwohl das EKG dafür ursprünglich gar nicht gedacht war. Es soll Ärztinnen und Ärzte nicht ersetzen, sondern helfen, gefährdete Patienten früher für eine genauere Ultraschalluntersuchung auszuwählen. Warum das zählt: Weil viele Menschen monatelang auf einen Herzultraschall warten, könnte ein solches Vorsortieren helfen, ernste Erkrankungen früher zu erkennen und schneller zu behandeln.",
-       "img": "https://live.staticflickr.com/2898/13704597185_6b7f629339_b.jpg",
-       "source": "Optimist Daily / Imperial College London",
-       "url": "https://www.optimistdaily.com/2026/09/heart-failure-and-valve-disease-spotted-in-seconds-by-new-ai-ecg-tool/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung",
-     "items": [
-      {
-       "title": "Das Gehirn ordnet sein Erbgut ab der Lebensmitte neu",
-       "text": "Ein Forschungsteam hat weitreichende Veränderungen darin entdeckt, wie das menschliche Gehirn ab der Lebensmitte sein Erbgut steuert und organisiert. Als Erbgut, im Fachbegriff Genom, wird die Gesamtheit der Erbinformationen in jeder Zelle bezeichnet; entscheidend ist dabei nicht nur, welche Gene vorhanden sind, sondern auch, welche gerade an- oder abgeschaltet werden. Die Fachleute fanden, dass sich diese Steuerung etwa ab dem mittleren Lebensalter deutlich verschiebt, und sehen darin einen möglichen Grund, warum das Risiko für Alzheimer und andere Nervenerkrankungen mit dem Alter stark ansteigt. Alzheimer ist die häufigste Form der Demenz, bei der Nervenzellen im Gehirn nach und nach absterben. Warum das zählt: Wer versteht, wann und wie diese Umbauprozesse einsetzen, kann gezielter nach Ansatzpunkten suchen, um dem geistigen Abbau im Alter vorzubeugen.",
-       "img": "https://live.staticflickr.com/1548/23754954070_a856afbe7f_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/mind_brain/"
-      },
-      {
-       "title": "Umgestellte Ernährung senkt das biologische Alter binnen Wochen",
-       "text": "Einer neuen Untersuchung zufolge zeigten ältere Erwachsene bereits nach vier Wochen Anzeichen eines verringerten biologischen Alters, nachdem sie das Verhältnis von Fett, Kohlenhydraten und tierischem Eiweiß in ihrer Ernährung verändert hatten. Das biologische Alter ist ein Maß dafür, wie alt der Körper anhand bestimmter Zellmerkmale erscheint, unabhängig von den tatsächlich gelebten Jahren; es kann sich vom Alter im Ausweis unterscheiden. Kohlenhydrate sind der Sammelbegriff für Zucker und Stärke als Energieträger in der Nahrung. Die Ergebnisse deuten darauf hin, dass schon vergleichsweise kleine, gut umsetzbare Anpassungen der Ernährung messbare Spuren in den Zellen hinterlassen können. Warum das zählt: Der Befund stützt die Hoffnung, dass gesunde Ernährung nicht nur langfristig, sondern auch kurzfristig auf zellulärer Ebene wirkt, auch wenn es sich zunächst um eine kleine Studie handelt.",
-       "img": "https://live.staticflickr.com/2877/10866943666_471d9f2845_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Nebliger Samstag, dazu Flohmarkt auf der Turnierwiese",
-       "text": "In Horb am Neckar beginnt dieser Samstag neblig bei mild bis zu 23 Grad; über dem Neckartal dürfte sich der Dunst erst im Lauf des Vormittags lichten, ein ruhiger Tag zum gemächlichen Stöbern. Auf der Turnierwiese an der Dammstraße lädt heute ab 9 Uhr ein Flohmarkt zum Bummeln ein, ein Trödelmarkt, auf dem Privatleute gebrauchte Dinge anbieten. Wer lieber ins Umland fährt, findet in der Region weitere Wochenendtermine; der Veranstaltungskalender der Stadt und das Portal meinestadt geben einen Überblick. Warum das zählt: Ein Blick auf Wetter und örtliche Termine hilft, das Wochenende in Ruhe und nach den eigenen Vorlieben zu planen.",
-       "img": "https://live.staticflickr.com/65535/52154079440_f1224a3f8d_b.jpg",
-       "source": "meinestadt / Stadt Horb",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/maerkte/flohmarkt-troedelmarkt"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Wer über einen Flohmarkt schlendert, findet selten genau das, was er suchte, aber oft das, was er brauchte; auch ein ruhiger Tag hält bereit, was sich erst beim gelassenen Hinsehen zeigt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Geförderte Unternehmensberatung für Solo-Selbstständige (BAFA)",
-      "text": "Das Programm Förderung unternehmerischen Know-hows ist ein Zuschuss des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA), einer Bundesbehörde, mit dem kleine und mittlere Unternehmen sowie Freiberufler externe Beratungen bezuschusst bekommen. Gefördert werden auch Beratungen zu Digitalisierung und Künstlicher Intelligenz (KI); in Baden-Württemberg werden 50 Prozent der Beratungskosten übernommen, bei Bestandsunternehmen bis zu einer Obergrenze von 3.000 Euro förderfähiger Kosten. Seit November 2025 rechnet die BAFA für Antragsteller ohne Vorsteuerabzug, etwa Kleinunternehmer, auf Basis der Bruttokosten, was die Förderung günstiger macht.",
-      "why": "Für ein Ein-Personen-Unternehmen ist das ein günstiger Weg, gezielt fachliche Beratung etwa zu KI und Digitalisierung einzukaufen, ohne die Kosten allein zu tragen. Weil die aktuelle Förderrichtlinie nur für Anträge bis zum 31. Dezember 2026 gilt und der Antrag vor Beratungsbeginn gestellt werden muss, lohnt es sich, ein passendes Vorhaben rechtzeitig zu planen.",
-      "source": "BAFA / fuer-gruender.de",
-      "url": "https://www.fuer-gruender.de/beratung/gefoerderte-beratung/foerderung-unternehmerischen-know-hows/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei technische Signale mit konkretem Hebel für dein System.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Vorabversionen früh in die automatische Prüfung nehmen",
-       "tag": "Qualitätssicherung",
-       "paras": [
-        "Der Entwickler Simon Willison verweist in seinen September-Notizen darauf, wie wertvoll es ist, eigene Projekte schon gegen sogenannte Release Candidates zu testen. Ein Release Candidate ist eine Vorabversion einer Software, die kurz vor der endgültigen Freigabe steht, etwa die kommende Version 3.15 der Programmiersprache Python. Wer früh dagegen testet, findet Unverträglichkeiten, bevor die neue Version offiziell erscheint und im Alltag Probleme macht.",
-        "Der übertragbare Hebel: In der automatischen Prüfung, im Fachbegriff Continuous Integration oder CI, also dem Dienst, der bei jeder Änderung selbsttätig die Tests laufen lässt, lässt sich ein zusätzlicher Durchlauf gegen Vorabversionen einrichten. So bemerkst du Probleme mit einer neuen Sprach- oder Bibliotheksversion früh und in Ruhe, statt später unter Zeitdruck. Für ein schlankes Ein-Personen-System ist das eine kleine Einmal-Einrichtung mit dauerhaftem Nutzen."
-       ],
-       "konkret": "Ergänze deine automatische Prüfung um einen Durchlauf gegen Vorabversionen deiner wichtigsten Sprache oder Bibliotheken, damit du Unverträglichkeiten bemerkst, bevor die neue Version offiziell erscheint.",
-       "snippetLabel": "Beispiel für GitHub Actions",
-       "snippet": "- uses: actions/setup-python@v5\n  with:\n    python-version: <span class=\"ph\">{z. B. 3.15}</span>\n    allow-prereleases: true\n    check-latest: true",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/"
-      },
-      {
-       "icon": "gauge",
-       "title": "Für jede Aufgabe das passende Modell wählen",
-       "tag": "Arbeitsweise",
-       "paras": [
-        "In seinen September-Notizen hält Simon Willison fest, dass verschiedene KI-Modelle unterschiedliche Stärken haben. Ein KI-Modell ist das trainierte Programm hinter einem Assistenten, das Texte oder Code erzeugt; die am Markt verfügbaren Modelle unterscheiden sich in Tempo, Kosten und Eignung für bestimmte Aufgaben. So gilt ein schnelles, günstiges Modell als gut geeignet für einfache Web-Bausteine wie HTML und JavaScript, die Bausprachen für Internetseiten, während ein anderes Modell beim Erzeugen dreidimensionaler Modelle überzeugt.",
-        "Der übertragbare Grundsatz: Statt für alles dasselbe, oft teure Modell zu verwenden, lohnt es sich, je nach Aufgabe bewusst zu wählen. Einfache, gut abgegrenzte Routinearbeiten laufen mit einem schnellen, günstigen Modell, während heikle oder anspruchsvolle Aufgaben ein leistungsfähigeres rechtfertigen. Für dein System heißt das, Kosten und Qualität in Einklang zu bringen, indem du eine kleine Faustregel festlegst, welche Aufgabe zu welchem Modell passt."
-       ],
-       "konkret": "Lege eine einfache Zuordnung fest, welche Art von Aufgabe du mit einem schnellen, günstigen Modell und welche mit einem leistungsfähigeren erledigst, und wähle vor jedem Auftrag bewusst danach aus.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Sonntag, 20. September 2026",
    "kind": "weekly",
    "sub": "Wochenrückblick",
@@ -501,7 +349,6 @@
    "weather": "clouds",
    "temp": "20°C · neblig-trüb",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Dienstag ein neblig-trüber Schleier, und die Temperatur erreicht höchstens etwa 20 Grad, ein kühler, gedämpfter Morgen genau zum kalendarischen Herbstbeginn, der in diesem Jahr auf den 22. September fällt. Die Lage an diesem Morgen: In New York beginnt die Generaldebatte der Vereinten Nationen, das ifo-Institut hebt seine Wachstumsprognose für Deutschland deutlich an, und aus der Physik kommt mit dem ersten direkten Nachweis eines Quanteneffekts der Schwerkraft ein staunenswerter Fund. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -820,7 +667,6 @@
    "weather": "clouds",
    "temp": "20°C · bewölkt",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Donnerstag ein bewölkter Himmel, und die Temperatur erreicht am Nachmittag höchstens etwa 20 Grad, ein mildes, gedämpftes Herbstwetter ohne Sonne. Die Lage an diesem Morgen: In New York bestimmt die Generaldebatte der Vereinten Nationen mit Blick auf den Nahost-Konflikt das Geschehen, in Washington setzt der chinesische Staatschef seinen Staatsbesuch fort, und in Berlin legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Dazu kommen ein ermutigender Fahrplan für den Umweltschutz und zwei Fortschritte aus der Forschung, von geheilten Nervenzellen bis zu klimafreundlichem Beton. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -982,7 +828,6 @@
    "weather": "clouds",
    "temp": "22°C · bewölkt",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hängt an diesem Freitag ein trüber, bewölkter Himmel, der Morgen beginnt neblig, und die Temperatur erreicht am Nachmittag höchstens etwa 22 Grad, ein mildes, gedämpftes Spätsommerwetter ohne Sonne. Die Lage an diesem Morgen: In New York läuft die Generaldebatte der Vereinten Nationen weiter, in der Wirtschaft hellt sich die Stimmung der Unternehmen weiter auf, während die Verbraucher wegen hoher Energiepreise vorsichtiger werden. Dazu kommen zwei ermutigende Nachrichten, von der ausgerotteten Tollwut in Chile bis zu strengeren Regeln zum Schutz von Kindern im Netz, sowie zwei Fortschritte aus der Forschung, von schneller heilender Haut bis zu einem neuen Weltraumteleskop. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1134,6 +979,159 @@
        "snippet": "# Werkzeug aktualisieren und verfügbare Modelle anzeigen\npip install -U llm\nllm models\n\n# sprechende Aliase setzen, ein späterer Wechsel = nur den Alias umbiegen\nllm aliases set arbeitspferd <span class=\"ph\">{leistungsstarkes Modell}</span>\nllm aliases set guenstig <span class=\"ph\">{günstiges Modell}</span>\n\n# nach zwei Testläufen Tokenverbrauch und Kosten je Lauf ansehen\nllm logs -n 2",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Sep/22/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Samstag, 26. September 2026",
+   "weather": "clouds",
+   "temp": "27°C · neblig-mild",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Samstag zunächst zäher Frühnebel, der sich nur langsam lichtet, danach bleibt es diesig-mild bei Höchstwerten um 27 Grad, ein ruhiger, spätsommerlicher Tag ohne kräftige Sonne. Die Lage an diesem Morgen: In New York geht die Generaldebatte der Vereinten Nationen zu Ende, und im diplomatischen Ringen um das iranische Atomprogramm gibt es einen neuen Zwischenstand. In der Wirtschaft fordert die deutsche Industrie mehr Wachstum und weniger Abhängigkeit von China, während Volkswirte mit steigender Inflation im Euroraum rechnen. Dazu kommen zwei ermutigende Nachrichten, vom endlich minenfreien Kosovo bis zu einem schonenderen Krebstest, sowie zwei Fortschritte aus der Forschung, von einem unerwarteten Notfall-Stoffwechselweg der Zellen bis zur ersten neuen Katzenart seit über hundert Jahren. Ganz unten findest du wie gewohnt ein konkretes Signal für dein System und eine Gelegenheit mit echtem Mehrwert.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Abschlusstag der UN-Generaldebatte in New York",
+       "text": "In New York geht an diesem Samstag die einwöchige Generaldebatte der 81. Sitzungsperiode der Generalversammlung der Vereinten Nationen (UN) zu Ende, des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit. Die Debatte lief vom 22. bis 26. September unter dem Leitwort „Vertrauen wiederherstellen, Wandel gestalten“; an diesen Tagen halten die Staats- und Regierungschefs nacheinander Reden zur Weltlage. Deutschland wurde nicht wie ursprünglich geplant von Bundeskanzler Friedrich Merz vertreten, der seine Reise nach New York absagte, sondern von Außenminister Johann Wadephul. Die Einordnung bleibt nüchtern: Die Woche gilt als wichtigste diplomatische Bühne des Jahres, verbindliche Beschlüsse gehen aus den Reden aber in aller Regel nicht hervor.",
+       "source": "Deutsche Gesellschaft für die Vereinten Nationen",
+       "url": "https://dgvn.de/meldung/unga81"
+      },
+      {
+       "title": "USA weisen iranischen Sieben-Tage-Plan zurück",
+       "text": "Im diplomatischen Ringen um das iranische Atomprogramm, also den Streit über Irans Nuklearanlagen, hat US-Präsident Donald Trump nach einem Bericht der US-Wirtschaftszeitung Wall Street Journal einen von der iranischen Führung in Teheran vorgeschlagenen Sieben-Tage-Plan zurückgewiesen. Trump äußerte demnach Zweifel, dass Teheran die von Washington genannten Bedingungen tatsächlich erfüllen werde. Ein Sieben-Tage-Plan ist ein Vorschlag, innerhalb einer Woche bestimmte Schritte umzusetzen, um das Vertrauen zwischen den Seiten wiederherzustellen. Die Einordnung bleibt vorsichtig: Es handelt sich um einen Zwischenstand in einem laufenden, zähen Verhandlungsprozess, belastbare Ergebnisse stehen noch aus.",
+       "source": "Wall Street Journal",
+       "url": "https://www.zdfheute.de/politik/ausland"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "BDI fordert Vorrang für Wachstum und weniger Abhängigkeit von China",
+       "text": "Der Bundesverband der Deutschen Industrie (BDI), der Dachverband der deutschen Industrieunternehmen, hat in einem Grundsatzpapier gefordert, Wachstum und Wettbewerbsfähigkeit zur obersten Priorität der Wirtschaftspolitik zu machen. Deutschland und Europa sollten zudem ihre Abhängigkeiten von China, etwa bei Rohstoffen und Vorprodukten, konsequenter verringern. Zugleich bekennt sich der Verband zum Umbau der Wirtschaft für den Klimaschutz, verlangt dafür aber kurzfristige Entlastungen für die Unternehmen. Die Einordnung: Das Papier fügt sich in eine breitere Reform- und Krisendebatte ein, ob und wie die Politik die Forderungen aufgreift, bleibt vorerst offen.",
+       "source": "BDI",
+       "url": "https://bdi.eu"
+      },
+      {
+       "title": "Volkswirte erwarten steigende Inflation im Euroraum",
+       "text": "Volkswirte der US-Investmentbank Morgan Stanley erwarten, dass der Preisdruck im Euroraum, also im Gebiet der Länder mit der gemeinsamen Währung Euro, im September zugenommen hat. Sie rechnen mit einer Inflationsrate von 3,7 Prozent, nach 3,2 Prozent im August; die Inflation misst, wie stark die Preise binnen eines Jahres steigen. Vor allem höhere Energiepreise gelten als treibender Faktor. Die Einordnung: Eine anziehende Inflation schränkt den Spielraum der Europäischen Zentralbank (EZB), der Notenbank der Euro-Länder, für künftige Zinssenkungen ein und schmälert die Kaufkraft der Verbraucher.",
+       "source": "Morgan Stanley (dpa-AFX)",
+       "url": "https://www.finanzen.at/nachrichten/aktien/ueberblick-am-morgen-konjunktur-zentralbanken-politik-1036573414"
+      }
+     ],
+     "merk": {
+      "text": "Merken: Beide Signale mahnen zur Vorsicht bei den eigenen Preisen und Kosten. Wer Angebote kalkuliert oder Anschaffungen plant, sollte einkalkulieren, dass Energie und Vorprodukte teurer werden könnten, und es lohnt sich, Abhängigkeiten von einzelnen Lieferanten oder Anbietern früh zu streuen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Kosovo ist nach 27 Jahren von Landminen geräumt",
+       "text": "Die Minenräum-Organisation Halo Trust, eine internationale Hilfsorganisation, die weltweit Landminen beseitigt, hat mitgeteilt, dass ihre Arbeit im Kosovo nach 27 Jahren abgeschlossen ist. Landminen sind im Boden versteckte Sprengkörper, die auch lange nach einem Krieg noch Menschen töten oder schwer verletzen. Im Kosovokrieg 1998 und 1999 wurden mehr als 800.000 Menschen vertrieben; allein im ersten Monat nach ihrer Rückkehr wurden rund 150 Menschen durch Minen getötet oder verletzt. Die geräumten Flächen stehen nun wieder für Landwirtschaft und Aufbau zur Verfügung. Die Botschaft: Auch die gefährlichen Hinterlassenschaften eines Krieges lassen sich mit langem Atem Stück für Stück beseitigen.",
+       "img": "https://live.staticflickr.com/5077/5871291997_94d00f4084_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
+      },
+      {
+       "title": "Ein schonender Test soll schmerzhafte Untersuchungen auf Gebärmutterkrebs ersparen",
+       "text": "Forschende der University of Manchester, einer britischen Universität, haben einen schonenden Test auf Gebärmutterkrebs entwickelt, der ohne schmerzhafte Eingriffe auskommt. Statt einer inneren Ultraschalluntersuchung oder einer Gewebeentnahme genügen Proben aus Urin und Scheidenflüssigkeit. In einer Studie mit 1.864 Frauen erkannte der Test mehr als 80 Prozent der Krebsfälle und schloss die Erkrankung mit einer Treffsicherheit von 98,8 Prozent verlässlich aus. Die Botschaft: Vielen Frauen könnten damit künftig belastende Untersuchungen erspart bleiben, während die Erkennung früh und zuverlässig bleibt.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Zellen besitzen einen unerwarteten Notfall-Stoffwechselweg",
+       "text": "Forschende der Montana State University, einer US-Universität, haben um den Genetiker Ed Schmidt einen bislang unbekannten Überlebensmechanismus in Säugetierzellen entschlüsselt. Er erlaubt den Zellen, die lebenswichtige Aminosäure Cystein, einen Grundbaustein von Eiweißen, auch dann herzustellen, wenn die üblichen Stoffwechselwege ausfallen. Auf die erste Beobachtung im Jahr 2014, als genetisch veränderte Mäuse trotz fehlender bekannter Wege überlebten, folgten sieben weitere Jahre Forschung, bis die Erklärung feststand; die Ergebnisse erschienen am 24. September in der Fachzeitschrift Nature Chemical Biology. Die Einordnung: Weil derselbe Schutzmechanismus womöglich auch Krebszellen gegen Therapien abschirmt, könnte sein gezieltes Abschalten Behandlungen wie Chemo- und Strahlentherapie wirksamer machen.",
+       "img": "https://live.staticflickr.com/7441/12947630984_00d76dc597_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/09/260923035939.htm"
+      },
+      {
+       "title": "Erste neue Katzenart seit über hundert Jahren entdeckt",
+       "text": "In den Yungas, den nebelverhangenen Bergwäldern Boliviens, haben Forschende eine bislang unbekannte Katzenart bestätigt, die erste Entdeckung einer neuen Katzenart seit über hundert Jahren. Das Tier war zunächst für eine streunende Hauskatze oder eine bereits bekannte Tigerkatze gehalten worden; erst eine Untersuchung des Erbguts, der DNA als Träger der Erbinformation, zeigte, dass es sich um eine eigenständige Art handelt. Sie gilt derzeit als einziger bekannter lebender Vertreter der neu benannten Tilcayo-Katze. Die Einordnung: Der Fund zeigt, dass selbst bei größeren Tieren noch unbekannte Arten existieren, und unterstreicht den Wert schwer zugänglicher Nebelwälder für die Vielfalt der Arten.",
+       "img": "https://live.staticflickr.com/7268/7613943940_e6b287351e_b.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Milder, diesiger Spätsommertag im Neckartal",
+       "text": "In Horb am Neckar beginnt dieser Samstag mit zähem Frühnebel, der sich nur langsam lichtet; danach bleibt es diesig-mild bei Höchstwerten um 27 Grad, ein ruhiger Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Sobald sich der Nebel gehoben hat, laden die milden Temperaturen zu einem Spaziergang am Neckar oder durch die historische Altstadt mit ihren Fachwerkhäusern ein. Der Wochenendkalender ist ruhig, was den Tag ebenso für konzentriertes Arbeiten wie für eine bewusst eingeplante Bewegung an der frischen Luft geeignet macht.",
+       "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
+       "source": "open-meteo",
+       "url": "https://open-meteo.com/"
+      },
+      {
+       "title": "Comedy-Premiere in Horb-Dettingen, Doris Reichenauer stellt neues Programm vor",
+       "text": "Für einen unterhaltsamen Abend steht am Donnerstag, 22. Oktober, die Premiere des neuen Comedy-Programms „Jetzt isst er sogar Brokkoli“ der Kabarettistin Doris Reichenauer im Gasthof Adler im Horber Stadtteil Dettingen an. Kabarettistin bedeutet, dass sie humorvoll und pointiert Alltag und Gesellschaft aufs Korn nimmt. Für die Region rund um Horb ist eine Programm-Premiere ein besonderer Termin. Wer Interesse hat, sollte Uhrzeit und Karten frühzeitig über die örtlichen Ticket-Portale prüfen, da Premieren erfahrungsgemäß gut besucht sind.",
+       "source": "Veranstaltungen Baden-Württemberg",
+       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Morgen, der im Nebel beginnt und sich erst langsam klärt, erinnert daran, dass auch Aufgaben selten auf einmal, sondern Schritt für Schritt deutlich werden."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS-Förderung, bis zu 4.500 Euro für die Weiterbildung von Solo-Selbstständigen",
+      "text": "Das Bundesprogramm KOMPASS fördert die berufliche Weiterbildung von Solo-Selbstständigen, also von Selbstständigen ohne Angestellte. Erstattet werden bis zu 4.500 Euro pro Jahr, rund 90 Prozent der Kosten einer förderfähigen Qualifizierung; die Auszahlung läuft über die Knappschaft-Bahn-See, einen Träger der gesetzlichen Rentenversicherung. Gefördert werden Weiterbildungen ab 20 Stunden Umfang, die innerhalb von sechs Monaten abgeschlossen werden und nachvollziehbar der Selbstständigkeit dienen, ausdrücklich auch Kurse zu Künstlicher Intelligenz. Die Ausgabe der dafür nötigen Qualifizierungs-Schecks ist bundesweit begrenzt und läuft nach jetzigem Stand nur noch bis voraussichtlich Oktober 2026.",
+      "why": "Der Aufbau deines KI-Systems lebt auch von gezieltem Wissen; ein geförderter Kurs zu Künstlicher Intelligenz, Automatisierung oder Datensicherheit kostet dich so nur einen Bruchteil. Ehrlicher Vorbehalt: Die Kontingente sind knapp und werden teils über Wartelisten vergeben, und gefördert wird die Weiterbildung selbst, nicht der Kauf von Werkzeugen oder Guthaben. Prüfe Berechtigung, Fristen und freie Plätze rechtzeitig direkt bei der offiziellen Stelle, da sich die Bedingungen ändern können.",
+      "source": "KOMPASS-Förderung",
+      "url": "https://www.kompass-foerderung.de"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Ein aktuelles Signal aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich aus erster Hand mit Sprachmodellen und Entwicklerwerkzeugen befassen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Coding-Agenten nicht frei laufen lassen, sondern mit klarem Auftrag und Prüfung führen",
+       "tag": "Arbeitsweise",
+       "paras": [
+        "Simon Willison hält in einer Notiz vom 24. September fest, dass Coding-Agenten, also KI-Assistenten, die selbstständig Programmcode schreiben und ausführen, die Softwareentwicklung nach seiner Erfahrung eher schwerer als leichter machen. Seine Kernaussage: Je mehr er mit solchen Agenten arbeite, desto überzeugter sei er, dass sie viel Disziplin und fundiertes eigenes Wissen verlangen, statt einem die Arbeit einfach abzunehmen. Der Grund ist, dass ein Agent zwar sehr schnell viel Code erzeugt, dessen Korrektheit und Wartbarkeit aber weiterhin ein Mensch verantworten muss.",
+        "Der Hebel für dein System: Behandle den Agenten wie einen sehr schnellen, aber unerfahrenen Zuarbeiter. Gib ihm vor jeder Aufgabe einen klaren, schriftlichen Auftrag mit Ziel, Rahmen und dem, was er nicht anfassen soll, statt ihn frei drauflos arbeiten zu lassen. Lass Änderungen in kleinen, überschaubaren Schritten kommen und prüfe jeden Vorschlag als Ganzes, also den sogenannten Diff, die genaue Auflistung aller Änderungen, bevor du ihn übernimmst. Das kostet vorne etwas Zeit, erspart dir aber im Alleinbetrieb teure Fehler, die sonst erst spät auffallen."
+       ],
+       "konkret": "Formuliere für wiederkehrende Aufgaben eine feste Arbeitsanweisung an den Agenten, die Ziel, erlaubten Änderungsbereich und Abbruchbedingungen nennt. Lass dir Änderungen als kleine, einzeln prüfbare Schritte liefern und übernimm nichts ungelesen.",
+       "snippetLabel": "Vorspann für den Auftrag an einen Coding-Agenten",
+       "snippet": "Ziel dieser Aufgabe:\n<span class=\"ph\">{ein Satz, was erreicht werden soll}</span>\n\nDu änderst ausschließlich diese Dateien oder Bereiche:\n<span class=\"ph\">{erlaubter Bereich}</span>\nAlles andere lässt du unangetastet.\n\nArbeite in kleinen Schritten. Nach jedem Schritt hältst du an, zeigst mir den vollständigen Diff und wartest auf meine Freigabe.\nBist du dir bei einer Entscheidung unsicher oder müsstest du den erlaubten Bereich verlassen, brichst du ab und fragst nach.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/24/harder/"
       }
      ]
     }
