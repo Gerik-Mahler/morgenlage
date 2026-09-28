@@ -2,165 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Montag, 21. September 2026",
-   "weather": "clouds",
-   "temp": "20°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hängt an diesem Montag eine geschlossene Wolkendecke, und die Temperatur erreicht höchstens etwa 20 Grad, ein kühler und ruhiger Start in eine Woche, in der sich der Herbst nun spürbar durchsetzt. Die Lage an diesem Morgen: ein Taifun bedroht die Region um Tokio, die Europäische Zentralbank belässt es nach ihrer jüngsten Zinserhöhung vorerst dabei, und aus der Forschung kommt mit dem jüngsten je bestätigten Planeten ein staunenswerter Fund. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Taifun Dujuan zieht auf die Region Tokio zu",
-       "text": "Im Osten Japans steuert der Taifun Dujuan, ein tropischer Wirbelsturm mit heftigem Wind und Regen, auf den Großraum Tokio zu. Nach Angaben japanischer Stellen wurden mindestens 275 Flüge gestrichen, und in der Präfektur Chiba nahe der Hauptstadt waren mehr als 4.000 Haushalte zeitweise ohne Strom. Die Behörden warnten vor Überschwemmungen und riefen Anwohner in gefährdeten Lagen zur Vorsicht auf. Die Einordnung bleibt nüchtern: Japan ist auf solche Stürme gut vorbereitet, dennoch zeigt der frühe Wintereinbruch der Taifunsaison, wie verwundbar auch dichte Ballungsräume gegenüber dem Wetter bleiben.",
-       "source": "Euronews",
-       "url": "https://de.euronews.com/video/2026/09/21/nachrichten-des-tages-21-september-2026-morgenausgabe"
-      },
-      {
-       "title": "Airbus wirbt für ein weltweites Abkommen zur Kontrolle Künstlicher Intelligenz",
-       "text": "Der europäische Luft- und Raumfahrtkonzern Airbus hat sich für ein globales Abkommen zur Kontrolle Künstlicher Intelligenz ausgesprochen, also lernfähiger Software, die zunehmend eigenständig Entscheidungen trifft. Hintergrund ist die Sorge, dass leistungsfähige KI-Systeme ohne gemeinsame Regeln Sicherheitsrisiken bergen, etwa in sicherheitskritischer Technik oder in der Rüstung. Der Vorstoß eines großen Industrieunternehmens ist bemerkenswert, weil solche Forderungen bislang meist von Politik und Forschung kamen. Die Einordnung: Ein verbindliches internationales Regelwerk ist noch nicht in Sicht, doch die Debatte um klare Leitplanken für KI gewinnt auch in der Wirtschaft an Gewicht.",
-       "source": "Epoch Times",
-       "url": "https://www.epochtimes.de/kurznachrichten/21-09-2026-airbus-fuer-globales-abkommen-zur-ki-kontrolle-automobil-aktionstag-der-ig-metall-a5615134.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "EZB dürfte nach der September-Erhöhung eine längere Zinspause einlegen",
-       "text": "Die Europäische Zentralbank (EZB), die gemeinsame Notenbank der Länder mit dem Euro, hat ihre Leitzinsen im September um 0,25 Prozentpunkte angehoben. Fachleute rechnen nun jedoch mit einer längeren Pause, weil sich keine Hinweise auf sogenannte Zweitrundeneffekte zeigen, also darauf, dass hohe Preise dauerhaft höhere Löhne und dadurch wieder höhere Preise nach sich ziehen. Für dich als Solo-Unternehmer bedeutet das eine gewisse Planbarkeit: Die Finanzierungskosten steigen absehbar nicht weiter, bleiben aber auf dem erhöhten Niveau. Wer eine größere Anschaffung erwägt, kann mit stabileren Konditionen kalkulieren als in den Vormonaten.",
-       "source": "Börsen-Zeitung",
-       "url": "https://www.boersen-zeitung.de/konjunktur-politik/ezb-zinserhoehung-im-september-wackelt"
-      },
-      {
-       "title": "Deutsche Wirtschaft sendet ein Lebenszeichen, Prognose leicht angehoben",
-       "text": "Die deutsche Wirtschaft schlägt sich besser als befürchtet. Im zweiten Quartal wuchs die Wirtschaftsleistung um 0,3 Prozent gegenüber dem Vorquartal, und die Wachstumsprognose für das Gesamtjahr 2026 wurde moderat von 0,5 auf 0,7 Prozent angehoben. Der ZEW-Index, ein viel beachteter Stimmungsmesser des Zentrums für Europäische Wirtschaftsforschung (ZEW) in Mannheim, für den Finanzfachleute befragt werden, stieg im September leicht auf plus 34,7 Punkte. Die Einordnung bleibt vorsichtig: Getragen wird die Erholung vor allem vom Export und von staatlichen Ausgaben, während teure Energie infolge des Iran-Kriegs und eine zögerliche Binnennachfrage bremsen.",
-       "source": "LBBW / ZEW",
-       "url": "https://www.lbbw.de/artikel/webkonferenzen/lbbw-kapitalmarktkompass-september-2026_ando5tivha_d.html"
-      }
-     ],
-     "merk": {
-      "text": "Merken: Die Zinsen dürften vorerst nicht weiter steigen. Für geplante Investitionen ist das ein günstigeres Fenster als zuletzt, zumal Fördermittel (siehe Gelegenheitsradar) die Kosten zusätzlich senken können.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Forschende benennen 51 sofort einsetzbare Lösungen für die Umwelt",
-       "text": "Ein ermutigendes Signal aus der Wissenschaft: Eine Mitte September veröffentlichte Untersuchung benennt 51 bereits verfügbare Lösungen, die mit der richtigen Unterstützung eine, wie es die Fachleute nennen, kaum aufzuhaltende Welle positiver Veränderung auslösen könnten, um die Natur rasch zu erholen. Gemeint sind erprobte Ansätze wie der Ausbau von Sonnen- und Windkraft oder die Wiederaufforstung von Mangrovenwäldern, also salzwassertoleranten Küstenwäldern, die Kohlenstoff binden und Küsten schützen. Der Kern der Botschaft: Vieles, was die Umwelt spürbar entlasten würde, ist bereits vorhanden und muss vor allem konsequent angewendet werden.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_to_the_solar_panel_field_-_panoramio.jpg",
-       "source": "Positive News",
-       "url": "https://www.positive.news/"
-      },
-      {
-       "title": "Wind und Sonne haben Erdgas bei der weltweiten Stromerzeugung überholt",
-       "text": "Passend dazu ein Wert, der Mut macht: Im Jahresverlauf 2026 lieferten Wind- und Sonnenkraft zusammen erstmals mehr Strom als Erdgas. In einem Monat kamen die beiden Quellen zusammen auf rund 22 Prozent der weltweiten Stromerzeugung, Gas auf etwa 20 Prozent. Das ist ein symbolträchtiger Wendepunkt, weil erneuerbare Energien damit nicht mehr nur ergänzen, sondern einen etablierten fossilen Energieträger überholen. Die Einordnung: Ein einzelner Monatswert ist noch kein Dauerzustand, doch der Trend zeigt seit Jahren klar nach oben.",
-       "source": "Euronews",
-       "url": "https://www.euronews.com/2026/07/09/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Astronomen bestätigen den jüngsten je gefundenen Planeten",
-       "text": "Ein staunenswerter Fund aus der Astronomie: Forschende haben einen Planeten von der Größe des Jupiter bestätigt, der weniger als eine Million Jahre alt ist, ein nach kosmischen Maßstäben winziges Alter. Der Himmelskörper mit der Bezeichnung Elias 2-24 b gilt damit als der jüngste bekannte Planet und erlaubt einen seltenen Blick auf eine Welt, die gerade erst entsteht. Solche jungen Planeten wachsen in einer Scheibe aus Gas und Staub um ihren Stern heran, einer sogenannten protoplanetaren Scheibe. Die Einordnung: Der Fund hilft der Forschung zu verstehen, wie Planeten und damit auch unser eigenes Sonnensystem einst entstanden sind.",
-       "img": "https://live.staticflickr.com/636/31409065484_25fa62458e_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/"
-      },
-      {
-       "title": "Neues Bauteil lenkt Licht in 74 Femtosekunden ab",
-       "text": "Aus der Physik kommt ein Fortschritt für die Technik von morgen: Ein an der Hochschule Caltech in den USA entwickeltes Bauteil kann einen Lichtstrahl in nur 74 Femtosekunden ablenken, indem ein zweiter Lichtstrahl auf eine hauchdünne, nanometerfein strukturierte Siliziumoberfläche trifft. Eine Femtosekunde ist der millionste Teil einer milliardstel Sekunde, also unvorstellbar kurz. Der mögliche Nutzen: Solche Schaltvorgänge mit Licht statt mit Strom könnten Datenübertragung, Rechnen und Messtechnik deutlich schneller machen. Die Einordnung: Es handelt sich um Grundlagenforschung, marktreife Geräte sind daraus noch nicht ableitbar.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Ruhiger, grauer Wochenstart im Neckartal",
-       "text": "In Horb am Neckar beginnt die Woche ruhig und grau. Über dem Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt, hält sich an diesem Montag eine geschlossene Wolkendecke bei höchstens etwa 20 Grad, ein deutlich kühlerer Ton als in den milden Vorwochen, denn mit dem nahenden kalendarischen Herbstbeginn stellt sich das Wetter um. Der örtliche Veranstaltungskalender ist in dieser Woche vergleichsweise still; die kulturellen Höhepunkte der Umgebung liegen mit Ausstellungen und Konzerten vor allem im nahen Tübingen und in Rottenburg am Neckar. Ein guter Rahmen also, um die ruhigen Tage für konzentriertes Arbeiten oder einen Spaziergang bei trockenem Grau zu nutzen.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-       "source": "meinestadt.de",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein grauer Morgen verlangt nichts Großes, nur die Bereitschaft, das Naheliegende ordentlich zu tun; oft entsteht daraus der ruhigste Fortschritt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Kostenloser Online-KI-Workshop für Solo-Selbstständige",
-      "text": "Für Ein-Personen-Unternehmen gibt es derzeit einen kostenlosen Online-Workshop, der Solo-Selbstständigen praxisnah zeigt, wie sich Künstliche Intelligenz (lernfähige Software) im Arbeitsalltag sinnvoll einsetzen lässt, etwa für Recherche, Textentwürfe und die Automatisierung wiederkehrender Aufgaben. Der Workshop führt zugleich an die Förderung KOMPASS heran, kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige, die geförderte Weiterbildungen mit bis zu 90 Prozent Zuschuss (bis zu einer festgelegten Höchstsumme) bezuschusst und aktuell bis Anfang 2028 verlängert ist.",
-      "why": "Der Einstieg ist kostenfrei und ohne Risiko, und wer bereits einen kleinen Fahrplan für sein System hat, kann eine anschließende geförderte Weiterbildung genau darauf zuschneiden. So lässt sich KI-Kompetenz gezielt ausbauen, ohne die Kosten allein zu tragen.",
-      "source": "deutschland-startet.de",
-      "url": "https://www.deutschland-startet.de/ki-workshop-solo-selbststaendige/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei konkrete, heute umsetzbare Signale aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich mit Sprachmodellen und Werkzeugen aus erster Hand befassen.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Deine Agenten-Anweisungen in einer AGENTS.md bündeln",
-       "tag": "Werkzeug",
-       "paras": [
-        "Anthropic, das Unternehmen hinter dem Coding-Assistenten Claude Code, unterstützt seit der Version 2.1.277 sogenannte AGENTS.md-Dateien. Das ist eine schlichte Textdatei im Projektordner, in der du deinem Assistenten projektbezogene Anweisungen mitgibst, also wie er sich in genau diesem Projekt verhalten soll. AGENTS.md ist ein herstellerübergreifendes Format, das auch andere Coding-Werkzeuge lesen; Claude Code greift darauf zurück, wenn keine eigene CLAUDE.md vorhanden ist.",
-        "Der Hebel für dein System: Statt dieselben Hinweise (Stil, Prüfschritte, verbotene Abkürzungen) in jeder Sitzung erneut zu tippen, hältst du sie einmal an einer festen, auch von anderen Werkzeugen lesbaren Stelle fest. Das spart Wiederholung und macht das Verhalten deiner Agenten über verschiedene Projekte hinweg berechenbarer."
-       ],
-       "konkret": "Lege im Wurzelverzeichnis deiner wichtigsten Projekte eine Datei AGENTS.md an und notiere darin knapp die immer gleichen Regeln (Sprache, Stil, Testschritte, was der Agent nie tun soll). Prüfe danach in einer Sitzung, ob der Assistent sich daran hält.",
-       "snippetLabel": "Gerüst für eine AGENTS.md",
-       "snippet": "# Projektregeln fuer Coding-Agenten\n\n## Sprache & Stil\n- Antworten und Kommentare auf <span class=\"ph\">{Sprache}</span>.\n- Bestehenden Stil der Umgebung uebernehmen.\n\n## Vor jeder Aenderung\n- Zuerst <span class=\"ph\">{Test- oder Lint-Befehl}</span> ausfuehren.\n\n## Niemals\n- <span class=\"ph\">{riskante Aktion, z. B. force-push}</span> ohne Rueckfrage.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/"
-      },
-      {
-       "icon": "terminal",
-       "title": "API-Schlüssel nicht mehr in Agenten-Sitzungen einfügen",
-       "tag": "Sicherheit",
-       "paras": [
-        "Simon Willison hat mit llm-keys-ui eine kleine Erweiterung für sein Werkzeug llm veröffentlicht, die geheime Zugangsschlüssel (API-Schlüssel, also die Passwörter, mit denen sich Programme bei Diensten anmelden) über eine schlichte Weboberfläche sicher verwaltet. Der Zweck: Du sollst solche Schlüssel nicht mehr im Klartext in eine Agenten-Sitzung tippen, wo sie versehentlich in Protokollen oder im Verlauf landen können.",
-        "Der Hebel für dein System: Ein Coding-Agent kann den Schlüssel bei Bedarf gezielt über einen Befehl abrufen, ohne dass er offen im Chatverlauf steht. Das senkt das Risiko, dass ein Zugang ungewollt sichtbar wird oder abfließt, gerade in einem Ein-Personen-System, in dem niemand sonst mitliest."
-       ],
-       "konkret": "Sieh dir an, wo in deinen Abläufen Schlüssel im Klartext auftauchen, und ersetze sie durch einen gezielten Abruf, sodass der Agent den Schlüssel nur bei Bedarf und nicht sichtbar im Verlauf verwendet.",
-       "snippetLabel": "Schlüssel gezielt statt im Klartext abrufen",
-       "snippet": "# statt den Schluessel offen in die Sitzung zu tippen:\nexport <span class=\"ph\">{DIENST}</span>_API_KEY=\"$(llm keys get <span class=\"ph\">{dienst}</span>)\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Dienstag, 22. September 2026",
    "weather": "clouds",
    "temp": "20°C · neblig-trüb",
@@ -805,7 +646,6 @@
    "weather": "clouds",
    "temp": "27°C · neblig-mild",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Samstag zunächst zäher Frühnebel, der sich nur langsam lichtet, danach bleibt es diesig-mild bei Höchstwerten um 27 Grad, ein ruhiger, spätsommerlicher Tag ohne kräftige Sonne. Die Lage an diesem Morgen: In New York geht die Generaldebatte der Vereinten Nationen zu Ende, und im diplomatischen Ringen um das iranische Atomprogramm gibt es einen neuen Zwischenstand. In der Wirtschaft fordert die deutsche Industrie mehr Wachstum und weniger Abhängigkeit von China, während Volkswirte mit steigender Inflation im Euroraum rechnen. Dazu kommen zwei ermutigende Nachrichten, vom endlich minenfreien Kosovo bis zu einem schonenderen Krebstest, sowie zwei Fortschritte aus der Forschung, von einem unerwarteten Notfall-Stoffwechselweg der Zellen bis zur ersten neuen Katzenart seit über hundert Jahren. Ganz unten findest du wie gewohnt ein konkretes Signal für dein System und eine Gelegenheit mit echtem Mehrwert.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -960,7 +800,6 @@
    "weather": "clouds",
    "temp": "29°C · leicht bewölkt",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zeigt sich dieser Sonntag nach den nebligen Vortagen freundlicher, bei leichter Bewölkung und mild-spätsommerlichen Höchstwerten um 29 Grad, ein ruhiger Abschluss der Woche. Die Woche lässt sich in drei Bewegungen lesen. Erstens die Weltbühne: In New York bestimmte die einwöchige Generaldebatte der Vereinten Nationen (der Zusammenschluss von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit) das Geschehen, begleitet von einem Staatsbesuch des chinesischen Staatschefs in Washington, viel Diplomatie, aber wenig Verbindliches. Zweitens die Wirtschaft: Die Stimmung der deutschen Unternehmen hellte sich zum fünften Mal in Folge auf, während die Verbraucher wegen hoher Energiepreise vorsichtig blieben und die Inflation, also die allgemeine Teuerung, wieder anzog. Und drittens ein durchgehender roter Faden bei den Signalen für dein System: absichern und führen, also Abhängigkeiten festnageln, Agenten eng an die Leine nehmen und unabhängig von einem einzelnen Anbieter bleiben. Ganz unten findest du die gebündelten Systemanpassungen der Woche als einen kopierfertigen Text.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1147,6 +986,155 @@
     {
      "type": "thought",
      "text": "Ein gutes System entsteht nicht aus vielen guten Vorsätzen, sondern aus wenigen festen Regeln, die auch dann tragen, wenn niemand hinsieht."
+    }
+   ]
+  },
+  {
+   "label": "Montag, 28. September 2026",
+   "weather": "clouds",
+   "temp": "30°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zeigt sich dieser Montag bei wechselnder bis starker Bewölkung und mild-spätsommerlichen Höchstwerten um 30 Grad, ein ruhiger, trockener Start in die Woche. Der Blick auf den Tag ist übersichtlich: In Fulda beginnt die Herbsttagung der katholischen Bischöfe, in der Europäischen Union beraten die Fachminister über die Dürre und über Flugabwehr für die Ukraine, und die Bundesbank rechnet mit einer kurzen Konjunkturdelle bei weiterhin aufwärtsgerichtetem Trend. Dazu ein Lichtblick aus Boliviens Nebelwäldern, zwei Meldungen aus der Forschung und der gesellige Oktober-Ausblick für Horb. Ganz unten findest du wie immer eine Gelegenheit mit echtem Mehrwert und zwei umsetzbare Signale für dein System.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Deutsche Bischöfe beraten in Fulda über ethische Grenzfragen und Künstliche Intelligenz",
+       "text": "Die katholischen Bischöfe Deutschlands, zusammengeschlossen in der Deutschen Bischofskonferenz (dem ständigen Zusammenschluss aller katholischen Bischöfe des Landes), kommen von diesem Montag an im hessischen Fulda zu ihrer Herbstvollversammlung zusammen, ihrer wichtigsten Beratungstagung im zweiten Halbjahr. Auf der Tagesordnung stehen ethische Grenzfragen wie die Leihmutterschaft, also das Austragen eines Kindes für andere Eltern, die Organspende und die ärztlich begleitete Suizidbeihilfe, also die Hilfe zur Selbsttötung. Beraten wird außerdem über die Chancen und Gefahren der Künstlichen Intelligenz, also lernfähiger Software, die zunehmend in Alltag und Arbeitswelt eingreift. Die Einordnung bleibt nüchtern: Aus solchen Tagungen gehen Stellungnahmen und Denkanstöße hervor, aber keine für den Staat verbindlichen Beschlüsse.",
+       "source": "Deutsche Bischofskonferenz / news.de",
+       "url": "https://www.news.de/panorama/860034329/28-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-28-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "EU-Minister beraten über die Dürre und über Flugabwehr für die Ukraine",
+       "text": "In der Europäischen Union (EU), dem Staatenverbund von 27 Ländern, treffen sich an diesem Montag die Agrar- und Fischereiminister, um mit dem EU-Agrarkommissar Christophe Hansen, dem für Landwirtschaft zuständigen Mitglied der EU-Kommission, über die anhaltende Dürre zu beraten, also eine langanhaltende Trockenheit, die die Ernten in Teilen Europas belastet. Parallel dazu ringen die Verteidigungsminister der EU weiter darum, wie die Ukraine mit zusätzlichen Abwehrraketen für das US-amerikanische Flugabwehrsystem Patriot ausgestattet werden kann, das Schutz vor russischen Boden-Boden-Raketen bietet; im Gespräch ist, dass einzelne Mitgliedstaaten ihre Plätze in der Lieferwarteschlange mit der Ukraine tauschen. Die Einordnung: Beide Runden zeigen die enge Abstimmung der EU-Staaten, verbindliche Zusagen stehen aber noch aus.",
+       "source": "Euronews / Deutscher Bundestag",
+       "url": "https://de.euronews.com/video/2026/09/28/nachrichten-des-tages-28-september-2026-morgenausgabe"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Bundesbank erwartet eine kurze Konjunkturdelle, der Erholungskurs bleibt",
+       "text": "Die Deutsche Bundesbank, die deutsche Zentralbank, die für das Geldwesen und die Bankenaufsicht zuständig ist, rechnet in ihrem aktuellen Monatsbericht damit, dass die deutsche Wirtschaft im dritten Quartal 2026, also in den Monaten Juli bis September, vorübergehend an Schwung verliert. Als Gründe nennt sie unter anderem das Niedrigwasser am Rhein, das den Schiffsverkehr und die Industrieproduktion bremst, dazu schwächere Exporte und einen verhaltenen privaten Konsum, also zurückhaltende Ausgaben der privaten Haushalte. Den grundsätzlichen Erholungskurs verlässt die größte Volkswirtschaft der Europäischen Union damit aber nicht; der Trend bleibt aufwärtsgerichtet, und die Schwäche gilt als vorübergehend. Für dich als Solo-Unternehmer heißt das: eine kurze Delle im laufenden Quartal, aber keine Kehrtwende.",
+       "source": "Deutsche Bundesbank, Monatsbericht September 2026",
+       "url": "https://publikationen.bundesbank.de/publikationen-de/berichte-studien/monatsberichte/monatsbericht-september-2026-1007720?article=kurzbericht-konjunkturlage-1007706"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Rechne im laufenden dritten Quartal mit einer zeitweise schwächeren Nachfrage, vor allem aus Industrie und Export, und plane größere Anschaffungen oder Angebote eher auf die Zeit danach, wenn sich der Erholungskurs den Erwartungen zufolge wieder festigt.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Erste neue Katzenart seit über hundert Jahren: der Tilcayo aus Boliviens Nebelwald",
+       "text": "Forschende haben in den Yungas, den feuchten Nebelwäldern an den Osthängen der Anden in Bolivien, eine bislang unbekannte Wildkatze beschrieben: den Tilcayo, wissenschaftlich Leopardus tilcayo, die erste seit mehr als hundert Jahren neu bestimmte lebende Katzenart. Das nur rund zweieinhalb Kilogramm leichte Tier hat einen schlanken Körper und ein hellbraunes Fell mit dunklen Rosetten, also ringförmigen Flecken. Möglich wurde die Entdeckung durch Genom-Analysen, also den Vergleich des gesamten Erbguts von Museumsknochen und lebenden Tieren; dabei zeigte sich, dass die südamerikanischen Tigerkatzen aus fünf eigenständigen Arten bestehen. Die Botschaft: Selbst bei einer so gut erforschten Tiergruppe wie den Katzen gibt es noch Neues zu entdecken, und der Fund liefert ein weiteres Argument für den Schutz der bedrohten Nebelwälder.",
+       "img": "https://live.staticflickr.com/8342/8198386094_9d40696e68_b.jpg",
+       "source": "Mongabay / National Geographic",
+       "url": "https://news.mongabay.com/2026/09/a-new-cat-species-was-just-discovered-several-more-may-follow/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "NASAs Roman-Weltraumteleskop nimmt seine 300-Megapixel-Kamera in Betrieb",
+       "text": "Die US-Raumfahrtbehörde NASA hat das Hauptinstrument ihres neuen Weltraumteleskops Nancy Grace Roman, kurz Roman, erfolgreich eingeschaltet: eine Kamera mit einer Auflösung von 300 Megapixeln, wobei ein Megapixel einer Million Bildpunkten entspricht. Dieses sogenannte Wide Field Instrument, also das Weitwinkelinstrument, nimmt das Weltall im Infrarotlicht auf, das für das menschliche Auge unsichtbar ist, und erfasst mit jeder einzelnen Aufnahme einen Himmelsausschnitt, der größer ist als der Vollmond, dabei so scharf wie das bekannte Hubble-Weltraumteleskop. Das Teleskop war Ende August gestartet; auch sein Koronograf, ein Instrument zur direkten Abbildung von Planeten außerhalb unseres Sonnensystems, arbeitet den Angaben zufolge wie erwartet. Die Einordnung: Der wissenschaftliche Regelbetrieb soll 2027 beginnen, danach könnte Roman helfen, ferne Planeten und die rätselhafte dunkle Energie großflächig zu vermessen.",
+       "img": "https://live.staticflickr.com/65535/33992375698_c622e593b4_b.jpg",
+       "source": "ScienceDaily / NASA",
+       "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
+      },
+      {
+       "title": "Wirkstoff lässt im Tierversuch Wunden alternder Haut schneller heilen",
+       "text": "An der Boston University in den USA haben Forschende einen Wirkstoff mit dem Namen ABT-263 getestet, ein sogenanntes Senolytikum, also ein Mittel, das gezielt alte, nicht mehr teilungsfähige Zellen, die man seneszente Zellen nennt, aus dem Gewebe entfernt. Bei alten Mäusen trugen sie den Wirkstoff fünf Tage lang äußerlich auf die Haut auf; bis zum 24. Tag waren 80 Prozent der behandelten Tiere vollständig verheilt, gegenüber nur 56 Prozent in der unbehandelten Vergleichsgruppe. Der Wirkstoff aktivierte dabei körpereigene Reparaturvorgänge, darunter die Bildung von Kollagen, dem Stützeiweiß der Haut, und die Neubildung von Blutgefäßen. Die Einordnung: Es handelt sich zunächst um einen Erfolg im Tiermodell; bis daraus eine Behandlung für schlecht heilende Wunden bei älteren Menschen werden kann, sind noch umfangreiche Studien am Menschen nötig.",
+       "img": "https://live.staticflickr.com/2635/4029430691_78cda77b00.jpg",
+       "source": "ScienceDaily / Boston University",
+       "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Bewölkter Spätsommertag im Neckartal, geselliger Oktober im Gasthof Adler",
+       "text": "In Horb am Neckar zeigt sich dieser Montag bei wechselnder bis starker Bewölkung und mild-spätsommerlichen Höchstwerten um 30 Grad, ein ruhiger und trockener Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Das Wetter lädt zu einem Gang durch die historische Altstadt mit ihren Fachwerkhäusern oder entlang des Neckarufers ein. Der Blick voraus lohnt sich vor allem für die Oktober-Termine im Gasthof Adler im Stadtteil Dettingen: ein Kriminal-Dinner, also ein interaktiver Theaterabend mit mehrgängigem Menü und einem gespielten Kriminalfall, am 16. und 17. Oktober, ein Gastspiel des bundesweit bekannten Komikers Bülent Ceylan am 18. Oktober sowie die Premiere des Kabarett-Programms „Jetzt isst er sogar Brokkoli“ der Kabarettistin Doris Reichenauer am 22. Oktober. Wer einen dieser beliebten Abende erleben möchte, sollte sich rechtzeitig um Karten kümmern.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
+       "source": "meinestadt.de / open-meteo",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Der Wochenanfang belohnt selten den großen Wurf, sondern den, der die erste Sache ruhig und vollständig zu Ende bringt, bevor er zur nächsten greift."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS-Förderung: Qualifizierungsschecks nur noch bis etwa Oktober",
+      "text": "Für Solo-Selbstständige, also Ein-Personen-Unternehmen ohne Angestellte, läuft weiterhin das bundesweite Förderprogramm KOMPASS, das für Kompetenzentwicklung und Qualifizierung von Solo-Selbstständigen steht und geförderte Weiterbildungen mit bis zu 90 Prozent der Kurskosten bezuschusst, höchstens jedoch 4.500 Euro. Gefördert werden unter anderem Weiterbildungen zu Digitalisierung, Betriebsführung und Marketing. Wichtig ist der Zeitpunkt: Die Ausgabe der sogenannten Qualifizierungsschecks, also der Bewilligungen, mit denen die Förderung startet, ist bundesweit bis etwa Oktober 2026 begrenzt, damit laufende Anträge zügig bearbeitet werden können; einen grundsätzlichen Aufnahmestopp gibt es nicht, eine fristgerechte Ausgabe ist in dieser Phase aber nicht garantiert. Das Programm selbst ist bis Februar 2028 verlängert.",
+      "why": "Wer eine geförderte Weiterbildung erwägt, sollte das kostenlose Erstgespräch und den Qualifizierungsscheck jetzt anstoßen, solange die Ausgabe noch läuft, statt bis zum Jahresende zu warten. So lässt sich der Zuschuss von bis zu 4.500 Euro sichern, bevor die begrenzte Ausgabephase endet.",
+      "source": "Skill-Sprinters / Bundesprogramm KOMPASS",
+      "url": "https://skill-sprinters.de/foerderungen/glossar/kompass/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei umsetzbare Signale aus den Werkzeugnotizen des Entwicklers Simon Willison, Mitbegründer des Web-Rahmenwerks Django und Autor des quelloffenen Kommandozeilen-Werkzeugs llm.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Denkspuren deiner Modelle übersichtlich protokollieren",
+       "tag": "Werkzeug",
+       "paras": [
+        "Simon Willison hat Version 0.36 seines quelloffenen Kommandozeilen-Werkzeugs llm veröffentlicht, mit dem sich Sprachmodelle, also lernfähige Text-Software, direkt aus der Kommandozeile ansprechen und ihre Antworten anschließend in einem Protokoll nachlesen lassen (der Befehl llm logs). Neu in dieser Version ist, dass die sogenannten Denkspuren, auf Englisch reasoning traces, also die Zwischenüberlegungen, die manche Modelle vor der eigentlichen Antwort ausgeben, im Markdown-Protokoll nun in aufklappbaren Abschnitten stehen.",
+        "Der Hebel für dein System: Wenn du Modellantworten protokollierst und später auswertest, bleibt das Protokoll übersichtlich, weil die oft langen Denkspuren eingeklappt sind und du sie nur bei Bedarf ausklappst. Das erleichtert es, ein Ergebnis nachzuvollziehen und Fehlerquellen zu finden, ohne im Rauschen der Zwischenschritte den Überblick zu verlieren."
+       ],
+       "konkret": "Bringe dein llm auf Version 0.36 und sieh dir mit dem Protokoll-Befehl eine gespeicherte Antwort eines nachdenkenden Modells an, um zu sehen, wie die eingeklappten Denkspuren die Übersicht verbessern.",
+       "snippetLabel": "llm aktualisieren und Protokoll ansehen",
+       "snippet": "pip install -U llm        # auf Version 0.36 bringen\nllm \"<span class=\"ph\">{deine Frage}</span>\"\nllm logs -n 1             # letzte Antwort mit eingeklappten Denkspuren",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Sep/22/llm/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Wiederkehrende Handgriffe als aufrufbare Werkzeuge hinterlegen",
+       "tag": "Automatisierung",
+       "paras": [
+        "Willisons Werkzeug llm beherrscht das sogenannte Tool Calling, auf Deutsch den Werkzeugaufruf: Du definierst eine kleine Funktion, etwa in der Programmiersprache Python, und stellst sie dem Modell zur Verfügung; das Modell entscheidet dann selbst, wann es diese Funktion aufruft, um an ein verlässliches Ergebnis zu kommen. Unterstützt werden Modelle mehrerer Anbieter, darunter OpenAI, Anthropic, Google Gemini und das lokal auf dem eigenen Rechner laufende Ollama.",
+        "Der Hebel für dein System: Statt dem Modell jedes Mal von Hand Daten zuzuarbeiten, hinterlegst du wiederkehrende Handgriffe, etwa eine Datumsrechnung, eine Preisabfrage oder einen Datenbank-Zugriff, einmal als Werkzeug. Das Modell greift bei Bedarf selbst darauf zu, was Fehler durch manuelles Kopieren vermeidet und die immer gleichen Abläufe verlässlicher macht."
+       ],
+       "konkret": "Nimm eine Aufgabe, die du dem Modell regelmäßig von Hand zuarbeitest, und schreibe sie als kleine Funktion, die du als Werkzeug bereitstellst. Prüfe dann in einer Sitzung, ob das Modell sie im richtigen Moment von selbst aufruft.",
+       "snippetLabel": "Eine Funktion als Werkzeug bereitstellen",
+       "snippet": "llm --functions '\ndef jetzt():\n    \"Gibt das aktuelle Datum und die Uhrzeit zurueck\"\n    import datetime\n    return datetime.datetime.now().isoformat()\n' \"<span class=\"ph\">{Frage, die das Werkzeug braucht}</span>\"",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/"
+      }
+     ]
     }
    ]
   }
