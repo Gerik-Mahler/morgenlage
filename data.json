@@ -2,166 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Mittwoch, 23. September 2026",
-      "weather": "clouds",
-      "temp": "23°C · neblig-trüb",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Mittwoch ein neblig-trüber Morgen, und die Temperatur klettert am Nachmittag auf höchstens etwa 23 Grad, ein mildes, gedämpftes Herbstwetter, das erst allmählich aufklart. Die Lage an diesem Morgen: In New York bestimmt die Generaldebatte der Vereinten Nationen mit dem Auftritt des ukrainischen Präsidenten weiter das Geschehen, in Washington beginnt ein dreitägiger Staatsbesuch des chinesischen Staatschefs, und die Bundesbank dämpft kurzfristig die Konjunkturerwartungen. Dazu kommen ein Erfolg im Kampf gegen die Tollwut in Chile und ein staunenswerter Fund aus der Quantenphysik. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Ukraine im Mittelpunkt der UN-Generaldebatte in New York",
-              "text": "Bei der Generaldebatte der Vereinten Nationen (UN), des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit, steht an diesem Mittwoch die Ukraine im Vordergrund. Der ukrainische Präsident Wolodymyr Selenskyj nimmt an einer Beratung des UN-Sicherheitsrats teil, des mächtigsten UN-Gremiums für Fragen von Krieg und Frieden, und spricht anschließend vor der Vollversammlung. Am Rande der Debatte kommen zudem der russische Außenminister Sergej Lawrow und sein US-amerikanischer Amtskollege Marco Rubio zusammen. Die Einordnung bleibt nüchtern: Solche Treffen sind vor allem diplomatische Signale; verbindliche Beschlüsse zur Beendigung des Krieges sind daraus nicht zu erwarten.",
-              "source": "news.de",
-              "url": "https://www.news.de/panorama/860019347/23-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-            },
-            {
-              "title": "Chinas Staatschef Xi Jinping zu dreitägigem Besuch in Washington",
-              "text": "Der chinesische Staats- und Parteichef Xi Jinping trifft an diesem Mittwoch zu einem dreitägigen Staatsbesuch in der US-Hauptstadt Washington ein. Im Mittelpunkt der Gespräche stehen der anhaltende Zoll- und Handelsstreit zwischen den beiden größten Volkswirtschaften der Welt sowie Fragen der Sicherheit bei Künstlicher Intelligenz, also lernfähiger Software. Auch der Iran-Krieg und der Krieg in der Ukraine dürften zur Sprache kommen. Die Einordnung: Ein persönliches Treffen auf höchster Ebene kann Spannungen abbauen, doch die grundlegenden Interessengegensätze zwischen China und den USA bleiben bestehen.",
-              "source": "news.de",
-              "url": "https://www.news.de/panorama/860019347/23-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Bundesbank: Deutsche Wirtschaft verliert vorübergehend an Fahrt",
-              "text": "Die Deutsche Bundesbank, die Zentralbank der Bundesrepublik, erwartet laut ihrem jüngsten Monatsbericht, dass die deutsche Wirtschaft im dritten Quartal des Jahres vorübergehend an Schwung verliert. Als bremsende Faktoren nennt sie unter anderem die Dürre und die niedrigen Pegelstände der Flüsse im zweiten Halbjahr, die den Warentransport auf dem Wasser erschweren. Für das vierte Quartal rechnet die Bundesbank jedoch wieder mit einem kräftigeren Zuwachs. Die Einordnung: Es handelt sich um eine Delle, nicht um eine Trendwende, doch sie zeigt, wie stark auch das Wetter auf die Konjunktur, also den Gang der Wirtschaft, durchschlagen kann.",
-              "source": "Tagesspiegel / Bundesbank",
-              "url": "https://www.tagesspiegel.de/wirtschaft/dpa-bundesbank-monatsbericht-deutsche-wirtschaft-verliert-vorubergehend-an-fahrt-16080250.html"
-            },
-            {
-              "title": "ZEW-Konjunkturerwartungen steigen im September leicht an",
-              "text": "Ein gegenläufiges, aufmunterndes Signal liefert das ZEW, das Leibniz-Zentrum für Europäische Wirtschaftsforschung in Mannheim, das monatlich Fachleute aus Finanzwelt und Wirtschaft nach ihren Erwartungen befragt. Der Index der Konjunkturerwartungen stieg im September 2026 leicht um 0,5 Punkte auf nun plus 34,7 Punkte und blieb damit im deutlich positiven Bereich. Zugleich wird von der Europäischen Zentralbank (EZB), der gemeinsamen Notenbank der Euro-Länder, im September noch ein weiterer Zinsschritt nach oben erwartet, gefolgt von einer voraussichtlich längeren Zinspause. Die Einordnung: Die Fachleute blicken vorsichtig optimistisch nach vorn, während die Geldpolitik ihren straffen Kurs vorerst beibehält.",
-              "source": "ad-hoc-news.de / ZEW",
-              "url": "https://www.ad-hoc-news.de/wirtschaft/die-zew-konjunkturerwartungen-fuer-deutschland-haben-sich-im-september/70104478"
-            }
-          ],
-          "merk": {
-            "text": "Merken: Kurzfristig bremst die deutsche Wirtschaft, mittelfristig zeigen die Erwartungen nach oben, und die Zinsen bleiben vorerst hoch. Wer Investitionen plant, sollte die noch straffe Geldpolitik und damit teurere Kredite einkalkulieren.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Chile besiegt als erstes Land Südamerikas die von Hunden übertragene Tollwut",
-              "text": "Eine ermutigende Nachricht aus dem Gesundheitswesen: Chile ist nach Angaben der Weltgesundheitsorganisation (WHO), der für Gesundheitsfragen zuständigen Sonderorganisation der Vereinten Nationen, das erste Land Südamerikas, das die von Hunden auf Menschen übertragene Tollwut ausgerottet hat. Tollwut ist eine Viruserkrankung, die unbehandelt fast immer tödlich verläuft und weltweit noch immer viele Menschen das Leben kostet. Erreicht wurde der Erfolg durch über 50 Jahre konsequenter Impfkampagnen für Haustiere und sorgfältige Überwachung. Die Botschaft: Mit langem Atem und verlässlichen Programmen lassen sich selbst uralte Geißeln der Menschheit zurückdrängen.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/"
-            },
-            {
-              "title": "Regelmäßiges Lesen senkt einer Studie zufolge das Demenzrisiko",
-              "text": "Aus der Forschung kommt ein Befund, der zum Lesen einlädt: Nach einer Auswertung der Universität Cambridge in Großbritannien geht regelmäßiges Lesen mit einem um etwa 33 Prozent verringerten Risiko einher, an Alzheimer zu erkranken, der häufigsten Form der Demenz, also des fortschreitenden Verlusts geistiger Fähigkeiten im Alter. Zusätzlich wurden eine bessere seelische Gesundheit und mehr Einfühlungsvermögen beobachtet. Solche Studien zeigen einen Zusammenhang, keinen zwingenden Ursache-Wirkung-Beweis. Die Botschaft bleibt dennoch ermutigend: Eine einfache, günstige Gewohnheit kann Geist und Wohlbefinden nachweislich guttun.",
-              "img": "https://live.staticflickr.com/1190/5099718716_2f066cebc7.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Physiker beobachten erstmals einzelne Quantensprünge des Schalls",
-              "text": "Ein staunenswerter Fortschritt aus der Physik: Forschende der Universität Stanford in den USA haben nach eigenen Angaben erstmals in Echtzeit einzelne Quantensprünge des Schalls beobachtet. Dabei geht es um Phononen, also die kleinstmöglichen Energiepakete einer Schallschwingung, die in dem Experiment sichtbar von einem Energiezustand in einen anderen springen. Die Quantenphysik beschreibt das Verhalten allerkleinster Teilchen, bei denen Energie nicht stufenlos, sondern in winzigen Sprüngen auftritt. Die Einordnung: Es handelt sich um Grundlagenforschung, doch sie könnte langfristig helfen, Quantencomputer, also neuartige Rechner nach den Regeln der Quantenwelt, weniger fehleranfällig zu machen.",
-              "img": "https://live.staticflickr.com/3602/3639738130_60f7a3dcda_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/"
-            },
-            {
-              "title": "Aus Plastikabfall werden benzin- und dieselähnliche Kraftstoffe",
-              "text": "Aus der Materialforschung kommt ein praktischer Fund: Wissenschaftler am Oak Ridge National Laboratory, einem großen staatlichen Forschungszentrum in den USA, haben ein Verfahren entwickelt, um Polyethylen in kraftstoffähnliche Stoffe umzuwandeln. Polyethylen ist der weit verbreitete Kunststoff, aus dem etwa Einkaufstüten und Schneidebretter bestehen. Das Verfahren macht aus diesem Abfall Flüssigkeiten, die sich wie Benzin und Diesel verwenden lassen. Die Einordnung: Ein solcher Weg könnte helfen, Plastikmüll sinnvoller zu verwerten, doch bis zu einem großtechnischen Einsatz und einer sauberen Gesamtbilanz sind noch viele Fragen zu klären.",
-              "img": "https://live.staticflickr.com/7754/26742176942_0eef7c9d8b_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Neblig-trüber Herbstmorgen im Neckartal",
-              "text": "In Horb am Neckar beginnt der Tag neblig-trüb, ehe sich die Wolken tagsüber allmählich lichten und die Temperatur auf höchstens etwa 23 Grad steigt, ein mildes Herbstwetter im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Der örtliche Veranstaltungskalender ist unter der Woche eher ruhig; größere kulturelle Termine finden sich vor allem am Wochenende und in den nahen Städten Tübingen und Rottenburg am Neckar. Sobald der Nebel weicht, bieten die milden Nachmittage gute Bedingungen für einen Spaziergang entlang des Neckars oder durch die historische Altstadt mit ihren Fachwerkhäusern. Ein ruhiger Rahmen also, um den Tag für konzentriertes Arbeiten zu nutzen und die kurze Auszeit an der frischen Luft bewusst zu setzen.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-              "source": "meinestadt.de",
-              "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Der Nebel nimmt der Landschaft die Weite und schenkt ihr die Nähe; manchmal hilft genau das, den Blick auf das zu richten, was heute unmittelbar vor einem liegt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "KOMPASS-Förderung: bis zu 4.500 Euro für Weiterbildung von Solo-Selbstständigen",
-            "text": "Das Programm KOMPASS (kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige) fördert gezielt die Weiterbildung von Selbstständigen ohne Angestellte, also genau deiner Situation. Übernommen werden 90 Prozent der Kurskosten bis zu einer Höchstsumme von 4.500 Euro; den kleinen Rest trägt der Teilnehmer selbst. Thematische Schwerpunkte für 2026 sind ausdrücklich Digitalisierung und Automatisierung, teils mit Bezug zu Anwendungen der Künstlichen Intelligenz, also lernfähiger Software. Wichtig ist die Reihenfolge: Der Antrag muss vor Kursbeginn gestellt werden, eine nachträgliche Förderung ist nicht möglich. Zu beachten ist außerdem, dass die Ausgabe der sogenannten Qualifizierungsschecks von Mai bis Oktober 2026 bundesweit begrenzt wurde, um bestehende Anträge zügiger zu bearbeiten.",
-            "why": "Eine geförderte Weiterbildung lässt sich gezielt auf den Ausbau deines KI- und Automatisierungssystems zuschneiden, etwa zu Werkzeugen, Abläufen oder Datenschutz. Bei einem Eigenanteil von nur zehn Prozent ist das Risiko gering, und du eignest dir strukturiert Wissen an, statt es dir mühsam nebenher zusammenzusuchen.",
-            "source": "skill-sprinters.de",
-            "url": "https://skill-sprinters.de/blog/foerderung/kompass-foerderung-solo-selbststaendige-2026-ki-weiterbildung/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei konkrete Signale aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich aus erster Hand mit Sprachmodellen und Entwicklerwerkzeugen befassen.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Deine Projekte automatisch gegen die nächste Programmiersprachen-Version testen",
-              "tag": "Robustheit",
-              "paras": [
-                "Simon Willison empfiehlt Anfang September, die eigenen Testsuiten schon gegen Vorabversionen der kommenden Programmiersprache laufen zu lassen, konkret gegen die Release Candidates von Python 3.15. Ein Release Candidate ist eine fast fertige Vorabversion, die kurz vor der offiziellen Freigabe steht; eine Testsuite ist eine Sammlung automatischer Prüfungen, die bestätigen, dass dein Programm noch wie erwartet arbeitet. Wer früh gegen die Vorabversion testet, bemerkt Unverträglichkeiten Wochen vor allen anderen und kann sie in Ruhe beheben.",
-                "Der Hebel für dein System: In dem verbreiteten Dienst GitHub Actions, der bei jeder Änderung automatisch Prüfungen ausführt, genügt ein zusätzlicher Schalter, damit auch Vorabversionen einbezogen werden. Für ein Ein-Personen-System, in dem niemand sonst gegenliest, ist das eine günstige Versicherung: Du erfährst von Problemen, solange sie noch klein und leicht zu beheben sind, statt am Tag der offiziellen Freigabe überrascht zu werden."
-              ],
-              "konkret": "Aktiviere in deinen wichtigsten Projekten das Testen gegen Vorabversionen, indem du in der Ablaufdatei von GitHub Actions die Vorabversionen zulässt und Python 3.15 in die getestete Liste aufnimmst. So läuft die Prüfung ab jetzt automatisch bei jeder Änderung mit.",
-              "snippetLabel": "GitHub-Actions-Schritt für das Testen gegen Vorabversionen",
-              "snippet": "# Auszug aus .github/workflows/test.yml\n- uses: actions/setup-python@v5\n  with:\n    python-version: <span class=\"ph\">{3.15}</span>\n    allow-prereleases: true",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/2026/Sep/"
-            },
-            {
-              "icon": "gauge",
-              "title": "Werkzeug-Rückgaben mit benannten Feldern gestalten, damit Modelle sie besser verstehen",
-              "tag": "Werkzeug",
-              "paras": [
-                "Aus Simon Willisons Arbeit an datasette-mcp, einer Erweiterung, die Sprachmodelle über das Model Context Protocol (MCP) mit Daten verbindet, stammt eine praktische Lehre. MCP ist ein offener Standard, über den ein Assistent auf Werkzeuge und Datenquellen zugreift. Willison beobachtete, dass Modelle die Ergebnisse deutlich zuverlässiger verarbeiten, wenn eine Werkzeug-Antwort als Liste von Objekten mit benannten Feldern zurückkommt, statt als Liste von Positions-Listen, bei denen die Bedeutung jeder Spalte nur aus der Reihenfolge hervorgeht.",
-                "Der Hebel für dein System: Wenn du eigene Werkzeuge oder MCP-Schnittstellen baust, gib Daten mit klaren Feldnamen zurück, also zum Beispiel benannte Eigenschaften wie Name und Preis, statt bloßer Wertlisten. Das Modell muss dann nicht raten, welche Position welche Bedeutung hat, und macht spürbar weniger Fehler. Der Aufwand ist gering, der Gewinn an Verlässlichkeit gerade bei automatisierten Abläufen aber deutlich."
-              ],
-              "konkret": "Sieh deine eigenen Werkzeuge und MCP-Schnittstellen durch und stelle Rückgaben von Positions-Listen auf Listen von Objekten mit benannten Feldern um. Prüfe an einem Beispiel, ob dein Assistent die benannte Variante zuverlässiger auswertet.",
-              "snippetLabel": "Rückgabe mit benannten Feldern statt Positions-Liste",
-              "snippet": "// statt: [[\"Apfel\", 2], [\"Birne\", 3]]\n// besser:\n[\n  { \"name\": \"<span class=\"ph\">{Apfel}</span>\", \"preis\": 2 },\n  { \"name\": \"<span class=\"ph\">{Birne}</span>\", \"preis\": 3 }\n]",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/2026/Sep/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Donnerstag, 24. September 2026",
       "weather": "clouds",
       "temp": "20°C · bewölkt",
@@ -984,7 +824,6 @@
       "weather": "clouds",
       "temp": "28°C · bewölkt",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt dieser Dienstag bei überwiegend starker Bewölkung und milden Höchstwerten um 28 Grad, ein ruhiger und trockener Spätsommertag im Neckartal. Der Blick auf die Welt bleibt ernst: In der ukrainischen Hauptstadt Kiew dauern schwere russische Angriffe an, während Bundesaußenminister Johann Wadephul zu Gesprächen in die Slowakei reist. Die deutsche Wirtschaft sammelt derweil vorsichtige Zuversicht, aus der Forschung kommen ein neues Verfahren gegen Plastikmüll und ein Blick in die Physik des frühen Universums, und der Lichtblick führt an die schottische Küste. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1123,6 +962,160 @@
               "snippet": "# Ollama installieren, dann ein kompaktes Modell laden\nollama pull qwen3\nollama run qwen3 \"<span class=\"ph\">{deine vertrauliche Aufgabe}</span>\"",
               "source": "Simon Willison",
               "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mittwoch, 30. September 2026",
+      "weather": "clouds",
+      "temp": "29°C · neblig-mild",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser Mittwoch neblig-trüb, bei mildem Spätsommerwetter und Höchstwerten um 29 Grad, ein trockener und ruhiger Tag im Neckartal. In Berlin tagt heute das Bundeskabinett zu einer Pflegereform und schärferen Strafen, während das Statistische Bundesamt am Nachmittag neue Inflationszahlen vorlegt, die erstmals seit Ende 2023 wieder über drei Prozent liegen könnten. Aus der Welt kommen ein Meilenstein für den Meeresschutz und eine neu entdeckte Wildkatze, aus der Forschung ein Hoffnungsträger gegen Herzschwäche und ein überraschender Blick auf einen Saturnmond. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Bundeskabinett berät Pflegereform und schärfere Strafen bei Gewalt gegen Bahnpersonal",
+              "text": "Das Bundeskabinett, also die Runde aus Bundeskanzler und den Bundesministern, befasst sich an diesem Mittwoch mit einer Reform der Pflegeversicherung, der gesetzlichen Absicherung für den Fall der Pflegebedürftigkeit. Gesundheitsministerin Nina Warken und CDU-Generalsekretär Carsten Linnemann (beide von der Christlich Demokratischen Union, CDU) stellen Pläne vor, mit denen Beitragserhöhungen im kommenden Jahr vermieden werden sollen, da der Pflegekasse ohne ein Eingreifen ein Defizit droht. Zusätzlich berät das Kabinett einen Gesetzentwurf des Justizministeriums für härtere Strafen bei Gewalt gegen Beschäftigte von Bahn und anderen dem Gemeinwohl dienenden Einrichtungen sowie eine Verschärfung beim Straftatbestand der Volksverhetzung, also der Aufstachelung zu Hass gegen Bevölkerungsgruppen. Die Einordnung: Beide Vorhaben sind zunächst Kabinettsbeschlüsse und müssen noch das parlamentarische Verfahren im Bundestag durchlaufen.",
+              "source": "news.de / ZDF",
+              "url": "https://www.news.de/panorama/860043374/30-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-30-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            },
+            {
+              "title": "Ukraine dringt auf eingefrorenes russisches Vermögen, China droht der EU im Handelsstreit",
+              "text": "Die Ukraine drängt ihre westlichen Partner darauf, eingefrorenes russisches Staatsvermögen, also im Ausland blockierte Gelder der russischen Zentralbank, stärker für ihre Verteidigung und ihren Wiederaufbau zu nutzen; über die rechtlichen Wege wird in der Europäischen Union weiter gerungen. Zugleich hat sich der Handelsstreit zwischen China und der Europäischen Union verschärft: Peking, gemeint ist die chinesische Regierung, droht mit Gegenmaßnahmen, nachdem die EU Zölle und Beschränkungen gegen chinesische Waren erwogen hat. In Thailand kam es unterdessen nach schweren Überschwemmungen zu mindestens 22 Todesopfern. Die Einordnung bleibt nüchtern: Die geopolitischen und handelspolitischen Spannungen bleiben hoch, konkrete Beschlüsse stehen in mehreren Feldern noch aus.",
+              "source": "news.de / Euronews",
+              "url": "https://www.news.de/panorama/860043374/30-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-30-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Inflation in Deutschland könnte im September über drei Prozent steigen",
+              "text": "Die Inflationsrate in Deutschland, also der Anstieg der Verbraucherpreise gegenüber dem Vorjahr, könnte im September erstmals seit Ende 2023 wieder über die Marke von drei Prozent klettern; im August lag sie bei 2,9 Prozent. Als Haupttreiber gelten hohe Kraftstoffpreise. Das Statistische Bundesamt, die zentrale Behörde für die amtlichen Zahlen in Deutschland, legt die vorläufigen Werte am Nachmittag um 14 Uhr vor. Bereits am Vormittag veröffentlicht die Bundesagentur für Arbeit, die staatliche Behörde für den Arbeitsmarkt, ihre September-Statistik; im August waren rund 3,06 Millionen Menschen arbeitslos gemeldet, und für den Herbst wird bislang nur eine schwache Belebung erwartet.",
+              "source": "Statistisches Bundesamt / news.de",
+              "url": "https://www.news.de/panorama/860043374/30-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-30-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Trotz der höheren Teuerung haben die führenden Wirtschaftsforschungsinstitute in ihrem Herbstgutachten ihre Wachstumsprognose für 2026 auf 1,3 Prozent angehoben, getragen von anziehenden Exporten und staatlichen Investitionen. Das Umfeld für Angebote und größere Investitionen hellt sich zum Jahresende voraussichtlich weiter auf.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Hochseeschutzabkommen erreicht 100 Ratifizierungen",
+              "text": "Das Hochseeschutzabkommen der Vereinten Nationen, ein völkerrechtlicher Vertrag zum Schutz des Lebens auf hoher See jenseits nationaler Gewässer, ist nun von 100 Staaten ratifiziert, also verbindlich in nationales Recht überführt worden; darunter sind Australien, Kanada und Deutschland. Das Abkommen schafft erstmals einen rechtlichen Rahmen, um auch in internationalen Gewässern große Meeresschutzgebiete auszuweisen. Bislang stehen nur rund zehn Prozent der Ozeane unter Schutz, weshalb Fachleute den Meilenstein als wichtigen Schritt für die Artenvielfalt der Meere werten. Die Botschaft ist eine der Zuversicht: Ein lange verhandelter Vertrag gewinnt genug Unterstützung, um in der Praxis wirken zu können.",
+              "img": "https://live.staticflickr.com/886/40566997600_1a872f114a_b.jpg",
+              "source": "Positive News / Vereinte Nationen",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
+            },
+            {
+              "title": "Neue Wildkatzenart in Bolivien entdeckt, die erste seit über 100 Jahren",
+              "text": "Forschende haben in den Yungas Boliviens, einem Nebelwaldgürtel an den Osthängen der Anden, eine bislang unbekannte Wildkatzenart wissenschaftlich beschrieben; es ist die erste neu bestimmte Katzenart seit mehr als hundert Jahren. Das Tier trägt den Namen Leopardus tilcayo, nach der lokalen Bezeichnung, ist mit etwa 46 Zentimetern Länge und rund 1,4 Kilogramm kleiner als eine Hauskatze und hat hellbraunes Fell mit unregelmäßigen Rosetten. Mithilfe von Erbgut-Analysen (Genom-Sequenzierung) an Museumsknochen und lebenden Tieren zeigte sich, dass die südamerikanischen Tigerkatzen aus fünf eigenständigen Arten bestehen. Die Studie erschien in der Fachzeitschrift Current Biology; sie führt vor Augen, wie viel Vielfalt selbst in gut untersuchten Regionen noch verborgen liegt.",
+              "img": "https://live.staticflickr.com/5565/14486019818_d637151ff1_b.jpg",
+              "source": "Al Jazeera / Current Biology",
+              "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Natürlicher Granatapfel-Stoff verbessert die Herzfunktion im Tierversuch deutlich",
+              "text": "Am King's College London, einer renommierten britischen Universität, haben Forschende gezeigt, dass Urolithin A, ein Stoff, den der Körper nach dem Verzehr von Granatäpfeln, Walnüssen und einigen Beeren selbst bildet, die Herzfunktion in Tiermodellen um bis zu 80 Prozent verbessern kann. Im Blick stand die sogenannte Herzschwäche mit erhaltener Pumpfunktion (Fachbegriff HFpEF), eine schwer behandelbare Form der Herzschwäche, bei der sich der Herzmuskel nicht mehr richtig entspannt. Urolithin A half dem steifen Herzgewebe, sich besser zu entspannen, und verringerte Vernarbung und krankhafte Vergrößerung. Die Einordnung mit gebotener Vorsicht: Die Ergebnisse stammen aus Versuchen an Tieren, finanziert von der Stiftung British Heart Foundation, und rechtfertigen ausdrücklich noch keine Empfehlung, Granatäpfel gegen Herzschwäche zu essen.",
+              "img": "https://live.staticflickr.com/5772/22704826703_543f45cc8b_b.jpg",
+              "source": "ScienceDaily / King's College London",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm"
+            },
+            {
+              "title": "Saturnmond Enceladus trennt die Chemie seines verborgenen Ozeans beim Gefrieren",
+              "text": "Der Saturnmond Enceladus, ein kleiner Eismond des Ringplaneten Saturn, stößt aus Rissen an seinem Südpol feine Tröpfchen eines unter der Eiskruste verborgenen Ozeans ins All. Eine neue Auswertung von Daten der NASA-Raumsonde Cassini, die den Saturn bis 2017 erforschte, zeigt, dass diese Tröpfchen langsam gefrieren und dabei zerbrechen, wobei sich gelöste Stoffe wie Salze in verschiedene Bereiche auftrennen. Jedes Bruchstück kann so eine andere chemische Zusammensetzung tragen und gelangt anschließend in den E-Ring des Saturn, einen der äußeren Ringe des Planeten. Die Einordnung: Für die Suche nach Leben ist das bedeutsam, denn enthielte ein Tröpfchen Spuren möglicher Mikroben, könnten sich diese beim Gefrieren gleichsam von selbst anreichern und dadurch leichter nachweisbar werden.",
+              "img": "https://live.staticflickr.com/4365/36428299653_4ea10f4973_b.jpg",
+              "source": "ScienceDaily / Science Advances",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Neblig-milder Herbsttag im Neckartal, Lange Nacht der Lichter am 9. Oktober",
+              "text": "In Horb am Neckar beginnt dieser Mittwoch neblig-trüb, bei mildem Spätsommerwetter und Höchstwerten um 29 Grad, ein trockener und ruhiger Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Löst sich der morgendliche Nebel, lädt der milde Tag zu einem Bummel durch die historische Altstadt mit ihren Fachwerkhäusern oder zu einem Spaziergang am Neckarufer ein. Für den Blick voraus lohnt sich der Abend des 9. Oktober: Dann verwandelt die Lange Nacht der Lichter die Innenstadt von 18 bis 22 Uhr in eine Einkaufs- und Kulturnacht, begleitet von einem Nacht-Flohmarkt. Am folgenden Samstag, dem 10. Oktober, schließt sich ein Flohmarkt auf der Turnierwiese an, sodass sich beide Termine gut zu einem Wochenende verbinden lassen.",
+              "img": "https://live.staticflickr.com/3746/12874548115_2033867d5e_b.jpg",
+              "source": "veranstaltung-baden-wuerttemberg.de / open-meteo",
+              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Nebel nimmt der Landschaft die Fernsicht und schenkt ihr dafür die Nähe; vielleicht ist auch ein Tag ohne klaren Ausblick eine Einladung, sich zuerst um das zu kümmern, was unmittelbar vor dir liegt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "OpenAI senkt mit GPT-6.1 Sol den Preis für ein leistungsfähiges Sprachmodell deutlich",
+            "text": "Auf seiner Entwicklerkonferenz DevDay 2026 hat das Unternehmen OpenAI, der Hersteller des Chatprogramms ChatGPT, ein neues Sprachmodell namens GPT-6.1 Sol vorgestellt. Laut dem Live-Blog des Entwicklers Simon Willison, der solche Ankündigungen fachkundig mitschreibt, soll es nahezu die Leistung des bisherigen Spitzenmodells erreichen, dabei aber nur einen Bruchteil kosten: rund zwei US-Dollar je einer Million verarbeiteter Eingabe-Einheiten (sogenannter Token) statt zuvor zehn Dollar. Für zwischengespeicherte Eingaben sinkt der Preis noch weiter. Das Modell ist den Angaben zufolge ab sofort verfügbar.",
+            "why": "Als Solo-Unternehmer, der Sprachmodelle regelmäßig einsetzt, kannst du mit dem Wechsel auf ein günstigeres, aber ähnlich fähiges Modell deine laufenden Kosten je Anfrage spürbar senken. Ein kurzer Vergleichstest an einer typischen Aufgabe zeigt dir, ob die Qualität für deinen Zweck weiterhin ausreicht, bevor du dauerhaft umstellst.",
+            "source": "OpenAI DevDay 2026 / Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei praktische Signale von der Entwicklerkonferenz DevDay 2026 des ChatGPT-Herstellers OpenAI, mitgeschrieben im Live-Blog des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm.",
+          "cards": [
+            {
+              "icon": "layers",
+              "title": "Kleine Daten-Werkzeuge ohne eigenen Server bauen",
+              "tag": "Arbeitsweise",
+              "paras": [
+                "Laut dem Live-Blog von der DevDay-Konferenz können in ChatGPT erstellte Mini-Anwendungen (sogenannte ChatGPT Sites) nun eine eingebaute Datenbank auf Basis von SQLite nutzen, einer verbreiteten, dateibasierten Datenbank, und sich zu festgelegten Zeiten selbst ausführen (Scheduled Tasks, also geplante Aufgaben). Damit lassen sich einfache Werkzeuge zusammenstellen, die Daten speichern und wiederkehrende Aufgaben eigenständig erledigen, ohne dass man dafür einen eigenen Server betreiben muss.",
+                "Der Hebel für dein System: Für kleine, wiederkehrende Abläufe, etwa das Sammeln und Aufbereiten von Informationen, kannst du einen Prototyp ohne eigene Infrastruktur erstellen und ihn zeitgesteuert laufen lassen. So prüfst du eine Idee schnell, bevor du Aufwand in eine dauerhafte Lösung steckst."
+              ],
+              "konkret": "Wähle eine kleine, wiederkehrende Aufgabe aus deinem Alltag, die Daten sammelt oder aufbereitet, und baue dafür einen einfachen Prototyp mit gespeicherten Daten und einem festen Ausführungszeitpunkt, statt sie weiter von Hand zu erledigen.",
+              "source": "OpenAI DevDay 2026 / Simon Willison",
+              "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Für schnelle Auswahl-Entscheidungen ein spezialisiertes Verfahren nutzen",
+              "tag": "Werkzeug",
+              "paras": [
+                "OpenAI hat auf der DevDay eine sogenannte Decisions API vorgestellt, eine Programmierschnittstelle (API, also eine definierte Zugriffsmöglichkeit für andere Programme), bei der das Modell nicht frei formuliert, sondern aus einer festen Liste vorgegebener Optionen auswählt und die Antwort in Sekundenbruchteilen liefert. Für Einordnungs- und Verteilungsaufgaben ist das deutlich schneller und verlässlicher als eine frei erzeugte Textantwort.",
+                "Der Hebel für dein System: Überall dort, wo eine Eingabe nur einer von wenigen Kategorien zugeordnet werden soll, etwa dringend oder nicht dringend, ist ein solches Auswahl-Verfahren die passendere Wahl als ein frei antwortendes Modell. Das macht automatische Weichenstellungen in deinem Ablauf schneller und weniger fehleranfällig."
+              ],
+              "konkret": "Suche in deinem Ablauf eine Stelle, an der etwas in wenige feste Kategorien einsortiert wird, und lege dafür die erlaubten Antwortoptionen klar fest, statt eine frei formulierte Antwort auszuwerten.",
+              "snippetLabel": "Auswahl aus festen Optionen (Skizze)",
+              "snippet": "Aufgabe: Ordne die Eingabe genau einer Kategorie zu.\nOptionen: <span class=\"ph\">{dringend | kann warten | ignorieren}</span>\nEingabe: <span class=\"ph\">{Text, der eingeordnet werden soll}</span>\nAntworte nur mit einer der Optionen, ohne weitere Worte.",
+              "source": "OpenAI DevDay 2026 / Simon Willison",
+              "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
             }
           ]
         }
