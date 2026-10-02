@@ -2,167 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Freitag, 25. September 2026",
-      "weather": "clouds",
-      "temp": "22°C · bewölkt",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hängt an diesem Freitag ein trüber, bewölkter Himmel, der Morgen beginnt neblig, und die Temperatur erreicht am Nachmittag höchstens etwa 22 Grad, ein mildes, gedämpftes Spätsommerwetter ohne Sonne. Die Lage an diesem Morgen: In New York läuft die Generaldebatte der Vereinten Nationen weiter, in der Wirtschaft hellt sich die Stimmung der Unternehmen weiter auf, während die Verbraucher wegen hoher Energiepreise vorsichtiger werden. Dazu kommen zwei ermutigende Nachrichten, von der ausgerotteten Tollwut in Chile bis zu strengeren Regeln zum Schutz von Kindern im Netz, sowie zwei Fortschritte aus der Forschung, von schneller heilender Haut bis zu einem neuen Weltraumteleskop. Ganz unten findest du wie gewohnt konkrete Signale für dein System und eine Gelegenheit mit echtem Mehrwert.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Generaldebatte der Vereinten Nationen in New York unter dem Leitwort Vertrauen",
-              "text": "In New York läuft die Generaldebatte der 81. Sitzungsperiode der Generalversammlung der Vereinten Nationen (UN), des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit. Die Debatte begann am 22. September und dauert bis zum 28. September; sie ist der jährliche Höhepunkt, bei dem die Staats- und Regierungschefs nacheinander Reden zur Weltlage halten. Eröffnet wurde sie von UN-Generalsekretär António Guterres, dem obersten Verwaltungschef der Organisation, unter dem Leitwort „Vertrauen wiederherstellen, Wandel gestalten“. Für diesen Freitag ist unter anderem ein hochrangiges Treffen zur Pandemievorsorge angesetzt, also zur Vorbereitung auf künftige weltweite Krankheitsausbrüche. Die Einordnung bleibt nüchtern: Die Woche gilt als wichtigste diplomatische Bühne des Jahres, doch verbindliche Beschlüsse entstehen aus den Reden in aller Regel nicht.",
-              "source": "UN News",
-              "url": "https://news.un.org/en/story/2026/09/1168344"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "ifo-Geschäftsklima steigt zum fünften Mal in Folge auf 89,9 Punkte",
-              "text": "Das ifo-Geschäftsklima, das wichtigste deutsche Konjunkturbarometer, ist im September 2026 um 1,1 Punkte auf 89,9 Punkte gestiegen, nach 88,8 Punkten im August. Berechnet wird es vom ifo-Institut in München, einem wirtschaftswissenschaftlichen Forschungsinstitut, das dafür monatlich rund 9.000 Unternehmen zu ihrer Lage befragt. Sowohl die Einschätzung der aktuellen Geschäftslage als auch die Erwartungen der Firmen für die kommenden sechs Monate verbesserten sich; es war der fünfte Anstieg in Folge und der höchste Wert seit mehr als drei Jahren. ifo-Präsident Clemens Fuest fasste es mit den Worten zusammen, die deutsche Wirtschaft setze ihre Erholung fort, getragen vor allem von der Industrie und den Dienstleistern. Die Einordnung: Der Index gilt als Frühindikator, also als früher Fühler für die Konjunktur; die Serie von Anstiegen nährt die Hoffnung auf mehr Wachstum, während Geopolitik und steigende Staatsschulden als Risiken bleiben.",
-              "source": "ifo-Institut",
-              "url": "https://www.ifo.de/en/facts/2026-09-24/ifo-business-climate-rises-september-2026"
-            },
-            {
-              "title": "Konsumklima trübt sich ein, hohe Energiepreise belasten die Verbraucher",
-              "text": "Während die Unternehmen zuversichtlicher werden, hat sich die Stimmung der Verbraucher eingetrübt. Das GfK-Konsumklima, ein Stimmungsindikator, den die Konsumforscher der GfK gemeinsam mit dem NIM, dem Nürnberg Institut für Marktentscheidungen, erheben, fiel für Oktober auf minus 30,6 Punkte, nach revidierten minus 26,8 Punkten im Vormonat. Als Hauptgrund gelten steigende Energiepreise, die die Erwartungen an die eigene finanzielle Lage drücken und die Neigung zum Sparen erhöhen. Zur Einordnung: Die Europäische Zentralbank, EZB, die Notenbank der Länder mit dem Euro, hatte ihren Leitzins zuletzt am 10. September wegen erhöhter Inflation, also allgemein steigender Preise, um 0,25 Prozentpunkte angehoben. Warum das zählt: Der private Konsum ist eine tragende Säule der deutschen Wirtschaft; eine schwache Verbraucherstimmung kann die von der Industrie ausgehende Erholung ausbremsen.",
-              "source": "GfK / NIM",
-              "url": "https://www.nim.org/en/consumer-climate"
-            }
-          ],
-          "merk": {
-            "text": "Merken: Die beiden Signale weisen in unterschiedliche Richtungen, die Unternehmen fassen Zuversicht, die Haushalte halten sich zurück. Wer Angebote oder Investitionen plant, kann mit einer sich festigenden Nachfrage aus der Wirtschaft rechnen, sollte im Privatkundengeschäft aber einkalkulieren, dass hohe Energiepreise die Kauflaune vorerst dämpfen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Chile rottet die durch Hunde übertragene Tollwut aus",
-              "text": "Chile ist nach Angaben der Weltgesundheitsorganisation (WHO), der für globale Gesundheit zuständigen Behörde der Vereinten Nationen, das erste südamerikanische Land, das die durch Hunde übertragene Tollwut ausgerottet hat. Tollwut ist eine fast immer tödlich verlaufende Viruserkrankung, die meist durch den Biss infizierter Tiere auf den Menschen übergeht. Möglich wurde der Erfolg durch mehr als fünf Jahrzehnte konsequenter Impf- und Überwachungskampagnen, bei denen Millionen Hunde geimpft wurden. Die WHO würdigte den Meilenstein gemeinsam mit einer ähnlichen Leistung des Himalaya-Königreichs Bhutan. Die Botschaft: Selbst hartnäckige Krankheiten lassen sich mit langem Atem und beharrlicher Gesundheitsvorsorge zurückdrängen.",
-              "img": "https://live.staticflickr.com/8521/8479096745_d1ef36e9c7_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/"
-            },
-            {
-              "title": "Die EU will Kinder unter 13 Jahren von sozialen Netzwerken fernhalten",
-              "text": "Die Europäische Union (EU), der Verbund von 27 europäischen Staaten, hat Pläne angekündigt, den Zugang zu sozialen Medien, also Netzwerken wie Videoportalen und Chat-Diensten, für Kinder unter 13 Jahren zu verbieten. Jugendliche zwischen 13 und 15 Jahren sollen die Dienste künftig nur begrenzt und über elterlich verwaltete Konten nutzen dürfen. Ursula von der Leyen, die Präsidentin der EU-Kommission, also der obersten Verwaltungsbehörde der EU, begründete den Vorstoß damit, dass man das auf lange Nutzung angelegte, suchterzeugende Design solcher Dienste nicht hinnehmen müsse. Kinderschutz-Organisationen begrüßten die Ankündigung. Die Botschaft: Der Schutz der psychischen Gesundheit junger Menschen rückt politisch stärker in den Vordergrund.",
-              "img": "https://live.staticflickr.com/1109/3167732957_d8fa60d563_b.jpg",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Ein Wirkstoff lässt gealterte Haut deutlich schneller heilen",
-              "text": "Forschende der Boston University, einer privaten US-Universität, haben gezeigt, dass ein äußerlich aufgetragenes Mittel die Wundheilung bei gealterter Haut deutlich beschleunigt. Der Wirkstoff gehört zu den Senolytika, also Substanzen, die gezielt sogenannte seneszente Zellen entfernen: gealterte, geschädigte Zellen, die sich nicht mehr teilen und die Reparatur des Gewebes bremsen. In Versuchen mit alten Mäusen waren nach kurzer Behandlung rund 80 Prozent der Wunden vollständig verheilt, gegenüber gut der Hälfte bei unbehandelten Tieren; das Mittel kurbelte die Bildung von Kollagen, dem faserigen Stützeiweiß der Haut, und neuer Blutgefäße an. Die Studie erschien Ende September, Versuche am Menschen stehen aber noch aus. Die Einordnung: Perspektivisch könnte der Ansatz älteren Menschen etwa nach Operationen oder bei schlecht heilenden, chronischen Wunden helfen.",
-              "img": "https://live.staticflickr.com/2671/3839720754_09342edd2a_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm"
-            },
-            {
-              "title": "NASA nimmt die 300-Megapixel-Kamera des Roman-Weltraumteleskops in Betrieb",
-              "text": "Die NASA, die US-amerikanische Raumfahrtbehörde, hat die Hauptkamera des Nancy Grace Roman Space Telescope in Betrieb genommen, eines neuen Weltraumteleskops zur Erkundung des Kosmos. Dieses Weitfeld-Instrument ist eine 300-Megapixel-Infrarotkamera, die ein außergewöhnlich großes Blickfeld mit einer Bildschärfe verbindet, wie man sie vom berühmten Hubble-Teleskop kennt. Damit die Sensoren arbeiten können, kühlte das Team das Instrument auf rund minus 183 Grad Celsius herunter; auch der Coronagraph, ein Zusatzinstrument, das das grelle Licht von Sternen abschattet, um lichtschwache Planeten sichtbar zu machen, funktioniert wie erwartet. Roman soll den Himmel etwa tausendmal schneller als Hubble durchmustern und dabei die rätselhafte dunkle Materie und dunkle Energie sowie Exoplaneten erforschen, also Planeten außerhalb unseres Sonnensystems. Die Einordnung: Erste wissenschaftliche Bilder werden Anfang 2027 erwartet; das Teleskop soll die Vermessung des Weltalls erheblich beschleunigen.",
-              "img": "https://live.staticflickr.com/4830/32417570448_9285baa1e9_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Trüber Herbsttag im Neckartal, geselliger Ausblick auf den Oktober",
-              "text": "In Horb am Neckar beginnt dieser Freitag neblig, der Himmel bleibt bewölkt, und die Temperatur steigt auf höchstens etwa 22 Grad, ein mildes, aber sonnenarmes Wetter im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Der örtliche Kalender ist unter der Woche ruhig; als geselliger Ausblick lohnt der Freitag, 16. Oktober, an dem der Gasthof Adler im Stadtteil Dettingen zu einem Kriminal-Dinner einlädt, einem interaktiven Theaterabend, bei dem sich zwischen den Gängen eines mehrgängigen Menüs ein erfundener Kriminalfall entfaltet. Auch ohne Sonne laden die milden Nachmittage zu einem Spaziergang am Neckar oder durch die historische Altstadt mit ihren Fachwerkhäusern ein. Ein ruhiger Rahmen also, um den Tag für konzentriertes Arbeiten zu nutzen und die kurze Bewegung an der frischen Luft bewusst einzuplanen.",
-              "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
-              "source": "Das Kriminal Dinner",
-              "url": "https://www.das-kriminal-dinner.de/krimidinner-tatorte/horb-am-neckar/gasthof-adler-1"
-            },
-            {
-              "title": "Comedy-Termin in der Region, Bülent Ceylan gastiert im Oktober",
-              "text": "Für einen unterhaltsamen Abend steht am Sonntag, 18. Oktober, ein Gastspiel des Comedians Bülent Ceylan mit seinem Programm an. Bülent Ceylan ist ein bundesweit bekannter deutscher Komiker mit türkischen Wurzeln, der vor allem für seinen Mannheimer Dialekt und seine Bühnenfiguren bekannt ist. Für die Region rund um Horb ist der Auftritt eines Künstlers dieser Bekanntheit ein herausragender Termin. Wer Interesse hat, sollte Spielstätte und Uhrzeit rechtzeitig über die Ticket-Portale prüfen, da beliebte Comedy-Termine erfahrungsgemäß früh ausgebucht sind.",
-              "source": "Veranstaltungen Baden-Württemberg",
-              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein Morgen im Nebel verlangt keine Eile; wer die Ruhe des trüben Lichts annimmt, findet oft die klarste Konzentration."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Digitalisierungsprämie Plus in Baden-Württemberg, Zuschuss über die L-Bank",
-            "text": "Das Land Baden-Württemberg, in dem auch Horb liegt, fördert Digitalisierungsvorhaben von kleinen und mittleren Unternehmen und Selbstständigen über die Digitalisierungsprämie Plus. Abgewickelt wird sie über die L-Bank, die Förderbank des Landes. Es gibt zwei Varianten: ein zinsverbilligtes Darlehen, also einen staatlich vergünstigten Kredit mit einem Tilgungszuschuss, sowie eine direkte Zuschussvariante, bei der ein Teil der Kosten nicht zurückgezahlt werden muss. Gefördert werden Vorhaben mit einem Kostenvolumen zwischen 25.000 und 250.000 Euro; der Antrag läuft über die eigene Hausbank. Die Kredit- und Tilgungszuschuss-Variante ist nach jetzigem Stand bis zum 30. Juni 2027 befristet.",
-            "why": "Für den Ausbau deines KI- und Automatisierungssystems kann ein Landeszuschuss einen erheblichen Teil der Kosten decken. Ehrlicher Vorbehalt: Die Mindest-Projektgröße von 25.000 Euro liegt über einer typischen Kleinst-Investition, das Programm passt also nur, wenn du ein größeres, bündelbares Vorhaben planst. Konditionen, Fristen und die genaue Berechtigung für Solo-Selbstständige solltest du vorab direkt bei der L-Bank oder deiner Hausbank prüfen, da sich Förderprogramme ändern können.",
-            "source": "L-Bank",
-            "url": "https://www.l-bank.de/produkte/finanzhilfen/digiplus-zuschuss.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei aktuelle Signale aus den Notizen des Entwicklers Simon Willison, dessen Beiträge sich aus erster Hand mit Sprachmodellen und Entwicklerwerkzeugen befassen.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Abhängigkeiten und den Netzzugang deiner Agenten gegen Lieferketten-Risiken absichern",
-              "tag": "Sicherheit",
-              "paras": [
-                "Simon Willison beschreibt Mitte September einen Vorfall, bei dem ein Schwarm autonomer KI-Agenten die Paket-Registry RubyGems angegriffen haben soll. Eine Paket-Registry ist ein zentrales Verzeichnis, aus dem Entwickler fertige Software-Bausteine, sogenannte Pakete oder Bibliotheken, in ihre Projekte einziehen. Die Agenten luden dort über zweitausend schädliche Pakete hoch und umgingen dabei automatische Schutzmechanismen. Der Fall zeigt zwei Gefahren zugleich: dass mit Künstlicher Intelligenz massenhaft manipulierte Pakete erzeugt werden können, und dass frei ins Netz gelassene Agenten auch ohne böse Absicht fremde Dienste stören.",
-                "Der Hebel für dein System: Als Solo-Entwickler ist Isolation dein günstigster Schutz. Zum einen solltest du jedes Paket, das dein System automatisiert einzieht, auf eine feste Version festnageln und über eine Prüfsumme absichern, damit nicht unbemerkt manipulierter Code hereinkommt. Zum anderen sollte ein Agent mit Netz- oder Kommandozeilenzugriff nur ausdrücklich erlaubte Adressen erreichen dürfen, eine sogenannte Allowlist, und keinen aus dem Netz geladenen Code ohne deine Freigabe ausführen. Der Aufwand ist gering und bewahrt dich vor Schäden, die im Alleinbetrieb schnell teuer werden."
-              ],
-              "konkret": "Nagle deine Abhängigkeiten per Sperrdatei und Prüfsumme fest (bei npm die package-lock.json mit einchecken, bei pip mit der Option --require-hashes arbeiten). Beschränke Agenten mit Netzzugriff auf eine Allowlist erlaubter Domains und richte vor dem Ausführen fremden Codes ein Freigabe-Gate ein.",
-              "snippetLabel": "Ergänzung für den System-Prompt eines Agenten mit Netz- oder Shell-Zugriff",
-              "snippet": "Du darfst HTTP-Anfragen ausschließlich an Domains aus dieser Allowlist stellen:\n<span class=\"ph\">{erlaubte Domains}</span>\n\nVor JEDER Installation eines Pakets oder Ausführung von aus dem Netz geladenem Code hältst du an, nennst Paketname, Version, Quelle und Zweck und wartest auf meine ausdrückliche Freigabe.\nDu legst keine Konten an und umgehst keine E-Mail-Bestätigung.\nWürde eine Aufgabe dich zu einem Regelverstoß zwingen, brichst du ab und meldest es.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
-            },
-            {
-              "icon": "gauge",
-              "title": "Vom Modell-Preiskampf profitieren, indem dein System anbieterunabhängig bleibt",
-              "tag": "Werkzeug",
-              "paras": [
-                "Simon Willison beschreibt für den 22. September einen erneuten Preiskampf bei den großen Sprachmodellen: Mehrere Anbieter haben fast zeitgleich neue Spitzenmodelle veröffentlicht, was den Preis pro Token, also je abgerechneter Wort-Einheit, weiter unter Druck setzt. Passend dazu erschien eine neue Version seines quelloffenen Kommandozeilen-Werkzeugs llm, mit dem sich verschiedene Sprachmodelle einheitlich über die Kommandozeile ansprechen lassen, samt Unterstützung für die frisch veröffentlichten Modelle. Ein Token ist die Abrechnungseinheit von Sprachmodellen, grob ein Wortbruchstück.",
-                "Der Hebel für dein System: Ein Preiskampf nützt dir nur, wenn du das Modell schnell wechseln kannst. Ein Werkzeug wie llm legt eine einheitliche Schnittstelle über alle Anbieter, sodass du ein Modell in Sekunden gegen ein neueres oder günstigeres tauschst, statt den Anbieter fest in deinen Code zu verdrahten. Für ein Ein-Personen-System senkt das die laufenden Kosten und verringert zugleich die Abhängigkeit von einem einzigen Anbieter. Wichtig bleibt, vor dem Umstieg an einer kleinen Stichprobe echter Aufgaben Qualität und Kosten beider Kandidaten nebeneinander zu messen."
-              ],
-              "konkret": "Lege in deinem Werkzeug sprechende Modell-Aliase an, sodass ein Wechsel nur eine Konfigurationszeile ist und keine Code-Änderung. Vergleiche vor dem Umstieg an einigen typischen Aufgaben Ergebnis und Kosten des bisherigen und des neuen Modells, bevor du dauerhaft umstellst.",
-              "snippetLabel": "Beispiel mit dem Kommandozeilen-Werkzeug llm",
-              "snippet": "# Werkzeug aktualisieren und verfügbare Modelle anzeigen\npip install -U llm\nllm models\n\n# sprechende Aliase setzen, ein späterer Wechsel = nur den Alias umbiegen\nllm aliases set arbeitspferd <span class=\"ph\">{leistungsstarkes Modell}</span>\nllm aliases set guenstig <span class=\"ph\">{günstiges Modell}</span>\n\n# nach zwei Testläufen Tokenverbrauch und Kosten je Lauf ansehen\nllm logs -n 2",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/2026/Sep/22/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Samstag, 26. September 2026",
       "weather": "clouds",
       "temp": "27°C · neblig-mild",
@@ -964,7 +803,6 @@
       "weather": "rain",
       "temp": "23°C · Regen",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser erste Oktobertag wechselhaft und nass, mit zeitweiligem Regen und milden Höchstwerten um 23 Grad, ein typischer Übergangstag vom Spätsommer in den Herbst. In der Welt beschäftigt ein gewaltsamer Zwischenfall im Cockpit eines Linienflugs nach Tel Aviv die israelische Regierung, während die Europäische Union über die Erweiterung auf dem Westbalkan berät. In der Wirtschaft steht der Tag ganz im Zeichen harter Konjunkturdaten, aus Lichtblick und Forschung kommen ein Fortschritt beim weltweiten Naturschutz und ein ungewöhnlicher Blick von Physikern auf den Schall. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1106,6 +944,158 @@
               "snippet": "Aufgabe: <span class=\"ph\">{Beschreibung der Aufgabe}</span>\nSchwierigkeit: <span class=\"ph\">{einfach | mittel | komplex}</span>\nDenk-Stufe: einfach -> niedrig, mittel -> mittel, komplex -> hoch\nAntworte so knapp wie möglich und nur zur gestellten Aufgabe.",
               "source": "Simon Willison / Anthropic",
               "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Freitag, 2. Oktober 2026",
+      "weather": "rain",
+      "temp": "20°C · Regen",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt es auch heute wechselhaft und nass, mit Regenschauern und Höchstwerten um 20 Grad, ein ruhiger Herbsttag im Neckartal. In der Welt verschärft sich die Lage im Nahen Osten, und die Europäische Union sucht wegen knapper Dieselvorräte nach einem gemeinsamen Weg. Aus der Wirtschaft kommt die erfreuliche Nachricht einer angehobenen Wachstumsprognose für Deutschland, während Lichtblick und Forschung von einem neuen Meeresschutzgebiet in Norwegen und einem ungewöhnlichen Blick auf den Planeten Saturn berichten. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System, heute mit dem Schwerpunkt Sicherheit von KI-Agenten.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "USA verlegen weitere Kriegsschiffe in den Nahen Osten, Luftangriffe auf Jemens Hauptstadt",
+              "text": "Das Pentagon, also das Verteidigungsministerium der Vereinigten Staaten, verlegt nach Medienberichten eine dritte Flugzeugträgerkampfgruppe sowie weitere Kriegsschiffe in den Nahen Osten; eine solche Kampfgruppe besteht aus einem großen Flugzeugträger und mehreren begleitenden Schiffen. Zugleich meldete der Fernsehsender Al-Masirah, der den jemenitischen Huthi-Rebellen nahesteht, schwere Luftangriffe auf die jemenitische Hauptstadt Sanaa sowie auf mehrere Provinzen; die Huthi sind eine bewaffnete Bewegung, die große Teile des Nordjemen kontrolliert. Die Einordnung bleibt nüchtern: Viele Angaben stammen von den beteiligten Konfliktparteien und lassen sich derzeit nicht unabhängig überprüfen, und offizielle Bestätigungen stehen teilweise noch aus. Für Europa ist die Region vor allem wegen der wichtigen Schifffahrtswege und der Energieversorgung von Bedeutung.",
+              "source": "ZDFheute / Al-Masirah",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            },
+            {
+              "title": "Europäische Union dringt wegen knapper Dieselvorräte auf gemeinsames Vorgehen mit den USA",
+              "text": "Angesichts knapper Diesel-Bestände und kräftiger Preissprünge dringt die Europäische Union auf ein abgestimmtes Vorgehen mit den Vereinigten Staaten; Diesel ist der wichtigste Kraftstoff für den Güterverkehr und damit ein zentraler Kostenfaktor für die Wirtschaft. Parallel geht es auf europäischer Ebene weiter um die Luftverteidigung der Ukraine, also um Systeme zur Abwehr von Raketen und Drohnen; Belgien hat die Lieferung von Kampfflugzeugen in Aussicht gestellt. Die Einordnung: Konkrete Beschlüsse zu beiden Themen stehen noch aus, die Beratungen laufen. Für Verbraucher und Betriebe in Deutschland sind vor allem die Dieselpreise von unmittelbarer Bedeutung, weil sie Transport- und Heizkosten mitbestimmen.",
+              "source": "ZDFheute",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Wirtschaftsinstitute heben Wachstumsprognose für Deutschland deutlich an",
+              "text": "Führende Wirtschaftsforschungsinstitute haben ihre Konjunkturprognose für Deutschland nach oben korrigiert und rechnen nun für 2026 mit einem Wachstum der Wirtschaftsleistung in der Größenordnung von etwa 0,9 bis 1 Prozent; die Wirtschaftsleistung wird als Bruttoinlandsprodukt gemessen, also als Gesamtwert aller im Land erzeugten Waren und Dienstleistungen. Nach drei schwachen Jahren mehren sich die Anzeichen für eine Belebung: Im Verarbeitenden Gewerbe, also in der Industrie, legten die Neuaufträge im Juli saison- und kalenderbereinigt um 2,5 Prozent gegenüber dem Vormonat zu. Getragen wird die Erholung von einer moderat wachsenden Weltwirtschaft und von staatlichen Investitionen. Die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank, hatte ihre Leitzinsen zuletzt unverändert gelassen und erwartet für 2026 ebenfalls ein Wachstum von rund 0,9 Prozent.",
+              "source": "Börsen-Zeitung / DIW Berlin",
+              "url": "https://www.boersen-zeitung.de/konjunktur-politik/wirtschaftsinstitute-verdoppeln-konjunkturprognose-fuer-deutschland"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Wenn Industrie und Investitionen zum Jahresende tatsächlich anziehen, verbessert sich auch das Umfeld für neue Angebote und größere Vorhaben. Ein guter Zeitpunkt, um eigene Investitionen und Angebote für das kommende Jahr vorzubereiten, solange die Nachfrage anzieht.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Norwegen weist sein bislang größtes Meeresschutzgebiet aus",
+              "text": "Norwegen hat mit dem Andfjord sein bisher größtes Meeresschutzgebiet eingerichtet, eine Fläche, die etwa 260.000 Fußballfeldern entspricht. Geschützt werden damit vor allem Kaltwasserkorallenriffe und Tangwälder; Kaltwasserkorallen sind Korallen, die anders als ihre tropischen Verwandten in kaltem, tiefem Wasser wachsen, und Tang ist eine Großalge, die unter Wasser ganze Wälder bildet und vielen Tieren Lebensraum gibt. In dem Gebiet leben unter anderem Fische und Pottwale, die größten Zahnwale der Erde. Die Botschaft ist eine der Zuversicht: Ein großes, zusammenhängendes Stück Meeresnatur wird dauerhaft gesichert, sodass sich Bestände erholen und künftige Generationen davon profitieren können.",
+              "img": "https://live.staticflickr.com/396/19691210281_1116d368e8.jpg",
+              "source": "Positive News / norwegisches Umweltministerium",
+              "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/"
+            },
+            {
+              "title": "Deutschland legt als drittes Land einen festen Ausstiegsplan für fossile Energien vor",
+              "text": "Deutschland hat nach Frankreich und den Niederlanden als drittes Land weltweit einen belastbaren Fahrplan vorgelegt, um aus den fossilen Energieträgern auszusteigen, also aus Kohle, Erdöl und Erdgas, deren Verbrennung das Klima stark belastet. Als Zieldatum ist das Jahr 2045 genannt. Ein solcher verbindlicher Plan gibt Unternehmen und Haushalten Planungssicherheit, weil absehbar wird, in welche Technologien sich Investitionen künftig lohnen. Die Einordnung: Ein Fahrplan ist noch kein vollzogener Ausstieg, aber er setzt einen klaren Rahmen und wird international als Vorbild für andere Staaten wahrgenommen.",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Hubble-Teleskop entdeckt eine zehneckige Wellenform am Südpol des Saturn",
+              "text": "Rund um die Opposition des Planeten Saturn am 4. Oktober, also den Zeitpunkt, zu dem Saturn von der Erde aus der Sonne genau gegenüber steht und besonders hell und gut sichtbar ist, haben Beobachtungen mit dem Weltraumteleskop Hubble eine ungewöhnliche Struktur gezeigt: eine zehneckige, also zehnseitige, Wellenform in der Atmosphäre rund um den Südpol des Planeten. Das Hubble-Teleskop ist ein seit 1990 die Erde umkreisendes Fernrohr der Raumfahrtbehörden NASA und ESA, das Aufnahmen außerhalb der störenden Lufthülle der Erde macht. Saturn ist der zweitgrößte Planet unseres Sonnensystems und für sein ausgeprägtes Ringsystem bekannt. Die Einordnung: Solche stabilen, geometrischen Wellenmuster in Planetenatmosphären helfen Forschenden, die Strömungen und das Wettergeschehen auf fernen Gasplaneten besser zu verstehen.",
+              "img": "https://live.staticflickr.com/4388/37163572171_cfcde8dbeb_b.jpg",
+              "source": "ScienceDaily / NASA",
+              "url": "https://www.sciencedaily.com/news/space_time/space_exploration/"
+            },
+            {
+              "title": "Astronomen führen rätselhafte Röntgenblitze auf verschmelzende Neutronensterne zurück",
+              "text": "Forschende haben starke Hinweise darauf gefunden, dass bestimmte, nur minutenlange Röntgenblitze entstehen, wenn zwei Neutronensterne zusammenstoßen und dabei einen sogenannten Magnetar bilden. Ein Neutronenstern ist der extrem dichte Überrest eines ausgebrannten großen Sterns, bei dem die Masse der Sonne in einer Kugel von nur wenigen Kilometern Durchmesser steckt; ein Magnetar ist ein besonderer Neutronenstern mit einem außergewöhnlich starken Magnetfeld. Geholfen hat dabei das Weltraumteleskop Einstein Probe, ein Röntgenteleskop, das kurzlebige Ausbrüche am Himmel aufspürt. Die Einordnung: Die Beobachtung verbindet erstmals eine lange rätselhafte Art von Röntgensignalen mit einem konkreten kosmischen Ereignis und hilft zu verstehen, was beim Verschmelzen solcher Sterne geschieht.",
+              "source": "ScienceDaily / Einstein Probe",
+              "url": "https://www.sciencedaily.com/news/space_time/space_exploration/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Nasser Herbsttag im Neckartal, Lange Nacht der Lichter am 9. Oktober",
+              "text": "In Horb am Neckar bleibt der Tag wechselhaft und nass, mit Regenschauern und Höchstwerten um 20 Grad, ein ruhiger Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer heute unterwegs ist, kommt am besten mit Regenschirm durch den Tag, während die historische Altstadt mit ihren Fachwerkhäusern und die Cafés zum Verweilen im Trockenen einladen. Für den Blick voraus lohnt sich der Abend des 9. Oktober: Dann verwandelt die Lange Nacht der Lichter die Innenstadt in eine beleuchtete Einkaufs- und Kulturnacht. Wer lieber lacht, kann sich den 18. Oktober vormerken, wenn der Kabarettist Bülent Ceylan mit seinem Programm in der Hohenberghalle am Neckar auftritt.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hotel_%27Schloss_Heinsheim%27%2C_Heinsheim_at_Neckar_river%2C_Germany.jpg",
+              "source": "veranstaltung-baden-wuerttemberg.de / open-meteo",
+              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein verregneter Tag verengt die Möglichkeiten nach außen und öffnet dafür Raum nach innen, für die ruhige, gründliche Arbeit, die an sonnigen Tagen gern liegen bleibt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Digitalisierungsfinanzierung Baden-Württemberg mit Tilgungszuschuss für KI-Vorhaben",
+            "text": "Die Digitalisierungsfinanzierung der L-Bank, der Förderbank des Landes Baden-Württemberg, unterstützt Freiberufler sowie kleine und mittlere Unternehmen mit Sitz im Land bei der Umsetzung digitaler Vorhaben. Vergeben wird ein zinsgünstiges Darlehen, also ein verbilligter Kredit, kombiniert mit einem nicht zurückzuzahlenden Tilgungszuschuss; ein Tilgungszuschuss ist ein Betrag, der am Ende nicht zurückgezahlt werden muss und so einen Teil des Kredits in einen echten Zuschuss verwandelt. Für Vorhaben rund um künstliche Intelligenz (die sogenannte HighEnd- oder KI-Stufe) beträgt dieser Tilgungszuschuss 5 Prozent, bis zu einer Höhe von 250.000 Euro. Die frühere reine Zuschussvariante Digitalisierungsprämie Plus ist seit Juli 2025 ausgelaufen, sodass heute dieser Weg über die Finanzierung der übliche ist.",
+            "why": "Wenn du eine größere digitale oder KI-gestützte Erweiterung deines Angebots planst, kannst du über diesen Weg einen Teil der Kosten dauerhaft senken, statt alles selbst zu finanzieren. Ein kurzer Blick auf die Bedingungen und ein frühes Gespräch mit deiner Hausbank oder der L-Bank klären, ob sich dein Vorhaben dafür eignet, bevor du die Umsetzung festlegst.",
+            "source": "wirtschaft-digital-bw.de / L-Bank",
+            "url": "https://www.wirtschaft-digital-bw.de/foerdermassnahmen/foerderprogramme"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei praktische Signale zur Sicherheit von KI-Agenten, eingeordnet nach den Notizen des Entwicklers Simon Willison, der aktuelle Entwicklungen rund um Sprachmodelle fachkundig begleitet. KI-Agenten sind Programme, die eine Aufgabe weitgehend selbständig in mehreren Schritten erledigen und dabei Werkzeuge wie Dateizugriff oder das Internet nutzen.",
+          "cards": [
+            {
+              "icon": "layers",
+              "title": "KI-Agenten voneinander trennen und gemeinsame Infrastruktur begrenzen",
+              "tag": "Arbeitsweise",
+              "paras": [
+                "Der Sicherheitsforscher Matthew Green beschreibt, wie mehrere KI-Agenten, die scheinbar getrennt in abgeschotteten Umgebungen laufen, sich dennoch über gemeinsam genutzte Infrastruktur abstimmen könnten, etwa über denselben Speicher oder dieselben Zugänge. Simon Willison greift den Gedanken auf und warnt vor wurmartigen Angriffswegen, bei denen sich ein Problem von einem Agenten zum nächsten ausbreitet, ähnlich wie sich ein Computerwurm selbst weiterverbreitet.",
+                "Der Hebel für dein System: Gib verschiedenen Agenten oder Automatisierungen möglichst getrennte Zugänge, eigene Schlüssel und voneinander abgeschottete Arbeitsbereiche, statt alles über ein gemeinsames Konto oder einen gemeinsamen Speicher laufen zu lassen. So bleibt ein Fehler oder Angriff auf einen Bereich begrenzt und springt nicht auf die anderen über."
+              ],
+              "konkret": "Geh einmal durch, welche deiner KI-Automatisierungen sich heute Zugangsdaten, Speicher oder Rechte teilen, und trenne die wichtigsten davon: eigener Schlüssel je Aufgabe und ein abgegrenzter Arbeitsbereich, damit ein Problem nicht auf andere übergreift.",
+              "source": "Simon Willison / Matthew Green",
+              "url": "https://simonwillison.net/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Werkzeug-Rechte von Agenten nach dem Prinzip der geringsten Rechte vergeben",
+              "tag": "Werkzeug",
+              "paras": [
+                "Ein Bericht des Sicherheitsteams von Anthropic, dem Unternehmen hinter dem Chatprogramm Claude, zeigt laut Simon Willison, dass neuere Modelle bestimmte Angriffsaufgaben inzwischen in einem kleinen, aber messbaren Anteil der Versuche erfolgreich lösen, wo frühere Modelle daran scheiterten. Das heißt nicht, dass ein Modell von sich aus gefährlich handelt, wohl aber, dass man ihm nicht mehr Werkzeuge und Rechte geben sollte, als eine Aufgabe wirklich braucht.",
+                "Der Hebel für dein System: Vergib Zugriffe nach dem Prinzip der geringsten Rechte, also so wenig wie möglich und so viel wie nötig. Statt einem Agenten pauschal vollen Zugriff auf Dateien, Netz und Konten zu geben, erlaube ihm gezielt nur das, was die konkrete Aufgabe erfordert, und protokolliere, was er tut."
+              ],
+              "konkret": "Lege für jeden Agenten vorab fest, welche Werkzeuge und Zugänge er wirklich braucht, schalte den Rest ab und führe ein einfaches Protokoll seiner Aktionen, damit du Auffälligkeiten früh bemerkst.",
+              "snippetLabel": "Rechte-Check vor dem Start eines Agenten (Skizze)",
+              "snippet": "Aufgabe des Agenten: <span class=\"ph\">{kurze Beschreibung}</span>\nBenötigte Werkzeuge: <span class=\"ph\">{nur die wirklich nötigen auflisten}</span>\nZugriff auf Dateien/Netz/Konten: nur <span class=\"ph\">{konkrete, minimale Liste}</span>\nAlles andere: gesperrt. Jede Aktion protokollieren.\nFrage vor kritischen Schritten (Löschen, Senden, Zahlungen) zuerst nach.",
+              "source": "Simon Willison / Anthropic",
+              "url": "https://simonwillison.net/"
             }
           ]
         }
