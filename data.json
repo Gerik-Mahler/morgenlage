@@ -2,202 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Sonntag, 27. September 2026",
-   "kind": "weekly",
-   "sub": "Wochenrückblick",
-   "weather": "clouds",
-   "temp": "29°C · leicht bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zeigt sich dieser Sonntag nach den nebligen Vortagen freundlicher, bei leichter Bewölkung und mild-spätsommerlichen Höchstwerten um 29 Grad, ein ruhiger Abschluss der Woche. Die Woche lässt sich in drei Bewegungen lesen. Erstens die Weltbühne: In New York bestimmte die einwöchige Generaldebatte der Vereinten Nationen (der Zusammenschluss von 193 Staaten zur Sicherung von Frieden und Zusammenarbeit) das Geschehen, begleitet von einem Staatsbesuch des chinesischen Staatschefs in Washington, viel Diplomatie, aber wenig Verbindliches. Zweitens die Wirtschaft: Die Stimmung der deutschen Unternehmen hellte sich zum fünften Mal in Folge auf, während die Verbraucher wegen hoher Energiepreise vorsichtig blieben und die Inflation, also die allgemeine Teuerung, wieder anzog. Und drittens ein durchgehender roter Faden bei den Signalen für dein System: absichern und führen, also Abhängigkeiten festnageln, Agenten eng an die Leine nehmen und unabhängig von einem einzelnen Anbieter bleiben. Ganz unten findest du die gebündelten Systemanpassungen der Woche als einen kopierfertigen Text.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Eine Woche Generaldebatte der Vereinten Nationen in New York",
-       "text": "Die prägende Linie der Woche in der Außenpolitik war die Generaldebatte der 81. Sitzungsperiode der Generalversammlung der Vereinten Nationen (UN), des Zusammenschlusses von 193 Staaten zur Sicherung von Frieden und internationaler Zusammenarbeit. Sie lief vom 22. bis 28. September unter dem Leitwort „Vertrauen wiederherstellen, Wandel gestalten“; in ihr treten die Staats- und Regierungschefs nacheinander ans Rednerpult und legen ihre Sicht auf die Weltlage dar. Im Mittelpunkt standen die anhaltenden Konflikte in der Ukraine und im Nahen Osten, die Lage der Weltwirtschaft und der Umgang mit Künstlicher Intelligenz, also lernfähiger Software. Deutschland wurde am Abschlusstag nicht von Bundeskanzler Friedrich Merz vertreten, der seine Reise absagte, sondern von Außenminister Johann Wadephul. Die Einordnung bleibt nüchtern: Die Woche gilt als wichtigste diplomatische Bühne des Jahres, verbindliche Beschlüsse gehen aus den Reden aber in aller Regel nicht hervor.",
-       "img": "https://live.staticflickr.com/1109/3167732957_d8fa60d563_b.jpg",
-       "source": "UN News / Deutsche Gesellschaft für die Vereinten Nationen",
-       "url": "https://news.un.org/en/story/2026/09/1168344"
-      },
-      {
-       "title": "Xi Jinping in Washington, Zollpause verlängert, Ringen um das iranische Atomprogramm",
-       "text": "Parallel zur UN-Woche bestimmte ein dreitägiger Staatsbesuch des chinesischen Staats- und Parteichefs Xi Jinping in der US-Hauptstadt Washington die Nebenlinie. Im Mittelpunkt standen der Zoll- und Handelsstreit zwischen den beiden größten Volkswirtschaften der Welt sowie Fragen der Sicherheit bei Künstlicher Intelligenz; begleitend kündigten die USA an, zusätzliche Zölle, also staatliche Abgaben auf eingeführte Waren, um zwei Monate bis Januar aufzuschieben. Zum Wochenende wies US-Präsident Donald Trump laut der US-Wirtschaftszeitung Wall Street Journal einen von Teheran vorgeschlagenen Sieben-Tage-Plan zum iranischen Atomprogramm zurück, also einen Vorschlag, binnen einer Woche vertrauensbildende Schritte umzusetzen. Die Einordnung: Persönliche Treffen und aufgeschobene Zölle verschaffen der Weltwirtschaft eine Atempause, die grundlegenden Interessengegensätze bleiben jedoch bestehen.",
-       "source": "news.de / Wall Street Journal",
-       "url": "https://www.zdfheute.de/politik/ausland"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "ifo-Geschäftsklima steigt zum fünften Mal in Folge, höchster Stand seit über drei Jahren",
-       "text": "Die wirtschaftliche Leitmeldung der Woche kam am Mittwoch: Das ifo-Geschäftsklima, das wichtigste deutsche Konjunkturbarometer, stieg im September um 1,1 Punkte auf 89,9 Punkte, nach 88,8 Punkten im August. Berechnet wird es vom ifo-Institut in München, einem wirtschaftswissenschaftlichen Forschungsinstitut, das dafür monatlich rund 9.000 Unternehmen zu ihrer Lage und ihren Erwartungen befragt. Es war der fünfte Anstieg in Folge und der höchste Wert seit mehr als drei Jahren; sowohl die aktuelle Lage als auch die Erwartungen verbesserten sich, getragen vor allem von Industrie und Dienstleistern. Passend dazu hob das ifo-Institut seine Wachstumsprognose für 2026 auf 1,4 Prozent an. Für dich als Solo-Unternehmer heißt das: Die Nachfrage aus der Wirtschaft dürfte sich festigen.",
-       "img": "https://live.staticflickr.com/4130/4964794823_ca5ac0fb6f.jpg",
-       "source": "ifo-Institut",
-       "url": "https://www.ifo.de/en/facts/2026-09-24/ifo-business-climate-rises-september-2026"
-      },
-      {
-       "title": "Das Gegenbild: vorsichtige Verbraucher und wieder steigende Inflation",
-       "text": "Die zweite Bewegung der Woche war das Gegenbild zur Unternehmens-Zuversicht. Das GfK-Konsumklima, ein Stimmungsmesser der Konsumforscher der GfK gemeinsam mit dem Nürnberg Institut für Marktentscheidungen (NIM), fiel für Oktober auf minus 30,6 Punkte, belastet vor allem durch hohe Energiepreise, die die Verbraucher zum Sparen bewegen. Zugleich rechnen Volkswirte der US-Investmentbank Morgan Stanley mit einer wieder anziehenden Inflation im Euroraum von rund 3,7 Prozent, nach 3,2 Prozent im August. Die Europäische Zentralbank (EZB), die gemeinsame Notenbank der Länder mit dem Euro, hatte ihren Leitzins am 10. September wegen der erhöhten Teuerung angehoben und dürfte nun eine längere Pause auf diesem hohen Niveau einlegen. Die Einordnung: Der Aufschwung ruht auf Industrie und Export, während teure Energie die Kauflaune der Haushalte dämpft.",
-       "source": "GfK / NIM / Morgan Stanley",
-       "url": "https://www.nim.org/en/consumer-climate"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die kommenden Wochen: Die Unternehmensstimmung zeigt nach oben, die Teuerung aber ebenfalls. Wer Angebote kalkuliert oder Anschaffungen plant, sollte mit festigender Nachfrage aus der Wirtschaft rechnen, im Privatkundengeschäft aber die gedämpfte Kauflaune und steigende Energie- und Vorproduktkosten einkalkulieren.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Langer Atem zahlt sich aus: Chile ohne Tollwut, Kosovo ohne Landminen",
-       "text": "Zwei Nachrichten der Woche erzählen dieselbe Geschichte von Beharrlichkeit. Chile ist nach Angaben der Weltgesundheitsorganisation (WHO), der für Gesundheit zuständigen Sonderorganisation der Vereinten Nationen, das erste Land Südamerikas, das die von Hunden auf Menschen übertragene Tollwut ausgerottet hat, eine fast immer tödliche Viruserkrankung; möglich wurde das durch mehr als fünf Jahrzehnte konsequenter Impf- und Überwachungskampagnen. Und die Minenräum-Organisation Halo Trust meldete, dass der Kosovo 27 Jahre nach dem Krieg von Landminen geräumt ist, also von im Boden versteckten Sprengkörpern, die noch lange nach Kampfhandlungen Menschen töten. Die Botschaft: Selbst hartnäckige Geißeln lassen sich mit Ausdauer und verlässlichen Programmen Stück für Stück beseitigen.",
-       "img": "https://live.staticflickr.com/5077/5871291997_94d00f4084_b.jpg",
-       "source": "Positive News / WHO / Halo Trust",
-       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
-      },
-      {
-       "title": "Studie benennt 51 sofort einsetzbare Lösungen für den Umweltschutz",
-       "text": "Ein ermutigendes Signal aus der Wissenschaft, das sich über die Woche zog: Eine Untersuchung des Earthshot Prize, einer internationalen Umweltauszeichnung, gemeinsam mit der Universität Exeter in Großbritannien benennt 51 bereits verfügbare Lösungen, die den Schutz des Planeten binnen fünf Jahren spürbar voranbringen könnten. Die Fachleute stützen sich auf das Konzept der positiven Kipppunkte, also Schwellen, ab denen sich eine gute Entwicklung von selbst verstärkt und immer schneller ausbreitet, ähnlich wie sich eine gute Gewohnheit festigt. Viele der Ansätze, von sauberer Energie bis zum Schutz der Meere, wurden andernorts bereits erprobt und müssten nur breiter angewendet werden. Die Botschaft: Fortschritt im Umweltschutz muss nicht mühsam bleiben, sondern kann am richtigen Ansatzpunkt eine Eigendynamik entfalten.",
-       "img": "https://s0.geograph.org.uk/geophotos/03/67/04/3670419_e4ae6e5a.jpg",
-       "source": "Positive News / Earthshot Prize",
-       "url": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Eine Woche der Quantenphysik: von der Schwerkraft bis zum Schall",
-       "text": "In der Grundlagenforschung war die Quantenphysik das wiederkehrende Thema der Woche, also jener Zweig der Physik, der das Verhalten allerkleinster Teilchen beschreibt. Forschende berichteten, erstmals einen lange vorhergesagten Quanteneffekt der Schwerkraft direkt beobachtet zu haben, ein seltener experimenteller Anhaltspunkt in einer der größten offenen Fragen der Wissenschaft, nämlich der Vereinigung von Quantenwelt und Schwerkraft. Wenige Tage später beobachteten Forschende der Universität Stanford in den USA nach eigenen Angaben erstmals in Echtzeit einzelne Quantensprünge des Schalls, also winzige, sprunghafte Energieänderungen von Phononen, den kleinstmöglichen Energiepaketen einer Schallschwingung. Die Einordnung: Beides ist Grundlagenforschung ohne unmittelbaren Alltagsnutzen, könnte aber langfristig helfen, Quantencomputer, also neuartige Rechner nach den Regeln der Quantenwelt, weniger fehleranfällig zu machen.",
-       "img": "https://live.staticflickr.com/4068/4269753734_caa148f2ca_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/"
-      },
-      {
-       "title": "Stammzellen lassen im Tierversuch geschädigtes Hirngewebe nachwachsen",
-       "text": "Der hoffnungsvollste Fund aus der Medizinforschung der Woche: Wissenschaftler haben nach eigenen Angaben mit Stammzell-Transplantationen bei Mäusen Hirngewebe regeneriert, das durch einen Schlaganfall geschädigt worden war. Stammzellen sind unspezialisierte Körperzellen, die sich noch in verschiedene Zelltypen verwandeln können, hier in neue Nervenzellen. In den Versuchstieren bildeten sich daraufhin neue Neuronen, und verlorene Bewegungsfunktionen kehrten teilweise zurück. Die Einordnung: Es handelt sich zunächst um einen Erfolg im Tiermodell; bis daraus eine Behandlung für Menschen werden kann, sind noch umfangreiche Studien nötig, doch die Richtung ist ermutigend.",
-       "img": "https://live.staticflickr.com/7462/16018799427_4abbbc3602.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Neblige Herbstwoche im Neckartal, freundlicher Ausklang und geselliger Oktober-Ausblick",
-       "text": "In Horb am Neckar stand die Woche im Zeichen eines beständigen Wettermusters: Über dem Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt, hielt sich Tag für Tag zäher Früh- und Talnebel, der sich meist erst im Lauf des Vormittags lichtete, bei milden Nachmittagen. Dieser Sonntag fällt mit leichter Bewölkung und Höchstwerten um 29 Grad freundlicher und wärmer aus, ein guter Rahmen für einen Spaziergang am Neckar oder durch die historische Altstadt mit ihren Fachwerkhäusern. Der Veranstaltungskalender war unter der Woche ruhig; als geselliger Ausblick lohnen die Oktober-Termine im Gasthof Adler im Stadtteil Dettingen: ein Kriminal-Dinner (ein interaktiver Theaterabend mit mehrgängigem Menü und einem erfundenen Kriminalfall) am 16. Oktober und die Comedy-Premiere „Jetzt isst er sogar Brokkoli“ der Kabarettistin Doris Reichenauer am 22. Oktober, dazu ein Gastspiel des bundesweit bekannten Komikers Bülent Ceylan am 18. Oktober.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-       "source": "meinestadt.de / open-meteo",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Eine Woche zeigt sich selten in einem großen Ereignis, sondern in ihren wiederkehrenden Linien; wer sie ruhig nebeneinanderlegt, erkennt den Weg, den die Dinge nehmen."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Geförderte Weiterbildung und Digitalisierung: KOMPASS, BAFA und die L-Bank",
-      "text": "Die Woche brachte mehrere Förder-Gelegenheiten für Ein-Personen-Unternehmen zusammen; die naheliegendste bleibt KOMPASS, kurz für Kompetenzentwicklung über Plattformen für Solo-Selbstständige, ein Bundesprogramm, das rund 90 Prozent der Kosten einer Weiterbildung bis zu 4.500 Euro im Jahr erstattet, ausdrücklich auch für Kurse zu Künstlicher Intelligenz, also lernfähiger Software. Wichtig ist die Eile: Die Ausgabe der dafür nötigen Qualifizierungs-Schecks ist bundesweit begrenzt und läuft nach jetzigem Stand nur noch bis voraussichtlich Oktober 2026. Ergänzend im Blick behalten: die BAFA-Beratungsförderung des Bundesamts für Wirtschaft und Ausfuhrkontrolle für externe Beratung (Antrag vor Beratungsbeginn stellen) sowie die Digitalisierungsprämie Plus des Landes Baden-Württemberg über die Förderbank L-Bank für größere Digitalisierungsvorhaben.",
-      "why": "Für ein Ein-Personen-Unternehmen ist das ein günstiger Weg, gezielt KI- und Automatisierungswissen aufzubauen, ohne die Kosten allein zu tragen. Wer jetzt einen kleinen Fahrplan für sein System hat (siehe Systemanpassungen unten), kann eine geförderte Weiterbildung genau darauf zuschneiden. Ehrlicher Vorbehalt: Die KOMPASS-Kontingente sind knapp und laufen bald aus, gefördert wird die Weiterbildung selbst, nicht der Kauf von Werkzeugen. Fristen und freie Plätze rechtzeitig direkt bei der offiziellen Stelle prüfen.",
-      "source": "KOMPASS-Förderung / BAFA / L-Bank",
-      "url": "https://www.kompass-foerderung.de"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Statt vieler Einzeltipps diese Woche eine größere, strategische Empfehlung, in der die technischen Signale der Woche zusammenlaufen.",
-     "cards": [
-      {
-       "icon": "gauge",
-       "title": "Gib deinem Ein-Personen-System feste Leitplanken in einer AGENTS.md",
-       "tag": "Strategie",
-       "paras": [
-        "Die technischen Signale dieser Woche, überwiegend aus den Notizen des Entwicklers Simon Willison, ergeben ein gemeinsames Muster: Ein Schwarm autonomer KI-Agenten schleuste über zweitausend schädliche Pakete in die Paketquelle RubyGems (den zentralen Fundus fertiger Programmbausteine für die Sprache Ruby); frei laufende Coding-Agenten, also KI-Assistenten, die selbstständig Code schreiben und ausführen, machen die Arbeit laut Willison eher schwerer als leichter; und ein neuer Preiskampf der Anbieter belohnt jene, die schnell das Modell wechseln können. Wo die vergangene Woche unter dem Wort „messen“ stand, steht diese unter „absichern und führen“.",
-        "Die strategische Empfehlung ist deshalb, all das an einer einzigen festen Stelle zu verankern: einer AGENTS.md im Wurzelverzeichnis deiner wichtigsten Projekte. Das ist eine schlichte, auch von anderen Werkzeugen lesbare Textdatei, in der du deinem Assistenten verbindliche Projektregeln mitgibst. Schreibe dort die Leitplanken der Woche hinein: Abhängigkeiten nur mit fester Version und Sperrdatei; neue Pakete erst nach kurzer Prüfung; ein Agent mit Netz- oder Kommandozeilenzugriff erreicht nur ausdrücklich erlaubte Adressen (eine Allowlist) und führt keinen aus dem Netz geladenen Code ohne deine Freigabe aus; Änderungen kommen in kleinen Schritten und werden als vollständiger Diff geprüft, bevor du sie übernimmst.",
-        "Der Aufwand ist gering, der Hebel groß: Aus lauter Einzelratschlägen wird eine feste, an einer Stelle gepflegte Regel, die dein Ein-Personen-System belastbar hält, gerade weil niemand sonst gegenliest. Und weil die Datei herstellerübergreifend gelesen wird, gelten die Regeln auch dann weiter, wenn du im Preiskampf das Modell oder das Werkzeug wechselst."
-       ],
-       "konkret": "Lege im Wurzelverzeichnis deiner wichtigsten Projekte eine Datei AGENTS.md an und trage die Leitplanken der Woche verbindlich ein: feste Versionen mit Sperrdatei, Paketprüfung vor Nutzung, eine Allowlist für Netzzugriffe, ein Freigabe-Gate vor dem Ausführen fremden Codes und die Diff-Prüfung in kleinen Schritten. Prüfe danach in einer Sitzung, ob der Assistent sich daran hält.",
-       "snippetLabel": "Gerüst für eine AGENTS.md mit den Leitplanken der Woche",
-       "snippet": "# Projektregeln fuer Coding-Agenten\n\n## Abhaengigkeiten\n- Nur mit fester Version und Sperrdatei (lockfile) arbeiten.\n- Neue oder aktualisierte Pakete <span class=\"ph\">{Paketname}</span> vor der Nutzung kurz pruefen.\n- Keine unbekannten Pakete ohne Rueckfrage hinzufuegen.\n\n## Netz & Ausfuehrung\n- HTTP-Anfragen nur an erlaubte Domains: <span class=\"ph\">{erlaubte Domains}</span>.\n- Vor dem Ausfuehren aus dem Netz geladenen Codes anhalten und Freigabe abwarten.\n\n## Arbeitsweise\n- In kleinen Schritten arbeiten, nach jedem Schritt den vollstaendigen Diff zeigen.\n- Bei Unsicherheit oder Verlassen des erlaubten Bereichs abbrechen und nachfragen.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/24/harder/"
-      }
-     ]
-    },
-    {
-     "type": "systemtips",
-     "eyebrow": "Systemanpassungen der Woche",
-     "intro": "Alle konkreten System- und Prompt-Tipps dieser Woche, gebündelt und in eine sinnvolle Reihenfolge gebracht. Der Text ganz unten ist so gefasst, dass du ihn in einem Schritt in dein System übernehmen kannst.",
-     "items": [
-      {
-       "title": "Leitplanken in einer AGENTS.md verankern",
-       "text": "Lege im Wurzelverzeichnis deiner wichtigsten Projekte eine AGENTS.md an, eine herstellerübergreifend lesbare Textdatei mit verbindlichen Projektregeln. Dort bündelst du die Regeln der Woche an einer festen Stelle, statt sie in jeder Sitzung neu zu tippen."
-      },
-      {
-       "title": "Abhängigkeiten festnageln und neue Pakete vor der Nutzung prüfen",
-       "text": "Nutze für jedes Projekt feste Versionen und eine Sperrdatei (englisch lockfile) und sichere Pakete per Prüfsumme ab, damit sich nichts unbemerkt ändert. Der RubyGems-Vorfall der Woche zeigt: Manipulierte Fremdkomponenten sind ein reales Einfallstor, gerade im Alleinbetrieb ohne Gegenleser."
-      },
-      {
-       "title": "Agenten mit Netzzugriff auf eine Allowlist beschränken",
-       "text": "Ein Coding-Agent mit Netz- oder Kommandozeilenzugriff darf nur ausdrücklich erlaubte Adressen erreichen und keinen aus dem Netz geladenen Code ohne Freigabe ausführen. So verhinderst du, dass ein Agent unbeabsichtigt fremde Dienste stört oder Schadcode einzieht."
-      },
-      {
-       "title": "Coding-Agenten führen statt frei laufen lassen",
-       "text": "Behandle den Agenten wie einen sehr schnellen, aber unerfahrenen Zuarbeiter: klarer schriftlicher Auftrag mit Ziel, erlaubtem Bereich und Abbruchbedingungen, Arbeit in kleinen Schritten und Prüfung jedes vollständigen Diffs, bevor du ihn übernimmst."
-      },
-      {
-       "title": "Für lange, mehrstufige Aufgaben bewusst ein stärkeres Modell wählen",
-       "text": "Ordne jeder Aufgabenart ein passendes Modell zu: ein sparsames für kurze Routine, ein leistungsfähigeres für lange, mehrstufige Vorhaben, bei denen der Faden über viele Schritte halten muss. Das senkt Kosten, ohne bei anspruchsvollen Aufgaben Qualität zu verlieren."
-      },
-      {
-       "title": "Anbieterunabhängig bleiben, um vom Preiskampf zu profitieren",
-       "text": "Lege über ein Werkzeug wie llm eine einheitliche Schnittstelle über alle Anbieter und setze sprechende Modell-Aliase, sodass ein Wechsel nur eine Konfigurationszeile ist. Vor jedem Umstieg an einer kleinen Stichprobe echter Aufgaben Qualität und Kosten vergleichen."
-      },
-      {
-       "title": "Robustheit: gegen Vorabversionen testen und Werkzeug-Rückgaben benennen",
-       "text": "Nimm in deine automatische Prüfung (Continuous Integration, CI) einen Durchlauf gegen Vorabversionen (Release Candidates) deiner wichtigsten Sprache auf, damit Unverträglichkeiten früh auffallen. Gib Werkzeug- und MCP-Ergebnisse als benannte Objekte mit Feldnamen zurück, nicht als positionsabhängige Wertereihen, dann verarbeiten Modelle sie zuverlässiger."
-      },
-      {
-       "title": "Öffentliche Dienste gegen Bot-Last absichern",
-       "text": "Betreibst du eigene, öffentlich erreichbare Werkzeuge, richte eine Zugriffsbegrenzung pro Adresse (Rate-Limiting) ein und filtere offensichtliche Crawler heraus. Das hält den Dienst für echte Nutzer schnell und schützt vor überraschend hohen Serverkosten."
-      }
-     ],
-     "copytext": "MORGENLAGE Systemanpassungen der Woche (27. September 2026)\n\nMotto der Woche: absichern und fuehren. Trage die folgenden Regeln einmal fest in dein System ein.\n\n1. Leitplanken in einer AGENTS.md verankern (die strategische Anpassung der Woche). Lege im Wurzelverzeichnis deiner wichtigsten Projekte eine Datei AGENTS.md an und trage hinein:\n\n# Projektregeln fuer Coding-Agenten\n## Abhaengigkeiten\n- Nur mit fester Version und Sperrdatei (lockfile) arbeiten.\n- Neue oder aktualisierte Pakete vor der Nutzung kurz pruefen.\n- Keine unbekannten Pakete ohne Rueckfrage hinzufuegen.\n## Netz & Ausfuehrung\n- HTTP-Anfragen nur an erlaubte Domains: {erlaubte Domains}.\n- Vor dem Ausfuehren aus dem Netz geladenen Codes anhalten und Freigabe abwarten.\n## Arbeitsweise\n- In kleinen Schritten arbeiten, nach jedem Schritt den vollstaendigen Diff zeigen.\n- Bei Unsicherheit oder Verlassen des erlaubten Bereichs abbrechen und nachfragen.\n\n2. Abhaengigkeiten festnageln. Feste Versionen und Sperrdatei je Projekt, per Pruefsumme absichern:\n- npm: package-lock.json mit einchecken.\n- pip: mit --require-hashes arbeiten.\nNeue Pakete vor der Nutzung kurz pruefen, nicht blind die neueste Version ziehen.\n\n3. API-Schluessel nicht im Klartext in Sitzungen tippen. Schluessel gezielt abrufen statt offen im Verlauf zu zeigen:\nexport {DIENST}_API_KEY=\"$(llm keys get {dienst})\"\n\n4. Coding-Agenten fuehren. Vorspann fuer jeden Auftrag:\nZiel dieser Aufgabe: {ein Satz}.\nDu aenderst ausschliesslich: {erlaubter Bereich}. Alles andere bleibt unangetastet.\nArbeite in kleinen Schritten. Nach jedem Schritt anhalten, vollstaendigen Diff zeigen, auf Freigabe warten.\nBei Unsicherheit oder Verlassen des Bereichs abbrechen und nachfragen.\n\n5. Modelle bewusst waehlen. Sparsames Modell fuer kurze Routine, staerkeres Modell fuer lange, mehrstufige Vorhaben. Ein neues Modell erst an einer eigenen Testaufgabe messen, bevor du den Standard umstellst.\n\n6. Anbieterunabhaengig bleiben. Einheitliche Schnittstelle ueber llm, sprechende Aliase setzen, Wechsel = eine Konfigurationszeile:\npip install -U llm\nllm models\nllm aliases set arbeitspferd {leistungsstarkes Modell}\nllm aliases set guenstig {guenstiges Modell}\nVor dem Umstieg Qualitaet und Kosten an typischen Aufgaben vergleichen (llm logs -n 2).\n\n7. Robustheit in der CI. Gegen Vorabversionen testen, Beispiel GitHub Actions:\n- uses: actions/setup-python@v5\n  with:\n    python-version: \"{z. B. 3.15}\"\n    allow-prereleases: true\nWerkzeug- und MCP-Rueckgaben als benannte Objekte liefern:\n// statt: [[\"Apfel\", 2], [\"Birne\", 3]]\n// besser: [{ \"name\": \"Apfel\", \"preis\": 2 }, { \"name\": \"Birne\", \"preis\": 3 }]\n\n8. Oeffentliche Dienste absichern. Zugriffsbegrenzung pro Adresse im Webserver (Beispiel nginx):\nlimit_req_zone $binary_remote_addr zone=web:10m rate={10}r/s;\nserver { location / { limit_req zone=web burst=20 nodelay; } }"
-    },
-    {
-     "type": "thought",
-     "text": "Ein gutes System entsteht nicht aus vielen guten Vorsätzen, sondern aus wenigen festen Regeln, die auch dann tragen, wenn niemand hinsieht."
-    }
-   ]
-  },
-  {
    "label": "Montag, 28. September 2026",
    "weather": "clouds",
    "temp": "30°C · bewölkt",
@@ -802,7 +606,6 @@
    "weather": "rain",
    "temp": "20°C · Regen",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt es auch heute wechselhaft und nass, mit Regenschauern und Höchstwerten um 20 Grad, ein ruhiger Herbsttag im Neckartal. In der Welt verschärft sich die Lage im Nahen Osten, und die Europäische Union sucht wegen knapper Dieselvorräte nach einem gemeinsamen Weg. Aus der Wirtschaft kommt die erfreuliche Nachricht einer angehobenen Wachstumsprognose für Deutschland, während Lichtblick und Forschung von einem neuen Meeresschutzgebiet in Norwegen und einem ungewöhnlichen Blick auf den Planeten Saturn berichten. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System, heute mit dem Schwerpunkt Sicherheit von KI-Agenten.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -954,7 +757,6 @@
    "weather": "rain",
    "temp": "21°C · Regenschauer",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt der Herbst wechselhaft, mit Regenschauern und Höchstwerten um 21 Grad, ein guter Tag für Arbeit im Trockenen. In der Welt reiste Bundeskanzler Friedrich Merz zur Unterstützung in die ukrainische Hauptstadt Kiew, während in Brasilien die Stichwahl um das Präsidentenamt bevorsteht. Aus der Wirtschaft kommen gemischte, aber eher zuversichtliche Signale für Deutschland, und Lichtblick und Forschung berichten von einem erfolgreichen Wildtierkorridor in Tansania und einem neuen Blick ins All durch ein modernes Weltraumteleskop. Ganz unten findest du wie immer eine passende Gelegenheit, heute eine Förderung für Weiterbildung, und zwei umsetzbare Signale für dein System, mit dem Schwerpunkt Kostenkontrolle bei KI-Agenten.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1096,6 +898,158 @@
        "snippet": "Lauf: <span class=\"ph\">{Datum und Uhrzeit}</span>\nAufgabe: <span class=\"ph\">{kurze Beschreibung}</span>\nAufrufe an das Modell: <span class=\"ph\">{Anzahl}</span>\nGeschätzte Kosten: <span class=\"ph\">{Betrag}</span>\nWarnschwelle erreicht? Wenn ja, melden und Lauf prüfen.",
        "source": "Simon Willison",
        "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Dienstag, 6. Oktober 2026",
+   "weather": "clouds",
+   "temp": "23°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Morgen Nebel, bei milden Höchstwerten um 23 Grad, ein ruhiger, grauer Herbsttag im Neckartal. In der Welt tritt in Magdeburg der neu gewählte Landtag von Sachsen-Anhalt erstmals zusammen, und die Vereinigten Staaten verlegen aus Sorge vor einer iranischen Bedrohung Bomber aus Großbritannien ab. Aus der Wirtschaft kommen ruhige Signale: Die Europäische Zentralbank hält die Zinsen stabil, und Deutschland findet allmählich zurück auf den Wachstumspfad. Lichtblick und Forschung berichten von neuen Wildtierquerungen für Berglöwen in Kalifornien und von einem Material, das Wasserstoff aus Wasser ohne teures Edelmetall gewinnt. Ganz unten findest du wie immer eine passende Gelegenheit, heute das kostenlose Angebot der Mittelstand-Digital Zentren, und zwei umsetzbare Signale für dein System, mit dem Schwerpunkt verlässliches Arbeiten mit KI-Programmierassistenten.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Neu gewählter Landtag von Sachsen-Anhalt tritt erstmals zusammen",
+       "text": "In Magdeburg, der Landeshauptstadt des ostdeutschen Bundeslandes Sachsen-Anhalt, kommt heute der neu gewählte Landtag zu seiner ersten Sitzung zusammen; ein Landtag ist das Parlament eines Bundeslandes. Stärkste Kraft der Wahl wurde die AfD, die Partei Alternative für Deutschland, mit knapp 44 Prozent der Stimmen; sie schlägt ihren Kandidaten Tobias Rausch für das Amt des Landtagspräsidenten vor, der die Sitzungen leitet und das Parlament nach außen vertritt. Die übrigen Fraktionen, also die Zusammenschlüsse der Abgeordneten einer Partei im Parlament, müssen nun klären, ob sie diesen Vorschlag mittragen. Die Einordnung bleibt nüchtern: Die erste Sitzung ist zunächst ein formaler Schritt, doch die Mehrheitsverhältnisse im neuen Landtag entscheiden darüber, wie das Land in den kommenden Jahren regiert wird.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860059924/6-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "USA verlegen Langstreckenbomber aus Großbritannien ab",
+       "text": "Die Vereinigten Staaten haben nach Berichten US-amerikanischer Medien mehrere Langstreckenbomber, also Kampfflugzeuge mit sehr großer Reichweite, von einem Militärstützpunkt in Großbritannien abgezogen. Als Grund werden Sorgen vor einem möglichen Angriff durch die Revolutionsgarden des Iran genannt, einer mächtigen eigenständigen Streitkraft der iranischen Führung. Die Angaben stammen aus dem Umfeld des US-Militärs und ließen sich zunächst nicht unabhängig überprüfen, weshalb die Einordnung vorsichtig bleibt. Für Europa ist die Entwicklung von Bedeutung, weil sie zeigt, dass die Spannungen im Nahen Osten weiter nachwirken und die Sicherheitslage dort fragil bleibt.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860059924/6-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "EZB hält die Leitzinsen, deutsche Wirtschaft findet zurück auf den Wachstumspfad",
+       "text": "Die Europäische Zentralbank, kurz EZB, die für den Euro-Währungsraum die Geldpolitik bestimmt, hat ihre Leitzinsen zuletzt unverändert gelassen; der zentrale Einlagensatz, zu dem Banken überschüssiges Geld bei ihr parken, liegt bei 2,50 Prozent. Leitzinsen sind die wichtigsten Zinssätze einer Zentralbank und beeinflussen, wie teuer Kredite und wie attraktiv Ersparnisse sind. Für Deutschland rechnen Forschungsinstitute wie das DIW, das Deutsche Institut für Wirtschaftsforschung in Berlin, für dieses Jahr mit einem Wachstum der Wirtschaftsleistung von rund 1,0 Prozent, private Banken sogar mit bis zu 1,4 Prozent. Zugleich trübte sich die Stimmung der Anleger zuletzt leicht ein: Der Sentix-Konjunkturindex, eine regelmäßige Umfrage unter Investoren, fiel für Deutschland auf minus 3,6 Punkte. Heute stehen zudem neue Zahlen zu den Auftragseingängen der deutschen Industrie an, die zeigen, wie gut die Nachfrage nach deutschen Waren läuft.",
+       "source": "DIW / Bankenverband / Sentix",
+       "url": "https://bankenverband.de/konjunktur/deutsche-wirtschaft-loest-sich-2026-aus-langjaehriger-schwaechephase"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Stabile Zinsen und ein vorsichtig wachsendes Umfeld sprechen dafür, mittelfristige Vorhaben ruhig weiterzuverfolgen, ohne auf größere Zinssenkungen zu spekulieren. Behalte die Auftragslage deiner Branche im Blick, denn sie ist oft ein früher Hinweis darauf, wann die Nachfrage wieder anzieht.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Kalifornien plant neue Wildtierquerungen für Berglöwen bei Joshua Tree",
+       "text": "Im US-Bundesstaat Kalifornien sind zwei neue Wildtierquerungen für Berglöwen in der Nähe des Joshua-Tree-Nationalparks geplant, eines großen Wüstenschutzgebiets im Südwesten der USA. Eine Wildtierquerung ist ein eigens gebauter Übergang über oder unter einer Straße, der Tieren erlaubt, stark befahrene Verkehrswege gefahrlos zu überqueren. Berglöwen, auch Pumas genannt, sind große Raubkatzen, deren Lebensräume durch Straßen oft zerschnitten werden, sodass einzelne Bestände voneinander getrennt werden. Fachleute vermessen derzeit das Gelände, um die beste Lage für die Übergänge zu bestimmen. Die Botschaft ist zuversichtlich: Solche Bauwerke senken nachweislich die Zahl der Unfälle und helfen, voneinander getrennte Tierbestände wieder miteinander zu verbinden.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/US93_-_Wildlife_crossing_bridge.JPG",
+       "source": "Good Good Good",
+       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-3-2026"
+      },
+      {
+       "title": "Bulgarien baut Batteriespeicher in nur zwei Jahren massiv aus",
+       "text": "Das südosteuropäische Land Bulgarien hat seine Kapazität für Batteriespeicher in weniger als zwei Jahren von praktisch null auf fast ein Viertel der gesamten installierten Stromleistung des Landes gesteigert. Batteriespeicher sind große Anlagen, die Strom aufnehmen, wenn viel davon erzeugt wird, und ihn wieder abgeben, wenn die Nachfrage steigt. Sie gelten als ein wichtiger Baustein, um schwankenden Strom aus Sonne und Wind nutzbar zu machen, weil dieser nicht immer dann anfällt, wenn er gebraucht wird. Die Einordnung: Dass ein vergleichsweise kleines Land einen solchen Sprung schafft, zeigt, wie schnell sich der Umbau der Stromversorgung inzwischen umsetzen lässt.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Lichtaktives Material gewinnt Wasserstoff aus Wasser ohne teures Edelmetall",
+       "text": "Forschende haben ein neues, lichtaktives Material vorgestellt, das Wasserstoff aus Wasser gewinnen kann, ohne dass dafür ein zusätzlicher, teurer metallischer Katalysator nötig ist. Ein Katalysator ist ein Stoff, der eine chemische Reaktion beschleunigt, ohne sich dabei selbst zu verbrauchen; bisher kamen dafür oft seltene und kostspielige Edelmetalle zum Einsatz. Das neue Material nutzt stattdessen eine ungewöhnliche, auf dem Element Schwefel beruhende Chemie, die nach Angaben der Forschenden den Weg zu günstigerem Wasserstoff weisen könnte. Wasserstoff gilt als sauberer Energieträger, weil bei seiner Nutzung vor allem Wasser statt klimaschädlicher Abgase entsteht. Die Einordnung: Wird die Herstellung billiger, rückt Wasserstoff als Speicher für Sonnenenergie ein Stück näher an den breiten Einsatz.",
+       "img": "https://live.staticflickr.com/4014/4440831786_97da7e7aab_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm"
+      },
+      {
+       "title": "NASA untersucht mit dem Projekt GIMLI eine mögliche Höhle auf dem Mond",
+       "text": "Die US-Raumfahrtbehörde NASA hat ein Forschungsvorhaben mit dem Namen GIMLI ausgewählt, das untersuchen soll, ob sich hinter einer Grube in der Mondregion Marius Hills ein großer unterirdischer Hohlraum verbirgt. Gemeint ist ein sogenannter Lavatunnel, eine röhrenförmige Höhle, die entsteht, wenn die Oberfläche eines Lavastroms erstarrt, während das flüssige Gestein darunter weiterfließt und schließlich abläuft. Solche Hohlräume sind für die Raumfahrt besonders interessant, weil sie künftigen Mondmissionen natürlichen Schutz vor Strahlung, Meteoriteneinschlägen und starken Temperaturschwankungen bieten könnten. Die Einordnung: Noch ist offen, wie groß die Höhle wirklich ist; das Projekt soll genau das mit neuen Messverfahren klären.",
+       "source": "ScienceDaily / NASA",
+       "url": "https://www.sciencedaily.com/news/space_time/space_exploration/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Nebliger Herbstmorgen im Neckartal, Lange Nacht der Lichter am 9. Oktober",
+       "text": "In Horb am Neckar beginnt der Tag neblig, bei milden Höchstwerten um 23 Grad, ein ruhiger Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer früh unterwegs ist, sollte mit eingeschränkter Sicht rechnen, während sich der Nebel im Lauf des Vormittags meist auflöst. Für den Blick voraus lohnt sich der Abend des 9. Oktober: Dann verwandelt die Lange Nacht der Lichter die Innenstadt in eine beleuchtete Einkaufs- und Kulturnacht, begleitet von einem Nacht-Flohmarkt in der Dammstraße. Wer lieber lacht, kann sich den 18. Oktober vormerken, wenn der Kabarettist Bülent Ceylan mit seinem Programm in der Hohenberghalle am Neckar auftritt; ein Kabarettist ist ein Künstler, der mit humorvollen, oft gesellschaftskritischen Bühnenprogrammen unterhält.",
+       "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
+       "source": "veranstaltung-baden-wuerttemberg.de / open-meteo",
+       "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein nebliger Morgen verbirgt die Ferne und lenkt den Blick auf das Nächstliegende, auf das, was heute wirklich vor dir liegt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Mittelstand-Digital Zentren: kostenlose Workshops und Beratung zu Digitalisierung und KI",
+      "text": "Die Mittelstand-Digital Zentren sind ein bundesweites Netz von rund 30 regionalen Anlaufstellen, das vom Bundesministerium für Wirtschaft getragen wird und kleine Unternehmen sowie Solo-Selbstständige, also Einzelunternehmer ohne Angestellte, kostenlos bei der Digitalisierung unterstützt. Angeboten werden Workshops, anschauliche Vorführungen sogenannter Demonstratoren, also praktischer Beispielanwendungen zum Ausprobieren, und individuelle Beratungsgespräche, zunehmend auch zum Einsatz künstlicher Intelligenz. Anders als viele Förderprogramme verlangen die Zentren weder einen Antrag noch die Einhaltung einer Frist, und die Angebote sind ausdrücklich kostenfrei. Sie gelten als offizielle Nachfolgestruktur ausgelaufener Programme wie go-digital.",
+      "why": "Wenn du ohne Kosten und Bürokratie einen Blick von außen auf deine digitalen Abläufe oder einen ersten strukturierten Einstieg in ein KI-Thema suchst, ist das nächstgelegene Zentrum eine risikofreie Gelegenheit. Der erste Schritt ist ein Blick auf die Übersicht der Zentren und eine kurze Kontaktaufnahme mit der Stelle in deiner Nähe.",
+      "source": "Mittelstand-Digital (BMWK)",
+      "url": "https://www.mittelstand-digital.de/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei praktische Signale aus den Notizen des Entwicklers Simon Willison, der aktuelle Entwicklungen rund um KI-Programmierassistenten fachkundig begleitet. Gemeint sind Programme, die beim Schreiben von Software helfen, indem sie auf Zuruf Code erzeugen und verändern.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Beim Programmieren mit KI zuerst einen Test schreiben, der fehlschlägt",
+       "tag": "Arbeitsweise",
+       "paras": [
+        "Simon Willison empfiehlt für die Arbeit mit KI-Programmierassistenten die Methode des testgetriebenen Entwickelns, auf Englisch Test-Driven Development oder kurz TDD. Dabei schreibt man zuerst einen automatischen Test, der genau beschreibt, was der Code können soll, lässt ihn absichtlich fehlschlagen und entwickelt dann so lange weiter, bis der Test besteht. Ein Test ist ein kleines Prüfprogramm, das selbsttätig kontrolliert, ob eine Funktion das Gewünschte tut. Willison beobachtet, dass Assistenten mit dieser klaren Vorgabe knapperen und verlässlicheren Code liefern und weniger zusätzliche Anweisungen brauchen.",
+        "Der Hebel für dein System: Gib dem Assistenten bei einer neuen Funktion zuerst die Aufgabe, einen fehlschlagenden Test zu schreiben, und erst danach die eigentliche Umsetzung. So legst du vorab fest, was richtig ist, und erkennst sofort, wenn der erzeugte Code das Ziel verfehlt."
+       ],
+       "konkret": "Formuliere bei der nächsten kleinen Aufgabe zuerst einen Test, der das gewünschte Verhalten beschreibt und noch fehlschlägt, und lass den Code erst danach so lange anpassen, bis der Test besteht.",
+       "snippetLabel": "Prompt-Einstieg für testgetriebenes Arbeiten",
+       "snippet": "Aufgabe: <span class=\"ph\">{kurz beschreiben, was die Funktion leisten soll}</span>\nSchreibe ZUERST einen automatischen Test, der dieses Verhalten prüft, und zeige, dass er jetzt fehlschlägt.\nSetze DANACH die Funktion um und ändere sie so lange, bis der Test besteht.\nAm Ende: nenne mir den Testbefehl, mit dem ich das selbst nachprüfen kann.",
+       "source": "Simon Willison",
+       "url": "https://simonw.substack.com/p/agentic-engineering-patterns"
+      },
+      {
+       "icon": "terminal",
+       "title": "Erzeugten Code immer ausführen und die Tests laufen lassen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Willison betont, dass automatische Tests bei der Arbeit mit KI-Programmierassistenten nicht länger optional sind, weil solche Assistenten Code erzeugen können, der auf den ersten Blick richtig aussieht, aber tatsächlich nie ausgeführt wurde. Die entscheidende Fähigkeit sei es, eine Änderung sicher anzuweisen und anschließend verlässlich zu überprüfen, ob sie wirklich das Gewünschte tut. Überprüfen heißt dabei nicht zwingend, jede Zeile zu lesen, sondern vor allem, den Code auszuführen und die Tests bestehen zu sehen.",
+        "Der Hebel für dein System: Mach das Ausführen der Tests zu einem festen letzten Schritt jeder Änderung, bevor du ein Ergebnis übernimmst. So verhinderst du, dass scheinbar fertiger Code mit einem versteckten Fehler in deine Abläufe gelangt."
+       ],
+       "konkret": "Lege für jede automatisierte Aufgabe fest, dass der erzeugte Code am Ende tatsächlich ausgeführt und die zugehörigen Tests durchlaufen werden, und übernimm ein Ergebnis erst, wenn diese Prüfung bestanden ist.",
+       "source": "Simon Willison",
+       "url": "https://simonw.substack.com/p/agentic-engineering-patterns"
       }
      ]
     }
