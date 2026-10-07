@@ -2,154 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Montag, 28. September 2026",
-   "weather": "clouds",
-   "temp": "30°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar zeigt sich dieser Montag bei wechselnder bis starker Bewölkung und mild-spätsommerlichen Höchstwerten um 30 Grad, ein ruhiger, trockener Start in die Woche. Der Blick auf den Tag ist übersichtlich: In Fulda beginnt die Herbsttagung der katholischen Bischöfe, in der Europäischen Union beraten die Fachminister über die Dürre und über Flugabwehr für die Ukraine, und die Bundesbank rechnet mit einer kurzen Konjunkturdelle bei weiterhin aufwärtsgerichtetem Trend. Dazu ein Lichtblick aus Boliviens Nebelwäldern, zwei Meldungen aus der Forschung und der gesellige Oktober-Ausblick für Horb. Ganz unten findest du wie immer eine Gelegenheit mit echtem Mehrwert und zwei umsetzbare Signale für dein System.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Deutsche Bischöfe beraten in Fulda über ethische Grenzfragen und Künstliche Intelligenz",
-       "text": "Die katholischen Bischöfe Deutschlands, zusammengeschlossen in der Deutschen Bischofskonferenz (dem ständigen Zusammenschluss aller katholischen Bischöfe des Landes), kommen von diesem Montag an im hessischen Fulda zu ihrer Herbstvollversammlung zusammen, ihrer wichtigsten Beratungstagung im zweiten Halbjahr. Auf der Tagesordnung stehen ethische Grenzfragen wie die Leihmutterschaft, also das Austragen eines Kindes für andere Eltern, die Organspende und die ärztlich begleitete Suizidbeihilfe, also die Hilfe zur Selbsttötung. Beraten wird außerdem über die Chancen und Gefahren der Künstlichen Intelligenz, also lernfähiger Software, die zunehmend in Alltag und Arbeitswelt eingreift. Die Einordnung bleibt nüchtern: Aus solchen Tagungen gehen Stellungnahmen und Denkanstöße hervor, aber keine für den Staat verbindlichen Beschlüsse.",
-       "source": "Deutsche Bischofskonferenz / news.de",
-       "url": "https://www.news.de/panorama/860034329/28-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-28-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      },
-      {
-       "title": "EU-Minister beraten über die Dürre und über Flugabwehr für die Ukraine",
-       "text": "In der Europäischen Union (EU), dem Staatenverbund von 27 Ländern, treffen sich an diesem Montag die Agrar- und Fischereiminister, um mit dem EU-Agrarkommissar Christophe Hansen, dem für Landwirtschaft zuständigen Mitglied der EU-Kommission, über die anhaltende Dürre zu beraten, also eine langanhaltende Trockenheit, die die Ernten in Teilen Europas belastet. Parallel dazu ringen die Verteidigungsminister der EU weiter darum, wie die Ukraine mit zusätzlichen Abwehrraketen für das US-amerikanische Flugabwehrsystem Patriot ausgestattet werden kann, das Schutz vor russischen Boden-Boden-Raketen bietet; im Gespräch ist, dass einzelne Mitgliedstaaten ihre Plätze in der Lieferwarteschlange mit der Ukraine tauschen. Die Einordnung: Beide Runden zeigen die enge Abstimmung der EU-Staaten, verbindliche Zusagen stehen aber noch aus.",
-       "source": "Euronews / Deutscher Bundestag",
-       "url": "https://de.euronews.com/video/2026/09/28/nachrichten-des-tages-28-september-2026-morgenausgabe"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Bundesbank erwartet eine kurze Konjunkturdelle, der Erholungskurs bleibt",
-       "text": "Die Deutsche Bundesbank, die deutsche Zentralbank, die für das Geldwesen und die Bankenaufsicht zuständig ist, rechnet in ihrem aktuellen Monatsbericht damit, dass die deutsche Wirtschaft im dritten Quartal 2026, also in den Monaten Juli bis September, vorübergehend an Schwung verliert. Als Gründe nennt sie unter anderem das Niedrigwasser am Rhein, das den Schiffsverkehr und die Industrieproduktion bremst, dazu schwächere Exporte und einen verhaltenen privaten Konsum, also zurückhaltende Ausgaben der privaten Haushalte. Den grundsätzlichen Erholungskurs verlässt die größte Volkswirtschaft der Europäischen Union damit aber nicht; der Trend bleibt aufwärtsgerichtet, und die Schwäche gilt als vorübergehend. Für dich als Solo-Unternehmer heißt das: eine kurze Delle im laufenden Quartal, aber keine Kehrtwende.",
-       "source": "Deutsche Bundesbank, Monatsbericht September 2026",
-       "url": "https://publikationen.bundesbank.de/publikationen-de/berichte-studien/monatsberichte/monatsbericht-september-2026-1007720?article=kurzbericht-konjunkturlage-1007706"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die Planung: Rechne im laufenden dritten Quartal mit einer zeitweise schwächeren Nachfrage, vor allem aus Industrie und Export, und plane größere Anschaffungen oder Angebote eher auf die Zeit danach, wenn sich der Erholungskurs den Erwartungen zufolge wieder festigt.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Erste neue Katzenart seit über hundert Jahren: der Tilcayo aus Boliviens Nebelwald",
-       "text": "Forschende haben in den Yungas, den feuchten Nebelwäldern an den Osthängen der Anden in Bolivien, eine bislang unbekannte Wildkatze beschrieben: den Tilcayo, wissenschaftlich Leopardus tilcayo, die erste seit mehr als hundert Jahren neu bestimmte lebende Katzenart. Das nur rund zweieinhalb Kilogramm leichte Tier hat einen schlanken Körper und ein hellbraunes Fell mit dunklen Rosetten, also ringförmigen Flecken. Möglich wurde die Entdeckung durch Genom-Analysen, also den Vergleich des gesamten Erbguts von Museumsknochen und lebenden Tieren; dabei zeigte sich, dass die südamerikanischen Tigerkatzen aus fünf eigenständigen Arten bestehen. Die Botschaft: Selbst bei einer so gut erforschten Tiergruppe wie den Katzen gibt es noch Neues zu entdecken, und der Fund liefert ein weiteres Argument für den Schutz der bedrohten Nebelwälder.",
-       "img": "https://live.staticflickr.com/8342/8198386094_9d40696e68_b.jpg",
-       "source": "Mongabay / National Geographic",
-       "url": "https://news.mongabay.com/2026/09/a-new-cat-species-was-just-discovered-several-more-may-follow/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "NASAs Roman-Weltraumteleskop nimmt seine 300-Megapixel-Kamera in Betrieb",
-       "text": "Die US-Raumfahrtbehörde NASA hat das Hauptinstrument ihres neuen Weltraumteleskops Nancy Grace Roman, kurz Roman, erfolgreich eingeschaltet: eine Kamera mit einer Auflösung von 300 Megapixeln, wobei ein Megapixel einer Million Bildpunkten entspricht. Dieses sogenannte Wide Field Instrument, also das Weitwinkelinstrument, nimmt das Weltall im Infrarotlicht auf, das für das menschliche Auge unsichtbar ist, und erfasst mit jeder einzelnen Aufnahme einen Himmelsausschnitt, der größer ist als der Vollmond, dabei so scharf wie das bekannte Hubble-Weltraumteleskop. Das Teleskop war Ende August gestartet; auch sein Koronograf, ein Instrument zur direkten Abbildung von Planeten außerhalb unseres Sonnensystems, arbeitet den Angaben zufolge wie erwartet. Die Einordnung: Der wissenschaftliche Regelbetrieb soll 2027 beginnen, danach könnte Roman helfen, ferne Planeten und die rätselhafte dunkle Energie großflächig zu vermessen.",
-       "img": "https://live.staticflickr.com/65535/33992375698_c622e593b4_b.jpg",
-       "source": "ScienceDaily / NASA",
-       "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
-      },
-      {
-       "title": "Wirkstoff lässt im Tierversuch Wunden alternder Haut schneller heilen",
-       "text": "An der Boston University in den USA haben Forschende einen Wirkstoff mit dem Namen ABT-263 getestet, ein sogenanntes Senolytikum, also ein Mittel, das gezielt alte, nicht mehr teilungsfähige Zellen, die man seneszente Zellen nennt, aus dem Gewebe entfernt. Bei alten Mäusen trugen sie den Wirkstoff fünf Tage lang äußerlich auf die Haut auf; bis zum 24. Tag waren 80 Prozent der behandelten Tiere vollständig verheilt, gegenüber nur 56 Prozent in der unbehandelten Vergleichsgruppe. Der Wirkstoff aktivierte dabei körpereigene Reparaturvorgänge, darunter die Bildung von Kollagen, dem Stützeiweiß der Haut, und die Neubildung von Blutgefäßen. Die Einordnung: Es handelt sich zunächst um einen Erfolg im Tiermodell; bis daraus eine Behandlung für schlecht heilende Wunden bei älteren Menschen werden kann, sind noch umfangreiche Studien am Menschen nötig.",
-       "img": "https://live.staticflickr.com/2635/4029430691_78cda77b00.jpg",
-       "source": "ScienceDaily / Boston University",
-       "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Bewölkter Spätsommertag im Neckartal, geselliger Oktober im Gasthof Adler",
-       "text": "In Horb am Neckar zeigt sich dieser Montag bei wechselnder bis starker Bewölkung und mild-spätsommerlichen Höchstwerten um 30 Grad, ein ruhiger und trockener Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Das Wetter lädt zu einem Gang durch die historische Altstadt mit ihren Fachwerkhäusern oder entlang des Neckarufers ein. Der Blick voraus lohnt sich vor allem für die Oktober-Termine im Gasthof Adler im Stadtteil Dettingen: ein Kriminal-Dinner, also ein interaktiver Theaterabend mit mehrgängigem Menü und einem gespielten Kriminalfall, am 16. und 17. Oktober, ein Gastspiel des bundesweit bekannten Komikers Bülent Ceylan am 18. Oktober sowie die Premiere des Kabarett-Programms „Jetzt isst er sogar Brokkoli“ der Kabarettistin Doris Reichenauer am 22. Oktober. Wer einen dieser beliebten Abende erleben möchte, sollte sich rechtzeitig um Karten kümmern.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-       "source": "meinestadt.de / open-meteo",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Der Wochenanfang belohnt selten den großen Wurf, sondern den, der die erste Sache ruhig und vollständig zu Ende bringt, bevor er zur nächsten greift."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "KOMPASS-Förderung: Qualifizierungsschecks nur noch bis etwa Oktober",
-      "text": "Für Solo-Selbstständige, also Ein-Personen-Unternehmen ohne Angestellte, läuft weiterhin das bundesweite Förderprogramm KOMPASS, das für Kompetenzentwicklung und Qualifizierung von Solo-Selbstständigen steht und geförderte Weiterbildungen mit bis zu 90 Prozent der Kurskosten bezuschusst, höchstens jedoch 4.500 Euro. Gefördert werden unter anderem Weiterbildungen zu Digitalisierung, Betriebsführung und Marketing. Wichtig ist der Zeitpunkt: Die Ausgabe der sogenannten Qualifizierungsschecks, also der Bewilligungen, mit denen die Förderung startet, ist bundesweit bis etwa Oktober 2026 begrenzt, damit laufende Anträge zügig bearbeitet werden können; einen grundsätzlichen Aufnahmestopp gibt es nicht, eine fristgerechte Ausgabe ist in dieser Phase aber nicht garantiert. Das Programm selbst ist bis Februar 2028 verlängert.",
-      "why": "Wer eine geförderte Weiterbildung erwägt, sollte das kostenlose Erstgespräch und den Qualifizierungsscheck jetzt anstoßen, solange die Ausgabe noch läuft, statt bis zum Jahresende zu warten. So lässt sich der Zuschuss von bis zu 4.500 Euro sichern, bevor die begrenzte Ausgabephase endet.",
-      "source": "Skill-Sprinters / Bundesprogramm KOMPASS",
-      "url": "https://skill-sprinters.de/foerderungen/glossar/kompass/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei umsetzbare Signale aus den Werkzeugnotizen des Entwicklers Simon Willison, Mitbegründer des Web-Rahmenwerks Django und Autor des quelloffenen Kommandozeilen-Werkzeugs llm.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Denkspuren deiner Modelle übersichtlich protokollieren",
-       "tag": "Werkzeug",
-       "paras": [
-        "Simon Willison hat Version 0.36 seines quelloffenen Kommandozeilen-Werkzeugs llm veröffentlicht, mit dem sich Sprachmodelle, also lernfähige Text-Software, direkt aus der Kommandozeile ansprechen und ihre Antworten anschließend in einem Protokoll nachlesen lassen (der Befehl llm logs). Neu in dieser Version ist, dass die sogenannten Denkspuren, auf Englisch reasoning traces, also die Zwischenüberlegungen, die manche Modelle vor der eigentlichen Antwort ausgeben, im Markdown-Protokoll nun in aufklappbaren Abschnitten stehen.",
-        "Der Hebel für dein System: Wenn du Modellantworten protokollierst und später auswertest, bleibt das Protokoll übersichtlich, weil die oft langen Denkspuren eingeklappt sind und du sie nur bei Bedarf ausklappst. Das erleichtert es, ein Ergebnis nachzuvollziehen und Fehlerquellen zu finden, ohne im Rauschen der Zwischenschritte den Überblick zu verlieren."
-       ],
-       "konkret": "Bringe dein llm auf Version 0.36 und sieh dir mit dem Protokoll-Befehl eine gespeicherte Antwort eines nachdenkenden Modells an, um zu sehen, wie die eingeklappten Denkspuren die Übersicht verbessern.",
-       "snippetLabel": "llm aktualisieren und Protokoll ansehen",
-       "snippet": "pip install -U llm        # auf Version 0.36 bringen\nllm \"<span class=\"ph\">{deine Frage}</span>\"\nllm logs -n 1             # letzte Antwort mit eingeklappten Denkspuren",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/22/llm/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Wiederkehrende Handgriffe als aufrufbare Werkzeuge hinterlegen",
-       "tag": "Automatisierung",
-       "paras": [
-        "Willisons Werkzeug llm beherrscht das sogenannte Tool Calling, auf Deutsch den Werkzeugaufruf: Du definierst eine kleine Funktion, etwa in der Programmiersprache Python, und stellst sie dem Modell zur Verfügung; das Modell entscheidet dann selbst, wann es diese Funktion aufruft, um an ein verlässliches Ergebnis zu kommen. Unterstützt werden Modelle mehrerer Anbieter, darunter OpenAI, Anthropic, Google Gemini und das lokal auf dem eigenen Rechner laufende Ollama.",
-        "Der Hebel für dein System: Statt dem Modell jedes Mal von Hand Daten zuzuarbeiten, hinterlegst du wiederkehrende Handgriffe, etwa eine Datumsrechnung, eine Preisabfrage oder einen Datenbank-Zugriff, einmal als Werkzeug. Das Modell greift bei Bedarf selbst darauf zu, was Fehler durch manuelles Kopieren vermeidet und die immer gleichen Abläufe verlässlicher macht."
-       ],
-       "konkret": "Nimm eine Aufgabe, die du dem Modell regelmäßig von Hand zuarbeitest, und schreibe sie als kleine Funktion, die du als Werkzeug bereitstellst. Prüfe dann in einer Sitzung, ob das Modell sie im richtigen Moment von selbst aufruft.",
-       "snippetLabel": "Eine Funktion als Werkzeug bereitstellen",
-       "snippet": "llm --functions '\ndef jetzt():\n    \"Gibt das aktuelle Datum und die Uhrzeit zurueck\"\n    import datetime\n    return datetime.datetime.now().isoformat()\n' \"<span class=\"ph\">{Frage, die das Werkzeug braucht}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Dienstag, 29. September 2026",
    "weather": "clouds",
    "temp": "28°C · bewölkt",
@@ -908,7 +760,6 @@
    "weather": "clouds",
    "temp": "23°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Morgen Nebel, bei milden Höchstwerten um 23 Grad, ein ruhiger, grauer Herbsttag im Neckartal. In der Welt tritt in Magdeburg der neu gewählte Landtag von Sachsen-Anhalt erstmals zusammen, und die Vereinigten Staaten verlegen aus Sorge vor einer iranischen Bedrohung Bomber aus Großbritannien ab. Aus der Wirtschaft kommen ruhige Signale: Die Europäische Zentralbank hält die Zinsen stabil, und Deutschland findet allmählich zurück auf den Wachstumspfad. Lichtblick und Forschung berichten von neuen Wildtierquerungen für Berglöwen in Kalifornien und von einem Material, das Wasserstoff aus Wasser ohne teures Edelmetall gewinnt. Ganz unten findest du wie immer eine passende Gelegenheit, heute das kostenlose Angebot der Mittelstand-Digital Zentren, und zwei umsetzbare Signale für dein System, mit dem Schwerpunkt verlässliches Arbeiten mit KI-Programmierassistenten.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1050,6 +901,159 @@
        "konkret": "Lege für jede automatisierte Aufgabe fest, dass der erzeugte Code am Ende tatsächlich ausgeführt und die zugehörigen Tests durchlaufen werden, und übernimm ein Ergebnis erst, wenn diese Prüfung bestanden ist.",
        "source": "Simon Willison",
        "url": "https://simonw.substack.com/p/agentic-engineering-patterns"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mittwoch, 7. Oktober 2026",
+   "weather": "rain",
+   "temp": "24°C · Regen",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Mittwoch zeitweise leichter Regen bei milden Höchstwerten um 24 Grad, ein ruhiger, grauer Herbsttag im Neckartal. Die Welt blickt heute auf den dritten Jahrestag des Hamas-Angriffs auf Israel vom 7. Oktober 2023; die seit einem Jahr geltende Waffenruhe hält, bleibt aber brüchig. In der Wirtschaft sortieren sich die Frühindikatoren weiter aufwärts, während die Industrieaufträge von Monat zu Monat schwanken. Dazu zwei Lichtblicke aus der Energiewende und vom Minenräumen, zwei Meldungen aus der Forschung über nachwachsenden Gelenkknorpel und den frühen Ursprung der Tiere, und der Blick auf Horbs Oktober-Termine. Ganz unten findest du wie immer eine Gelegenheit mit echtem Mehrwert und zwei umsetzbare Signale für dein System.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Dritter Jahrestag des Hamas-Angriffs auf Israel, die Waffenruhe hält brüchig",
+       "text": "Heute jährt sich zum dritten Mal der Angriff der islamistischen Palästinenserorganisation Hamas, die bis dahin den Gazastreifen beherrschte, auf Israel vom 7. Oktober 2023, bei dem rund 1.200 Menschen getötet und etwa 250 verschleppt wurden. In Israel gedenken Hinterbliebene und frühere Geiseln mit einer landesweiten Schweigeminute und Gedenkfeiern, unter anderem einer zentralen Feier im Ganei-Jehoshua-Park in Tel Aviv. Die seit Oktober 2025 geltende Waffenruhe im Gaza-Krieg, also die vereinbarte Einstellung der Kämpfe, hält grundsätzlich, bleibt nach Angaben beider Seiten aber brüchig, und ein endgültiges Abkommen steht weiter aus; der Krieg hatte nach Angaben der von der Hamas kontrollierten Gesundheitsbehörde in Gaza mehr als 70.000 Tote gefordert. Die Einordnung bleibt nüchtern: Der Tag ist vor allem ein Tag des Gedenkens, die politische Lage in der Region bleibt ungelöst.",
+       "source": "Africanews / Ynetnews",
+       "url": "https://www.africanews.com/amp/2026/10/05/israel-marks-october-7-attacks-with-national-memorial-ceremonies/"
+      },
+      {
+       "title": "Die Europäische Union sucht eine Rolle beim Wiederaufbau Gazas und bleibt größter Geldgeber der Ukraine",
+       "text": "Die Europäische Union (EU), der Staatenverbund von 27 Ländern, bemüht sich um eine aktivere Rolle beim Wiederaufbau des Gazastreifens und der besetzten Westbank, nachdem sie an der von den USA vermittelten Waffenruhe zwischen Israel und der Hamas kaum beteiligt war. Zugleich bleibt die EU der mit Abstand größte Geldgeber der Ukraine: Nach eigenen Angaben hat sie seit Beginn des russischen Angriffskriegs rund 193 Milliarden Euro an Hilfen mobilisiert, und für die Jahre 2026 und 2027 ist ein weiteres Darlehen von bis zu 90 Milliarden Euro im Gespräch, das nach den Vorstellungen mehrerer Mitgliedstaaten teils aus eingefrorenem russischem Staatsvermögen gespeist werden soll. Die Einordnung: Beide Vorhaben zeigen das Bemühen der EU, außenpolitisch sichtbarer zu werden, verbindliche Beschlüsse zur Finanzierung stehen aber noch aus.",
+       "source": "The Sun Chronicle (AP) / Euronews",
+       "url": "https://www.thesunchronicle.com/news/nation_world/eu-leaders-seek-role-in-gaza-at-summit-focused-on-ukraine-and-russia/article_9e65bd07-ff0b-534e-8cae-12627d48e461.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Deutsche Industrieaufträge schwanken, die Frühindikatoren bleiben aufwärts gerichtet",
+       "text": "Die Auftragseingänge der deutschen Industrie, also die Bestellungen, die bei den Unternehmen des verarbeitenden Gewerbes neu eingehen, schwanken weiter spürbar von Monat zu Monat: Das Statistische Bundesamt, die zentrale Behörde für die amtlichen Zahlen in Deutschland, revidierte ein kräftiges Plus im Vormonat nachträglich sogar noch nach oben, während der jüngste Monat ein moderates Minus brachte, das aber geringer ausfiel als von Fachleuten erwartet. Solche Ausschläge gehen oft auf wenige Großaufträge zurück, etwa im Flugzeug- oder Schiffbau, und sagen über den Grundtrend wenig aus. Die Stimmungsbarometer deuten weiter nach oben: Das ifo-Geschäftsklima, eine viel beachtete Umfrage des Münchner ifo-Instituts unter tausenden Unternehmen, und die ZEW-Konjunkturerwartungen des Mannheimer Zentrums für Europäische Wirtschaftsforschung hatten sich zuletzt mehrfach in Folge verbessert. Für dich als Solo-Unternehmer heißt das: Die Einzelmonate bleiben unruhig, der Erholungskurs zum Jahresende hin bleibt aber intakt.",
+       "source": "Statistisches Bundesamt / Börsen-Zeitung",
+       "url": "https://www.boersen-zeitung.de/konjunktur-politik/grossauftrage-belasten-ordereingang"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Lass dich von einzelnen Monatszahlen zu den Industrieaufträgen nicht beirren, sie schwanken stark und werden häufig nachträglich korrigiert. Für die eigene Planung zählt der übergeordnete Trend, und der zeigt laut den Frühindikatoren weiter nach oben, mit einem voraussichtlich etwas freundlicheren Umfeld zum Jahreswechsel.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Deutschland legt ein Datum für den Ausstieg aus dem Öl fest",
+       "text": "Deutschland hat sich nach Angaben der auf konstruktive Nachrichten spezialisierten Redaktion Positive News erstmals auf ein verbindliches Datum festgelegt, bis zu dem es seine Abhängigkeit von Erdöl beenden will, also von jenem fossilen Rohstoff, aus dem Benzin, Diesel, Heizöl und viele Kunststoffe gewonnen werden. Der Schritt ordnet sich in die sogenannte Energiewende ein, den langfristigen Umbau der Energieversorgung weg von fossilen Brennstoffen hin zu Wind, Sonne und anderen erneuerbaren Quellen. Ein festes Enddatum gibt Wirtschaft und Haushalten Planungssicherheit, weil sich Investitionen in Heizungen, Fahrzeuge und Industrieanlagen daran ausrichten können. Die Botschaft ist eine der Verlässlichkeit: Aus einem allgemeinen Ziel wird ein konkreter Fahrplan, an dem sich alle Beteiligten orientieren können.",
+       "img": "https://s0.geograph.org.uk/geophotos/03/67/04/3670419_e4ae6e5a.jpg",
+       "source": "Positive News",
+       "url": "https://www.positive.news/environment/"
+      },
+      {
+       "title": "Kosovo ist vollständig von Landminen geräumt",
+       "text": "Das südosteuropäische Land Kosovo ist nach Angaben der Redaktion Positive News vollständig von Landminen geräumt, also von im Boden versteckten Sprengkörpern, die als gefährliches Erbe aus dem Krieg Ende der 1990er Jahre zurückgeblieben waren. Jahrzehntelange, mühsame Räumarbeit hat damit ein Ende gefunden; Felder, Wege und Wälder sind nun wieder sicher begehbar. Das macht nicht nur das tägliche Leben sicherer, sondern gibt auch Flächen für Landwirtschaft und Entwicklung frei, die zuvor gesperrt waren. Die Botschaft: Auch das langwierige, gefährliche Aufräumen eines Konflikts kann zu einem guten Ende kommen, wenn man nicht nachlässt.",
+       "source": "Positive News",
+       "url": "https://www.positive.news/society/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Forschende lassen im Tierversuch geschädigten Gelenkknorpel nachwachsen",
+       "text": "An der Stanford University in den USA haben Forschende gezeigt, dass sich geschädigter Gelenkknorpel im Knie wiederherstellen lässt, wenn man ein bestimmtes, mit dem Alter vermehrt auftretendes Eiweiß gezielt blockiert. Gelenkknorpel ist die glatte, elastische Schutzschicht an den Enden der Knochen; nutzt sie sich ab, entsteht die schmerzhafte Gelenkabnutzung Arthrose, für die es bislang keine ursächliche Heilung gibt, sondern nur die Behandlung der Beschwerden. Im Versuch an Mäusen führte das Ausschalten dieses Eiweißes dazu, dass sich beschädigter Knorpel neu bildete. Die Einordnung mit der gebotenen Vorsicht: Es handelt sich zunächst um einen Erfolg im Tiermodell; bis daraus eine Behandlung für Menschen werden kann, sind noch umfangreiche Studien nötig.",
+       "img": "https://live.staticflickr.com/7023/6760906873_a8c330fa20_b.jpg",
+       "source": "ScienceDaily / Stanford University",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+      },
+      {
+       "title": "Tiere könnten rund 100 Millionen Jahre früher entstanden sein als bisher gedacht",
+       "text": "Ein Forschungsteam legt nahe, dass die ersten Tiere auf der Erde bereits vor etwa 800 bis 700 Millionen Jahren entstanden sein könnten, also rund 100 Millionen Jahre früher als in bisherigen Schätzungen angenommen. Die Forschenden stützen sich dabei auf eine Kombination aus Fossilfunden, also versteinerten Überresten urzeitlicher Lebewesen, und sogenannten molekularen Uhren, einem Verfahren, das aus den Unterschieden im Erbgut heute lebender Arten auf den Zeitpunkt ihrer Aufspaltung zurückrechnet. Demnach könnten einfache vielzellige Tiere schon lange vor den ersten eindeutigen Fossilien existiert haben. Die Einordnung: Solche Datierungen bleiben mit Unsicherheiten behaftet, sie verschieben aber das Bild davon, wie früh und über welch lange Zeiträume sich tierisches Leben entwickelt hat.",
+       "img": "https://live.staticflickr.com/500/31953537260_6ecece06e5_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Regnerischer Herbsttag im Neckartal, Kriminal-Dinner und A-cappella-Konzert im Oktober",
+       "text": "In Horb am Neckar fällt an diesem Mittwoch zeitweise leichter Regen bei milden Höchstwerten um 24 Grad, ein grauer und ruhiger Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Das nasse Wetter lädt eher zu einem Museumsbesuch oder einem gemütlichen Nachmittag ein als zum Spaziergang am Neckarufer. Der Blick voraus lohnt sich für zwei Termine am 16. Oktober: Der Gasthof Adler lädt zu einem Kriminal-Dinner, also einem interaktiven Theaterabend mit mehrgängigem Menü und einem gespielten Kriminalfall, und am selben Abend erklingt in der Kirche Mariä Geburt im Stadtteil Altheim das A-cappella-Konzert „Vocalmania“, bei dem mehrere Chöre ohne instrumentale Begleitung auftreten (a cappella bedeutet Gesang allein mit Stimmen). Wer einen der Abende erleben möchte, sollte sich rechtzeitig um Karten kümmern.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
+       "source": "eventfinder.de / open-meteo",
+       "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein grauer Regentag drängt nicht nach draußen und nimmt dir damit die Wahl zwischen vielen Möglichkeiten ab; vielleicht ist das die stille Einladung, die eine liegengebliebene Sache endlich in Ruhe zu Ende zu bringen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Mistral Large 4: leistungsstarkes KI-Modell mit offenen Gewichten noch im Oktober",
+      "text": "Das französische KI-Unternehmen Mistral hat mit Mistral Large 4 ein neues großes Sprachmodell vorgestellt, also lernfähige Text-Software, und angekündigt, die sogenannten offenen Gewichte (englisch open weights), also die frei herunterladbaren Modelldaten, noch Ende Oktober 2026 zu veröffentlichen. Laut dem Entwickler Simon Willison, der KI-Ankündigungen fachkundig begleitet, liegt das Modell in unabhängigen Tests nur noch etwa ein halbes Jahr hinter den jeweils besten Modellen zurück, ein deutlicher Sprung gegenüber dem Vorgänger. Offene Gewichte bedeuten, dass man das Modell auf eigener Hardware oder bei einem Anbieter eigener Wahl betreiben kann, ohne an einen einzelnen Dienst gebunden zu sein.",
+      "why": "Für dich als Solo-Unternehmer ist ein starkes Modell mit offenen Gewichten eine echte Gelegenheit: Du kannst vertrauliche Aufgaben ohne laufende Kosten je Anfrage und ohne Datenabfluss an einen externen Dienst erledigen. Es lohnt sich, die Veröffentlichung Ende Oktober im Blick zu behalten und das Modell dann an einer typischen Aufgabe zu testen, bevor du es fest einplanst.",
+      "source": "Simon Willison / Mistral",
+      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei umsetzbare Signale aus dem Weblog des Entwicklers Simon Willison, Mitbegründer des Web-Rahmenwerks Django und Autor des quelloffenen Kommandozeilen-Werkzeugs llm, mit dem sich Sprachmodelle direkt aus der Kommandozeile ansprechen lassen.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Harte Ausgabenlimits setzen, bevor du KI-Dienste automatisiert laufen lässt",
+       "tag": "Absicherung",
+       "paras": [
+        "Simon Willison warnt in seinem Beitrag „We're going to need default hard budget caps“, also „Wir brauchen standardmäßig harte Budgetgrenzen“, vor einem leicht unterschätzten Risiko: Bei Diensten mit Abrechnung pro Nutzung (englisch pay as you go, also Bezahlung nach Verbrauch) kann ein außer Kontrolle geratenes automatisiertes System über Nacht eine Rechnung von mehreren tausend Euro verursachen. Entscheidend ist der Unterschied zwischen einer bloßen Warn-E-Mail und einer harten Obergrenze, die den Dienst beim Erreichen des Budgets tatsächlich anhält.",
+        "Der Hebel für dein System: Bevor du einen KI-Agenten oder einen zeitgesteuerten Ablauf unbeaufsichtigt laufen lässt, richte für jeden kostenpflichtigen Dienst eine echte, harte Ausgabengrenze ein. Bei den großen Cloud-Anbietern Amazon Web Services (AWS) und Google Cloud gibt es solche Stopp-Funktionen inzwischen; aktiviere sie bewusst, statt dich allein auf Warnhinweise zu verlassen."
+       ],
+       "konkret": "Geh die Dienste durch, die du mit Abrechnung pro Nutzung einsetzt, und prüfe für jeden, ob du ein hartes Monatslimit setzen kannst, das den Dienst beim Überschreiten anhält. Richte diese Grenze ein, bevor du das nächste automatisierte oder unbeaufsichtigte System startest.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Klare Ja/Nein- und Auswahl-Entscheidungen vom Modell maschinenlesbar abfragen",
+       "tag": "Werkzeug",
+       "paras": [
+        "Simon Willison hat ein kleines Zusatzmodul (Plugin) namens llm-openai-decisions veröffentlicht, das sein Kommandozeilen-Werkzeug llm an eine neue „Decisions“-Schnittstelle (englisch für Entscheidungen) des KI-Herstellers OpenAI anbindet. Damit lassen sich dem Modell gezielt drei Arten von Fragen stellen: eine Ja/Nein-Frage (Prädikat), eine Auswahl aus festen Vorgaben (Choice) und eine Bewertung mit einer Zahl (Scoring). Das Modell antwortet dann in einer festen, maschinenlesbaren Form statt in freiem Fließtext.",
+        "Der Hebel für dein System: Überall dort, wo du bislang eine frei formulierte Antwort mühsam wieder in ein Ja/Nein oder eine Kategorie übersetzen musst, bekommst du nun direkt ein sauberes, weiterverarbeitbares Ergebnis. Das macht automatisierte Abläufe, etwa das Einsortieren von E-Mails oder das Vorbewerten von Anfragen, verlässlicher und leichter zu verketten."
+       ],
+       "konkret": "Nimm eine wiederkehrende Entscheidung aus deinem Alltag, die bislang eine Freitext-Antwort liefert, etwa das Einordnen einer Anfrage in Kategorien, und formuliere sie als klare Auswahl- oder Ja/Nein-Frage, deren Ergebnis du direkt weiterverarbeiten kannst.",
+       "snippetLabel": "Das Plugin installieren",
+       "snippet": "pip install llm-openai-decisions   # Plugin fuer llm installieren\n# danach die Entscheidungs-Abfrage ueber 'llm' nutzen:\n# Prädikat = Ja/Nein, Choice = Auswahl, Scoring = Bewertung mit Zahl",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
       }
      ]
     }
