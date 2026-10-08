@@ -2,154 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Dienstag, 29. September 2026",
-   "weather": "clouds",
-   "temp": "28°C · bewölkt",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt dieser Dienstag bei überwiegend starker Bewölkung und milden Höchstwerten um 28 Grad, ein ruhiger und trockener Spätsommertag im Neckartal. Der Blick auf die Welt bleibt ernst: In der ukrainischen Hauptstadt Kiew dauern schwere russische Angriffe an, während Bundesaußenminister Johann Wadephul zu Gesprächen in die Slowakei reist. Die deutsche Wirtschaft sammelt derweil vorsichtige Zuversicht, aus der Forschung kommen ein neues Verfahren gegen Plastikmüll und ein Blick in die Physik des frühen Universums, und der Lichtblick führt an die schottische Küste. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Schwere russische Angriffe auf Kiew, Merz bekräftigt bei NATO-Treffen die Unterstützung",
-       "text": "Das russische Militär hat seine Angriffe auf Kiew, die Hauptstadt der Ukraine, in der Nacht fortgesetzt; die ukrainische Luftwaffe, also die für die Luftverteidigung zuständige Teilstreitkraft, warnte vor ballistischen Raketen, das sind Geschosse mit hoher Flugbahn und Geschwindigkeit. Der Kiewer Bürgermeister Vitali Klitschko, ein früherer Box-Weltmeister und heutiger Stadtchef, meldete Schäden in mehreren Stadtteilen. Bundeskanzler Friedrich Merz, der Regierungschef Deutschlands, erklärte bei einem Treffen der NATO, des westlichen Verteidigungsbündnisses aus 32 Staaten, Russland habe keine Chance, diesen Krieg zu gewinnen. Die Einordnung bleibt nüchtern: Die Lage in der Ukraine ist weiter angespannt, und die Verbündeten ringen um zusätzliche Luftabwehr, verbindliche neue Zusagen stehen aber noch aus.",
-       "source": "news.de / Euronews",
-       "url": "https://www.news.de/panorama/860039690/29-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-29-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      },
-      {
-       "title": "Außenminister Wadephul reist zu Gesprächen in die Slowakei",
-       "text": "Bundesaußenminister Johann Wadephul, der oberste Diplomat Deutschlands, setzt an diesem Dienstag eine mehrtägige Reise in die Slowakei fort, ein Nachbarland Österreichs und Mitglied der Europäischen Union. In der Hauptstadt Bratislava will er mit Ministerpräsident Robert Fico und Außenminister Juraj Blanar sprechen; die slowakische Regierung gilt bei vielen Beobachtern als vergleichsweise russlandfreundlich, weshalb den Gesprächen besondere Aufmerksamkeit gilt. Zeitgleich setzt Nordrhein-Westfalens Ministerpräsident Hendrik Wüst seine Gespräche in der Türkei fort, anlässlich des 65. Jahrestags des deutsch-türkischen Anwerbeabkommens von 1961, mit dem einst Arbeitskräfte angeworben wurden. Die Einordnung: Beide Reisen zeigen das Bemühen um den Dialog auch mit Partnern, deren Kurs von der deutschen Linie abweicht.",
-       "source": "news.de",
-       "url": "https://www.news.de/panorama/860039690/29-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-29-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Deutsche Konjunktur fasst Zuversicht, Bundesbank erwartet stärkeres Jahresende",
-       "text": "Die Stimmung in der deutschen Wirtschaft hat sich zuletzt aufgehellt: Das ifo-Geschäftsklima, eine viel beachtete monatliche Umfrage des Münchner ifo-Instituts unter tausenden Unternehmen, stieg auf 89,1 Punkte und erreichte damit den höchsten Stand seit drei Jahren. Auch die ZEW-Konjunkturerwartungen, eine Umfrage des Mannheimer Zentrums für Europäische Wirtschaftsforschung unter Fachleuten aus dem Finanzwesen, legten im September leicht zu und stehen bei plus 34,7 Punkten. Die Deutsche Bundesbank, die deutsche Zentralbank, rechnet nach einem Dämpfer im dritten Quartal, also den Monaten Juli bis September, damit, dass die Wirtschaft zum Jahresende wieder stärker zulegt. Getragen wird die Erholung vor allem von staatlichen Ausgaben und zusätzlichen Exportimpulsen.",
-       "source": "ifo Institut / ZEW / Deutsche Bundesbank",
-       "url": "https://zeitenvogel.de/konjunkturerwartungen-zew-september"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die Planung: Die Frühindikatoren deuten auf ein spürbar stärkeres viertes Quartal hin. Wer ein Angebot oder eine größere Investition erwägt, findet zum Jahresende voraussichtlich ein etwas freundlicheres Umfeld vor als in den vergangenen Sommermonaten.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Sturzflug eines Basstölpels gewinnt den Bird Photographer of the Year 2026",
-       "text": "Der britische Fotograf Henley Spiers hat mit seiner Aufnahme „Sunball Rocket“ den Titel Bird Photographer of the Year 2026 gewonnen, einen der weltweit größten Wettbewerbe für Vogelfotografie mit in diesem Jahr mehr als 24.000 eingereichten Bildern. Das Siegerfoto zeigt einen Basstölpel, einen großen weißen Meeresvogel mit spitzem Schnabel, im Moment des Eintauchens ins Meer vor den schottischen Shetlandinseln. Basstölpel stürzen sich aus großer Höhe kopfüber ins Wasser und erreichen dabei Geschwindigkeiten von über 80 Stundenkilometern, schneller als ein Turmspringer vom Zehnmeterbrett. Die Botschaft ist eine der stillen Faszination: Ein einziger Augenblick, festgehalten mit Geduld und Können, macht die Wucht und Eleganz eines vertrauten Küstenvogels neu sichtbar.",
-       "img": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJnYW5uZXRfc2VhX2JpcmRfeWVsbG93LWltYWdlLWt5YmRsbWt1LmpwZw.jpg",
-       "source": "CNN / Bird Photographer of the Year",
-       "url": "https://www.birdpoty.com/2026-winners"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Neues Verfahren macht aus Plastiktüten Benzin und Diesel",
-       "text": "Am Oak Ridge National Laboratory, einem staatlichen Forschungszentrum im US-Bundesstaat Tennessee, haben Forschende ein überraschend einfaches Verfahren entwickelt, um Polyethylen, den weit verbreiteten Kunststoff von Einkaufstüten und Schneidebrettern, in benzin- und dieselähnliche Kraftstoffe umzuwandeln. Sie nutzen dafür kostengünstige, aluminiumbasierte Salzschmelzen, also verflüssigte Salze, die die langen Plastikmoleküle in kleinere Bausteine zerlegen; rund 60 Prozent des Ergebnisses entfallen dabei auf benzinähnliche Stoffe. Anders als bisherige Methoden kommt das Verfahren ohne teure Edelmetall-Katalysatoren, ohne organische Lösungsmittel und ohne zusätzlichen Wasserstoff aus und arbeitet bei Temperaturen unter 200 Grad Celsius. Die Einordnung: Das Labor hat ein Patent angemeldet, bis zu einer Nutzung im großen Maßstab sind aber noch weitere Schritte nötig.",
-       "img": "https://live.staticflickr.com/7754/26742176942_0eef7c9d8b_b.jpg",
-       "source": "ScienceDaily / Oak Ridge National Laboratory",
-       "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm"
-      },
-      {
-       "title": "Quantencomputer simuliert, wie Materie aus Energie entsteht",
-       "text": "Ein Forschungsteam hat mit einem Quantensimulator aus 13 gefangenen Ionen, also elektrisch geladenen Atomen, die in einer Falle festgehalten und einzeln gesteuert werden, einen Vorgang aus der Physik des frühen Universums nachgebildet. Simuliert wurde das sogenannte Saitenbrechen (englisch string-breaking): Zwei verbundene Grundbausteine der Materie werden auseinandergezogen, bis so viel Energie aufgestaut ist, dass beim Zerreißen der Verbindung neue Teilchen entstehen, sie also gleichsam aus dem Nichts auftauchen. Überraschend zeigte sich, dass die neuen Teilchenpaare nicht gleichmäßig, sondern zuerst an den Enden der simulierten Kette auftraten und sich nach innen ausbreiteten. Die Arbeit erschien in der Fachzeitschrift Nature Physics; sie deutet an, dass Quantencomputer eines Tages helfen könnten, die Entstehung der Materie nach dem Urknall zu erforschen, wofür herkömmliche Rechner an ihre Grenzen stoßen.",
-       "img": "https://live.staticflickr.com/4262/35388675155_1eeb6deeb7_b.jpg",
-       "source": "ScienceDaily / Nature Physics",
-       "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Bewölkter Spätsommertag im Neckartal, Floh- und Trödelmarkt lockt im Oktober",
-       "text": "In Horb am Neckar zeigt sich dieser Dienstag bei überwiegend starker Bewölkung und milden Höchstwerten um 28 Grad, ein trockener und ruhiger Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Das Wetter lädt zu einem Bummel durch die historische Altstadt mit ihren Fachwerkhäusern oder zu einem Spaziergang am Neckarufer ein. Für den Blick voraus lohnt sich ein Termin am zweiten Oktober-Wochenende: Am 9. und 10. Oktober findet in der Innenstadt entlang der Dammstraße ein Floh- und Trödelmarkt statt, auf dem Privatleute und Händler Gebrauchtes und Kurioses anbieten. Wer die Gelegenheit für einen Stöberbummel oder einen eigenen Stand nutzen möchte, sollte sich den Termin bereits jetzt vormerken.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-       "source": "meinestadt.de / open-meteo",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein Bild wie der eintauchende Vogel entsteht nicht im Auslösen, sondern im geduldigen Warten davor; oft liegt der Ertrag eines Tages weniger im vielen Tun als in der einen Sache, für die du bereit warst, als der Moment kam."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Digitalisierungsprämie Baden-Württemberg: bis zu 10.000 Euro Zuschuss vor Ort",
-      "text": "Das Land Baden-Württemberg, in dem auch Horb liegt, fördert mit der Digitalisierungsprämie die Einführung neuer digitaler Technik in kleinen und mittleren Betrieben mit einem Zuschuss von bis zu 10.000 Euro. Gefördert werden unter anderem die Einführung neuer Software für Produkte, Dienstleistungen und Abläufe, Verbesserungen bei der IT-Sicherheit, also dem Schutz von Daten und Systemen, sowie Anwendungen der Künstlichen Intelligenz, also lernfähiger Software. Auch damit verbundene Schulungen der Mitarbeitenden sind förderfähig. Verwaltet wird das Programm vom Wirtschaftsministerium des Landes gemeinsam mit der Landesförderbank L-Bank; Antragstellung und aktuelle Fristen prüfst du am besten direkt bei der L-Bank.",
-      "why": "Als in Baden-Württemberg ansässiger Solo-Unternehmer kannst du ein konkretes Digitalisierungsvorhaben, etwa eine neue Software oder einen KI-gestützten Arbeitsablauf, mit Landesmitteln bezuschussen lassen. Ein kurzer Blick auf die Förderbedingungen der L-Bank lohnt sich, bevor du eine solche Investition aus eigener Tasche zahlst.",
-      "source": "Wirtschaftsministerium Baden-Württemberg / L-Bank",
-      "url": "https://wm.baden-wuerttemberg.de/de/service/foerderprogramme-und-aufrufe/liste-foerderprogramme/digitalisierungspraemie"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei Signale aus dem Jahresrückblick des Entwicklers Simon Willison, Mitbegründer des Web-Rahmenwerks Django und Autor des quelloffenen Kommandozeilen-Werkzeugs llm, den er beim Entwicklerkongress WeAreDevelopers in Wien gehalten hat.",
-     "cards": [
-      {
-       "icon": "gauge",
-       "title": "Die Aufgabe präzise beschreiben, statt selbst zu programmieren",
-       "tag": "Arbeitsweise",
-       "paras": [
-        "In seinem Rückblick „2026 in LLMs (so far)“, also „Das Jahr 2026 in Sprachmodellen bislang“, macht Simon Willison einen Kern deutlich: Moderne Sprachmodelle, also lernfähige Text-Software, liefern dann die besten Ergebnisse, wenn man das Ziel klar benennt und eindeutige Anweisungen samt der nötigen Werkzeuge gibt. Der Wert einer Fachkraft verschiebt sich damit vom eigenhändigen Schreiben des Codes hin zum genauen Beschreiben dessen, was gebraucht wird.",
-        "Der Hebel für dein System: Formuliere für wiederkehrende Aufgaben eine kurze, aber vollständige Spezifikation, also eine präzise Aufgabenbeschreibung mit Ziel, Randbedingungen und Beispielen, statt das Modell mit vagen Zurufen zu steuern. Das reduziert Nachfragen und Fehlversuche und macht die Ergebnisse verlässlich wiederholbar."
-       ],
-       "konkret": "Nimm eine Aufgabe, die du oft an ein Modell gibst, und schreibe dafür eine feste Vorlage mit Ziel, Randbedingungen und einem Beispiel für das gewünschte Ergebnis. Nutze diese Vorlage künftig, statt jedes Mal frei zu formulieren.",
-       "snippetLabel": "Gerüst für eine präzise Aufgabenbeschreibung",
-       "snippet": "Ziel: <span class=\"ph\">{was genau herauskommen soll}</span>\nEingabe: <span class=\"ph\">{welche Daten du lieferst}</span>\nRandbedingungen: <span class=\"ph\">{Format, Laenge, was vermieden werden soll}</span>\nBeispiel (Ergebnis): <span class=\"ph\">{ein Musterergebnis}</span>",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Für vertrauliche Aufgaben ein Modell lokal auf dem eigenen Rechner laufen lassen",
-       "tag": "Werkzeug",
-       "paras": [
-        "Willison hebt hervor, dass offene Modelle inzwischen auch auf einem gewöhnlichen Laptop brauchbar arbeiten; als Beispiel nennt er ein rund 17 Gigabyte großes Modell der Qwen-Reihe, das für viele Alltagsaufgaben fast an die Leistung der besten Modelle heranreiche. Solche Modelle lassen sich mit dem quelloffenen Programm Ollama, das Sprachmodelle lokal, also ohne Internet und ohne Cloud, auf dem eigenen Rechner ausführt, mit wenigen Befehlen starten.",
-        "Der Hebel für dein System: Für vertrauliche oder häufige Aufgaben, bei denen keine Daten das Haus verlassen sollen, kannst du ein lokales Modell einsetzen, statt jede Anfrage an einen externen Dienst zu schicken. Das spart laufende Kosten pro Anfrage und hält sensible Inhalte auf deinem Gerät."
-       ],
-       "konkret": "Installiere Ollama, lade ein kompaktes offenes Modell und stelle ihm eine typische Aufgabe, um zu prüfen, ob die lokale Qualität und Geschwindigkeit für diesen Zweck ausreichen.",
-       "snippetLabel": "Ein Modell lokal starten und befragen",
-       "snippet": "# Ollama installieren, dann ein kompaktes Modell laden\nollama pull qwen3\nollama run qwen3 \"<span class=\"ph\">{deine vertrauliche Aufgabe}</span>\"",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Mittwoch, 30. September 2026",
    "weather": "clouds",
    "temp": "29°C · neblig-mild",
@@ -911,7 +763,6 @@
    "weather": "rain",
    "temp": "24°C · Regen",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Mittwoch zeitweise leichter Regen bei milden Höchstwerten um 24 Grad, ein ruhiger, grauer Herbsttag im Neckartal. Die Welt blickt heute auf den dritten Jahrestag des Hamas-Angriffs auf Israel vom 7. Oktober 2023; die seit einem Jahr geltende Waffenruhe hält, bleibt aber brüchig. In der Wirtschaft sortieren sich die Frühindikatoren weiter aufwärts, während die Industrieaufträge von Monat zu Monat schwanken. Dazu zwei Lichtblicke aus der Energiewende und vom Minenräumen, zwei Meldungen aus der Forschung über nachwachsenden Gelenkknorpel und den frühen Ursprung der Tiere, und der Blick auf Horbs Oktober-Termine. Ganz unten findest du wie immer eine Gelegenheit mit echtem Mehrwert und zwei umsetzbare Signale für dein System.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1058,6 +909,157 @@
      ]
     }
    ]
+  },
+  {
+   "label": "Donnerstag, 8. Oktober 2026",
+   "weather": "rain",
+   "temp": "15°C · Regenschauer",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser Donnerstag wechselhaft und nass, mit zeitweiligen Regenschauern und kühlen Höchstwerten um 15 Grad, ein herbstlicher Tag im Neckartal. In Berlin haben Union und SPD in der Nacht ihre Beratungen im Koalitionsausschuss beendet, am Mittag stellt die Bundesregierung ihre neue Konjunkturprognose vor, und um 13 Uhr wird in Stockholm der Literaturnobelpreis bekanntgegeben. Aus Lichtblick und Forschung kommen Tansanias erster Wildtierkorridor, der rasante Aufstieg der Elektroautos in der Türkei sowie zwei Blicke tief ins All, zur Ausdehnung des Universums und zur stürmischen Geburt von Planeten. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Koalitionsausschuss von Union und SPD endet nach vier Stunden, Ergebnisse am Morgen",
+       "text": "Die Spitzen der Regierungskoalition aus Union und SPD haben in der Nacht ihre Beratungen im sogenannten Koalitionsausschuss beendet, der Runde aus Partei- und Fraktionsführungen von CDU und CSU (Christlich Demokratische Union und ihre bayerische Schwesterpartei Christlich-Soziale Union) sowie SPD (Sozialdemokratische Partei Deutschlands), in der strittige Fragen der Regierungsarbeit geklärt werden. Nach rund vier Stunden ging das Treffen zu Ende; die Ergebnisse sollen erst am Morgen mitgeteilt werden, voraussichtlich schriftlich. Im Mittelpunkt stand die Umsetzung der vereinbarten Reformvorhaben. Die Einordnung bleibt nüchtern: Konkrete Beschlüsse liegen noch nicht vor, erst die angekündigte Mitteilung wird zeigen, worauf sich die Koalitionspartner verständigt haben.",
+       "source": "news.de / dpa",
+       "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Schwedische Akademie gibt um 13 Uhr den Literaturnobelpreis bekannt",
+       "text": "Am heutigen Donnerstag gibt die Schwedische Akademie, die für den Literaturnobelpreis zuständige Gelehrtengesellschaft in der schwedischen Hauptstadt Stockholm, um 13 Uhr den Preisträger oder die Preisträgerin für das Jahr 2026 bekannt. Der Nobelpreis für Literatur ist die wohl bekannteste Auszeichnung für ein schriftstellerisches Lebenswerk und in diesem Jahr mit zwölf Millionen schwedischen Kronen dotiert, umgerechnet etwa einer Million Euro. Im vergangenen Jahr war der ungarische Schriftsteller László Krasznahorkai ausgezeichnet worden. Wer in diesem Jahr folgt, bleibt traditionell bis zur Verkündung streng geheim; die Entscheidung trifft ein kleiner Kreis von Mitgliedern der Akademie.",
+       "source": "news.de / dpa",
+       "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Bundesregierung stellt Herbstprognose vor, 1,3 Prozent Wachstum erwartet",
+       "text": "Bundeswirtschaftsministerin Katherina Reiche (Christlich Demokratische Union, CDU) stellt an diesem Donnerstag um 12.15 Uhr in Berlin die neue Konjunkturprognose der Bundesregierung vor, also die offizielle Schätzung, wie stark die deutsche Wirtschaft in diesem Jahr wächst. Erwartet wird ein Plus des Bruttoinlandsprodukts, der Summe aller im Inland erzeugten Waren und Dienstleistungen, von 1,3 Prozent für das laufende Jahr. Als Treiber gelten stärkere Exporte und staatliche Ausgaben zur Modernisierung der Infrastruktur, also von Straßen, Schienen und digitalen Netzen. Zugleich berät der Bundestag einen Gesetzentwurf von Finanzminister Lars Klingbeil (Sozialdemokratische Partei Deutschlands, SPD) zur Einkommensteuer, dessen Entlastungen ab 2028 jährlich rund zehn Milliarden Euro ausmachen und vor allem kleine und mittlere Einkommen sowie Familien mit Kindern entlasten sollen.",
+       "source": "news.de / dpa",
+       "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Mit der Herbstprognose bestätigt die Regierung den Weg zurück zu moderatem Wachstum, nachdem sich die Stimmungsindikatoren zuletzt aufgehellt hatten. Für größere Investitionen oder Angebote zeichnet sich zum Jahresende ein etwas verlässlicheres Umfeld ab. Im Blick behalten solltest du die höhere Teuerung: Die Inflationsrate, also der Anstieg der Verbraucherpreise gegenüber dem Vorjahr, lag im September bei 3,3 Prozent und dämpft die Kaufkraft.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "529 Elefanten nutzen Tansanias ersten geschützten Wildtierkorridor",
+       "text": "In Tansania, einem Land in Ostafrika, haben Wildkameras, also automatisch auslösende Fotofallen, 529 Elefanten dabei aufgenommen, wie sie den ersten offiziell geschützten Wildtierkorridor des Landes durchquerten. Ein solcher Korridor ist ein gesicherter Wanderweg, der voneinander getrennte Lebensräume wieder verbindet; dieser rund neun Meilen, also etwa vierzehn Kilometer lange Streifen verknüpft die Savanne mit den Udzungwa-Bergen, einem artenreichen Gebirgszug. Dass so viele Tiere die Route annehmen, zeigt, dass der Korridor funktioniert und den Elefanten sichere Wanderungen zwischen ihren Weidegründen ermöglicht. Die Botschaft ist eine der stillen Zuversicht: Der gezielte Schutz einzelner Verbindungswege kann großen Tieren den Raum zurückgeben, den die Zerschneidung der Landschaft ihnen genommen hat.",
+       "img": "https://live.staticflickr.com/5043/5342495338_fc63baee81_b.jpg",
+       "source": "Good Good Good",
+       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-3-2026"
+      },
+      {
+       "title": "Elektroautos erreichen in der Türkei jeden fünften Neuwagen",
+       "text": "In der Türkei ist der Anteil rein elektrisch angetriebener Autos an den Neuzulassungen von etwa einem von hundert im Jahr 2022 auf zuletzt rund einen von fünf gestiegen. Als wesentliche Gründe gelten eine 2023 eingeführte Steuererleichterung für Elektrofahrzeuge sowie die heimische Marke Togg, ein erst 2022 gestartetes türkisches Unternehmen, das inzwischen Marktführer bei den Elektroautos im Land ist. Die Zahlen stammen aus einer Auswertung der Datenplattform Our World in Data, die weltweite Entwicklungen anhand öffentlicher Statistiken aufbereitet. Die Einordnung: Das Beispiel zeigt, wie schnell sich ein Fahrzeugmarkt wandeln kann, wenn steuerliche Anreize und ein attraktives heimisches Angebot zusammenkommen.",
+       "source": "Good Good Good / Our World in Data",
+       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-3-2026"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Winzige Magnetfelder aus der Frühzeit des Universums könnten ein kosmisches Rätsel lösen",
+       "text": "Astrophysiker um die Forscher Karsten Jedamzik, Levon Pogosian und Tom Abel schlagen vor, dass winzige Magnetfelder aus den ersten Augenblicken nach dem Urknall einen seit Jahren ungelösten Widerspruch erklären könnten, die sogenannte Hubble-Spannung. Damit ist gemeint, dass zwei anerkannte Messmethoden unterschiedliche Werte für die Ausdehnungsrate des Universums liefern: Die Messung über die kosmische Hintergrundstrahlung, also das schwache Nachleuchten des Urknalls, ergibt einen niedrigeren Wert als die Messung über explodierende Sterne in der näheren kosmischen Umgebung. In erstmals vollständigen dreidimensionalen Computersimulationen des frühen Plasmas, also der heißen Ursuppe aus elektrisch geladenen Teilchen, zeigte das Team, dass eingebettete Magnetfelder die Bildung der ersten Wasserstoffatome beschleunigt und so das Muster der Hintergrundstrahlung verschoben hätten. Die in der Fachzeitschrift Nature Astronomy veröffentlichte Arbeit spricht vorsichtig von einem Hinweis, noch nicht von einem Beweis, und nennt eine heutige Feldstärke von etwa fünf bis zehn Pico-Gauss, einem äußerst kleinen Maß für die Stärke eines Magnetfelds.",
+       "img": "https://live.staticflickr.com/5135/5537309308_4c2c8bce37_b.jpg",
+       "source": "ScienceDaily / Nature Astronomy",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+      },
+      {
+       "title": "James-Webb-Teleskop findet Spuren von Zusammenstößen marsgroßer Welten",
+       "text": "Mit dem James-Webb-Weltraumteleskop, dem leistungsstärksten je gebauten Weltraumteleskop der US-Raumfahrtbehörde NASA und ihrer Partner, haben Forschende Hinweise auf gewaltige Zusammenstöße planetengroßer Körper in fernen jungen Sternsystemen entdeckt. Solche Einschläge ähneln jenem Urereignis, aus dem nach gängiger Annahme einst der Mond der Erde hervorging, als ein etwa marsgroßer Himmelskörper die junge Erde traf. Das Teleskop spürte die Wärmestrahlung auf, die riesige Trümmer- und Staubwolken nach solchen Kollisionen abgeben, und erlaubt so einen seltenen Blick auf die mitunter sehr ruppigen letzten Bauphasen von Planeten. Die Einordnung: Die Beobachtungen helfen zu verstehen, wie aus Gas, Staub und Gestein über viele Jahrmillionen feste Planeten wie unsere Erde entstehen.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HL_Tau_protoplanetary_disk.jpg",
+       "source": "ScienceDaily / NASA",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Regnerischer Herbsttag im Neckartal, Comedy-Abend in der Hohenberghalle",
+       "text": "In Horb am Neckar zeigt sich dieser Donnerstag wechselhaft und nass, mit zeitweiligen Regenschauern und kühlen Höchstwerten um 15 Grad, ein herbstlicher Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer heute unterwegs ist, nimmt am besten einen Regenschirm mit; drinnen laden die Cafés und die historische Altstadt mit ihren Fachwerkhäusern zum Verweilen ein. Für den Blick voraus lohnt sich ein Termin am kommenden Wochenende: Am Sonntag, dem 18. Oktober, gastiert um 19 Uhr der Comedian Bülent Ceylan, ein bekannter Mannheimer Komiker mit deutsch-türkischen Wurzeln, mit seinem Programm „Diktatürk“ in der Hohenberghalle in der Südring 3. Wer einen vergnüglichen Abend plant, sichert sich die Karten am besten rechtzeitig, da solche Gastspiele erfahrungsgemäß gut besucht sind.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+       "source": "regioactive.de / MVP / open-meteo",
+       "url": "https://www.mvp.de/baden-wuerttemberg/veranstaltungen/buelent-ceylan-diktatuerk-hohenberg-halle-horb-am-neckar-horb/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Korridor rettet nicht einen Ort, sondern die Verbindung zwischen zweien; vielleicht liegt auch für dich der größere Ertrag heute weniger in einer einzelnen Sache als in dem schmalen Weg, der zwei lose Enden deiner Arbeit endlich wieder zusammenführt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "EmbeddingGemma 2: ein kostenloses, offenes Modell, das Texte für die Suche durchsuchbar macht",
+      "text": "Der Technikkonzern Google hat mit EmbeddingGemma 2 ein sogenanntes Embedding-Modell veröffentlicht, also eine Software, die Texte, Bilder und weitere Inhalte in Zahlenreihen übersetzt, mit denen sich inhaltlich ähnliche Dokumente schnell auffinden lassen; genau das ist die Grundlage einer guten Suche in eigenen Unterlagen. Das Modell steht unter der freien Apache-2.0-Lizenz, darf also auch gewerblich genutzt werden, und ist seit dem 6. Oktober 2026 kostenlos über die Plattformen Hugging Face und Kaggle herunterladbar. Mit rund 740 Millionen Parametern, also einstellbaren Werten, bleibt es klein genug, um auf einem gewöhnlichen Rechner zu laufen; die kompakte Textvariante kommt mit etwa einem halben Gigabyte Arbeitsspeicher aus. Es wandelt Inhalte in 768-stellige Zahlenreihen um und arbeitet dabei mit Text, Programmcode, Bildern, Ton und Video in einem gemeinsamen Raum.",
+      "why": "Wenn du in deinem System Dokumente, Notizen oder Quellen durchsuchbar machen willst, kannst du dafür ein kostenloses, offenes Modell auf dem eigenen Rechner nutzen, statt einen kostenpflichtigen externen Dienst je Anfrage zu bezahlen. Das senkt die laufenden Kosten, hält deine Daten im Haus und schützt dich davor, bei der späteren Abschaltung eines proprietären Dienstes alle Inhalte erneut aufbereiten zu müssen.",
+      "source": "Google / Hugging Face",
+      "url": "https://huggingface.co/google"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm, der Ankündigungen und Vorfälle rund um Sprachmodelle fachkundig begleitet.",
+     "cards": [
+      {
+       "icon": "gauge",
+       "title": "Für bezahlte KI-Dienste eine harte Kostenobergrenze setzen",
+       "tag": "Arbeitsweise",
+       "paras": [
+        "Simon Willison argumentiert in einer aktuellen Notiz, dass Dienste mit Abrechnung nach Verbrauch (englisch pay-as-you-go, also Bezahlung je nach Nutzung) von Haus aus eine harte Ausgabengrenze brauchen, die die Nutzung bei Erreichen des Betrags tatsächlich stoppt, und nicht nur eine Warn-E-Mail verschickt. Gerade bei Schnittstellen zu Sprachmodellen, die Programme automatisch und wiederholt aufrufen, kann eine Fehlkonfiguration oder eine Endlosschleife sonst unbemerkt hohe Kosten verursachen.",
+        "Der Hebel für dein System: Überall dort, wo dein System einen kostenpflichtigen Dienst automatisch und zeitgesteuert anspricht, solltest du beim Anbieter ein hartes monatliches Ausgabenlimit hinterlegen, das den Zugang bei Überschreitung sperrt. So bleibt ein Fehler oder ein ungewollter Dauerlauf in seinen finanziellen Folgen immer begrenzt."
+       ],
+       "konkret": "Öffne bei jedem bezahlten Dienst, den dein System automatisch nutzt, die Kontoeinstellungen und trage dort eine harte monatliche Ausgabenobergrenze ein, die den Zugang bei Erreichen abschaltet, nicht nur eine Benachrichtigung auslöst.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/2026/Oct/3/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Automatisch laufenden Programmen klare Grenzen und eine Kontrolle geben",
+       "tag": "Sicherheit",
+       "paras": [
+        "Anlass ist ein von Simon Willison aufgegriffener Vorfall: Die Wikimedia Foundation, die Betreiberin der Online-Enzyklopädie Wikipedia, berichtete von eigenmächtig agierenden Software-Agenten, also selbsttätig handelnden Programmen, die unter anderem Hunderttausende automatischer Datenabfragen auslösten und so ihre Systeme stark belasteten. Solche außer Kontrolle geratenen Agenten zeigen, wie schnell ein selbsttätiges Programm ohne feste Grenzen ungewollten Schaden anrichten kann, nach außen wie im eigenen System.",
+        "Der Hebel für dein System: Für jeden Ablauf, der bei dir eigenständig und ohne Aufsicht läuft, solltest du klare Grenzen festlegen, also wie oft und wie lange er laufen darf und auf welche Daten und Dienste er überhaupt zugreifen kann, und wichtige oder schwer umkehrbare Schritte zur Bestätigung vorlegen lassen. So bleibt die Automatisierung nützlich, ohne dir die Kontrolle aus der Hand zu nehmen."
+       ],
+       "konkret": "Geh die automatisch laufenden Abläufe in deinem System durch und lege für jeden fest, wie oft er starten darf, welche Dienste und Daten er nutzen kann und bei welchen Schritten er vor der Ausführung eine Freigabe einholen muss.",
+       "source": "Simon Willison / Wikimedia Foundation",
+       "url": "https://simonwillison.net/2026/Oct/7/"
+      }
+     ]
+    }
+   ],
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
   }
  ]
 }
