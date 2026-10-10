@@ -2,157 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Donnerstag, 1. Oktober 2026",
-      "weather": "rain",
-      "temp": "23°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser erste Oktobertag wechselhaft und nass, mit zeitweiligem Regen und milden Höchstwerten um 23 Grad, ein typischer Übergangstag vom Spätsommer in den Herbst. In der Welt beschäftigt ein gewaltsamer Zwischenfall im Cockpit eines Linienflugs nach Tel Aviv die israelische Regierung, während die Europäische Union über die Erweiterung auf dem Westbalkan berät. In der Wirtschaft steht der Tag ganz im Zeichen harter Konjunkturdaten, aus Lichtblick und Forschung kommen ein Fortschritt beim weltweiten Naturschutz und ein ungewöhnlicher Blick von Physikern auf den Schall. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Israel wertet Zwischenfall im Cockpit eines Flugs nach Tel Aviv als versuchten Anschlag",
-              "text": "Nach einem gewaltsamen Vorfall im Cockpit, also im Steuerraum der Piloten, eines Flugs der Fluggesellschaft Flydubai aus den Vereinigten Arabischen Emiraten auf dem Weg nach Tel Aviv, der größten Stadt Israels, geht die israelische Regierung von einem versuchten Terroranschlag aus. Nach Darstellung der Behörden soll ein Mitglied der Besatzung die Maschine angegriffen haben; der Pilot konnte das Flugzeug sicher landen. Ministerpräsident Benjamin Netanjahu, der Regierungschef Israels, würdigte die Besonnenheit der Crew. Die Einordnung bleibt nüchtern: Die Hintergründe werden noch untersucht, und offizielle Stellen haben bislang nur erste Einschätzungen veröffentlicht.",
-              "source": "news.de / Euronews",
-              "url": "https://www.news.de/panorama/860045896/1-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-01-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-            },
-            {
-              "title": "EU berät über Erweiterung auf dem Westbalkan, Estland erhebt Sabotagevorwurf gegen Moskau",
-              "text": "Bundesaußenminister Johann Wadephul (Christlich Demokratische Union, CDU) nimmt in Montenegro, einem kleinen Staat an der Adriaküste, an einem Treffen der Außenminister zur geplanten Erweiterung der Europäischen Union um die Länder des westlichen Balkans teil; gemeint ist die Region zwischen Kroatien und Griechenland mit Staaten wie Serbien, Albanien und Nordmazedonien. Zugleich wirft Estland, ein baltischer EU- und NATO-Mitgliedstaat, der russischen Regierung in Moskau einen Sabotageakt vor, den es russischen Spezialdiensten zuschreibt. Auf europäischer Ebene wird außerdem ein Aufschub neuer Vorschriften zu Methan erwogen, einem Treibhausgas, das als Hauptbestandteil von Erdgas und aus der Landwirtschaft einen erheblichen Teil der Erderwärmung verursacht. Die Einordnung: Konkrete Beschlüsse stehen in mehreren dieser Felder noch aus, die Themen bleiben in Beratung.",
-              "source": "news.de / Euronews",
-              "url": "https://de.euronews.com/video/2026/10/01/nachrichten-des-tages-1-oktober-2026-morgenausgabe"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Harter Konjunkturtest mit Einkaufsmanagerindizes, EZB-Zins voraussichtlich stabil",
-              "text": "Der 1. Oktober bringt gleich mehrere viel beachtete Konjunkturdaten: Für Deutschland, den Euroraum und die USA werden die Einkaufsmanagerindizes (englisch Purchasing Managers' Index, PMI) veröffentlicht, also Umfragewerte unter Einkaufsleitern von Unternehmen, die als früher Stimmungsmesser für die Wirtschaft gelten; dazu kommt in den USA der ISM-Index des Institute for Supply Management, ein ähnlicher Indikator für die Industrie. Die Werte geben einen Hinweis darauf, ob sich die Industrie zum Jahresende belebt oder abschwächt. Mit Blick auf die Geldpolitik rechnen Fachleute damit, dass die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank, bei ihrer nächsten Sitzung am 29. Oktober die Leitzinsen zunächst unverändert lässt. Die Inflationsrate im Euroraum, also der Anstieg der Verbraucherpreise, dürfte 2026 bei rund 2,4 Prozent liegen.",
-              "source": "it-boltwise / Finanztip",
-              "url": "https://it-boltwise.de/wirtschaftskalender-am-1-oktober-2026-ezb-reden-und-pmi-updates.html"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Das Deutsche Institut für Wirtschaftsforschung (DIW Berlin) sieht die deutsche Wirtschaft wieder im Aufschwung und erwartet für 2026 ein Wachstum von knapp einem bis gut einem Prozent, getragen von anziehender Weltwirtschaft und staatlichen Investitionen. Trotz noch wackeliger Lage hellt sich das Umfeld für Angebote und größere Investitionen zum Jahresende voraussichtlich weiter auf.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Weltweites Ziel, 30 Prozent der Erde zu schützen, rückt in Reichweite",
-              "text": "Das international vereinbarte Ziel, bis zum Jahr 2030 rund 30 Prozent der Land- und Meeresflächen der Erde unter Schutz zu stellen (bekannt als das 30-mal-30-Ziel), gilt inzwischen als erreichbar. Nach einer aktuellen Auswertung stehen bereits etwa 20 Prozent der Landflächen und Binnengewässer unter Schutz, und bestehende Zusagen der Staaten dürften diesen Anteil bis 2030 auf rund 27 Prozent anheben. Das Ziel war 2022 auf der Weltnaturkonferenz der Vereinten Nationen im kanadischen Montreal beschlossen worden, um dem Verlust der Artenvielfalt entgegenzuwirken. Die Botschaft ist eine der Zuversicht: Ein ehrgeiziges Naturschutzziel, das lange als kaum erreichbar galt, kommt in greifbare Nähe, auch wenn für die letzten Prozentpunkte zusätzliche Anstrengungen nötig bleiben.",
-              "img": "https://live.staticflickr.com/4110/5050762679_fa337396c7_b.jpg",
-              "source": "Positive News / Vereinte Nationen",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
-            },
-            {
-              "title": "Lebensverlängerndes Medikament gegen fortgeschrittenen Brustkrebs wird in England verfügbar",
-              "text": "In England wird ein Medikament, das Patientinnen mit unheilbarem, also nicht mehr heilbarem Brustkrebs zusätzliche Lebenszeit schenken kann, nun doch über den staatlichen Gesundheitsdienst NHS (National Health Service, der steuerfinanzierte Gesundheitsdienst Großbritanniens) bereitgestellt. Die Kostenübernahme war zuvor abgelehnt worden; erst zwei Jahre nach der eigentlichen Zulassung des Wirkstoffs ist der Zugang jetzt gesichert. Damit erhalten Betroffene eine Behandlungsmöglichkeit, die das Fortschreiten der Erkrankung bremsen soll. Die Einordnung: Für viele Patientinnen bedeutet die Entscheidung einen konkreten Gewinn an wertvoller Zeit, nachdem lange um die Finanzierung gerungen wurde.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Physiker beobachten erstmals einzelne Quantensprünge des Schalls in Echtzeit",
-              "text": "Forschende der Stanford University, einer renommierten Hochschule im US-Bundesstaat Kalifornien, haben erstmals in Echtzeit beobachtet, wie einzelne Schallquanten zwischen Energiezuständen springen. Ein solches Schallquant, Fachbegriff Phonon, ist das kleinstmögliche Energiepaket einer Schwingung, so wie das Lichtteilchen (Photon) das kleinste Energiepaket des Lichts ist. Das Team konnte verfolgen, wie ein einzelnes Phonon aus einem Energiezustand verschwindet und in einen anderen übergeht, ein Vorgang, der bislang zu schnell und zu winzig für eine direkte Messung war. Die Einordnung: Ein so genauer Blick auf einzelne Schwingungsquanten ist vor allem für Quantentechnologien bedeutsam, etwa für künftige Quantencomputer, die Informationen auf der Ebene einzelner Teilchen verarbeiten.",
-              "img": "https://live.staticflickr.com/136/328008692_8eebe04d35_b.jpg",
-              "source": "ScienceDaily / Stanford University",
-              "url": "https://www.sciencedaily.com/news/matter_energy/physics/"
-            },
-            {
-              "title": "Neues Bauteil lenkt einen Lichtstrahl in 74 Billiardstel Sekunden um",
-              "text": "Am California Institute of Technology (Caltech), einer führenden technischen Hochschule in Kalifornien, haben Forschende ein Bauteil entwickelt, das einen Lichtstrahl allein mit Hilfe eines zweiten Lichtstrahls umlenken kann, und zwar in nur 74 Femtosekunden. Eine Femtosekunde ist ein Billiardstel einer Sekunde, also eine unvorstellbar kurze Zeitspanne, in der Licht nicht einmal den Durchmesser eines Haares zurücklegt. Möglich wird das durch eine sogenannte Metaoberfläche aus Silizium, eine hauchdünne, kunstvoll strukturierte Schicht, deren winzige Bauelemente kleiner als die Wellenlänge des Lichts sind. Die Einordnung: Eine so schnelle, rein optische Steuerung von Licht könnte langfristig die Grundlage für extrem schnelle Datenverarbeitung und Kommunikation bilden, die weniger auf elektrischen Strom angewiesen ist.",
-              "source": "ScienceDaily / California Institute of Technology",
-              "url": "https://www.sciencedaily.com/news/matter_energy/technology/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nasser Herbstbeginn im Neckartal, Lange Nacht der Lichter am 9. Oktober",
-              "text": "In Horb am Neckar beginnt dieser erste Oktobertag wechselhaft und nass, mit zeitweiligem Regen und milden Höchstwerten um 23 Grad, ein ruhiger Übergangstag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer heute unterwegs ist, kommt mit Regenschirm durch den Tag; drinnen laden die Cafés und die historische Altstadt mit ihren Fachwerkhäusern zum Verweilen ein. Für den Blick voraus lohnt sich der Abend des 9. Oktober: Dann verwandelt die Lange Nacht der Lichter die Innenstadt von 18 bis 22 Uhr in eine beleuchtete Einkaufs- und Kulturnacht, begleitet von einem Nacht-Flohmarkt. Am Samstag darauf, dem 10. Oktober, schließt sich ein Flohmarkt auf der Turnierwiese an, sodass sich beide Termine gut zu einem Wochenende verbinden lassen.",
-              "img": "https://pd.w.org/2023/04/53642d6726109c63.98413201-2048x1365.jpg",
-              "source": "veranstaltung-baden-wuerttemberg.de / open-meteo",
-              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Regen hält uns für einen Tag an einem Ort fest, und manchmal ist genau das der Rahmen, in dem eine liegengebliebene Sache endlich ihre Ruhe und ihre Aufmerksamkeit bekommt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "KOMPASS, ein Förderprogramm mit Zuschuss für die Weiterbildung von Solo-Selbständigen",
-            "text": "Das Programm KOMPASS (eine Abkürzung für Kompakte Hilfe für Solo-Selbständige) ist ein vom Europäischen Sozialfonds Plus (ESF Plus), dem Förderfonds der Europäischen Union für Arbeit und Qualifizierung, mitfinanziertes Angebot. Es unterstützt Einzelunternehmerinnen und Einzelunternehmer ohne Angestellte mit einem Zuschuss von bis zu 4.500 Euro für berufliche Weiterbildung, etwa zu Themen wie Digitalisierung, künstliche Intelligenz oder Unternehmensführung. Anträge laufen über regionale Anlaufstellen; das Programm ist noch bis zum 28. Februar 2028 angelegt, Mittel und Beratungsplätze sind aber begrenzt.",
-            "why": "Als Solo-Unternehmer kannst du über KOMPASS einen Teil der Kosten für eine gezielte Weiterbildung erstattet bekommen, statt sie vollständig selbst zu tragen. Ein kurzer Blick auf die Teilnahmebedingungen und ein früher Kontakt zur zuständigen Anlaufstelle sichern dir einen Beratungsplatz, bevor die Nachfrage im neuen Jahr wieder steigt.",
-            "source": "skill-sprinters.de / ESF Plus",
-            "url": "https://skill-sprinters.de/blog/ki-digitalisierung/foerderung-weiterbildung-baden-wuerttemberg/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei praktische Signale rund um die neuen Sprachmodelle, eingeordnet nach den Notizen des Entwicklers Simon Willison, der Modell-Veröffentlichungen fachkundig begleitet. Anthropic, das Unternehmen hinter dem Chatprogramm Claude, hat am 28. September das Modell Claude Sonnet 5.5 vorgestellt.",
-          "cards": [
-            {
-              "icon": "layers",
-              "title": "Günstigeres, schnelleres Modell prüfen und bei Bedarf umstellen",
-              "tag": "Arbeitsweise",
-              "paras": [
-                "Laut Simon Willison läuft das neue Modell Claude Sonnet 5.5 nach Angaben des Herstellers Anthropic rund dreißig Prozent schneller und kostet für die meisten Aufgaben bis zu dreißig Prozent weniger als sein Vorgänger, bei zugleich besseren Messwerten in allen getesteten Vergleichstests (Benchmarks). Bei bestimmten Programmieraufgaben erreicht es sogar eine Qualität, die dem deutlich teureren Spitzenmodell nahekommt.",
-                "Der Hebel für dein System: Dort, wo du heute ein älteres oder teureres Modell einsetzt, kann ein Wechsel deine laufenden Kosten je Anfrage senken und die Antwortzeiten verkürzen. Prüfe das anhand einer typischen Aufgabe, bevor du dauerhaft umstellst, damit die Qualität für deinen Zweck weiterhin sicher ausreicht."
-              ],
-              "konkret": "Nimm eine Aufgabe, die du regelmäßig an ein Sprachmodell gibst, und lasse sie einmal vom bisherigen und einmal vom neueren, günstigeren Modell bearbeiten; vergleiche Ergebnis, Tempo und Kosten, bevor du die Umstellung festlegst.",
-              "source": "Simon Willison / Anthropic",
-              "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
-            },
-            {
-              "icon": "terminal",
-              "title": "Den Denk-Aufwand des Modells bewusst steuern",
-              "tag": "Werkzeug",
-              "paras": [
-                "Viele aktuelle Modelle lassen sich in der Tiefe ihres Nachdenkens einstellen, dem sogenannten Thinking Effort, also wie viel Rechenaufwand das Modell vor der Antwort in eine innere Überlegung steckt. Simon Willison weist darauf hin, dass die höchste Stufe (max) in ungünstigen Fällen das Token-Budget, also die begrenzte Menge an verarbeitbaren Text-Einheiten, aufbrauchen kann, ohne überhaupt eine Antwort zu liefern, während eine Stufe darunter (xhigh) bei ähnlicher Qualität deutlich wirtschaftlicher ausfällt.",
-                "Der Hebel für dein System: Für einfache, klar umrissene Aufgaben genügt oft eine mittlere Denk-Stufe, während du die höchste Stufe bewusst nur für wirklich schwierige Fälle reservierst. So vermeidest du unnötige Kosten und leere Antworten und hältst dein System berechenbar."
-              ],
-              "konkret": "Lege für deine wiederkehrenden Aufgaben eine passende Denk-Stufe fest, also eine niedrige bis mittlere für einfache und die höchste nur für komplexe Fälle, statt überall die aufwendigste Einstellung zu verwenden.",
-              "snippetLabel": "Denk-Stufe je nach Aufgabe (Skizze)",
-              "snippet": "Aufgabe: <span class=\"ph\">{Beschreibung der Aufgabe}</span>\nSchwierigkeit: <span class=\"ph\">{einfach | mittel | komplex}</span>\nDenk-Stufe: einfach -> niedrig, mittel -> mittel, komplex -> hoch\nAntworte so knapp wie möglich und nur zur gestellten Aufgabe.",
-              "source": "Simon Willison / Anthropic",
-              "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Freitag, 2. Oktober 2026",
       "weather": "rain",
       "temp": "20°C · Regen",
@@ -1054,6 +903,157 @@
               ],
               "konkret": "Trenne die Arbeits- und Ablageorte deiner automatischen Abläufe voneinander und lege fest, dass von außen eingelesene oder zwischen Abläufen weitergereichte Inhalte nie als Anweisungen, sondern nur als zu prüfende Daten behandelt werden.",
               "source": "Simon Willison / Matthew Green",
+              "url": "https://simonwillison.net/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Samstag, 10. Oktober 2026",
+      "weather": "rain",
+      "temp": "15°C · Regen",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen an diesem Samstag Regenschauer durch, und die Höchstwerte bleiben mit rund 15 Grad herbstlich kühl. In Oslo hat die norwegische Nobelkomitee den Friedensnobelpreis an die südafrikanische Juristin Navi Pillay vergeben, und Kenia hat seinen ersten Fall des gefährlichen Ebola-Fiebers bestätigt. Aus Wirtschaft, Lichtblick und Forschung kommen eine angehobene Wachstumsprognose für Deutschland, drei neue Nationalparks in Australien sowie zwei Blicke tief ins All und in die Quantenwelt. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Friedensnobelpreis 2026 geht an die Menschenrechtsjuristin Navi Pillay",
+              "text": "Das norwegische Nobelkomitee in Oslo hat den Friedensnobelpreis 2026 der südafrikanischen Juristin Navanethem „Navi“ Pillay zugesprochen, und zwar „für ihren Einsatz für Frieden und Völkerrecht“. Das Völkerrecht ist das Regelwerk, das die Beziehungen zwischen Staaten ordnet. Pillay war von 2008 bis 2014 Hohe Kommissarin der Vereinten Nationen für Menschenrechte, also die oberste Beauftragte der UNO für dieses Thema, und wirkte zuvor als Richterin am Internationalen Strafgerichtshof für Ruanda, einem Sondergericht zur Aufarbeitung des Völkermords von 1994. UNO-Generalsekretär António Guterres würdigte sie als unabhängige Stimme für Gerechtigkeit, auch Südafrikas Präsident Cyril Ramaphosa gratulierte. Die Einordnung bleibt sachlich: Die feierliche Übergabe ist für den 10. Dezember in Oslo vorgesehen.",
+              "source": "UN News / Nobelprize.org",
+              "url": "https://news.un.org/en/story/2026/10/1168558"
+            },
+            {
+              "title": "Kenia bestätigt ersten Ebola-Fall nach dem Tod eines Reisenden aus dem Kongo",
+              "text": "Die Gesundheitsbehörden Kenias, eines Landes in Ostafrika, haben am 6. Oktober den ersten Ebola-Fall des Landes bestätigt. Ebola ist eine durch ein Virus ausgelöste, oft schwer verlaufende Infektionskrankheit, die mit hohem Fieber und inneren Blutungen einhergeht und von Mensch zu Mensch über Körperflüssigkeiten übertragen wird. Betroffen war ein Mann, der jahrelang in der Demokratischen Republik Kongo gelebt hatte und über Uganda nach Nairobi, der Hauptstadt Kenias, gereist war; er starb kurz nach seiner Einlieferung. Nach Angaben der Regierung wurden enge Kontaktpersonen sowie Mitreisende seines Flugs ermittelt und unter Beobachtung gestellt, und die Grenzübergänge wurden in erhöhte Bereitschaft versetzt. Die Einordnung, nüchtern: Der Fall steht im Zusammenhang mit einem seit Mai andauernden Ausbruch im Osten des Kongo, und das rasche Aufspüren von Kontaktpersonen gilt als wichtigster Hebel, um eine weitere Ausbreitung zu verhindern.",
+              "source": "Reuters / ABC News",
+              "url": "https://abcnews.com/Business/wireStory/kenya-confirms-ebola-case-death-man-traveled-congo-137035954"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Landesbank hebt Wachstumsprognose für Deutschland an, EZB auf Straffungskurs",
+              "text": "Die Landesbank Baden-Württemberg, kurz LBBW, eine der größten deutschen Geschäftsbanken mit Sitz in Stuttgart, hat ihre Konjunkturprognose angehoben und erwartet nun für Deutschland in den Jahren 2026 und 2027 ein Wirtschaftswachstum von jeweils rund 1,0 Prozent. Konjunktur bezeichnet die gesamtwirtschaftliche Lage, also ob die Wirtschaft eines Landes wächst oder schrumpft. Die Bank begründet die Anhebung damit, dass die heimische Wirtschaft besser laufe als zuvor erwartet; für den Euroraum, den Verbund der Länder mit der gemeinsamen Währung Euro, rechnet sie mit 1,0 und 1,3 Prozent. Zugleich sieht die LBBW die Europäische Zentralbank, kurz EZB, die für den Euro zuständige Notenbank in Frankfurt am Main, weiter auf einem Kurs der geldpolitischen Straffung, also eher steigender Zinsen; der Einlagesatz liegt derzeit bei 2,50 Prozent. Der sogenannte Wirtschaftsstimmungsindikator der EU-Kommission, ein Barometer für die Stimmung in Unternehmen und bei Verbrauchern, lag im September bei 97,9 Punkten und damit knapp unter dem langjährigen Mittel von 100.",
+              "source": "LBBW Research",
+              "url": "https://www.lbbw.de/artikel/pressemitteilung/lbbw-research-baden-wuerttemberg-waechst-2026_aniav6ttya_d.html"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Dass eine große Landesbank ihre Wachstumsprognose nach oben korrigiert, ist ein vorsichtig positives Signal für die Auftragslage im kommenden Jahr. Für dich als Solo-Unternehmer kann das bedeuten, dass Kunden wieder etwas investitionsfreudiger werden; zugleich spricht der Straffungskurs der EZB dafür, dass Kredite teurer bleiben, Erspartes und Tagesgeld dagegen weiter ordentlich verzinst werden. Wer größere Ausgaben plant, vergleicht die Konditionen daher besser jetzt, statt auf bald sinkende Zinsen zu setzen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Australischer Bundesstaat Victoria richtet drei neue Nationalparks ein",
+              "text": "Der australische Bundesstaat Victoria im Südosten des Landes hat die Einrichtung von drei neuen Nationalparks angekündigt, um bedrohte Tierarten zu schützen. Ein Nationalpark ist ein großräumiges Schutzgebiet, in dem die Natur weitgehend sich selbst überlassen bleibt und menschliche Eingriffe stark beschränkt sind. Geschützt werden sollen unter anderem Gleitbeutler, also baumbewohnende Beuteltiere, die mithilfe einer Hautfalte zwischen ihren Gliedmaßen von Baum zu Baum gleiten, sowie mehrere Eulenarten. Solche Beuteltiere und Eulen brauchen alte, zusammenhängende Wälder mit großen Bäumen, in deren Höhlen sie wohnen. Die Botschaft ist eine der Zuversicht: Wo große Waldgebiete dauerhaft unter Schutz gestellt werden, erhalten auch seltene, auf alten Baumbestand angewiesene Arten wieder eine verlässliche Heimat.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sheldon_Forest_Australia.JPG",
+              "source": "Good News Network",
+              "url": "https://www.goodnewsnetwork.org/category/news/"
+            },
+            {
+              "title": "Studie: Beteiligung der Bevölkerung ist der Schlüssel zum Erfolg im Naturschutz",
+              "text": "Eine Auswertung erfolgreicher Naturschutzprojekte aus aller Welt kommt zu dem Ergebnis, dass die Einbindung der örtlichen Bevölkerung einer der wichtigsten Faktoren für dauerhaften Erfolg ist. Untersucht wurde, warum manche Schutzvorhaben gelingen und andere scheitern. Entscheidend war demnach weniger die Höhe des eingesetzten Geldes als die Frage, ob die Menschen vor Ort das Vorhaben mittragen und selbst Verantwortung übernehmen. Die Einordnung: Naturschutz wird oft als rein technische oder finanzielle Aufgabe gesehen; die Studie zeigt, dass er vor allem dort gelingt, wo er als gemeinsames Anliegen der Menschen verstanden wird, die in und mit einer Landschaft leben.",
+              "source": "Good News Network",
+              "url": "https://www.goodnewsnetwork.org/category/news/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Neun Milliarden Jahre altes Signal könnte die Dunkle Energie erhellen",
+              "text": "Mit dem kanadischen Radioteleskop CHIME, einer großen Antennenanlage zur Beobachtung von Radiowellen aus dem All, haben Forschende ein äußerst schwaches Signal aufgefangen, das vor rund neun Milliarden Jahren ausgesandt wurde. Es stammt von Wasserstoff, dem häufigsten Element des Universums, und zeigt, wie dieses Gas in jener fernen Frühzeit im Weltall verteilt war. Ein Radioteleskop fängt im Gegensatz zu gewöhnlichen Fernrohren keine sichtbaren Lichtstrahlen, sondern unsichtbare Radiowellen auf. Die Einordnung: Das Verfahren eröffnet einen neuen Weg, den fernen Kosmos großflächig zu kartieren, und könnte helfen, die rätselhafte Dunkle Energie zu verstehen, also jene bislang unerklärte Kraft, die das Universum immer schneller auseinandertreibt.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Southern_Milky_Way_Above_ALMA.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Eine Quantenvorhersage aus dem Jahr 1931 ist erstmals sichtbar geworden",
+              "text": "Physikern ist es gelungen, einen Zustand der Materie unmittelbar zu beobachten, den der Physiker Hans Bethe bereits 1931 theoretisch vorhergesagt hatte, die sogenannten Bethe-Strings. Dafür kühlten sie Cäsium-Atome, also Atome eines weichen Metalls, bis fast auf den absoluten Nullpunkt herunter, die tiefste überhaupt mögliche Temperatur von etwa minus 273 Grad Celsius, und hielten sie in einer Falle aus Laserlicht fest. Bei dieser extremen Kälte verhalten sich die Teilchen nach den Regeln der Quantenphysik, jenem Teilgebiet der Physik, das das Verhalten allerkleinster Bausteine beschreibt. Die Einordnung: Dass sich eine fast hundert Jahre alte Vorhersage nun direkt nachweisen lässt, bestätigt die Tragfähigkeit grundlegender physikalischer Theorien und hilft, das Zusammenspiel vieler Teilchen besser zu verstehen.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Regnerischer Samstag im Neckartal, Kriminal-Dinner und A-cappella-Konzert am 16. Oktober",
+              "text": "In Horb am Neckar ziehen an diesem Samstag Regenschauer durch, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Für Wege nach draußen empfiehlt sich ein Regenschirm; wer es trocken mag, findet in den Cafés und der historischen Altstadt mit ihren Fachwerkhäusern Unterschlupf. Für den kommenden Freitag, den 16. Oktober, bieten sich zwei Abende an: Um 19 Uhr lädt der Gasthof Adler zu einem Kriminal-Dinner mit dem Titel „Prêt-à-morter“, bei dem die Gäste zu einem Drei-Gänge-Menü einen fiktiven Kriminalfall miterleben und mitlösen. Am selben Abend singt um 20 Uhr das Ensemble Vocalmania in der Kirche Mariä Geburt im Ortsteil Horb-Altheim ein A-cappella-Konzert, also Gesang ganz ohne Instrumentalbegleitung.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+              "source": "eventfinder.de / regioactive.de / open-meteo",
+              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein Signal von vor neun Milliarden Jahren erreicht uns erst heute als leisestes Flüstern; vielleicht lohnt es sich auch bei dir, den schwachen, langsamen Hinweisen Gehör zu schenken, die sich erst nach langer Reise zu erkennen geben."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "BAFA-Beratungsförderung: bis zu 50 Prozent Zuschuss, Richtlinie läuft Ende 2026 aus",
+            "text": "Das Bundesprogramm „Förderung unternehmerischen Know-hows“, abgewickelt über das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), bezuschusst professionelle Unternehmensberatung für kleine und mittlere Unternehmen sowie für Freiberufler und Soloselbstständige. Ein Zuschuss ist, anders als ein Kredit, Geld, das nicht zurückgezahlt werden muss. In den alten Bundesländern werden nach Angaben der IHK Nürnberg 50 Prozent der förderfähigen Beratungskosten übernommen, bei einer Bemessungsgrundlage von 3.500 Euro also bis zu 1.750 Euro je Beratung. Voraussetzung ist unter anderem, dass das Unternehmen seit mindestens einem Jahr am Markt tätig ist und ein bei der BAFA gelisteter Berater beauftragt wird; der Antrag muss vor Beratungsbeginn online gestellt werden.",
+            "why": "Die aktuelle Förderrichtlinie läuft laut IHK nur noch bis zum 31. Dezember 2026. Wenn du ohnehin über eine Beratung zu Digitalisierung, Prozessen oder Geschäftsmodell nachdenkst, lohnt es sich, das Vorhaben in diesem Zeitfenster anzustoßen. Prüfe die genauen Bedingungen und Förderquoten vorab auf der offiziellen BAFA-Seite, da einige Details je nach Quelle abweichen.",
+            "source": "IHK Nürnberg / BAFA",
+            "url": "https://www.ihk-nuernberg.de/ihr-unternehmen/gruendung/coaching-beratungsfoerderung/bafa-programm"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm, der Neuerungen rund um Sprachmodelle fachkundig begleitet.",
+          "cards": [
+            {
+              "icon": "gauge",
+              "title": "Für bezahlte Dienste eine harte Kostenobergrenze setzen, nicht nur eine Warnung",
+              "tag": "Kosten",
+              "paras": [
+                "Simon Willison plädiert dafür, dass Dienste mit Abrechnung je Nutzung, etwa die kostenpflichtigen Schnittstellen von Sprachmodellen oder Cloud-Diensten, standardmäßig eine harte Ausgabengrenze haben sollten. Eine harte Grenze bedeutet: Ist der gesetzte Betrag erreicht, verweigert der Dienst die weitere Arbeit und meldet einen Fehler, statt einfach weiter Kosten anzuhäufen. Eine bloße Warn-E-Mail, so sein Argument, komme oft zu spät und reiche nicht.",
+                "Der Hebel für dein System: Überall dort, wo dein System automatisch und ohne dein Zutun kostenpflichtige Dienste aufruft, solltest du ein festes Monats- oder Tagesbudget hinterlegen, das den Zugang kappt, sobald es ausgeschöpft ist. So kann eine fehlerhafte Schleife oder ein unerwarteter Ansturm deine Rechnung nicht unbemerkt in die Höhe treiben."
+              ],
+              "konkret": "Lege für jeden kostenpflichtigen Dienst, den dein System automatisch nutzt, im jeweiligen Konto ein hartes Ausgabenlimit fest, das bei Erreichen abschaltet, und prüfe, ob eine zusätzliche Warnschwelle bei etwa der Hälfte eingerichtet werden kann.",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Tote Zeiten per Sprache nutzen und das Diktat vom Modell aufräumen lassen",
+              "tag": "Produktivität",
+              "paras": [
+                "Simon Willison berichtet, dass er eine kleine Übersichtsseite für seinen Blog fast vollständig erstellt hat, indem er beim Kochen zu seinem Rechner sprach. Moderne Spracherkennung, also die automatische Umwandlung gesprochener Sprache in Text, ist inzwischen so zuverlässig, dass sich Ideen, Notizen oder Entwürfe auch nebenbei festhalten lassen, ohne an der Tastatur zu sitzen.",
+                "Der Hebel für dein System: Du kannst tote Zeiten, etwa unterwegs oder bei Routinetätigkeiten, nutzen, um Gedanken einzusprechen, und anschließend ein Sprachmodell den rohen Diktattext in saubere Stichpunkte oder einen Entwurf überführen lassen. Wichtig ist dabei die Anweisung, nichts hinzuzuerfinden, sondern nur zu ordnen."
+              ],
+              "konkret": "Zeichne eine Sprachnotiz auf, lass sie automatisch in Text umwandeln und übergib diesen Text mit einem knappen Auftrag an ein Sprachmodell, das ihn nur strukturiert und nichts Inhaltliches ergänzt.",
+              "snippetLabel": "Diktat ordnen lassen",
+              "snippet": "Bringe den folgenden diktierten Text in klare Stichpunkte.\nFüge NICHTS inhaltlich hinzu, ordne und kürze nur:\n\n<span class=\"ph\">{diktierter_text}</span>",
+              "source": "Simon Willison",
               "url": "https://simonwillison.net/"
             }
           ]
