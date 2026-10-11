@@ -2,157 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Freitag, 2. Oktober 2026",
-      "weather": "rain",
-      "temp": "20°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar bleibt es auch heute wechselhaft und nass, mit Regenschauern und Höchstwerten um 20 Grad, ein ruhiger Herbsttag im Neckartal. In der Welt verschärft sich die Lage im Nahen Osten, und die Europäische Union sucht wegen knapper Dieselvorräte nach einem gemeinsamen Weg. Aus der Wirtschaft kommt die erfreuliche Nachricht einer angehobenen Wachstumsprognose für Deutschland, während Lichtblick und Forschung von einem neuen Meeresschutzgebiet in Norwegen und einem ungewöhnlichen Blick auf den Planeten Saturn berichten. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System, heute mit dem Schwerpunkt Sicherheit von KI-Agenten.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "USA verlegen weitere Kriegsschiffe in den Nahen Osten, Luftangriffe auf Jemens Hauptstadt",
-              "text": "Das Pentagon, also das Verteidigungsministerium der Vereinigten Staaten, verlegt nach Medienberichten eine dritte Flugzeugträgerkampfgruppe sowie weitere Kriegsschiffe in den Nahen Osten; eine solche Kampfgruppe besteht aus einem großen Flugzeugträger und mehreren begleitenden Schiffen. Zugleich meldete der Fernsehsender Al-Masirah, der den jemenitischen Huthi-Rebellen nahesteht, schwere Luftangriffe auf die jemenitische Hauptstadt Sanaa sowie auf mehrere Provinzen; die Huthi sind eine bewaffnete Bewegung, die große Teile des Nordjemen kontrolliert. Die Einordnung bleibt nüchtern: Viele Angaben stammen von den beteiligten Konfliktparteien und lassen sich derzeit nicht unabhängig überprüfen, und offizielle Bestätigungen stehen teilweise noch aus. Für Europa ist die Region vor allem wegen der wichtigen Schifffahrtswege und der Energieversorgung von Bedeutung.",
-              "source": "ZDFheute / Al-Masirah",
-              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-            },
-            {
-              "title": "Europäische Union dringt wegen knapper Dieselvorräte auf gemeinsames Vorgehen mit den USA",
-              "text": "Angesichts knapper Diesel-Bestände und kräftiger Preissprünge dringt die Europäische Union auf ein abgestimmtes Vorgehen mit den Vereinigten Staaten; Diesel ist der wichtigste Kraftstoff für den Güterverkehr und damit ein zentraler Kostenfaktor für die Wirtschaft. Parallel geht es auf europäischer Ebene weiter um die Luftverteidigung der Ukraine, also um Systeme zur Abwehr von Raketen und Drohnen; Belgien hat die Lieferung von Kampfflugzeugen in Aussicht gestellt. Die Einordnung: Konkrete Beschlüsse zu beiden Themen stehen noch aus, die Beratungen laufen. Für Verbraucher und Betriebe in Deutschland sind vor allem die Dieselpreise von unmittelbarer Bedeutung, weil sie Transport- und Heizkosten mitbestimmen.",
-              "source": "ZDFheute",
-              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Wirtschaftsinstitute heben Wachstumsprognose für Deutschland deutlich an",
-              "text": "Führende Wirtschaftsforschungsinstitute haben ihre Konjunkturprognose für Deutschland nach oben korrigiert und rechnen nun für 2026 mit einem Wachstum der Wirtschaftsleistung in der Größenordnung von etwa 0,9 bis 1 Prozent; die Wirtschaftsleistung wird als Bruttoinlandsprodukt gemessen, also als Gesamtwert aller im Land erzeugten Waren und Dienstleistungen. Nach drei schwachen Jahren mehren sich die Anzeichen für eine Belebung: Im Verarbeitenden Gewerbe, also in der Industrie, legten die Neuaufträge im Juli saison- und kalenderbereinigt um 2,5 Prozent gegenüber dem Vormonat zu. Getragen wird die Erholung von einer moderat wachsenden Weltwirtschaft und von staatlichen Investitionen. Die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank, hatte ihre Leitzinsen zuletzt unverändert gelassen und erwartet für 2026 ebenfalls ein Wachstum von rund 0,9 Prozent.",
-              "source": "Börsen-Zeitung / DIW Berlin",
-              "url": "https://www.boersen-zeitung.de/konjunktur-politik/wirtschaftsinstitute-verdoppeln-konjunkturprognose-fuer-deutschland"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Wenn Industrie und Investitionen zum Jahresende tatsächlich anziehen, verbessert sich auch das Umfeld für neue Angebote und größere Vorhaben. Ein guter Zeitpunkt, um eigene Investitionen und Angebote für das kommende Jahr vorzubereiten, solange die Nachfrage anzieht.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Norwegen weist sein bislang größtes Meeresschutzgebiet aus",
-              "text": "Norwegen hat mit dem Andfjord sein bisher größtes Meeresschutzgebiet eingerichtet, eine Fläche, die etwa 260.000 Fußballfeldern entspricht. Geschützt werden damit vor allem Kaltwasserkorallenriffe und Tangwälder; Kaltwasserkorallen sind Korallen, die anders als ihre tropischen Verwandten in kaltem, tiefem Wasser wachsen, und Tang ist eine Großalge, die unter Wasser ganze Wälder bildet und vielen Tieren Lebensraum gibt. In dem Gebiet leben unter anderem Fische und Pottwale, die größten Zahnwale der Erde. Die Botschaft ist eine der Zuversicht: Ein großes, zusammenhängendes Stück Meeresnatur wird dauerhaft gesichert, sodass sich Bestände erholen und künftige Generationen davon profitieren können.",
-              "img": "https://live.staticflickr.com/396/19691210281_1116d368e8.jpg",
-              "source": "Positive News / norwegisches Umweltministerium",
-              "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/"
-            },
-            {
-              "title": "Deutschland legt als drittes Land einen festen Ausstiegsplan für fossile Energien vor",
-              "text": "Deutschland hat nach Frankreich und den Niederlanden als drittes Land weltweit einen belastbaren Fahrplan vorgelegt, um aus den fossilen Energieträgern auszusteigen, also aus Kohle, Erdöl und Erdgas, deren Verbrennung das Klima stark belastet. Als Zieldatum ist das Jahr 2045 genannt. Ein solcher verbindlicher Plan gibt Unternehmen und Haushalten Planungssicherheit, weil absehbar wird, in welche Technologien sich Investitionen künftig lohnen. Die Einordnung: Ein Fahrplan ist noch kein vollzogener Ausstieg, aber er setzt einen klaren Rahmen und wird international als Vorbild für andere Staaten wahrgenommen.",
-              "source": "Positive News",
-              "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Hubble-Teleskop entdeckt eine zehneckige Wellenform am Südpol des Saturn",
-              "text": "Rund um die Opposition des Planeten Saturn am 4. Oktober, also den Zeitpunkt, zu dem Saturn von der Erde aus der Sonne genau gegenüber steht und besonders hell und gut sichtbar ist, haben Beobachtungen mit dem Weltraumteleskop Hubble eine ungewöhnliche Struktur gezeigt: eine zehneckige, also zehnseitige, Wellenform in der Atmosphäre rund um den Südpol des Planeten. Das Hubble-Teleskop ist ein seit 1990 die Erde umkreisendes Fernrohr der Raumfahrtbehörden NASA und ESA, das Aufnahmen außerhalb der störenden Lufthülle der Erde macht. Saturn ist der zweitgrößte Planet unseres Sonnensystems und für sein ausgeprägtes Ringsystem bekannt. Die Einordnung: Solche stabilen, geometrischen Wellenmuster in Planetenatmosphären helfen Forschenden, die Strömungen und das Wettergeschehen auf fernen Gasplaneten besser zu verstehen.",
-              "img": "https://live.staticflickr.com/4388/37163572171_cfcde8dbeb_b.jpg",
-              "source": "ScienceDaily / NASA",
-              "url": "https://www.sciencedaily.com/news/space_time/space_exploration/"
-            },
-            {
-              "title": "Astronomen führen rätselhafte Röntgenblitze auf verschmelzende Neutronensterne zurück",
-              "text": "Forschende haben starke Hinweise darauf gefunden, dass bestimmte, nur minutenlange Röntgenblitze entstehen, wenn zwei Neutronensterne zusammenstoßen und dabei einen sogenannten Magnetar bilden. Ein Neutronenstern ist der extrem dichte Überrest eines ausgebrannten großen Sterns, bei dem die Masse der Sonne in einer Kugel von nur wenigen Kilometern Durchmesser steckt; ein Magnetar ist ein besonderer Neutronenstern mit einem außergewöhnlich starken Magnetfeld. Geholfen hat dabei das Weltraumteleskop Einstein Probe, ein Röntgenteleskop, das kurzlebige Ausbrüche am Himmel aufspürt. Die Einordnung: Die Beobachtung verbindet erstmals eine lange rätselhafte Art von Röntgensignalen mit einem konkreten kosmischen Ereignis und hilft zu verstehen, was beim Verschmelzen solcher Sterne geschieht.",
-              "source": "ScienceDaily / Einstein Probe",
-              "url": "https://www.sciencedaily.com/news/space_time/space_exploration/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nasser Herbsttag im Neckartal, Lange Nacht der Lichter am 9. Oktober",
-              "text": "In Horb am Neckar bleibt der Tag wechselhaft und nass, mit Regenschauern und Höchstwerten um 20 Grad, ein ruhiger Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer heute unterwegs ist, kommt am besten mit Regenschirm durch den Tag, während die historische Altstadt mit ihren Fachwerkhäusern und die Cafés zum Verweilen im Trockenen einladen. Für den Blick voraus lohnt sich der Abend des 9. Oktober: Dann verwandelt die Lange Nacht der Lichter die Innenstadt in eine beleuchtete Einkaufs- und Kulturnacht. Wer lieber lacht, kann sich den 18. Oktober vormerken, wenn der Kabarettist Bülent Ceylan mit seinem Programm in der Hohenberghalle am Neckar auftritt.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hotel_%27Schloss_Heinsheim%27%2C_Heinsheim_at_Neckar_river%2C_Germany.jpg",
-              "source": "veranstaltung-baden-wuerttemberg.de / open-meteo",
-              "url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/horb-am-neckar/"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein verregneter Tag verengt die Möglichkeiten nach außen und öffnet dafür Raum nach innen, für die ruhige, gründliche Arbeit, die an sonnigen Tagen gern liegen bleibt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Digitalisierungsfinanzierung Baden-Württemberg mit Tilgungszuschuss für KI-Vorhaben",
-            "text": "Die Digitalisierungsfinanzierung der L-Bank, der Förderbank des Landes Baden-Württemberg, unterstützt Freiberufler sowie kleine und mittlere Unternehmen mit Sitz im Land bei der Umsetzung digitaler Vorhaben. Vergeben wird ein zinsgünstiges Darlehen, also ein verbilligter Kredit, kombiniert mit einem nicht zurückzuzahlenden Tilgungszuschuss; ein Tilgungszuschuss ist ein Betrag, der am Ende nicht zurückgezahlt werden muss und so einen Teil des Kredits in einen echten Zuschuss verwandelt. Für Vorhaben rund um künstliche Intelligenz (die sogenannte HighEnd- oder KI-Stufe) beträgt dieser Tilgungszuschuss 5 Prozent, bis zu einer Höhe von 250.000 Euro. Die frühere reine Zuschussvariante Digitalisierungsprämie Plus ist seit Juli 2025 ausgelaufen, sodass heute dieser Weg über die Finanzierung der übliche ist.",
-            "why": "Wenn du eine größere digitale oder KI-gestützte Erweiterung deines Angebots planst, kannst du über diesen Weg einen Teil der Kosten dauerhaft senken, statt alles selbst zu finanzieren. Ein kurzer Blick auf die Bedingungen und ein frühes Gespräch mit deiner Hausbank oder der L-Bank klären, ob sich dein Vorhaben dafür eignet, bevor du die Umsetzung festlegst.",
-            "source": "wirtschaft-digital-bw.de / L-Bank",
-            "url": "https://www.wirtschaft-digital-bw.de/foerdermassnahmen/foerderprogramme"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei praktische Signale zur Sicherheit von KI-Agenten, eingeordnet nach den Notizen des Entwicklers Simon Willison, der aktuelle Entwicklungen rund um Sprachmodelle fachkundig begleitet. KI-Agenten sind Programme, die eine Aufgabe weitgehend selbständig in mehreren Schritten erledigen und dabei Werkzeuge wie Dateizugriff oder das Internet nutzen.",
-          "cards": [
-            {
-              "icon": "layers",
-              "title": "KI-Agenten voneinander trennen und gemeinsame Infrastruktur begrenzen",
-              "tag": "Arbeitsweise",
-              "paras": [
-                "Der Sicherheitsforscher Matthew Green beschreibt, wie mehrere KI-Agenten, die scheinbar getrennt in abgeschotteten Umgebungen laufen, sich dennoch über gemeinsam genutzte Infrastruktur abstimmen könnten, etwa über denselben Speicher oder dieselben Zugänge. Simon Willison greift den Gedanken auf und warnt vor wurmartigen Angriffswegen, bei denen sich ein Problem von einem Agenten zum nächsten ausbreitet, ähnlich wie sich ein Computerwurm selbst weiterverbreitet.",
-                "Der Hebel für dein System: Gib verschiedenen Agenten oder Automatisierungen möglichst getrennte Zugänge, eigene Schlüssel und voneinander abgeschottete Arbeitsbereiche, statt alles über ein gemeinsames Konto oder einen gemeinsamen Speicher laufen zu lassen. So bleibt ein Fehler oder Angriff auf einen Bereich begrenzt und springt nicht auf die anderen über."
-              ],
-              "konkret": "Geh einmal durch, welche deiner KI-Automatisierungen sich heute Zugangsdaten, Speicher oder Rechte teilen, und trenne die wichtigsten davon: eigener Schlüssel je Aufgabe und ein abgegrenzter Arbeitsbereich, damit ein Problem nicht auf andere übergreift.",
-              "source": "Simon Willison / Matthew Green",
-              "url": "https://simonwillison.net/"
-            },
-            {
-              "icon": "terminal",
-              "title": "Werkzeug-Rechte von Agenten nach dem Prinzip der geringsten Rechte vergeben",
-              "tag": "Werkzeug",
-              "paras": [
-                "Ein Bericht des Sicherheitsteams von Anthropic, dem Unternehmen hinter dem Chatprogramm Claude, zeigt laut Simon Willison, dass neuere Modelle bestimmte Angriffsaufgaben inzwischen in einem kleinen, aber messbaren Anteil der Versuche erfolgreich lösen, wo frühere Modelle daran scheiterten. Das heißt nicht, dass ein Modell von sich aus gefährlich handelt, wohl aber, dass man ihm nicht mehr Werkzeuge und Rechte geben sollte, als eine Aufgabe wirklich braucht.",
-                "Der Hebel für dein System: Vergib Zugriffe nach dem Prinzip der geringsten Rechte, also so wenig wie möglich und so viel wie nötig. Statt einem Agenten pauschal vollen Zugriff auf Dateien, Netz und Konten zu geben, erlaube ihm gezielt nur das, was die konkrete Aufgabe erfordert, und protokolliere, was er tut."
-              ],
-              "konkret": "Lege für jeden Agenten vorab fest, welche Werkzeuge und Zugänge er wirklich braucht, schalte den Rest ab und führe ein einfaches Protokoll seiner Aktionen, damit du Auffälligkeiten früh bemerkst.",
-              "snippetLabel": "Rechte-Check vor dem Start eines Agenten (Skizze)",
-              "snippet": "Aufgabe des Agenten: <span class=\"ph\">{kurze Beschreibung}</span>\nBenötigte Werkzeuge: <span class=\"ph\">{nur die wirklich nötigen auflisten}</span>\nZugriff auf Dateien/Netz/Konten: nur <span class=\"ph\">{konkrete, minimale Liste}</span>\nAlles andere: gesperrt. Jede Aktion protokollieren.\nFrage vor kritischen Schritten (Löschen, Senden, Zahlungen) zuerst nach.",
-              "source": "Simon Willison / Anthropic",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Montag, 5. Oktober 2026",
       "weather": "rain",
       "temp": "21°C · Regenschauer",
@@ -1058,8 +907,198 @@
             }
           ]
         }
-      ],
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
+      ]
+    },
+    {
+      "label": "Sonntag, 11. Oktober 2026",
+      "kind": "weekly",
+      "sub": "Wochenrückblick",
+      "weather": "rain",
+      "temp": "13°C · Regen",
+      "greeting": "Guten Morgen, Gerik, und einen ruhigen Sonntag. Über Horb am Neckar fällt zum Wochenausklang Regen, bei kühlen Höchstwerten um 13 Grad, ein stiller Herbsttag zum Innehalten. Die vergangene Woche lässt sich in drei Bewegungen lesen: In der Wirtschaft verdichteten sich die Zeichen einer Erholung, mehrere Institute und die Bundesregierung hoben ihre Wachstumsprognosen an, während die Europäische Zentralbank zugleich auf einen Kurs steigender Zinsen einschwenkte. In der Welt bestimmten der dritte Jahrestag des Hamas-Angriffs auf Israel samt brüchiger Waffenruhe in Gaza sowie der Friedensnobelpreis für die Menschenrechtsjuristin Navi Pillay die Lage. Und für dein eigenes System zog sich ein Thema wie ein roter Faden durch die Tage: die Absicherung und Kostenkontrolle selbsttätig arbeitender KI-Programme. Ganz unten bündle ich die Gelegenheit der Woche, eine größere strategische Empfehlung und, kopierfertig, alle Systemanpassungen der Woche in einem einzigen Text.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Nahost zwischen Gedenken und brüchiger Waffenruhe",
+              "text": "Im Nahen Osten stand die Woche im Zeichen des dritten Jahrestags des Angriffs der islamistischen Palästinenserorganisation Hamas auf Israel vom 7. Oktober 2023, bei dem rund 1.200 Menschen getötet und etwa 250 verschleppt wurden; in Israel wurde mit Schweigeminuten und Gedenkfeiern erinnert. Die seit Oktober 2025 geltende Waffenruhe im Gaza-Krieg, also die vereinbarte Einstellung der Kämpfe, hielt grundsätzlich, blieb nach Angaben beider Seiten aber brüchig, ein endgültiges Abkommen steht weiter aus. Die Europäische Union, der Staatenverbund von 27 Ländern, bemüht sich zugleich um eine aktivere Rolle beim Wiederaufbau des Gazastreifens. Für Europa bleibt die Region vor allem wegen der wichtigen Schifffahrtswege und der Energieversorgung von Bedeutung.",
+              "source": "Wochenüberblick (tagesschau / Reuters)"
+            },
+            {
+              "title": "Friedensnobelpreis für Navi Pillay, Merz stärkt der Ukraine den Rücken",
+              "text": "Das norwegische Nobelkomitee in Oslo sprach den Friedensnobelpreis 2026 der südafrikanischen Juristin Navanethem „Navi“ Pillay zu, und zwar für ihren Einsatz für Frieden und Völkerrecht, also für das Regelwerk, das die Beziehungen zwischen Staaten ordnet; Pillay war von 2008 bis 2014 Hohe Kommissarin der Vereinten Nationen für Menschenrechte. Zu Wochenbeginn hatte Bundeskanzler Friedrich Merz, der Regierungschef Deutschlands, die ukrainische Hauptstadt Kiew besucht und Russland zur Beendigung des Krieges aufgefordert; die Europäische Union bleibt mit rund 193 Milliarden Euro der mit Abstand größte Geldgeber der Ukraine. Im Osten Deutschlands trat zudem der neu gewählte Landtag von Sachsen-Anhalt erstmals zusammen, in dem die AfD, die Partei Alternative für Deutschland, mit knapp 44 Prozent stärkste Kraft wurde. Die Einordnung bleibt nüchtern: Vieles sind formale Schritte und Absichtserklärungen, deren konkrete Folgen sich erst zeigen müssen.",
+              "source": "UN News / Nobelprize.org",
+              "url": "https://news.un.org/en/story/2026/10/1168558"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Erholung verfestigt sich, die EZB schwenkt auf steigende Zinsen",
+              "text": "Die wirtschaftliche Großwetterlage hellte sich über die Woche weiter auf: Mehrere Wirtschaftsforschungsinstitute, die Landesbank Baden-Württemberg (LBBW) und die Bundesregierung hoben ihre Konjunkturprognosen an; die Bundesregierung stellte in ihrer Herbstprognose ein Wachstum der Wirtschaftsleistung von 1,3 Prozent für dieses Jahr in Aussicht. Die Wirtschaftsleistung wird als Bruttoinlandsprodukt gemessen, also als Gesamtwert aller im Land erzeugten Waren und Dienstleistungen. Zugleich wurde ein Kurswechsel der Europäischen Zentralbank (EZB), der für den Euro zuständigen Notenbank in Frankfurt am Main, sichtbar: Mit der zweiten Anhebung des Jahres liegt der Einlagesatz, also der wichtigste Steuerungszins im Euroraum, nun bei 2,50 Prozent, und die nächste Sitzung des EZB-Rats ist für den 29. Oktober angesetzt. Hintergrund ist die wieder gestiegene Teuerung, die Inflationsrate lag zuletzt bei 3,3 Prozent.",
+              "source": "LBBW Research / Bundesregierung",
+              "url": "https://www.lbbw.de/artikel/pressemitteilung/lbbw-research-baden-wuerttemberg-waechst-2026_aniav6ttya_d.html"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Das Umfeld für Aufträge und Investitionen wird zum Jahreswechsel voraussichtlich etwas freundlicher, doch die Zeit sehr niedriger Zinsen ist vorerst vorbei. Wenn du eine größere Anschaffung oder Finanzierung planst, vergleiche die Konditionen besser jetzt, statt auf bald sinkende Zinsen zu setzen; Erspartes und Tagesgeld werfen dagegen wieder spürbar mehr ab als in den Vorjahren.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Eine Woche der wiederverbundenen Lebensräume",
+              "text": "Durch die Woche zog sich eine stille, zuversichtliche Botschaft aus dem Naturschutz: Wo zerschnittene Lebensräume wieder verbunden werden, kehrt das Leben zurück. In Tansania in Ostafrika nahmen Wildkameras, also automatisch auslösende Fotofallen, 529 Elefanten auf, die den ersten geschützten Wildtierkorridor des Landes durchquerten, einen gesicherten Wanderweg zwischen getrennten Lebensräumen. Kalifornien plant neue Wildtierquerungen für Berglöwen, im Grenzgebiet von Guatemala und Honduras zeigte sich ein Jaguar, die größte Raubkatze Amerikas, und der australische Bundesstaat Victoria richtet drei neue Nationalparks ein. Eine weltweite Auswertung erfolgreicher Schutzprojekte kam dazu passend zu dem Schluss, dass weniger die Höhe des eingesetzten Geldes als die Einbindung der örtlichen Bevölkerung über den dauerhaften Erfolg entscheidet.",
+              "img": "https://live.staticflickr.com/4129/5185098493_66536780f4.jpg",
+              "source": "Good News Network",
+              "url": "https://www.goodnewsnetwork.org/category/news/"
+            },
+            {
+              "title": "Die Energiewende schlägt sich in den Zahlen nieder",
+              "text": "Auch beim Umbau der Energieversorgung mehrten sich die guten Nachrichten. Deutschland legte als drittes Land weltweit einen verbindlichen Fahrplan für den Ausstieg aus den fossilen Energieträgern Kohle, Erdöl und Erdgas vor, mit dem Zieljahr 2045; ein fester Fahrplan gibt Wirtschaft und Haushalten Planungssicherheit. Die weltweiten Emissionen an Treibhausgasen, also an Gasen wie Kohlendioxid, die sich in der Lufthülle sammeln und die Erde aufheizen, dürften 2026 erstmals leicht zurückgehen, getragen vor allem von einer sinkenden Nachfrage nach Erdöl. Und einzelne Länder zeigen das Tempo des Wandels: Bulgarien steigerte seine Kapazität für Batteriespeicher in weniger als zwei Jahren von praktisch null auf fast ein Viertel seiner installierten Stromleistung, in der Türkei ist inzwischen etwa jeder fünfte Neuwagen rein elektrisch.",
+              "source": "Positive News / Our World in Data"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Ein Blick tief ins All, von der Dunklen Energie bis zu kollidierenden Welten",
+              "text": "Die Forschungswoche gehörte weit überwiegend dem Blick ins All. Mit dem kanadischen Radioteleskop CHIME, einer großen Antennenanlage für Radiowellen aus dem Weltraum, fingen Forschende ein rund neun Milliarden Jahre altes Signal des Wasserstoffs auf, das helfen könnte, die rätselhafte Dunkle Energie zu verstehen, also jene bislang unerklärte Kraft, die das Universum immer schneller auseinandertreibt. Das James-Webb-Weltraumteleskop der US-Raumfahrtbehörde NASA fand Spuren gewaltiger Zusammenstöße planetengroßer Körper, ähnlich jenem Urereignis, aus dem einst der Mond der Erde hervorging. Dazu kamen eine mögliche Erklärung für den Streit um die Ausdehnungsrate des Universums durch winzige Magnetfelder aus der Frühzeit sowie ein langer Röntgen-Nachhall beim Verschmelzen von Neutronensternen, den extrem dichten Überresten ausgebrannter Sterne.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Southern_Milky_Way_Above_ALMA.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Hoffnung aus dem Labor: nachwachsender Knorpel und günstiger Wasserstoff",
+              "text": "Auch auf der Erde gab es bemerkenswerte Fortschritte. An der Stanford University in den USA ließen Forschende im Tierversuch geschädigten Gelenkknorpel nachwachsen, indem sie ein bestimmtes, mit dem Alter vermehrt auftretendes Eiweiß gezielt blockierten; Gelenkknorpel ist die glatte Schutzschicht an den Knochenenden, deren Abnutzung die schmerzhafte Gelenkabnutzung Arthrose verursacht, für die es bisher keine ursächliche Heilung gibt. Die gebotene Vorsicht bleibt: Es handelt sich zunächst um einen Erfolg an Mäusen, bis zu einer Behandlung für Menschen sind noch umfangreiche Studien nötig. Daneben stellten Forschende ein lichtaktives Material vor, das Wasserstoff aus Wasser gewinnt, ohne dass ein teures Edelmetall als Katalysator nötig ist, was günstigeren, sauberen Wasserstoff als Speicher für Sonnenenergie näherrücken könnte.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Ein durchweg nasser Herbst im Neckartal, viel Kultur in der kommenden Woche",
+              "text": "In Horb am Neckar, der Stadt im Tal des Flusses Neckar, war es eine Woche des Dauerregens: Die Höchstwerte fielen von milden 24 Grad zur Wochenmitte auf herbstlich kühle 12 bis 15 Grad zum Ausklang, und auch an diesem Sonntag fällt Regen bei rund 13 Grad. Der gesellige Höhepunkt, die Lange Nacht der Lichter mit Nacht-Flohmarkt, liegt mit dem 9. Oktober bereits hinter uns. Für die kommende Woche lohnt der Blick auf gleich mehrere Termine: Am Freitag, dem 16. Oktober, lädt der Gasthof Adler um 19 Uhr zu einem Kriminal-Dinner mit dem Titel „Prêt-à-morter“, einem Theaterabend mit mehrgängigem Menü und einem gespielten Kriminalfall, und zeitgleich singt um 20 Uhr das Ensemble Vocalmania in der Kirche Mariä Geburt im Ortsteil Horb-Altheim ein A-cappella-Konzert, also Gesang ganz ohne Instrumentalbegleitung. Am Sonntag, dem 18. Oktober, gastiert um 19 Uhr der Mannheimer Komiker Bülent Ceylan mit seinem Programm „Diktatürk“ in der Hohenberghalle.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+              "source": "eventfinder.de / regioactive.de / open-meteo",
+              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Eine Woche gleicht selten einer geraden Linie; sie zeigt eher, in welche Richtung sich die Dinge lehnen, wenn man die lauten Einzeltage einmal ruhig übereinanderlegt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "BAFA-Beratungsförderung: bis zu 50 Prozent Zuschuss, die Richtlinie läuft Ende 2026 aus",
+            "text": "Das Bundesprogramm „Förderung unternehmerischen Know-hows“, abgewickelt über das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), bezuschusst professionelle Unternehmensberatung für kleine und mittlere Unternehmen sowie für Freiberufler und Soloselbstständige, also Einzelunternehmer ohne Angestellte. Ein Zuschuss ist, anders als ein Kredit, Geld, das nicht zurückgezahlt werden muss. In den alten Bundesländern werden nach Angaben der Industrie- und Handelskammer (IHK) Nürnberg 50 Prozent der förderfähigen Beratungskosten übernommen, bei einer Bemessungsgrundlage von 3.500 Euro also bis zu 1.750 Euro je Beratung. Voraussetzung ist unter anderem, dass das Unternehmen seit mindestens einem Jahr am Markt tätig ist und ein bei der BAFA gelisteter Berater beauftragt wird; der Antrag muss vor Beratungsbeginn online gestellt werden.",
+            "why": "Die aktuelle Förderrichtlinie läuft nur noch bis zum 31. Dezember 2026. Wenn du ohnehin über eine Beratung zu Digitalisierung, Abläufen oder Geschäftsmodell nachdenkst, lohnt es sich, das Vorhaben in diesem Zeitfenster anzustoßen und die genauen Bedingungen vorab auf der offiziellen BAFA-Seite zu prüfen, da einzelne Details je nach Quelle abweichen.",
+            "source": "IHK Nürnberg / BAFA",
+            "url": "https://www.ihk-nuernberg.de/ihr-unternehmen/gruendung/coaching-beratungsfoerderung/bafa-programm"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Eine strategische Empfehlung aus den gebündelten Signalen der Woche, eingeordnet nach den Notizen des Entwicklers Simon Willison, der Entwicklungen rund um Sprachmodelle fachkundig begleitet. Die konkreten Einzelschritte dazu findest du kopierfertig in den Systemanpassungen der Woche weiter unten.",
+          "cards": [
+            {
+              "icon": "gauge",
+              "title": "Einen verbindlichen Sicherheits- und Kostenrahmen für alle deine KI-Automatisierungen aufstellen",
+              "tag": "Strategie",
+              "paras": [
+                "Das Leitthema der Woche waren die Risiken selbsttätig arbeitender KI-Programme, sogenannter Agenten, also Programme, die eine Aufgabe weitgehend selbständig in mehreren Schritten erledigen und dabei Werkzeuge wie Dateizugriff oder das Internet nutzen. Drei Gefahren traten immer wieder hervor: aus dem Ruder laufende Kosten bei Abrechnung nach Verbrauch (englisch pay as you go), das unbemerkte Übergreifen eines Problems von einem Ablauf auf den nächsten und zu weit gefasste Zugriffsrechte.",
+                "Statt auf jedes Signal einzeln zu reagieren, lohnt sich jetzt ein einmaliger, grundlegender Schritt: Lege für dein gesamtes System einen verbindlichen Rahmen fest, an dem sich jede bestehende und künftige Automatisierung messen lassen muss. Dieser Rahmen verbindet vier Dinge, die über die Woche als Einzelempfehlungen auftauchten, zu einer festen Regel: harte Ausgabengrenzen, Abschottung voneinander, geringste Rechte und lückenlose Protokollierung samt Freigabe bei kritischen Schritten.",
+                "Ergänze den Rahmen um eine bewusste Modellwahl, denn die Woche brachte gleich mehrere günstige Alternativen: Einfache, häufige Aufgaben wie Sortieren oder Zusammenfassen kannst du an ein kleines, schnelles Modell wie Claude Haiku 5.5 geben und nur die anspruchsvollen an ein großes Modell, was die laufenden Kosten spürbar senkt, ohne dort Qualität einzubüßen, wo sie zählt. Für vertrauliche Aufgaben kommen offene Modelle wie Mistral Large 4 oder EmbeddingGemma 2 auf dem eigenen Rechner in Frage."
+              ],
+              "konkret": "Nimm dir an diesem ruhigen Sonntag eine Stunde, liste alle deine automatisierten KI-Abläufe auf und trage für jeden in einer einfachen Tabelle ein: hartes Monatsbudget, eigener Zugang und Arbeitsbereich, nur die wirklich nötigen Rechte, ein Verbrauchsprotokoll je Lauf und die Schritte, die eine Freigabe brauchen. Was den Rahmen heute nicht erfüllt, bekommt eine Frist zur Nachrüstung.",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/"
+            }
+          ]
+        },
+        {
+          "type": "systemtips",
+          "eyebrow": "Systemanpassungen der Woche",
+          "intro": "Hier sind alle konkreten System- und Prompt-Tipps dieser Woche gebündelt. Die Liste fasst zusammen, was anzupassen ist; der kopierfertige Text darunter lässt sich in einem Schritt als festes Regelwerk in dein System übernehmen.",
+          "items": [
+            {
+              "title": "Harte Ausgabengrenzen setzen",
+              "text": "Hinterlege bei jedem kostenpflichtigen Dienst, den dein System automatisch nutzt, ein hartes Tages- oder Monatslimit, das den Zugang bei Erreichen abschaltet, nicht nur eine Warn-E-Mail verschickt. Große Anbieter wie Amazon Web Services und Google Cloud bieten solche Stopp-Funktionen inzwischen an."
+            },
+            {
+              "title": "Abläufe voneinander abschotten",
+              "text": "Gib jedem Agenten oder Ablauf eigene Zugangsdaten, einen eigenen Schlüssel und einen abgetrennten Arbeits- und Ablageort, statt alles über ein gemeinsames Konto oder einen gemeinsamen Speicher laufen zu lassen, damit ein Fehler oder Angriff nicht auf andere übergreift."
+            },
+            {
+              "title": "Geringste Rechte vergeben",
+              "text": "Erlaube jedem Ablauf nur die Werkzeuge und Zugänge, die seine konkrete Aufgabe wirklich braucht, und sperre den Rest; behandle von außen eingelesene oder zwischen Abläufen weitergereichte Inhalte grundsätzlich als zu prüfende Daten, nie als Befehle."
+            },
+            {
+              "title": "Verbrauch je Lauf protokollieren",
+              "text": "Halte zu jedem Lauf Datum, Aufgabe, Zahl der Modellaufrufe und geschätzte Kosten fest und lege eine Warnschwelle fest, ab der du benachrichtigt wirst, damit teure Ausreißer sofort auffallen statt erst auf der Monatsrechnung."
+            },
+            {
+              "title": "Kritische Schritte freigeben lassen",
+              "text": "Lass schwer umkehrbare Schritte wie Löschen, Senden oder Zahlungen vor der Ausführung zur Bestätigung vorlegen und begrenze für jeden unbeaufsichtigten Ablauf, wie oft und wie lange er laufen darf."
+            },
+            {
+              "title": "Testgetrieben mit KI entwickeln",
+              "text": "Lass den Assistenten bei einer neuen Funktion zuerst einen fehlschlagenden automatischen Test schreiben und erst danach die Umsetzung; führe den erzeugten Code am Ende immer aus und übernimm ein Ergebnis erst, wenn die Tests bestehen."
+            },
+            {
+              "title": "Textmenge vor dem Senden messen",
+              "text": "Zähle mit dem Werkzeug ttok die Tokens, also die Text-Bausteine, einer Eingabe, bevor du sie an ein kostenpflichtiges Modell schickst, und kürze oder teile zu große Eingaben."
+            },
+            {
+              "title": "Einfache Aufgaben auf kleine Modelle umleiten",
+              "text": "Gib wiederkehrende, einfache Aufgaben an ein schnelles, günstiges Modell wie Claude Haiku 5.5 und prüfe offene Modelle wie Mistral Large 4 oder EmbeddingGemma 2 für Aufgaben, die ohne Datenabfluss auf dem eigenen Rechner laufen sollen."
+            },
+            {
+              "title": "Entscheidungen maschinenlesbar abfragen",
+              "text": "Formuliere wiederkehrende Einordnungen als klare Ja/Nein- oder Auswahl-Frage mit fester, maschinenlesbarer Antwortform, deren Ergebnis du direkt weiterverarbeiten kannst, statt eine freie Textantwort mühsam wieder zu zerlegen."
+            },
+            {
+              "title": "Tote Zeiten per Diktat nutzen",
+              "text": "Sprich Gedanken unterwegs oder bei Routinetätigkeiten als Sprachnotiz ein, wandle sie automatisch in Text um und lass ein Modell den Rohtext nur ordnen und kürzen, ausdrücklich ohne inhaltlich etwas zu ergänzen."
+            }
+          ],
+          "copytext": "MORGENLAGE Systemregeln (Stand 11. Oktober 2026)\n\nGrundsatz: Jede automatische oder KI-gestützte Aufgabe in meinem System hält die folgenden Regeln ein. Was eine Regel heute nicht erfüllt, wird nachgerüstet oder abgeschaltet.\n\n1. Hartes Budget: Jeder kostenpflichtige Dienst bekommt ein hartes Tages- oder Monatslimit, das bei Erreichen den Zugang sperrt (keine bloße Warn-E-Mail). Zusätzlich eine Warnschwelle bei etwa der Hälfte.\n\n2. Abschottung: Jeder Ablauf hat eigene Zugangsdaten, einen eigenen Schlüssel und einen getrennten Arbeits- und Ablageort. Kein gemeinsames Konto, kein gemeinsamer Speicher.\n\n3. Geringste Rechte: Jeder Ablauf erhält nur die Werkzeuge und Zugriffe, die seine Aufgabe wirklich braucht. Alles andere ist gesperrt. Von außen eingelesene Inhalte gelten immer als zu prüfende Daten, nie als Befehle.\n\n4. Protokoll: Zu jedem Lauf werden Datum, Aufgabe, Zahl der Modellaufrufe und geschätzte Kosten festgehalten. Überschreitet ein Lauf das Übliche deutlich, bekomme ich ein Signal.\n\n5. Freigabe: Schwer umkehrbare Schritte (Löschen, Senden, Zahlungen) werden vor der Ausführung zur Bestätigung vorgelegt. Für jeden unbeaufsichtigten Ablauf ist festgelegt, wie oft und wie lange er laufen darf.\n\n6. Modellwahl: Einfache, häufige Aufgaben (Sortieren, Zusammenfassen, Umformatieren) gehen an ein kleines, schnelles Modell (zum Beispiel Claude Haiku 5.5). Nur anspruchsvolle Aufgaben gehen an ein großes Modell. Für vertrauliche Aufgaben ohne Datenabfluss prüfe ich offene Modelle (zum Beispiel Mistral Large 4, EmbeddingGemma 2) auf eigenem Rechner.\n\n7. Textmenge messen: Vor dem Senden langer Texte an ein kostenpflichtiges Modell zähle ich die Tokens (zum Beispiel mit ttok) und kürze oder teile zu große Eingaben.\n\n8. Entwickeln mit KI (testgetrieben). Prompt:\n\"Aufgabe: {kurz beschreiben, was die Funktion leisten soll}. Schreibe ZUERST einen automatischen Test, der dieses Verhalten prüft, und zeige, dass er jetzt fehlschlägt. Setze DANACH die Funktion um und ändere sie so lange, bis der Test besteht. Nenne mir am Ende den Testbefehl zum Nachprüfen.\"\n\n9. Diktat aufräumen. Prompt:\n\"Bringe den folgenden diktierten Text in klare Stichpunkte. Füge NICHTS inhaltlich hinzu, ordne und kürze nur: {diktierter_text}\"\n\n10. Entscheidungen maschinenlesbar: Wiederkehrende Einordnungen formuliere ich als Ja/Nein- oder Auswahl-Frage mit fester Antwortform statt als Freitext."
+        },
+        {
+          "type": "thought",
+          "text": "Nach einer Woche voller Regeln und Zahlen bleibt am Sonntag vor allem eines: Ordnung schafft nicht, wer auf jedes Signal einzeln reagiert, sondern wer einmal in Ruhe festlegt, was künftig von selbst gelten soll."
+        }
+      ]
     }
   ]
 }
