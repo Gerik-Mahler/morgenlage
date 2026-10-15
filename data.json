@@ -2,156 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 8. Oktober 2026",
-   "weather": "rain",
-   "temp": "15°C · Regenschauer",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar beginnt dieser Donnerstag wechselhaft und nass, mit zeitweiligen Regenschauern und kühlen Höchstwerten um 15 Grad, ein herbstlicher Tag im Neckartal. In Berlin haben Union und SPD in der Nacht ihre Beratungen im Koalitionsausschuss beendet, am Mittag stellt die Bundesregierung ihre neue Konjunkturprognose vor, und um 13 Uhr wird in Stockholm der Literaturnobelpreis bekanntgegeben. Aus Lichtblick und Forschung kommen Tansanias erster Wildtierkorridor, der rasante Aufstieg der Elektroautos in der Türkei sowie zwei Blicke tief ins All, zur Ausdehnung des Universums und zur stürmischen Geburt von Planeten. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Koalitionsausschuss von Union und SPD endet nach vier Stunden, Ergebnisse am Morgen",
-       "text": "Die Spitzen der Regierungskoalition aus Union und SPD haben in der Nacht ihre Beratungen im sogenannten Koalitionsausschuss beendet, der Runde aus Partei- und Fraktionsführungen von CDU und CSU (Christlich Demokratische Union und ihre bayerische Schwesterpartei Christlich-Soziale Union) sowie SPD (Sozialdemokratische Partei Deutschlands), in der strittige Fragen der Regierungsarbeit geklärt werden. Nach rund vier Stunden ging das Treffen zu Ende; die Ergebnisse sollen erst am Morgen mitgeteilt werden, voraussichtlich schriftlich. Im Mittelpunkt stand die Umsetzung der vereinbarten Reformvorhaben. Die Einordnung bleibt nüchtern: Konkrete Beschlüsse liegen noch nicht vor, erst die angekündigte Mitteilung wird zeigen, worauf sich die Koalitionspartner verständigt haben.",
-       "source": "news.de / dpa",
-       "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      },
-      {
-       "title": "Schwedische Akademie gibt um 13 Uhr den Literaturnobelpreis bekannt",
-       "text": "Am heutigen Donnerstag gibt die Schwedische Akademie, die für den Literaturnobelpreis zuständige Gelehrtengesellschaft in der schwedischen Hauptstadt Stockholm, um 13 Uhr den Preisträger oder die Preisträgerin für das Jahr 2026 bekannt. Der Nobelpreis für Literatur ist die wohl bekannteste Auszeichnung für ein schriftstellerisches Lebenswerk und in diesem Jahr mit zwölf Millionen schwedischen Kronen dotiert, umgerechnet etwa einer Million Euro. Im vergangenen Jahr war der ungarische Schriftsteller László Krasznahorkai ausgezeichnet worden. Wer in diesem Jahr folgt, bleibt traditionell bis zur Verkündung streng geheim; die Entscheidung trifft ein kleiner Kreis von Mitgliedern der Akademie.",
-       "source": "news.de / dpa",
-       "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Bundesregierung stellt Herbstprognose vor, 1,3 Prozent Wachstum erwartet",
-       "text": "Bundeswirtschaftsministerin Katherina Reiche (Christlich Demokratische Union, CDU) stellt an diesem Donnerstag um 12.15 Uhr in Berlin die neue Konjunkturprognose der Bundesregierung vor, also die offizielle Schätzung, wie stark die deutsche Wirtschaft in diesem Jahr wächst. Erwartet wird ein Plus des Bruttoinlandsprodukts, der Summe aller im Inland erzeugten Waren und Dienstleistungen, von 1,3 Prozent für das laufende Jahr. Als Treiber gelten stärkere Exporte und staatliche Ausgaben zur Modernisierung der Infrastruktur, also von Straßen, Schienen und digitalen Netzen. Zugleich berät der Bundestag einen Gesetzentwurf von Finanzminister Lars Klingbeil (Sozialdemokratische Partei Deutschlands, SPD) zur Einkommensteuer, dessen Entlastungen ab 2028 jährlich rund zehn Milliarden Euro ausmachen und vor allem kleine und mittlere Einkommen sowie Familien mit Kindern entlasten sollen.",
-       "source": "news.de / dpa",
-       "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die Planung: Mit der Herbstprognose bestätigt die Regierung den Weg zurück zu moderatem Wachstum, nachdem sich die Stimmungsindikatoren zuletzt aufgehellt hatten. Für größere Investitionen oder Angebote zeichnet sich zum Jahresende ein etwas verlässlicheres Umfeld ab. Im Blick behalten solltest du die höhere Teuerung: Die Inflationsrate, also der Anstieg der Verbraucherpreise gegenüber dem Vorjahr, lag im September bei 3,3 Prozent und dämpft die Kaufkraft.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "529 Elefanten nutzen Tansanias ersten geschützten Wildtierkorridor",
-       "text": "In Tansania, einem Land in Ostafrika, haben Wildkameras, also automatisch auslösende Fotofallen, 529 Elefanten dabei aufgenommen, wie sie den ersten offiziell geschützten Wildtierkorridor des Landes durchquerten. Ein solcher Korridor ist ein gesicherter Wanderweg, der voneinander getrennte Lebensräume wieder verbindet; dieser rund neun Meilen, also etwa vierzehn Kilometer lange Streifen verknüpft die Savanne mit den Udzungwa-Bergen, einem artenreichen Gebirgszug. Dass so viele Tiere die Route annehmen, zeigt, dass der Korridor funktioniert und den Elefanten sichere Wanderungen zwischen ihren Weidegründen ermöglicht. Die Botschaft ist eine der stillen Zuversicht: Der gezielte Schutz einzelner Verbindungswege kann großen Tieren den Raum zurückgeben, den die Zerschneidung der Landschaft ihnen genommen hat.",
-       "img": "https://live.staticflickr.com/5043/5342495338_fc63baee81_b.jpg",
-       "source": "Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-3-2026"
-      },
-      {
-       "title": "Elektroautos erreichen in der Türkei jeden fünften Neuwagen",
-       "text": "In der Türkei ist der Anteil rein elektrisch angetriebener Autos an den Neuzulassungen von etwa einem von hundert im Jahr 2022 auf zuletzt rund einen von fünf gestiegen. Als wesentliche Gründe gelten eine 2023 eingeführte Steuererleichterung für Elektrofahrzeuge sowie die heimische Marke Togg, ein erst 2022 gestartetes türkisches Unternehmen, das inzwischen Marktführer bei den Elektroautos im Land ist. Die Zahlen stammen aus einer Auswertung der Datenplattform Our World in Data, die weltweite Entwicklungen anhand öffentlicher Statistiken aufbereitet. Die Einordnung: Das Beispiel zeigt, wie schnell sich ein Fahrzeugmarkt wandeln kann, wenn steuerliche Anreize und ein attraktives heimisches Angebot zusammenkommen.",
-       "source": "Good Good Good / Our World in Data",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-3-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Winzige Magnetfelder aus der Frühzeit des Universums könnten ein kosmisches Rätsel lösen",
-       "text": "Astrophysiker um die Forscher Karsten Jedamzik, Levon Pogosian und Tom Abel schlagen vor, dass winzige Magnetfelder aus den ersten Augenblicken nach dem Urknall einen seit Jahren ungelösten Widerspruch erklären könnten, die sogenannte Hubble-Spannung. Damit ist gemeint, dass zwei anerkannte Messmethoden unterschiedliche Werte für die Ausdehnungsrate des Universums liefern: Die Messung über die kosmische Hintergrundstrahlung, also das schwache Nachleuchten des Urknalls, ergibt einen niedrigeren Wert als die Messung über explodierende Sterne in der näheren kosmischen Umgebung. In erstmals vollständigen dreidimensionalen Computersimulationen des frühen Plasmas, also der heißen Ursuppe aus elektrisch geladenen Teilchen, zeigte das Team, dass eingebettete Magnetfelder die Bildung der ersten Wasserstoffatome beschleunigt und so das Muster der Hintergrundstrahlung verschoben hätten. Die in der Fachzeitschrift Nature Astronomy veröffentlichte Arbeit spricht vorsichtig von einem Hinweis, noch nicht von einem Beweis, und nennt eine heutige Feldstärke von etwa fünf bis zehn Pico-Gauss, einem äußerst kleinen Maß für die Stärke eines Magnetfelds.",
-       "img": "https://live.staticflickr.com/5135/5537309308_4c2c8bce37_b.jpg",
-       "source": "ScienceDaily / Nature Astronomy",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
-      },
-      {
-       "title": "James-Webb-Teleskop findet Spuren von Zusammenstößen marsgroßer Welten",
-       "text": "Mit dem James-Webb-Weltraumteleskop, dem leistungsstärksten je gebauten Weltraumteleskop der US-Raumfahrtbehörde NASA und ihrer Partner, haben Forschende Hinweise auf gewaltige Zusammenstöße planetengroßer Körper in fernen jungen Sternsystemen entdeckt. Solche Einschläge ähneln jenem Urereignis, aus dem nach gängiger Annahme einst der Mond der Erde hervorging, als ein etwa marsgroßer Himmelskörper die junge Erde traf. Das Teleskop spürte die Wärmestrahlung auf, die riesige Trümmer- und Staubwolken nach solchen Kollisionen abgeben, und erlaubt so einen seltenen Blick auf die mitunter sehr ruppigen letzten Bauphasen von Planeten. Die Einordnung: Die Beobachtungen helfen zu verstehen, wie aus Gas, Staub und Gestein über viele Jahrmillionen feste Planeten wie unsere Erde entstehen.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HL_Tau_protoplanetary_disk.jpg",
-       "source": "ScienceDaily / NASA",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Regnerischer Herbsttag im Neckartal, Comedy-Abend in der Hohenberghalle",
-       "text": "In Horb am Neckar zeigt sich dieser Donnerstag wechselhaft und nass, mit zeitweiligen Regenschauern und kühlen Höchstwerten um 15 Grad, ein herbstlicher Tag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer heute unterwegs ist, nimmt am besten einen Regenschirm mit; drinnen laden die Cafés und die historische Altstadt mit ihren Fachwerkhäusern zum Verweilen ein. Für den Blick voraus lohnt sich ein Termin am kommenden Wochenende: Am Sonntag, dem 18. Oktober, gastiert um 19 Uhr der Comedian Bülent Ceylan, ein bekannter Mannheimer Komiker mit deutsch-türkischen Wurzeln, mit seinem Programm „Diktatürk“ in der Hohenberghalle in der Südring 3. Wer einen vergnüglichen Abend plant, sichert sich die Karten am besten rechtzeitig, da solche Gastspiele erfahrungsgemäß gut besucht sind.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-       "source": "regioactive.de / MVP / open-meteo",
-       "url": "https://www.mvp.de/baden-wuerttemberg/veranstaltungen/buelent-ceylan-diktatuerk-hohenberg-halle-horb-am-neckar-horb/"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein Korridor rettet nicht einen Ort, sondern die Verbindung zwischen zweien; vielleicht liegt auch für dich der größere Ertrag heute weniger in einer einzelnen Sache als in dem schmalen Weg, der zwei lose Enden deiner Arbeit endlich wieder zusammenführt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "EmbeddingGemma 2: ein kostenloses, offenes Modell, das Texte für die Suche durchsuchbar macht",
-      "text": "Der Technikkonzern Google hat mit EmbeddingGemma 2 ein sogenanntes Embedding-Modell veröffentlicht, also eine Software, die Texte, Bilder und weitere Inhalte in Zahlenreihen übersetzt, mit denen sich inhaltlich ähnliche Dokumente schnell auffinden lassen; genau das ist die Grundlage einer guten Suche in eigenen Unterlagen. Das Modell steht unter der freien Apache-2.0-Lizenz, darf also auch gewerblich genutzt werden, und ist seit dem 6. Oktober 2026 kostenlos über die Plattformen Hugging Face und Kaggle herunterladbar. Mit rund 740 Millionen Parametern, also einstellbaren Werten, bleibt es klein genug, um auf einem gewöhnlichen Rechner zu laufen; die kompakte Textvariante kommt mit etwa einem halben Gigabyte Arbeitsspeicher aus. Es wandelt Inhalte in 768-stellige Zahlenreihen um und arbeitet dabei mit Text, Programmcode, Bildern, Ton und Video in einem gemeinsamen Raum.",
-      "why": "Wenn du in deinem System Dokumente, Notizen oder Quellen durchsuchbar machen willst, kannst du dafür ein kostenloses, offenes Modell auf dem eigenen Rechner nutzen, statt einen kostenpflichtigen externen Dienst je Anfrage zu bezahlen. Das senkt die laufenden Kosten, hält deine Daten im Haus und schützt dich davor, bei der späteren Abschaltung eines proprietären Dienstes alle Inhalte erneut aufbereiten zu müssen.",
-      "source": "Google / Hugging Face",
-      "url": "https://huggingface.co/google"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm, der Ankündigungen und Vorfälle rund um Sprachmodelle fachkundig begleitet.",
-     "cards": [
-      {
-       "icon": "gauge",
-       "title": "Für bezahlte KI-Dienste eine harte Kostenobergrenze setzen",
-       "tag": "Arbeitsweise",
-       "paras": [
-        "Simon Willison argumentiert in einer aktuellen Notiz, dass Dienste mit Abrechnung nach Verbrauch (englisch pay-as-you-go, also Bezahlung je nach Nutzung) von Haus aus eine harte Ausgabengrenze brauchen, die die Nutzung bei Erreichen des Betrags tatsächlich stoppt, und nicht nur eine Warn-E-Mail verschickt. Gerade bei Schnittstellen zu Sprachmodellen, die Programme automatisch und wiederholt aufrufen, kann eine Fehlkonfiguration oder eine Endlosschleife sonst unbemerkt hohe Kosten verursachen.",
-        "Der Hebel für dein System: Überall dort, wo dein System einen kostenpflichtigen Dienst automatisch und zeitgesteuert anspricht, solltest du beim Anbieter ein hartes monatliches Ausgabenlimit hinterlegen, das den Zugang bei Überschreitung sperrt. So bleibt ein Fehler oder ein ungewollter Dauerlauf in seinen finanziellen Folgen immer begrenzt."
-       ],
-       "konkret": "Öffne bei jedem bezahlten Dienst, den dein System automatisch nutzt, die Kontoeinstellungen und trage dort eine harte monatliche Ausgabenobergrenze ein, die den Zugang bei Erreichen abschaltet, nicht nur eine Benachrichtigung auslöst.",
-       "source": "Simon Willison",
-       "url": "https://simonwillison.net/2026/Oct/3/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Automatisch laufenden Programmen klare Grenzen und eine Kontrolle geben",
-       "tag": "Sicherheit",
-       "paras": [
-        "Anlass ist ein von Simon Willison aufgegriffener Vorfall: Die Wikimedia Foundation, die Betreiberin der Online-Enzyklopädie Wikipedia, berichtete von eigenmächtig agierenden Software-Agenten, also selbsttätig handelnden Programmen, die unter anderem Hunderttausende automatischer Datenabfragen auslösten und so ihre Systeme stark belasteten. Solche außer Kontrolle geratenen Agenten zeigen, wie schnell ein selbsttätiges Programm ohne feste Grenzen ungewollten Schaden anrichten kann, nach außen wie im eigenen System.",
-        "Der Hebel für dein System: Für jeden Ablauf, der bei dir eigenständig und ohne Aufsicht läuft, solltest du klare Grenzen festlegen, also wie oft und wie lange er laufen darf und auf welche Daten und Dienste er überhaupt zugreifen kann, und wichtige oder schwer umkehrbare Schritte zur Bestätigung vorlegen lassen. So bleibt die Automatisierung nützlich, ohne dir die Kontrolle aus der Hand zu nehmen."
-       ],
-       "konkret": "Geh die automatisch laufenden Abläufe in deinem System durch und lege für jeden fest, wie oft er starten darf, welche Dienste und Daten er nutzen kann und bei welchen Schritten er vor der Ausführung eine Freigabe einholen muss.",
-       "source": "Simon Willison / Wikimedia Foundation",
-       "url": "https://simonwillison.net/2026/Oct/7/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 9. Oktober 2026",
    "weather": "rain",
    "temp": "12°C · Regen",
@@ -964,7 +814,6 @@
    "weather": "clouds",
    "temp": "19°C · neblig",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Mittwoch zäher Nebel, der sich erst im Lauf des Vormittags lichten dürfte, die Höchstwerte erreichen rund 19 Grad, ein milder, aber trüber Oktobertag im Neckartal. In der Weltlage lässt sich Papst Leo XIV. wegen eines früh entdeckten Lungenknotens in Rom operieren, und Israel steuert auf seine Parlamentswahl Ende Oktober zu. In der Wirtschaft richtet sich der Blick auf die Europäische Zentralbank, die Ende des Monats erneut über die Zinsen entscheidet, während die deutsche Konjunktur nur langsam aus der Stagnation findet. Aus Lichtblick und Forschung kommen ein hoffnungsvoller Naturbericht, neue Sonnenstrom-Rekorde in Australien, eine europäische Asteroidensonde kurz vor dem Ziel und ein Netzhautimplantat, das Blinden wieder Lesen ermöglicht. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1112,6 +961,165 @@
        "konkret": "Lege eine kurze Skill mit den unveränderlichen Redaktionsregeln an und verweise im Tagesauftrag nur noch darauf, statt sie jedes Mal vollständig auszuschreiben.",
        "source": "Claude Agent SDK Dokumentation",
        "url": "https://docs.claude.com/en/api/agent-sdk/overview"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 15. Oktober 2026",
+   "weather": "clouds",
+   "temp": "21°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Donnerstag erneut dichter Nebel, der die Höchstwerte auf rund 21 Grad begrenzt, mild, aber trüb für Mitte Oktober. In der Weltlage wurde Papst Leo XIV. nach dem entdeckten Lungenknoten in Rom operiert, und im Ukraine-Krieg bleibt die von den USA verkündete Energie-Waffenruhe weiter ohne gemeinsame Bestätigung beider Seiten. In der Wirtschaft richtet sich der Blick auf die Sitzung der Europäischen Zentralbank Ende Oktober, bei der die meisten Fachleute mit einer Zinspause rechnen, während ein Diesel-Engpass die Energiemärkte beschäftigt. Aus Lichtblick und Forschung kommen ein erstes Medikament gegen eine seltene Erbkrankheit, ein Zuchterfolg für den Artenschutz, eine neue Atomkern-Uhr aus Wien und ein winziges Implantat gegen chronische Schmerzen. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Papst Leo XIV. in Rom an der Lunge operiert",
+       "text": "Papst Leo XIV., das Oberhaupt der römisch-katholischen Kirche, ist in Rom an der Lunge operiert worden, nachdem Ärzte bei ihm einen Knoten, also eine örtlich begrenzte Gewebeverdichtung, entdeckt hatten. Nach Angaben des Vatikans, der Regierungszentrale der katholischen Kirche, dauerte der Eingriff in der Gemelli-Klinik, einem großen römischen Krankenhaus, rund 90 Minuten und verlief ohne Komplikationen; entfernt wurde der untere Lappen des rechten Lungenflügels. Mehrere Medienberichte, die sich auf das Ärzteteam berufen, sprechen von einem Lungenadenokarzinom, einer bösartigen Form von Lungenkrebs; eine offiziell datierte Bestätigung des Vatikans zur genauen Diagnose lag zunächst nicht in gesicherter Form vor. Der 71-Jährige erwachte den Angaben zufolge normal aus der Narkose, seine Termine sind bis zum 20. Oktober abgesagt. Die Einordnung bleibt nüchtern: Der Befund wurde nach Darstellung der Ärzte in einem frühen Stadium entdeckt, die für November geplante Lateinamerika-Reise hält der Papst bislang aufrecht.",
+       "source": "SRF / dpa / Stuttgarter Zeitung",
+       "url": "https://www.srf.ch/news/international/entdeckt-im-fruehen-stadium-knoten-in-der-lunge-papst-wird-operiert"
+      },
+      {
+       "title": "Ukraine-Krieg: Energie-Waffenruhe bleibt ohne gemeinsame Bestätigung",
+       "text": "Im Krieg zwischen Russland und der Ukraine bleibt die von US-Präsident Donald Trump verkündete Waffenruhe für die Energieinfrastruktur weiter ohne gemeinsame Bestätigung beider Seiten. Mit Energieinfrastruktur sind Kraftwerke sowie Strom- und Gasleitungen gemeint, deren Zerstörung im Winter besonders schwer wiegt. Nach Darstellung des öffentlich-rechtlichen Senders ZDF setzte Russland seine Angriffe auf ukrainische Städte und Energieanlagen zuletzt fort; Kiew wirft Moskau den Beschuss eines Heizkraftwerks vor, während Moskau umgekehrt der Ukraine vorwirft, nicht auf eine solche Waffenruhe hinzuarbeiten. Der ukrainische Außenminister erklärte, sein Land sei zu einer vollständigen Feuerpause bereit, wenn Russland sie ebenfalls einhalte. Die Einordnung: Solange keine Seite die Vereinbarung offiziell bestätigt, bleibt unklar, ob die angekündigte Schonung der Energieanlagen zu Beginn des Winters tatsächlich greift.",
+       "source": "ZDF heute",
+       "url": "https://www.zdfheute.de/politik/ausland/militaeranalyse-energie-waffenruhe-bleibt-aus-ukraine-krieg-russland-100.html"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Vor der EZB-Sitzung am 29. Oktober: Fachleute erwarten eine Zinspause",
+       "text": "Vor der nächsten Zinssitzung des Rates der Europäischen Zentralbank (EZB) am 29. Oktober rechnen die meisten Fachleute damit, dass die Notenbank die Leitzinsen unverändert lässt. Leitzinsen sind die Sätze, zu denen sich Geschäftsbanken bei der EZB Geld leihen; sie wirken auf Kredit- und Sparzinsen in der gesamten Wirtschaft. Die EZB, die oberste Währungsbehörde für die Länder mit dem Euro, hatte die Zinsen 2026 nach langer Pause wieder angehoben; zuletzt lag der für Sparer wichtige Einlagensatz nach Angaben mehrerer Finanzportale bei rund 2,5 Prozent. Nach Einschätzung der Landesbank Baden-Württemberg (LBBW) und des Ratgeberportals Finanztip ist für Oktober keine weitere Anhebung zu erwarten, zumal in diesem Monat keine neuen Konjunkturprognosen vorgelegt werden. Die Einordnung: Bleiben die Zinsen auf dem erreichten Niveau, ändert sich für Sparer und Kreditnehmer kurzfristig wenig, die Finanzierungskosten bleiben aber spürbar höher als in den Jahren ohne Zinsen.",
+       "source": "LBBW / Finanztip",
+       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-oktober-2026_anjnmvdjip_d.html"
+      },
+      {
+       "title": "Internationale Energieagentur warnt vor knappem Diesel-Angebot",
+       "text": "Die Internationale Energieagentur (IEA), eine Organisation der Industriestaaten zur Beobachtung der Energieversorgung, warnt nach Medienberichten vor einem anhaltend knappen Angebot an Diesel bis weit in das kommende Jahr hinein. Diesel ist der Kraftstoff, mit dem ein großer Teil des Güterverkehrs, der Landwirtschaft und vieler Baumaschinen betrieben wird; Engpässe können daher auf viele Preise durchschlagen. Zugleich sorgte ein Geschäft über russische Diesellieferungen für Bewegung an den Energiemärkten, nachdem die USA Sanktionen gegen russischen Treibstoff vorübergehend ausgesetzt hatten. Die Einordnung: Für Selbstständige mit Fahrzeugen oder energieintensiven Abläufen lohnt es sich, Kraftstoff- und Energiekosten im Blick zu behalten und größere Einkäufe mit Augenmaß zu planen.",
+       "source": "ORF / FXStreet",
+       "url": "https://www.orf.at/"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Eine Zinspause bedeutet nicht sinkende Zinsen, sondern ein Verharren auf hohem Niveau. Vergleiche vor größeren Anschaffungen weiterhin Förderkredite mit den Konditionen deiner Hausbank, und prüfe, ob sich kurzfristig freie Rücklagen besser verzinst anlegen lassen, solange die Tagesgeld- und Festgeldzinsen noch vergleichsweise attraktiv sind.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Erstes gezieltes Medikament gegen die seltene Alexander-Krankheit zugelassen",
+       "text": "Die US-Arzneimittelbehörde FDA (Food and Drug Administration), die Zulassungsbehörde für Medikamente in den Vereinigten Staaten, hat nach Berichten von Wissenschaftsmedien erstmals ein Medikament zugelassen, das gezielt gegen die Alexander-Krankheit wirkt. Die Alexander-Krankheit ist eine sehr seltene, schwere Erkrankung des Nervensystems, bei der ein Fehler im Erbgut den Aufbau bestimmter Stützzellen im Gehirn stört. Bislang konnten Ärzte nur die Beschwerden lindern; das neue Mittel setzt erstmals am Krankheitsmechanismus selbst an und ist das Ergebnis jahrzehntelanger Forschung. Die Einordnung bleibt vorsichtig: Betroffen ist nur eine kleine Zahl von Patienten, doch für diese Familien bedeutet die Zulassung die erste gezielte Behandlung überhaupt und ein ermutigendes Beispiel dafür, dass auch bei sehr seltenen Krankheiten Fortschritte möglich sind.",
+       "img": "https://live.staticflickr.com/263/20468181866_d5c72f3984_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/health/"
+      },
+      {
+       "title": "Zuchterfolg bei Mäusen weckt Hoffnung für den Artenschutz",
+       "text": "Einem Forschungsteam ist es nach Berichten von Wissenschaftsmedien gelungen, aus geklonten männlichen Maus-Embryonen fruchtbare weibliche Tiere zu erzeugen. Ein Embryo ist ein Lebewesen in einem sehr frühen Entwicklungsstadium; Klonen bezeichnet das Erzeugen eines genetisch nahezu identischen Nachkommen. Die Forschenden veränderten dabei gezielt, wie das Geschlecht in der frühen Entwicklung angelegt wird. Noch handelt es sich um Grundlagenforschung an Mäusen, doch die Methode könnte langfristig helfen, bedrohte Tierarten zu erhalten, bei denen nur noch wenige Tiere eines Geschlechts leben. Die Einordnung: Vom Labor bis zu einem Einsatz im Artenschutz ist es ein weiter Weg, die Arbeit zeigt aber einen neuen Ansatz, um die genetische Vielfalt gefährdeter Arten zu sichern.",
+       "img": "https://live.staticflickr.com/3727/9982993193_8fa1f5cc04_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Physiker in Wien bauen erste sich selbst stabilisierende Atomkern-Uhr",
+       "text": "Physiker in Wien haben nach Berichten von Wissenschaftsmedien die erste sich selbst stabilisierende Atomkern-Uhr gebaut. Eine solche Uhr misst die Zeit nicht über die Hülle eines Atoms wie herkömmliche Atomuhren, sondern über winzige Energiesprünge im Atomkern, dem dichten Zentrum des Atoms; das verspricht eine noch höhere Genauigkeit. Selbststabilisierend bedeutet, dass die Uhr Abweichungen von allein ausgleicht und so über lange Zeit zuverlässig bleibt. Perspektivisch könnten solche Kern-Uhren die heute genauesten Atomuhren übertreffen. Die Einordnung: Noch ist das Grundlagenforschung, doch extrem genaue Uhren sind die Grundlage für Satellitennavigation wie das GPS, für Kommunikationsnetze und für Tests grundlegender physikalischer Gesetze.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Atomic_clock.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+       "title": "Winziges, per Spritze einsetzbares Implantat soll Nervenschmerz dämpfen",
+       "text": "Forschende haben nach Berichten von Wissenschaftsmedien ein winziges, per Spritze einsetzbares Gerät entwickelt, das die Aktivität von Nerven steuern kann, ohne dass eine Operation, Batterien oder Kabel nötig sind. Nerven sind die Leitungsbahnen, über die der Körper Signale, etwa Schmerzempfindungen, weiterleitet. Das Gerät wird mit einer feinen Nadel platziert und von außen mit Energie versorgt; so lässt sich die Signalübertragung gezielt dämpfen. Erprobt wurde der Ansatz bisher im Labor und im Tierversuch. Die Einordnung bleibt vorsichtig: Bis zu einem Einsatz beim Menschen sind weitere Studien nötig, doch die Technik weckt die Hoffnung auf eine schonende Behandlung chronischer Schmerzen ohne großen Eingriff.",
+       "img": "https://live.staticflickr.com/65535/52129629689_f96d2f2fe6.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/news/top/health/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Zweiter Nebeltag in Folge, am Wochenende Familienmesse und Comedy",
+       "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Donnerstag erneut dichter Nebel; die Höchstwerte erreichen rund 21 Grad, mild für Mitte Oktober, die Sicht bleibt am Morgen jedoch eingeschränkt. Wer früh mit dem Auto unterwegs ist, sollte im Neckartal auf Nebelfelder gefasst sein. Für die kommenden Tage zeichnen sich mehrere Termine ab: Am Freitag, dem 16. Oktober, lädt der Gasthof Adler im Ortsteil Dettingen um 19 Uhr zu einem Krimidinner, also einem Abendessen mit einer gespielten Kriminalgeschichte. Am Samstag, dem 17. Oktober, öffnet die Familienmesse famFAIR in der Hohenberghalle ihre Tore, mit Angeboten rund um Kinder, Freizeit und Alltag. Am Sonntag, dem 18. Oktober, tritt um 19 Uhr der bundesweit bekannte Comedian, also Humorkünstler, Bülent Ceylan aus Mannheim mit seinem Programm Diktatürk in der Hohenberghalle auf. Für einen trüben Nachmittag bietet sich zudem ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
+       "source": "regioactive.de / eventim.de / open-meteo",
+       "url": "https://www.eventim.de/cityd/horb-am-neckar-2917/"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Auch ein zweiter Nebeltag in Folge erinnert daran, dass Geduld oft mehr trägt als Ungeduld; was sich der klaren Sicht entzieht, ordnet sich meist von selbst, sobald man ihm Zeit lässt."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose, neutrale Digital-Beratung über die Mittelstand-Digital Zentren",
+      "text": "Mit den Mittelstand-Digital Zentren betreibt das Bundesministerium für Wirtschaft ein bundesweites Netz von Anlaufstellen, die kleine und mittlere Unternehmen sowie Soloselbstständige kostenlos und herstellerneutral bei der Digitalisierung unterstützen. Herstellerneutral bedeutet, dass nicht für bestimmte Produkte eines Anbieters geworben wird. Angeboten werden nach Angaben des Programms unter anderem kostenfreie Workshops, Praxisbeispiele und individuelle Erstgespräche, etwa zu künstlicher Intelligenz, zum Online-Auftritt oder zur Automatisierung von Abläufen. Für Baden-Württemberg sind mehrere regionale Zentren zuständig.",
+      "why": "Als Soloselbstständiger kannst du die Angebote nutzen, ohne dafür zu bezahlen, und dir so neutrale Einschätzungen zu Werkzeugen oder zur Automatisierung deiner Routinen holen, bevor du Geld oder Zeit investierst. Prüfe das für deine Region passende Zentrum und die aktuellen Termine direkt auf mittelstand-digital.de; dort findest du auch die Kontaktdaten der zuständigen Stelle.",
+      "source": "Mittelstand-Digital (BMWK)",
+      "url": "https://www.mittelstand-digital.de/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale stammen aus derselben Woche und zielen auf dasselbe: den KI-gestützten Arbeitsablauf verlässlich und messbar zu machen, statt allein auf den Listenpreis eines Modells zu schauen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Hausregeln mit einem Pre-Commit-Hook erzwingen, statt nur darum zu bitten",
+       "tag": "Automatisierung · Agenten-Workflow",
+       "paras": [
+        "Der Entwickler Simon Willison, bekannt für Werkzeuge rund um große Sprachmodelle, hat am 13. Oktober eine Beobachtung des Entwicklers Geoffrey Huntley aufgegriffen: Statt einem KI-Agenten in jedem Auftrag aufs Neue zu erklären, welche Bibliothek er verwenden soll, lässt sich ein sogenannter Pre-Commit-Hook einsetzen. Das ist ein kleines Skript, das vor jedem Speichern einer Änderung in der Versionsverwaltung automatisch prüft, ob bestimmte Regeln eingehalten sind, und den Vorgang sonst abbricht.",
+        "Huntleys Beispiel prüft, ob im geänderten Code direkt bestimmte Protokoll-Bausteine aufgerufen werden, die eigentlich über eine vorgegebene Bibliothek laufen sollen; findet der Hook einen Verstoß, lehnt er ab und weist den Agenten an, die zugelassene Variante zu nutzen. Für dein System heißt das: Wiederkehrende Vorgaben, etwa das verbindliche Schema von data.json, kannst du als harte, automatisch geprüfte Schranke hinterlegen, statt dich allein auf die Beschreibung im Auftrag zu verlassen."
+       ],
+       "snippetLabel": "Prompt-Baustein, um einen solchen Hook entwerfen zu lassen",
+       "snippet": "Schreibe einen Pre-Commit-Hook, der den Commit ablehnt, wenn\n- die Datei <span class=\"ph\">{data.json}</span> nicht per JSON.parse gueltig ist\n- oder im days-Array mehr als <span class=\"ph\">{7}</span> Tage stehen\nGib bei Ablehnung eine klare Meldung aus, was zu korrigieren ist.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
+      },
+      {
+       "icon": "gauge",
+       "title": "Modelle nach Aufwand pro Ziel vergleichen, nicht nach Preis je Token",
+       "tag": "Kostenkontrolle · Modellwahl",
+       "paras": [
+        "Anlässlich des neuen Google-Modells Gemini 4 Argon wies Simon Willison am 13. Oktober darauf hin, dass der reine Listenpreis je Million Token wenig über die tatsächlichen Kosten aussagt. Ein Token ist ein kleiner Text- oder Rechenbaustein, in dem Sprachmodelle ihre Ein- und Ausgaben abrechnen. Entscheidend sei, so Willison sinngemäß, wie viele Token ein Modell benötigt, um eine Aufgabe innerhalb eines Agenten-Systems tatsächlich zu lösen.",
+        "Ein teureres Modell, das ein Ziel in wenigen Schritten erreicht, kann unter dem Strich günstiger sein als ein billiges, das viele Anläufe braucht. Für deine MORGENLAGE-Routine lohnt es sich daher, nicht den Token-Preis zu vergleichen, sondern die Gesamtkosten eines vollständigen Laufs, und beim Ausprobieren eines neuen Modells festzuhalten, wie viele Token und Schritte es bis zum fertigen, gültigen data.json braucht."
+       ],
+       "konkret": "Protokolliere bei jedem Lauf die verbrauchten Token und die Laufzeit bis zum fertigen data.json und vergleiche Modelle anhand dieser Gesamtkosten statt am reinen Preis je Token.",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
       }
      ]
     }
