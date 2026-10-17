@@ -2,157 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Samstag, 10. Oktober 2026",
-      "weather": "rain",
-      "temp": "15°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen an diesem Samstag Regenschauer durch, und die Höchstwerte bleiben mit rund 15 Grad herbstlich kühl. In Oslo hat die norwegische Nobelkomitee den Friedensnobelpreis an die südafrikanische Juristin Navi Pillay vergeben, und Kenia hat seinen ersten Fall des gefährlichen Ebola-Fiebers bestätigt. Aus Wirtschaft, Lichtblick und Forschung kommen eine angehobene Wachstumsprognose für Deutschland, drei neue Nationalparks in Australien sowie zwei Blicke tief ins All und in die Quantenwelt. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Friedensnobelpreis 2026 geht an die Menschenrechtsjuristin Navi Pillay",
-              "text": "Das norwegische Nobelkomitee in Oslo hat den Friedensnobelpreis 2026 der südafrikanischen Juristin Navanethem „Navi“ Pillay zugesprochen, und zwar „für ihren Einsatz für Frieden und Völkerrecht“. Das Völkerrecht ist das Regelwerk, das die Beziehungen zwischen Staaten ordnet. Pillay war von 2008 bis 2014 Hohe Kommissarin der Vereinten Nationen für Menschenrechte, also die oberste Beauftragte der UNO für dieses Thema, und wirkte zuvor als Richterin am Internationalen Strafgerichtshof für Ruanda, einem Sondergericht zur Aufarbeitung des Völkermords von 1994. UNO-Generalsekretär António Guterres würdigte sie als unabhängige Stimme für Gerechtigkeit, auch Südafrikas Präsident Cyril Ramaphosa gratulierte. Die Einordnung bleibt sachlich: Die feierliche Übergabe ist für den 10. Dezember in Oslo vorgesehen.",
-              "source": "UN News / Nobelprize.org",
-              "url": "https://news.un.org/en/story/2026/10/1168558"
-            },
-            {
-              "title": "Kenia bestätigt ersten Ebola-Fall nach dem Tod eines Reisenden aus dem Kongo",
-              "text": "Die Gesundheitsbehörden Kenias, eines Landes in Ostafrika, haben am 6. Oktober den ersten Ebola-Fall des Landes bestätigt. Ebola ist eine durch ein Virus ausgelöste, oft schwer verlaufende Infektionskrankheit, die mit hohem Fieber und inneren Blutungen einhergeht und von Mensch zu Mensch über Körperflüssigkeiten übertragen wird. Betroffen war ein Mann, der jahrelang in der Demokratischen Republik Kongo gelebt hatte und über Uganda nach Nairobi, der Hauptstadt Kenias, gereist war; er starb kurz nach seiner Einlieferung. Nach Angaben der Regierung wurden enge Kontaktpersonen sowie Mitreisende seines Flugs ermittelt und unter Beobachtung gestellt, und die Grenzübergänge wurden in erhöhte Bereitschaft versetzt. Die Einordnung, nüchtern: Der Fall steht im Zusammenhang mit einem seit Mai andauernden Ausbruch im Osten des Kongo, und das rasche Aufspüren von Kontaktpersonen gilt als wichtigster Hebel, um eine weitere Ausbreitung zu verhindern.",
-              "source": "Reuters / ABC News",
-              "url": "https://abcnews.com/Business/wireStory/kenya-confirms-ebola-case-death-man-traveled-congo-137035954"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Landesbank hebt Wachstumsprognose für Deutschland an, EZB auf Straffungskurs",
-              "text": "Die Landesbank Baden-Württemberg, kurz LBBW, eine der größten deutschen Geschäftsbanken mit Sitz in Stuttgart, hat ihre Konjunkturprognose angehoben und erwartet nun für Deutschland in den Jahren 2026 und 2027 ein Wirtschaftswachstum von jeweils rund 1,0 Prozent. Konjunktur bezeichnet die gesamtwirtschaftliche Lage, also ob die Wirtschaft eines Landes wächst oder schrumpft. Die Bank begründet die Anhebung damit, dass die heimische Wirtschaft besser laufe als zuvor erwartet; für den Euroraum, den Verbund der Länder mit der gemeinsamen Währung Euro, rechnet sie mit 1,0 und 1,3 Prozent. Zugleich sieht die LBBW die Europäische Zentralbank, kurz EZB, die für den Euro zuständige Notenbank in Frankfurt am Main, weiter auf einem Kurs der geldpolitischen Straffung, also eher steigender Zinsen; der Einlagesatz liegt derzeit bei 2,50 Prozent. Der sogenannte Wirtschaftsstimmungsindikator der EU-Kommission, ein Barometer für die Stimmung in Unternehmen und bei Verbrauchern, lag im September bei 97,9 Punkten und damit knapp unter dem langjährigen Mittel von 100.",
-              "source": "LBBW Research",
-              "url": "https://www.lbbw.de/artikel/pressemitteilung/lbbw-research-baden-wuerttemberg-waechst-2026_aniav6ttya_d.html"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Dass eine große Landesbank ihre Wachstumsprognose nach oben korrigiert, ist ein vorsichtig positives Signal für die Auftragslage im kommenden Jahr. Für dich als Solo-Unternehmer kann das bedeuten, dass Kunden wieder etwas investitionsfreudiger werden; zugleich spricht der Straffungskurs der EZB dafür, dass Kredite teurer bleiben, Erspartes und Tagesgeld dagegen weiter ordentlich verzinst werden. Wer größere Ausgaben plant, vergleicht die Konditionen daher besser jetzt, statt auf bald sinkende Zinsen zu setzen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Australischer Bundesstaat Victoria richtet drei neue Nationalparks ein",
-              "text": "Der australische Bundesstaat Victoria im Südosten des Landes hat die Einrichtung von drei neuen Nationalparks angekündigt, um bedrohte Tierarten zu schützen. Ein Nationalpark ist ein großräumiges Schutzgebiet, in dem die Natur weitgehend sich selbst überlassen bleibt und menschliche Eingriffe stark beschränkt sind. Geschützt werden sollen unter anderem Gleitbeutler, also baumbewohnende Beuteltiere, die mithilfe einer Hautfalte zwischen ihren Gliedmaßen von Baum zu Baum gleiten, sowie mehrere Eulenarten. Solche Beuteltiere und Eulen brauchen alte, zusammenhängende Wälder mit großen Bäumen, in deren Höhlen sie wohnen. Die Botschaft ist eine der Zuversicht: Wo große Waldgebiete dauerhaft unter Schutz gestellt werden, erhalten auch seltene, auf alten Baumbestand angewiesene Arten wieder eine verlässliche Heimat.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sheldon_Forest_Australia.JPG",
-              "source": "Good News Network",
-              "url": "https://www.goodnewsnetwork.org/category/news/"
-            },
-            {
-              "title": "Studie: Beteiligung der Bevölkerung ist der Schlüssel zum Erfolg im Naturschutz",
-              "text": "Eine Auswertung erfolgreicher Naturschutzprojekte aus aller Welt kommt zu dem Ergebnis, dass die Einbindung der örtlichen Bevölkerung einer der wichtigsten Faktoren für dauerhaften Erfolg ist. Untersucht wurde, warum manche Schutzvorhaben gelingen und andere scheitern. Entscheidend war demnach weniger die Höhe des eingesetzten Geldes als die Frage, ob die Menschen vor Ort das Vorhaben mittragen und selbst Verantwortung übernehmen. Die Einordnung: Naturschutz wird oft als rein technische oder finanzielle Aufgabe gesehen; die Studie zeigt, dass er vor allem dort gelingt, wo er als gemeinsames Anliegen der Menschen verstanden wird, die in und mit einer Landschaft leben.",
-              "source": "Good News Network",
-              "url": "https://www.goodnewsnetwork.org/category/news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Neun Milliarden Jahre altes Signal könnte die Dunkle Energie erhellen",
-              "text": "Mit dem kanadischen Radioteleskop CHIME, einer großen Antennenanlage zur Beobachtung von Radiowellen aus dem All, haben Forschende ein äußerst schwaches Signal aufgefangen, das vor rund neun Milliarden Jahren ausgesandt wurde. Es stammt von Wasserstoff, dem häufigsten Element des Universums, und zeigt, wie dieses Gas in jener fernen Frühzeit im Weltall verteilt war. Ein Radioteleskop fängt im Gegensatz zu gewöhnlichen Fernrohren keine sichtbaren Lichtstrahlen, sondern unsichtbare Radiowellen auf. Die Einordnung: Das Verfahren eröffnet einen neuen Weg, den fernen Kosmos großflächig zu kartieren, und könnte helfen, die rätselhafte Dunkle Energie zu verstehen, also jene bislang unerklärte Kraft, die das Universum immer schneller auseinandertreibt.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Southern_Milky_Way_Above_ALMA.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            },
-            {
-              "title": "Eine Quantenvorhersage aus dem Jahr 1931 ist erstmals sichtbar geworden",
-              "text": "Physikern ist es gelungen, einen Zustand der Materie unmittelbar zu beobachten, den der Physiker Hans Bethe bereits 1931 theoretisch vorhergesagt hatte, die sogenannten Bethe-Strings. Dafür kühlten sie Cäsium-Atome, also Atome eines weichen Metalls, bis fast auf den absoluten Nullpunkt herunter, die tiefste überhaupt mögliche Temperatur von etwa minus 273 Grad Celsius, und hielten sie in einer Falle aus Laserlicht fest. Bei dieser extremen Kälte verhalten sich die Teilchen nach den Regeln der Quantenphysik, jenem Teilgebiet der Physik, das das Verhalten allerkleinster Bausteine beschreibt. Die Einordnung: Dass sich eine fast hundert Jahre alte Vorhersage nun direkt nachweisen lässt, bestätigt die Tragfähigkeit grundlegender physikalischer Theorien und hilft, das Zusammenspiel vieler Teilchen besser zu verstehen.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Regnerischer Samstag im Neckartal, Kriminal-Dinner und A-cappella-Konzert am 16. Oktober",
-              "text": "In Horb am Neckar ziehen an diesem Samstag Regenschauer durch, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Für Wege nach draußen empfiehlt sich ein Regenschirm; wer es trocken mag, findet in den Cafés und der historischen Altstadt mit ihren Fachwerkhäusern Unterschlupf. Für den kommenden Freitag, den 16. Oktober, bieten sich zwei Abende an: Um 19 Uhr lädt der Gasthof Adler zu einem Kriminal-Dinner mit dem Titel „Prêt-à-morter“, bei dem die Gäste zu einem Drei-Gänge-Menü einen fiktiven Kriminalfall miterleben und mitlösen. Am selben Abend singt um 20 Uhr das Ensemble Vocalmania in der Kirche Mariä Geburt im Ortsteil Horb-Altheim ein A-cappella-Konzert, also Gesang ganz ohne Instrumentalbegleitung.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-              "source": "eventfinder.de / regioactive.de / open-meteo",
-              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein Signal von vor neun Milliarden Jahren erreicht uns erst heute als leisestes Flüstern; vielleicht lohnt es sich auch bei dir, den schwachen, langsamen Hinweisen Gehör zu schenken, die sich erst nach langer Reise zu erkennen geben."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "BAFA-Beratungsförderung: bis zu 50 Prozent Zuschuss, Richtlinie läuft Ende 2026 aus",
-            "text": "Das Bundesprogramm „Förderung unternehmerischen Know-hows“, abgewickelt über das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), bezuschusst professionelle Unternehmensberatung für kleine und mittlere Unternehmen sowie für Freiberufler und Soloselbstständige. Ein Zuschuss ist, anders als ein Kredit, Geld, das nicht zurückgezahlt werden muss. In den alten Bundesländern werden nach Angaben der IHK Nürnberg 50 Prozent der förderfähigen Beratungskosten übernommen, bei einer Bemessungsgrundlage von 3.500 Euro also bis zu 1.750 Euro je Beratung. Voraussetzung ist unter anderem, dass das Unternehmen seit mindestens einem Jahr am Markt tätig ist und ein bei der BAFA gelisteter Berater beauftragt wird; der Antrag muss vor Beratungsbeginn online gestellt werden.",
-            "why": "Die aktuelle Förderrichtlinie läuft laut IHK nur noch bis zum 31. Dezember 2026. Wenn du ohnehin über eine Beratung zu Digitalisierung, Prozessen oder Geschäftsmodell nachdenkst, lohnt es sich, das Vorhaben in diesem Zeitfenster anzustoßen. Prüfe die genauen Bedingungen und Förderquoten vorab auf der offiziellen BAFA-Seite, da einige Details je nach Quelle abweichen.",
-            "source": "IHK Nürnberg / BAFA",
-            "url": "https://www.ihk-nuernberg.de/ihr-unternehmen/gruendung/coaching-beratungsfoerderung/bafa-programm"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm, der Neuerungen rund um Sprachmodelle fachkundig begleitet.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Für bezahlte Dienste eine harte Kostenobergrenze setzen, nicht nur eine Warnung",
-              "tag": "Kosten",
-              "paras": [
-                "Simon Willison plädiert dafür, dass Dienste mit Abrechnung je Nutzung, etwa die kostenpflichtigen Schnittstellen von Sprachmodellen oder Cloud-Diensten, standardmäßig eine harte Ausgabengrenze haben sollten. Eine harte Grenze bedeutet: Ist der gesetzte Betrag erreicht, verweigert der Dienst die weitere Arbeit und meldet einen Fehler, statt einfach weiter Kosten anzuhäufen. Eine bloße Warn-E-Mail, so sein Argument, komme oft zu spät und reiche nicht.",
-                "Der Hebel für dein System: Überall dort, wo dein System automatisch und ohne dein Zutun kostenpflichtige Dienste aufruft, solltest du ein festes Monats- oder Tagesbudget hinterlegen, das den Zugang kappt, sobald es ausgeschöpft ist. So kann eine fehlerhafte Schleife oder ein unerwarteter Ansturm deine Rechnung nicht unbemerkt in die Höhe treiben."
-              ],
-              "konkret": "Lege für jeden kostenpflichtigen Dienst, den dein System automatisch nutzt, im jeweiligen Konto ein hartes Ausgabenlimit fest, das bei Erreichen abschaltet, und prüfe, ob eine zusätzliche Warnschwelle bei etwa der Hälfte eingerichtet werden kann.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            },
-            {
-              "icon": "terminal",
-              "title": "Tote Zeiten per Sprache nutzen und das Diktat vom Modell aufräumen lassen",
-              "tag": "Produktivität",
-              "paras": [
-                "Simon Willison berichtet, dass er eine kleine Übersichtsseite für seinen Blog fast vollständig erstellt hat, indem er beim Kochen zu seinem Rechner sprach. Moderne Spracherkennung, also die automatische Umwandlung gesprochener Sprache in Text, ist inzwischen so zuverlässig, dass sich Ideen, Notizen oder Entwürfe auch nebenbei festhalten lassen, ohne an der Tastatur zu sitzen.",
-                "Der Hebel für dein System: Du kannst tote Zeiten, etwa unterwegs oder bei Routinetätigkeiten, nutzen, um Gedanken einzusprechen, und anschließend ein Sprachmodell den rohen Diktattext in saubere Stichpunkte oder einen Entwurf überführen lassen. Wichtig ist dabei die Anweisung, nichts hinzuzuerfinden, sondern nur zu ordnen."
-              ],
-              "konkret": "Zeichne eine Sprachnotiz auf, lass sie automatisch in Text umwandeln und übergib diesen Text mit einem knappen Auftrag an ein Sprachmodell, das ihn nur strukturiert und nichts Inhaltliches ergänzt.",
-              "snippetLabel": "Diktat ordnen lassen",
-              "snippet": "Bringe den folgenden diktierten Text in klare Stichpunkte.\nFüge NICHTS inhaltlich hinzu, ordne und kürze nur:\n\n<span class=\"ph\">{diktierter_text}</span>",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Sonntag, 11. Oktober 2026",
       "kind": "weekly",
       "sub": "Wochenrückblick",
@@ -818,7 +667,6 @@
       "weather": "clouds",
       "temp": "21°C · neblig",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Donnerstag erneut dichter Nebel, der die Höchstwerte auf rund 21 Grad begrenzt, mild, aber trüb für Mitte Oktober. In der Weltlage wurde Papst Leo XIV. nach dem entdeckten Lungenknoten in Rom operiert, und im Ukraine-Krieg bleibt die von den USA verkündete Energie-Waffenruhe weiter ohne gemeinsame Bestätigung beider Seiten. In der Wirtschaft richtet sich der Blick auf die Sitzung der Europäischen Zentralbank Ende Oktober, bei der die meisten Fachleute mit einer Zinspause rechnen, während ein Diesel-Engpass die Energiemärkte beschäftigt. Aus Lichtblick und Forschung kommen ein erstes Medikament gegen eine seltene Erbkrankheit, ein Zuchterfolg für den Artenschutz, eine neue Atomkern-Uhr aus Wien und ein winziges Implantat gegen chronische Schmerzen. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -977,7 +825,6 @@
       "weather": "clouds",
       "temp": "22°C · neblig",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Freitag erneut dichter Nebel, der die Höchstwerte auf rund 22 Grad begrenzt, mild, aber trüb für Mitte Oktober. In der Weltlage verurteilte der Sicherheitsrat der Vereinten Nationen die jüngsten Huthi-Angriffe auf Saudi-Arabien, während sich die Staats- und Regierungschefs der Europäischen Union auf ihrem Gipfel in Brüssel um gemeinsame Mittel gegen die hohen Energiepreise bemühen. In der Wirtschaft gab die Europäische Zentralbank der italienischen Bank UniCredit grünes Licht für die Übernahme der Commerzbank, und wegen knappen Flugbenzins betankt die Lufthansa ihre Maschinen nun auch außerhalb ihres Drehkreuzes Frankfurt. Aus Lichtblick und Forschung kommen die Rückgabe von Stammesland am wieder frei fließenden Elwha-Fluss, eindrucksvolle erste Bilder eines neuen europäischen Erdbeobachtungssatelliten, ein neuer Pflanzenschutz gegen einen gefährlichen Pilz und überraschende Hirnmessungen während einer Narkose. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1124,6 +971,165 @@
                 "Übertragen auf dein System bedeutet das: Je zuverlässiger deine MORGENLAGE-Routine automatisch läuft und pusht, desto wichtiger wird ein schlanker, fester Prüf-Schritt. Lass nach jedem Lauf automatisch melden, ob data.json gültig ist, ob genau die letzten sieben Tage enthalten sind und ob der heutige Tag alle Pflichtfelder hat, bevor etwas veröffentlicht wird."
               ],
               "konkret": "Richte einen kurzen Selbsttest ein, der nach jedem Lauf prüft, ob data.json per JSON.parse gültig ist, ob das days-Array höchstens sieben Einträge hat und ob der letzte Tag Wetter, greeting und alle Pflicht-Sektionen enthält, und der sonst Alarm schlägt.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Samstag, 17. Oktober 2026",
+      "weather": "rain",
+      "temp": "14°C · Regen",
+      "greeting": "Guten Morgen, Gerik. An diesem Samstag zieht Regen über Horb am Neckar, die Höchstwerte bleiben bei rund 14 Grad, deutlich kühler und nasser als in den nebligen Tagen zuvor. In der Weltlage sagte die Europäische Union der Ukraine auf ihrem Gipfel in Brüssel weitere Milliardenhilfen zu, während US-Präsident Trump kurz vor Inkrafttreten Teile der geplanten Russland-Sanktionen wieder aussetzte. In der Wirtschaft erwarten Fachleute, dass Diesel noch bis ins Jahr 2027 knapp bleibt, und der neue Bundesarbeitsminister kündigte einen Kompromiss in der Rentenpolitik an. Aus Lichtblick und Forschung kommen eine Wildtierbrücke, die Zusammenstöße um 91 Prozent senkt, ein Naturschutzprojekt mit über 1.000 frei lebenden Bisons, eine gemeinsame Regel für die Strahlen schwarzer Löcher und nachgezüchtete Abwehrzellen gegen Krebs. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "EU-Gipfel in Brüssel sagt der Ukraine weitere Milliardenhilfen zu",
+              "text": "Beim Gipfeltreffen der Europäischen Union (EU), des Zusammenschlusses von 27 europäischen Staaten, in der belgischen Hauptstadt Brüssel haben sich die Staats- und Regierungschefs nach Medienberichten darauf verständigt, die Ukraine weiter mit Milliardenbeträgen zu unterstützen. Die Ukraine ist das osteuropäische Land, das sich seit dem russischen Angriff im Jahr 2022 gegen die Invasion wehrt; eine Invasion ist der Einmarsch fremder Truppen in ein Land. Der ukrainische Präsident Wolodymyr Selenskyj hatte zuvor um eine verlässliche Finanzierung für sein Land geworben, dessen Bedarf auf mehrere Milliarden Euro beziffert wird. Die Einordnung bleibt nüchtern: Für die EU geht es vor allem darum, die Hilfe planbar zu machen; strittig ist weiterhin, wie sie dauerhaft bezahlt wird, etwa aus eingefrorenem russischem Vermögen, das in Europa festgehalten wird.",
+              "source": "ZDF heute",
+              "url": "https://www.zdfheute.de/"
+            },
+            {
+              "title": "US-Präsident Trump setzt Teile der geplanten Russland-Sanktionen aus",
+              "text": "Der US-amerikanische Präsident Donald Trump hat nach Medienberichten kurz vor deren Inkrafttreten per Dekret, also einer Anordnung mit Gesetzeskraft, Teile der geplanten Sanktionen gegen Russland wieder ausgesetzt. Sanktionen sind Strafmaßnahmen, mit denen Staaten wirtschaftlichen Druck aufbauen, etwa durch Handels- oder Finanzverbote; aussetzen bedeutet, dass eine Maßnahme vorerst nicht angewendet wird. Über Umfang und Gründe des Schritts gab es zunächst unterschiedliche Angaben. Die Einordnung bleibt sachlich: Der Vorgang zeigt, wie stark der Kurs gegenüber Russland von einzelnen politischen Entscheidungen abhängt, und lässt offen, ob die Sanktionen später doch greifen.",
+              "source": "ZDF heute",
+              "url": "https://www.zdfheute.de/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Fachleute erwarten knappen Diesel bis ins Jahr 2027",
+              "text": "Diesel, der Kraftstoff für viele Lastwagen, Baumaschinen und einen Teil der Autos, dürfte nach Medienberichten noch bis ins Jahr 2027 knapp bleiben. Als Ursachen nennen Fachleute drei Faktoren: die Spannungen mit dem Iran, dem großen Land am Persischen Golf, ausbleibende Lieferungen aus Russland sowie das Niedrigwasser im Rhein, dem wichtigen Wasserweg, auf dem Tankschiffe Kraftstoff ins Land bringen. Niedrigwasser bedeutet, dass ein Fluss so wenig Wasser führt, dass Schiffe nur noch wenig laden dürfen. Die Einordnung: Für Betriebe, die auf Fahrten und Maschinen angewiesen sind, drohen höhere und stärker schwankende Kraftstoffkosten; ein Ende der Knappheit ist nach dieser Einschätzung erst mittelfristig in Sicht.",
+              "source": "ZDF heute",
+              "url": "https://www.zdfheute.de/"
+            },
+            {
+              "title": "Neuer Bundesarbeitsminister Schweitzer kündigt einen Renten-Kompromiss an",
+              "text": "Bundespräsident Frank-Walter Steinmeier, das Staatsoberhaupt Deutschlands, hat nach Medienberichten Alexander Schweitzer zum neuen Bundesminister für Arbeit und Soziales ernannt. Das Arbeitsministerium ist das Ressort der Bundesregierung, das für den Arbeitsmarkt und die Rente zuständig ist; die Rente ist das regelmäßige Einkommen im Ruhestand. Schweitzer kündigte an, einen Kompromiss in der seit Längerem strittigen Rentenpolitik zu suchen. Die Einordnung: Entscheidungen zur Rente betreffen sowohl die heutigen Beiträge als auch die späteren Leistungen; für Selbstständige lohnt der Blick, ob sich dabei auch Rahmenbedingungen für die eigene Altersvorsorge verändern.",
+              "source": "ZDF heute",
+              "url": "https://www.zdfheute.de/"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Bleibt Diesel laut den Fachleuten noch bis 2027 knapp, ist mit weiter hohen und schwankenden Kraftstoffpreisen zu rechnen. Wer geschäftlich auf Fahrten angewiesen ist, plant größere Fahrten und Beschaffungen am besten mit Vorlauf und vergleicht Preise, statt sehr kurzfristig zu tanken oder zu buchen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Nordamerikas größte Wildtierbrücke senkt Zusammenstöße um 91 Prozent",
+              "text": "An einer großen Fernstraße im Westen der USA, der Interstate 25, hat eine neue Wildtierbrücke nach Berichten eines auf gute Nachrichten spezialisierten Portals die Zusammenstöße zwischen Fahrzeugen und Wildtieren um 91 Prozent gesenkt. Eine Wildtierbrücke, auch Grünbrücke genannt, ist eine begrünte Überführung über eine Straße, über die Tiere wie Hirsche oder Elche gefahrlos auf die andere Seite wechseln können. Die Brücke gilt als die größte ihrer Art in Nordamerika. Die Einordnung: Solche Bauwerke schützen zugleich die Tiere und die Menschen im Auto, denn Wildunfälle gehören auf Landstraßen zu den häufigsten und gefährlichsten Unfallarten; der starke Rückgang zeigt, wie wirksam eine gezielte bauliche Lösung sein kann.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Trans-Canada-wildlife_overpass.JPG",
+              "source": "Good News Network",
+              "url": "https://www.goodnewsnetwork.org/"
+            },
+            {
+              "title": "Größtes privates Naturschutzprojekt der USA zählt über 1.000 frei lebende Bisons",
+              "text": "In einem privaten Naturschutzprojekt, das nach Berichten als das größte der USA gilt, leben inzwischen mehr als 1.000 frei umherziehende Bisons. Der Bison ist das große, büffelähnliche Wildrind der nordamerikanischen Prärie, der weiten Graslandschaft Nordamerikas; die Tiere waren vor rund hundert Jahren fast ausgerottet. Das Überschreiten der Marke von 1.000 Tieren gilt als wichtiger Meilenstein, also ein deutlich sichtbarer Zwischenschritt auf dem Weg zu einer stabilen Herde. Die Einordnung: Das Projekt zeigt, dass sich auch eine fast verschwundene Art wieder ansiedeln lässt, wenn genügend zusammenhängende Fläche und Zeit zur Verfügung stehen.",
+              "img": "https://live.staticflickr.com/8033/28346582370_cb1f5d4fef_b.jpg",
+              "source": "Good News Network",
+              "url": "https://www.goodnewsnetwork.org/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Schwarze Löcher schleudern ihre Materiestrahlen nach einer gemeinsamen Regel",
+              "text": "Astronominnen und Astronomen haben nach Berichten von Wissenschaftsmedien festgestellt, dass schwarze Löcher höchst unterschiedlicher Größe ihre gewaltigen Materiestrahlen offenbar nach derselben, allgemeingültigen Regel aussenden. Ein schwarzes Loch ist ein Himmelskörper mit so starker Schwerkraft, dass nicht einmal Licht aus ihm entweichen kann. Ein Materiestrahl, von Fachleuten Jet genannt, ist ein eng gebündelter Strom aus Teilchen, den manche schwarze Löcher mit hoher Geschwindigkeit ins All schleudern. Die Einordnung bleibt vorsichtig: Die Beobachtung könnte erklären, warum manche schwarzen Löcher noch Jahre nach dem Verschlingen eines Sterns erneut ausbrechen; sie muss aber in weiteren Messungen bestätigt werden.",
+              "img": "https://live.staticflickr.com/2167/5740471915_cbf6a414fb_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Forschende züchten erneuerbaren Nachschub an Abwehrzellen gegen Krebs",
+              "text": "Ein Forschungsteam der University of Southern California (USC), einer Universität in der US-Stadt Los Angeles, hat nach Berichten von Wissenschaftsmedien einen Weg gefunden, gentechnisch veränderte Abwehrzellen des Immunsystems gezielt nachzuzüchten. Das Immunsystem ist die körpereigene Abwehr gegen Krankheiten; gentechnisch verändert bedeutet, dass das Erbgut der Zellen gezielt angepasst wurde. Die Methode könnte einen erneuerbaren, also immer wieder nachwachsenden Nachschub solcher Zellen liefern, die Krebs angreifen und die natürliche Abwehr stärken. Die Einordnung bleibt vorsichtig: Noch handelt es sich um Grundlagenforschung, bis zu einer Anwendung bei Patienten sind weitere Studien nötig; gelingt der Schritt, könnte er Zelltherapien gegen Krebs breiter verfügbar machen.",
+              "img": "https://live.staticflickr.com/7087/7342846772_b1ff58d37b_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Regnerischer Samstag im Neckartal, ein Tag für drinnen",
+              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, zieht an diesem Samstag Regen auf; die Höchstwerte bleiben bei rund 14 Grad, deutlich kühler und nasser als in den nebligen Tagen zuvor. Wer mit dem Auto unterwegs ist, sollte im Neckartal auf nasse Fahrbahnen und längere Bremswege gefasst sein. Der Tag eignet sich gut für Unternehmungen unter Dach: Das Stadtmuseum am Marktplatz zeigt die Geschichte Horbs, und die historische Altstadt mit dem Marktplatz lässt sich auch bei kurzen Regenpausen entdecken. Für das Wochenende lohnt zudem ein Blick in den Veranstaltungskalender der Stadt, der Konzerte, Märkte und Vereinsveranstaltungen in Horb und den Teilorten listet.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+              "source": "open-meteo / Stadt Horb am Neckar",
+              "url": "https://www.horb.de/Veranstaltungen"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Der Regen ordnet den Tag von selbst nach innen; was drinnen in Ruhe gelingt, wiegt an solchen Samstagen oft mehr als der verschobene Gang nach draußen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Microsoft for Startups: Cloud- und KI-Guthaben auch ohne Investor",
+            "text": "Der Technikkonzern Microsoft bietet über sein Programm Microsoft for Startups Founders Hub jungen Gründerinnen und Gründern kostenloses Guthaben für Cloud-Dienste und KI-Werkzeuge. Cloud-Dienste sind über das Internet gemietete Rechenleistung und Speicher, die man nur bei Bedarf bezahlt; ein Guthaben ist ein Betrag, den man ohne eigene Zahlung verbrauchen kann. Anders als bei vielen vergleichbaren Angeboten ist nach Branchenberichten kein Risikokapitalgeber, also kein professioneller Investor, nötig; man kann sich jederzeit bewerben, erhält zunächst ein Startguthaben und kann dieses mit der Zeit auf bis zu 150.000 US-Dollar ausbauen.",
+            "why": "Für dich als Solo-Unternehmer ist das eine risikoarme Möglichkeit, Rechenleistung und KI-Dienste für Experimente wie deine MORGENLAGE-Routine zu erproben, ohne sofort laufende Kosten zu tragen. Prüfe vor einer Bewerbung nüchtern, welche Dienste du wirklich brauchst, und notiere dir das Ablaufdatum des Guthabens, denn solche Credits verfallen meist nach etwa zwölf Monaten.",
+            "source": "Microsoft for Startups",
+            "url": "https://www.microsoft.com/en-us/startups"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Beide Signale zeigen dasselbe Muster: Je mehr dein System selbst erledigt, desto mehr lohnt sich ein kleiner, fester Prüf- und Bau-Standard drumherum.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Einen leichten Prüf-Schritt vor dem Push einbauen, wie eine Rechtschreibprüfung",
+              "tag": "Qualitätssicherung · Automatisierung",
+              "paras": [
+                "Der Entwickler Simon Willison, bekannt für Werkzeuge rund um große Sprachmodelle, also KI-Systeme, die Texte verstehen und erzeugen, hat am 16. Oktober beschrieben, wie das Team hinter Claude Code, einem KI-Programmierwerkzeug des KI-Unternehmens Anthropic, seine Code-Durchsicht organisiert. Code-Durchsicht, auf Englisch Code Review, bedeutet, Änderungen an einem Programm vor der Übernahme zu prüfen. Die Kernbeobachtung: Ein KI-Modell fängt die meisten Routinefehler schon ab, bevor ein Mensch hinschaut, sodass sich die Prüfung eher wie eine Rechtschreibprüfung während des Schreibens anfühlt.",
+                "Übertragen auf deine MORGENLAGE-Routine heißt das, der Veröffentlichung einen kurzen, automatischen Prüfblick voranzustellen. Bevor data.json gepusht wird, lässt du den heutigen Tag gegenlesen: ob zu jedem Eigennamen eine Erklärung im Text steht, ob die Wetterangabe in der greeting exakt zu den Feldern weather und temp passt und ob keine Zahl ohne Quelle auftaucht."
+              ],
+              "snippetLabel": "Prüf-Prompt, der den heutigen Tag vor dem Push gegenliest",
+              "snippet": "Lies den letzten Tag aus data.json und pruefe streng:\n- ist zu JEDEM Eigennamen und Fremdwort eine kurze Erklaerung im Text?\n- passt die Wetterangabe in greeting exakt zu <span class=\"ph\">{weather}</span> und <span class=\"ph\">{temp}</span>?\n- gibt es Zahlen oder Namen ohne erkennbare Quelle?\nMelde jede Abweichung mit Sektion und Satz. Nur wenn nichts auffaellt, antworte mit OK.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/"
+            },
+            {
+              "icon": "layers",
+              "title": "Kleine Werkzeuge bewusst als einzelne Datei ohne Server bauen",
+              "tag": "Werkzeugbau · Einfachheit",
+              "paras": [
+                "Simon Willison hat am 15. Oktober zwei kleine Experimente gezeigt: ein Spiel für zwei Mobiltelefone, die ihren Spielstand über hörbare Pieptöne austauschen, und ein Anzeigewerkzeug für mathematische Formeln. Beide laufen als eine einzige HTML-Datei, also als eine einzelne Internetseite ohne eigenen Server; ein Server ist ein dauerhaft laufender Rechner im Hintergrund, der hier gar nicht nötig ist. Die Formel-Seite speichert ihre Daten sogar im Link selbst, sodass ein fertiges Dokument einfach als Internetadresse weitergegeben werden kann.",
+                "Für dich ist das eine Einladung, kleine Helfer für deinen Alltag bewusst als einzelne, in sich geschlossene Dateien zu bauen, statt gleich eine aufwendige Anwendung aufzusetzen. Das senkt den Aufwand und die Angriffsfläche; Simon lässt mitgelieferte Inhalte zur Sicherheit in einem abgeschotteten Rahmen laufen, einem sogenannten iframe-Sandkasten, damit eingeschleuster Schadcode nichts anrichten kann."
+              ],
+              "konkret": "Wenn du das nächste kleine Hilfsmittel brauchst, etwa eine Vorschau für data.json, baue es als eine einzige HTML-Datei ohne Server und lass fremde oder erzeugte Inhalte nur in einem abgeschotteten iframe laufen.",
               "source": "simonwillison.net",
               "url": "https://simonwillison.net/"
             }
