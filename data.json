@@ -2,163 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Montag, 12. Oktober 2026",
-      "weather": "clouds",
-      "temp": "16°C · neblig",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Montag zunächst dichter Nebel, und die Höchstwerte erreichen rund 16 Grad, ein ruhiger, grauer Herbsttag im Neckartal. In der Weltlage überschattet ein Angriff auf den Flughafen der saudi-arabischen Hauptstadt Riad das Geschehen, während die Palästinenserführung ihre geplanten Wahlen verschiebt. In der Wirtschaft beginnen heute in Bangkok die Jahrestagungen von Internationalem Währungsfonds und Weltbank, und die Teuerung im Euroraum ist zuletzt spürbar gestiegen. Aus Lichtblick und Forschung kommen ein erfreulicher Zählerfolg bei Riesenschildkröten sowie ein mondähnliches Gestein auf der Erde und eine neuartige Uhr aus Wien. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Angriff auf den Flughafen der saudi-arabischen Hauptstadt Riad",
-              "text": "Nach Angaben der saudi-arabischen Behörden sind bei einem Angriff auf den König-Khalid-Flughafen in Riad, der Hauptstadt Saudi-Arabiens, zwölf Menschen ums Leben gekommen und mehr als 300 verletzt worden. Verantwortlich gemacht wird die Huthi-Miliz, eine bewaffnete Bewegung aus dem benachbarten Jemen, die seit Jahren in einen Konflikt mit einem von Saudi-Arabien geführten Militärbündnis verwickelt ist. Das Bündnis sprach von einem Kriegsverbrechen und kündigte eine Reaktion an. Die Einordnung bleibt nüchtern: Der Vorfall verschärft die ohnehin angespannte Sicherheitslage am Persischen Golf, der weltweit wichtigsten Förder- und Transportregion für Erdöl, und dürfte die Sorge vor weiter steigenden Energiepreisen zusätzlich nähren.",
-              "source": "Anadolu Agency / US News",
-              "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-11-2026/4084845"
-            },
-            {
-              "title": "Palästinenserführung verschiebt geplante Wahlen auf September 2027",
-              "text": "Der Präsident der Palästinensischen Autonomiebehörde, Mahmud Abbas, hat die ursprünglich für November geplanten Präsidenten- und Parlamentswahlen auf den 11. September 2027 verschoben. Die Palästinensische Autonomiebehörde ist die Selbstverwaltung, die Teile des Westjordanlands verwaltet; die letzten landesweiten Wahlen dort fanden 2006 statt. Die islamistische Bewegung Hamas, die den Gazastreifen kontrolliert, erklärte, die Verschiebung solle den Weg für einen innerpalästinensischen Dialog öffnen. Die Einordnung: Ob der neue Termin hält, ist offen, denn schon frühere Anläufe zu Wahlen waren mehrfach abgesagt worden.",
-              "source": "Anadolu Agency",
-              "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-11-2026/4084845"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Jahrestagungen von Währungsfonds und Weltbank beginnen in Bangkok",
-              "text": "In Bangkok, der Hauptstadt Thailands, beginnen an diesem Montag die Jahrestagungen des Internationalen Währungsfonds (IWF) und der Weltbank, die bis zum 18. Oktober dauern. Der IWF ist eine Sonderorganisation der Vereinten Nationen, die über die Stabilität des weltweiten Finanzsystems wacht und Ländern in Zahlungsnöten Kredite gewährt; die Weltbank vergibt vor allem langfristige Entwicklungskredite. Auf der Tagesordnung stehen der weltwirtschaftliche Ausblick, die Stabilität der Finanzmärkte und die hohe Staatsverschuldung vieler Länder, deren in der Corona-Pandemie aufgenommene Schulden nun zur Rückzahlung anstehen. Überschattet werden die Beratungen vom sich ausweitenden Konflikt im Nahen Osten und von weiter erhöhten Zinsen. Die Einordnung: Die Tagungen geben jedes Jahr Orientierung für die internationale Wirtschaftspolitik und werden von vielen Zentralbanken und Finanzministerien zum Austausch genutzt.",
-              "source": "IMF / US News",
-              "url": "https://www.imf.org/en/meetings/2026/annual"
-            },
-            {
-              "title": "Teuerung im Euroraum steigt auf 3,8 Prozent, EZB hat Zinsen angehoben",
-              "text": "Die Inflation im Euroraum, dem Verbund der Länder mit der gemeinsamen Währung Euro, ist nach einer ersten Schätzung des europäischen Statistikamts Eurostat im September auf 3,8 Prozent gestiegen, nach 3,2 Prozent im August. Inflation bezeichnet den allgemeinen Anstieg der Preise, der die Kaufkraft des Geldes mindert. Haupttreiber waren die Energiepreise, die binnen eines Jahres um 18,8 Prozent zulegten; die Kernrate, die schwankende Energie- und Lebensmittelpreise ausklammert, lag bei 2,5 Prozent. Die Europäische Zentralbank (EZB), die für den Euro zuständige Notenbank in Frankfurt am Main, hatte bereits am 10. September mit einer Anhebung ihrer Leitzinsen um 0,25 Prozentpunkte reagiert; der für Banken maßgebliche Einlagesatz liegt nun bei 2,50 Prozent. Die nächste Zinsentscheidung wird für den 29. Oktober erwartet.",
-              "source": "Eurostat / GMK Center",
-              "url": "https://gmk.center/en/news/inflation-in-the-eurozone-accelerated-to-3-8-in-september/"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Eine Teuerung von fast vier Prozent, die vor allem von teurer Energie getrieben wird, und eine Notenbank, die ihre Zinsen eher anhebt als senkt, bedeuten für dich als Solo-Unternehmer zweierlei. Kredite und Finanzierungen dürften vorerst teuer bleiben, weshalb sich ein Vergleich der Konditionen lohnt, bevor du größere Anschaffungen planst; zugleich werden Tagesgeld und sichere Geldanlagen weiterhin ordentlich verzinst. Bei deinen eigenen Angeboten solltest du gestiegene Energie- und Einkaufskosten einkalkulieren, statt auf rasch sinkende Preise zu setzen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Erhebung zählt rund 180.000 Riesenschildkröten auf einer Inselkette",
-              "text": "Eine aktuelle Bestandsaufnahme hat auf einer Inselkette rund 180.000 Riesenschildkröten gezählt und zeigt damit, dass sich der Bestand dieser langlebigen Tiere gut entwickelt. Riesenschildkröten sind die größten heute lebenden Landschildkröten; einzelne Tiere können über hundert Jahre alt und mehrere hundert Kilogramm schwer werden. Viele Bestände waren in der Vergangenheit durch Bejagung und durch eingeschleppte Tiere wie Ratten oder Ziegen stark geschrumpft. Die Botschaft ist eine der Zuversicht: Wo Lebensräume geschützt und eingeschleppte Arten zurückgedrängt werden, können sich selbst sehr langsam wachsende Bestände über die Jahre wieder deutlich erholen.",
-              "img": "https://live.staticflickr.com/65535/49887877926_5598b84974_b.jpg",
-              "source": "Good News Network",
-              "url": "https://www.goodnewsnetwork.org/category/news/"
-            },
-            {
-              "title": "Von Julia Roberts benannter Lippenbär gedeiht nach Rettung aus dem Tanzbären-Handel",
-              "text": "Ein Lippenbär, dem die US-Schauspielerin Julia Roberts ihren Namen gab, entwickelt sich in einem Schutzzentrum in Indien gut, nachdem er aus dem sogenannten Tanzbären-Handel gerettet wurde. Lippenbären sind eine in Südasien heimische Bärenart mit zottigem Fell, die sich vor allem von Insekten ernährt. Beim Tanzbären-Handel wurden den Tieren früher Nasenringe angelegt, um sie zu Schaustellungen zu zwingen, eine Praxis, die in Indien inzwischen verboten ist. Die Einordnung: Die Geschichte steht für den langsamen, aber stetigen Erfolg von Auffangstationen, die geretteten Wildtieren wieder ein artgerechtes Leben ermöglichen.",
-              "source": "Good News Network",
-              "url": "https://www.goodnewsnetwork.org/category/news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "NASA entdeckt ein mondähnliches Gestein auf der Erde",
-              "text": "Ein Astronaut auf der Internationalen Raumstation ISS, einem bemannten Forschungslabor, das die Erde in rund 400 Kilometern Höhe umkreist, hat über der Insel Madagaskar vor der Ostküste Afrikas eine große Gesteinsformation fotografiert, die den hellen Hochländern des Mondes gleicht. Es handelt sich um Anorthosit, ein helles Tiefengestein, das auf der Erde nur selten großflächig an die Oberfläche tritt, auf dem Mond aber ganze Gebirgsregionen bildet. Die US-Raumfahrtbehörde NASA machte auf diese Ähnlichkeit aufmerksam. Die Einordnung: Solche irdischen Vorkommen helfen Fachleuten, die Entstehung des Mondes und die frühe Geschichte unseres eigenen Planeten besser zu verstehen, weil sich ähnliche Gesteine unter vergleichbaren Bedingungen bilden.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lunar_Ferroan_Anorthosite_%2860025%29.jpg",
-              "source": "ScienceDaily / NASA",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            },
-            {
-              "title": "Forschende in Wien bauen eine selbststabilisierende Kernuhr",
-              "text": "Einem Forschungsteam in Wien, der Hauptstadt Österreichs, ist nach eigenen Angaben der Bau der ersten sich selbst stabilisierenden Kernuhr gelungen. Eine Uhr misst Zeit, indem sie einen sehr regelmäßigen Takt zählt; heutige Atomuhren nutzen dafür Schwingungen in der Elektronenhülle von Atomen und sind so genau, dass sie über Jahrmillionen kaum eine Sekunde abweichen. Die neue Kernuhr stützt sich stattdessen auf einen Übergang im Atomkern selbst, der noch unempfindlicher gegenüber äußeren Störungen ist. Die Einordnung: Gelingt die Weiterentwicklung, könnten solche Uhren Navigation, Kommunikation und physikalische Grundlagenforschung noch genauer machen, etwa bei der Suche nach winzigen Veränderungen der Naturkonstanten.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nebliger Herbstmontag im Neckartal, am Freitag A-cappella-Konzert und Kriminal-Dinner",
-              "text": "Über Horb am Neckar liegt an diesem Montag zunächst dichter Nebel, und die Höchstwerte erreichen nur rund 16 Grad, ein ruhiger, grauer Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer früh unterwegs ist, sollte mit eingeschränkter Sicht rechnen; im Lauf des Tages kann sich der Nebel lichten. Für den kommenden Freitag, den 16. Oktober, zeichnen sich zwei Abende ab: Um 19 Uhr lädt der Gasthof Adler zu einem Kriminal-Dinner mit dem Titel „Prêt-à-morter“, bei dem die Gäste zu einem Drei-Gänge-Menü einen erfundenen Kriminalfall miterleben und mitlösen. Am selben Abend singt um 20 Uhr das Ensemble Vocalmania in der Kirche Mariä Geburt im Ortsteil Horb-Altheim ein A-cappella-Konzert, also Gesang ganz ohne Instrumentalbegleitung.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-              "source": "eventfinder.de / regioactive.de / open-meteo",
-              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Der Nebel über dem Neckartal nimmt der Landschaft die Fernsicht, nicht aber ihre Form; manchmal hilft es, das Nahe genau zu betrachten, wenn sich das Weite gerade verbirgt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "INQA-Coaching: 80 Prozent Zuschuss zu Beratung rund um den digitalen Wandel",
-            "text": "Das INQA-Coaching ist ein Förderprogramm des Bundesministeriums für Arbeit und Soziales, das kleine und mittlere Unternehmen bei personellen und organisatorischen Veränderungen im Zuge einer konkreten Digitalisierung begleitet. INQA steht für „Initiative Neue Qualität der Arbeit“. Gefördert werden 80 Prozent des Beraterhonorars, gedeckelt auf 1.200 Euro je Beratungstag und bis zu zwölf Beratungstage; ein Zuschuss ist, anders als ein Kredit, Geld, das nicht zurückgezahlt werden muss. Antragsberechtigt sind Betriebe mit weniger als 250 Beschäftigten, Sitz in Deutschland und höchstens 50 Millionen Euro Jahresumsatz, womit auch viele Kleinbetriebe und Soloselbstständige in Frage kommen.",
-            "why": "Wenn du ohnehin über begleitete Veränderungen bei Arbeitsorganisation oder Digitalisierung nachdenkst, etwa den Einsatz von KI-Werkzeugen in deinen Abläufen, kann dieses Programm einen Großteil der Beraterkosten übernehmen. Wichtig: Nach mehreren Quellen muss der Antrag gestellt werden, bevor der Beratungsvertrag unterschrieben wird, sonst entfällt die Förderung; die aktuelle Richtlinie datiert vom 12. Juni 2026. Prüfe die genauen Bedingungen und Fristen vorab auf der offiziellen Seite der Förderdatenbank des Bundes, da einzelne Angaben je nach Quelle abweichen.",
-            "source": "Förderdatenbank des Bundes / BMAS",
-            "url": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Bund/BMAS/inqa-coaching-2.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm, der Neuerungen rund um Sprachmodelle fachkundig begleitet.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Skripten nur die Datei- und Netzzugriffe erlauben, die sie wirklich brauchen",
-              "tag": "Sicherheit",
-              "paras": [
-                "Simon Willison weist anlässlich der Übernahme der Laufzeitumgebung Deno durch den Netzdienstleister Cloudflare auf deren Berechtigungssystem hin. Eine Laufzeitumgebung ist das Programm, das deinen Code ausführt; Deno ist eine Alternative zu dem weit verbreiteten Node.js. Das Besondere: Bei Deno lässt sich pro Skript festlegen, auf welche Dateien und auf welche einzelnen Internet-Adressen es zugreifen darf.",
-                "Der Hebel für dein System: Wenn dein System kleine Hilfsskripte ausführt, besonders solche, die ein Sprachmodell erzeugt hat, solltest du ihnen nur die Zugriffe gewähren, die sie wirklich benötigen, statt pauschal alles zu erlauben. Node.js kann den Netzzugriff bislang nur komplett an- oder abschalten, Deno dagegen gezielt auf einzelne Adressen begrenzen, was ein versehentliches Abfließen von Daten erschwert."
-              ],
-              "konkret": "Prüfe bei automatisch ausgeführten Skripten, ob du sie mit fein abgestuften Berechtigungen starten kannst, sodass ein Skript nur die eine Adresse erreicht, die es braucht, und nur in dem Ordner schreibt, der dafür vorgesehen ist.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            },
-            {
-              "icon": "gauge",
-              "title": "Nach Werkzeug-Updates die Standardeinstellungen prüfen, gerade bei der Token-Zählung",
-              "tag": "Sorgfalt",
-              "paras": [
-                "Simon Willison bemerkte beim Aktualisieren seines Werkzeugs ttok, das die sogenannten Token eines Textes zählt, dass es noch den Tokenizer des älteren Modells GPT-4 als Standard verwendete. Token sind die kleinen Text-Bausteine, in die Sprachmodelle einen Text zerlegen und nach denen sich auch die Kosten richten; ein Tokenizer ist das Verfahren, das diese Zerlegung vornimmt, und es unterscheidet sich von Modell zu Modell. Er stellte den Standard auf den neueren GPT-5-Tokenizer um und veröffentlichte die Version 1.0.",
-                "Der Hebel für dein System: Wenn du Token zählst, um Kosten oder die maximale Textlänge abzuschätzen, liefert ein veralteter Tokenizer falsche Werte. Nach jedem Update eines Werkzeugs lohnt daher ein kurzer Blick auf dessen Voreinstellungen, damit du mit Zahlen rechnest, die zum tatsächlich genutzten Modell passen."
-              ],
-              "konkret": "Lege dir eine kurze Prüfroutine zu: Nach dem Aktualisieren eines Werkzeugs zur Token-Zählung einmal kontrollieren, welcher Tokenizer als Standard eingestellt ist, und ihn auf das Modell setzen, das du wirklich verwendest.",
-              "snippetLabel": "Token eines Textes zählen",
-              "snippet": "cat text.txt | uvx ttok --model <span class=\"ph\">{modellname}</span>",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Dienstag, 13. Oktober 2026",
       "weather": "rain",
       "temp": "16°C · Regen",
@@ -793,7 +636,6 @@
       "weather": "rain",
       "temp": "14°C · Regen",
       "greeting": "Guten Morgen, Gerik. An diesem Samstag zieht Regen über Horb am Neckar, die Höchstwerte bleiben bei rund 14 Grad, deutlich kühler und nasser als in den nebligen Tagen zuvor. In der Weltlage sagte die Europäische Union der Ukraine auf ihrem Gipfel in Brüssel weitere Milliardenhilfen zu, während US-Präsident Trump kurz vor Inkrafttreten Teile der geplanten Russland-Sanktionen wieder aussetzte. In der Wirtschaft erwarten Fachleute, dass Diesel noch bis ins Jahr 2027 knapp bleibt, und der neue Bundesarbeitsminister kündigte einen Kompromiss in der Rentenpolitik an. Aus Lichtblick und Forschung kommen eine Wildtierbrücke, die Zusammenstöße um 91 Prozent senkt, ein Naturschutzprojekt mit über 1.000 frei lebenden Bisons, eine gemeinsame Regel für die Strahlen schwarzer Löcher und nachgezüchtete Abwehrzellen gegen Krebs. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -954,7 +796,6 @@
       "weather": "clouds",
       "temp": "8°C · trüb",
       "greeting": "Guten Morgen, Gerik, und einen ruhigen Sonntag. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, bleibt es an diesem Tag grau und trüb mit zähem Nebel bei rund 8 Grad, deutlich kühler als zu Wochenbeginn. Die Woche lässt sich in drei Bewegungen lesen. In der Weltlage verdichteten sich die Spannungen am Persischen Golf und im Nahen Osten, während Israel auf seine Parlamentswahl am 27. Oktober zusteuert und Europa der Ukraine weitere Milliarden zusagte. In der Wirtschaft richtete sich der Blick auf die Zinssitzung der Europäischen Zentralbank am 29. Oktober, begleitet von einer zähen deutschen Konjunktur und knappem Diesel. Und aus Forschung und Natur kam eine ungewöhnliche Häufung von Hoffnungszeichen, von einem Netzhautimplantat bis zu sich erholenden Tierbeständen. Ganz unten findest du die eine strategische Empfehlung der Woche und, als kopierfertigen Text, alle Systemanpassungen gebündelt.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1135,6 +976,168 @@
         {
           "type": "thought",
           "text": "Wenn ein Ablauf sich selbst prüft, wird aus täglicher Sorgfalt ein ruhiges Vertrauen; die beste Automatisierung ist die, der man am Morgen nicht mehr hinterhersehen muss."
+        }
+      ]
+    },
+    {
+      "label": "Montag, 19. Oktober 2026",
+      "weather": "clouds",
+      "temp": "15°C · neblig",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Montag zäher Nebel, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler, trüber Herbsttag im Neckartal. In der Weltlage stimmen die Menschen in der kanadischen Provinz Alberta heute über einen möglichen Weg zur Abspaltung von Kanada ab, und in Eriwan beginnt die Weltnaturkonferenz der Vereinten Nationen. In der Wirtschaft treffen sich in Berlin der Bundeskanzler und Spitzen vieler Konzerne zu einem Investitionsgipfel, während die Europäische Zentralbank Ende des Monats erneut über die Zinsen entscheidet. Aus Lichtblick und Forschung kommen ein deutlicher Rückgang der Abholzung im Amazonas, die Rückgabe von angestammtem Land an eine indigene Nation in den USA sowie neue Erkenntnisse über die Strahlen schwarzer Löcher und über kosmische Kollisionen. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Kanadische Provinz Alberta stimmt über einen Weg zur Abspaltung ab",
+              "text": "In der westkanadischen Provinz Alberta sind die Menschen heute aufgerufen, in einer Volksabstimmung über einen möglichen Weg zur Loslösung von Kanada zu entscheiden. Alberta ist eine rohstoffreiche, stark von der Öl- und Gasförderung geprägte Provinz, in der seit Jahren Unmut über die Politik der Bundesregierung in der fernen Hauptstadt Ottawa wächst. Die Frage auf dem Stimmzettel zielt nicht auf die Unabhängigkeit selbst, sondern darauf, ob ein rechtliches Verfahren für eine spätere, verbindliche Abstimmung über eine Abspaltung eingeleitet werden soll; Ministerpräsidentin Danielle Smith betonte, das Ergebnis verpflichte die Regierung zu nichts. Umfragen vor der Abstimmung deuten auf eine klare Mehrheit für den Verbleib bei Kanada hin, mit rund 60 Prozent für ein Nein und etwa 35 Prozent für ein Ja. Die Einordnung bleibt nüchtern: Schon die Abstimmung selbst zeigt, wie tief die Gräben zwischen einzelnen Regionen und der Zentralregierung in manchen Ländern verlaufen.",
+              "source": "Angus Reid / Jurist",
+              "url": "https://angusreid.org/alberta-referendum-question/"
+            },
+            {
+              "title": "Weltnaturkonferenz der Vereinten Nationen beginnt in Eriwan",
+              "text": "In Eriwan, der Hauptstadt des südkaukasischen Landes Armenien, beginnt heute die 17. Weltnaturkonferenz der Vereinten Nationen, kurz COP17, die bis zum 30. Oktober dauert. Bei dieser Konferenz beraten die Vertragsstaaten des Übereinkommens über die biologische Vielfalt, eines internationalen Abkommens zum Schutz der Tier- und Pflanzenwelt, über den Stand ihrer Naturschutzziele. Im Mittelpunkt steht die Frage, wie die 2022 im sogenannten Rahmenwerk von Kunming und Montreal vereinbarten Ziele erreicht werden können; nach Angaben des Konferenzsekretariats liegt bislang weniger als die Hälfte der geprüften nationalen Ziele im Plan, mit besonders großen Lücken bei der Finanzierung und beim Abbau umweltschädlicher Subventionen. Subventionen sind staatliche Zahlungen, die etwa fossile Energieträger künstlich verbilligen. Die Einordnung: Ob die Konferenz verbindliche Fortschritte bringt, ist offen, doch sie gilt als wichtiger Gradmesser für den weltweiten Naturschutz.",
+              "source": "Convention on Biological Diversity / Euronews",
+              "url": "https://thinklandscape.globallandscapesforum.org/108216/cop17-biodiversity-conference-preview/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Investitionsgipfel in Berlin: Konzerne versprechen Milliarden für den Standort",
+              "text": "Im Bundeskanzleramt in Berlin kommen an diesem Montag und Dienstag Bundeskanzler Friedrich Merz und Spitzenvertreter zahlreicher Großkonzerne zu einem Investitionsgipfel zusammen. Ein Investitionsgipfel ist ein Treffen, bei dem Politik und Wirtschaft über die Bedingungen für neue Investitionen sprechen, also für Ausgaben in Fabriken, Anlagen oder Forschung. Hintergrund ist die Initiative „Made for Germany“, ein Zusammenschluss von inzwischen rund 150 Unternehmen, die nach eigenen Angaben bis 2028 mehr als 850 Milliarden Euro am Standort Deutschland investieren wollen. Merz sagte den Investoren grundlegende Reformen zu, etwa einen flexibleren Arbeitsmarkt. Die Einordnung bleibt nüchtern: Fachleute weisen darauf hin, dass unklar ist, wie viel der angekündigten Summe wirklich neues Geld ist und nicht ohnehin geplante Investitionen, und dass viele internationale Geldgeber gegenüber Deutschland weiter zurückhaltend sind.",
+              "source": "Börsen-Zeitung / ZDF",
+              "url": "https://www.boersen-zeitung.de/konjunktur-politik/standort-deutschland-ist-ploetzlich-wieder-attraktiv"
+            },
+            {
+              "title": "Vor der EZB-Zinsentscheidung am 29. Oktober",
+              "text": "In zehn Tagen, am 29. Oktober, entscheidet der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, erneut über die Leitzinsen. Leitzinsen sind die Sätze, zu denen sich Geschäftsbanken bei der Notenbank Geld leihen, und sie wirken auf Kredit- und Sparzinsen in der gesamten Wirtschaft. Zuletzt lag der für Sparer wichtige Einlagensatz bei 2,50 Prozent, nachdem die EZB ihn wegen anhaltend erhöhter Teuerung angehoben hatte; für das laufende Jahr erwartet die Notenbank eine Inflation von gut drei Prozent. Zugleich meldet das Bundesministerium für Wirtschaft, die deutsche Wirtschaft habe im dritten Quartal vorübergehend an Schwung verloren, befinde sich aber weiter auf einem vorsichtigen Erholungskurs. Die Einordnung: Für Selbstständige bleibt das ein Umfeld mit eher teuren Krediten und zögerlicher Auftragsvergabe.",
+              "source": "EZB / BMWE / Biallo",
+              "url": "https://www.biallo.de/geldanlage/news/naechste-zinserhoehung-der-ezb"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Solange die EZB die Zinsen hoch hält und die Konjunktur nur zögerlich anzieht, bleiben Kredite teuer und Aufträge kommen langsamer herein. Prüfe geplante Anschaffungen darauf, ob sie wirklich jetzt sein müssen, vergleiche die Konditionen deiner Hausbank mit meist günstigeren Förderkrediten und halte eine Rücklage für ruhigere Monate bereit. Wo du eigene Mittel statt teurer Kredite einsetzen kannst, sparst du im aktuellen Zinsumfeld spürbar.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Abholzung im brasilianischen Amazonas fällt auf den niedrigsten Stand seit 13 Jahren",
+              "text": "Im brasilianischen Teil des Amazonas-Regenwaldes, des größten zusammenhängenden tropischen Waldes der Erde, ist die Abholzung nach neuen Auswertungen auf den niedrigsten Stand seit 13 Jahren gefallen. Die Warnmeldungen über gerodete Flächen gingen gegenüber dem Vorjahr um mehr als ein Drittel zurück; einer Analyse zufolge wurde dadurch die Rodung von mindestens 20.000 Quadratkilometern Wald verhindert. Der Amazonas-Regenwald bindet große Mengen des Treibhausgases Kohlendioxid und beherbergt einen erheblichen Teil der weltweiten Tier- und Pflanzenarten. Die Botschaft ist eine der Zuversicht: Sie zeigt, dass entschlossener staatlicher Schutz die Zerstörung selbst sehr großer Waldgebiete spürbar bremsen kann.",
+              "img": "https://live.staticflickr.com/5026/5641583430_6fac4e655f_b.jpg",
+              "source": "Good Good Good / Positive News",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026"
+            },
+            {
+              "title": "Rund 11.000 Acres angestammtes Land an indigene Nation in den USA zurückgegeben",
+              "text": "Im US-Bundesstaat Maine im Nordosten der Vereinigten Staaten sind rund 11.000 Acres angestammtes Land an die Penobscot Nation zurückgegeben worden, eine der dort seit Jahrhunderten ansässigen indigenen, also ursprünglich einheimischen Gemeinschaften. Ein Acre ist ein vor allem im englischsprachigen Raum gebräuchliches Flächenmaß von gut 4.000 Quadratmetern, 11.000 Acres entsprechen also etwa 4.450 Hektar. Es handelt sich um den ersten Abschnitt einer größeren Rückgabe von insgesamt rund 30.000 Acres, umgerechnet etwa 12.000 Hektar. Für viele indigene Nationen hat solches Land nicht nur wirtschaftlichen, sondern auch kulturellen und spirituellen Wert, etwa für den Schutz von Flüssen und Wäldern. Die Einordnung: Die Rückgabe gilt als Beispiel dafür, wie historisches Unrecht in kleinen, konkreten Schritten anerkannt und ein Stück weit ausgeglichen werden kann.",
+              "img": "https://live.staticflickr.com/8806/16696742654_be214d1449_b.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Schwarze Löcher schleudern ihre Strahlen nach derselben Regel ins All",
+              "text": "Ein Forschungsteam um Adelle Goodwin vom australischen Radioastronomie-Zentrum ICRAR an der Curtin-Universität hat herausgefunden, dass schwarze Löcher höchst unterschiedlicher Größe ihre gewaltigen Materiestrahlen offenbar nach derselben Regel aussenden. Ein schwarzes Loch ist ein Bereich im All, dessen Anziehungskraft so stark ist, dass nichts entkommt, nicht einmal Licht; fällt Materie hinein, kann es gebündelte Strahlen, sogenannte Jets, ins All schleudern. Nach der im Fachblatt Nature Astronomy veröffentlichten Studie setzen diese Strahlen ein, wenn ein schwarzes Loch Materie mit etwa zwei Prozent einer bestimmten physikalischen Höchstrate verschlingt, und zwar unabhängig davon, ob es die Masse eines einzelnen Sterns oder die von Millionen Sternen hat. Die Einordnung: Die Regel könnte Fachleuten helfen vorherzusagen, wann solche Strahlen auftreten, und so die Beobachtung mit Radioteleskopen gezielter zu planen.",
+              "img": "https://live.staticflickr.com/2167/5740471915_cbf6a414fb_b.jpg",
+              "source": "Nature Astronomy / ICRAR",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm"
+            },
+            {
+              "title": "Weltraumteleskop Webb beobachtet Kollisionen wie bei der Entstehung des Sonnensystems",
+              "text": "Mit dem James-Webb-Weltraumteleskop, einem von mehreren Weltraumbehörden betriebenen Observatorium, das aus rund anderthalb Millionen Kilometern Entfernung ins All blickt, haben Astronomen 21 besonders ausgeprägte Trümmerscheiben um junge Sterne untersucht. Eine Trümmerscheibe ist ein ringförmiger Gürtel aus Staub und Gesteinsbrocken, der einen jungen Stern umgibt und aus dem Planeten entstehen können. Das Teleskop fand darin kieselsäurereiches Material, das bei Zusammenstößen etwa marsgroßer Körper entsteht, also bei gewaltigen Kollisionen, wie sie auch unser eigenes Sonnensystem geprägt haben; ein solcher Einschlag wird sogar hinter der Entstehung des Mondes vermutet. Die im Fachblatt The Astrophysical Journal veröffentlichten Beobachtungen geben Hinweise auf die enormen Energiemengen bei solchen Zusammenstößen. Die Einordnung: Sie erlauben einen Blick auf Vorgänge, die vor Milliarden Jahren auch die Erde und ihre Nachbarplaneten formten.",
+              "img": "https://live.staticflickr.com/65535/51897153681_f895614850_b.jpg",
+              "source": "The Astrophysical Journal / NASA",
+              "url": "https://lifeboat.com/blog/2026/10/webb-provides-crash-course-on-planet-shattering-collisions"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Nebliger Herbstmontag im Neckartal, am Donnerstag Kabarett-Vorpremiere",
+              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Montag zäher Nebel, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler, trüber Herbsttag. Wer früh unterwegs ist, sollte bei schlechter Sicht im Verkehr vorsichtig fahren; lichtet sich der Nebel im Lauf des Tages, kann daraus noch ein ruhiger, goldener Oktobertag werden. Für den Rest der Woche zeichnet sich ein Termin ab: Am Donnerstag, dem 22. Oktober, zeigt um 20 Uhr die Kabarettistin Doris Reichenauer im Gasthof Adler im Ortsteil Horb-Dettingen die Vorpremiere ihres neuen Programms „Jetzt isst er sogar Brokkoli!“. Kabarett ist eine Bühnenkunst, die mit Humor und spitzer Zunge aktuelle und alltägliche Themen aufs Korn nimmt. Für einen trüben Nachmittag zwischendurch bietet sich ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
+              "source": "eventfinder.de / Stadt Horb / open-meteo",
+              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Nebel verhüllt das Neckartal und nimmt dem Blick die Ferne; vielleicht ist es ein Tag, an dem sich die Aufmerksamkeit lohnt, die man dem Nahen und Greifbaren schenkt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "BAFA-Zuschuss zu Unternehmensberatung, auch für KI-Themen, noch bis Jahresende",
+            "text": "Das Programm „Förderung unternehmerischen Know-hows“ des Bundesamts für Wirtschaft und Ausfuhrkontrolle (BAFA), einer Behörde des Bundes, bezuschusst die Kosten für eine professionelle Unternehmensberatung. In den alten Bundesländern, zu denen auch Baden-Württemberg gehört, werden nach mehreren Quellen 50 Prozent des Beraterhonorars übernommen, bei förderfähigen Kosten von bis zu einigen tausend Euro je Beratung. Ein Zuschuss ist, anders als ein Kredit, Geld, das nicht zurückgezahlt werden muss. Ausdrücklich förderfähig sind nach den Quellen auch Beratungen rund um künstliche Intelligenz. Antragsberechtigt sind kleine und mittlere Unternehmen sowie Freiberufler; der Berater muss beim BAFA zugelassen sein.",
+            "why": "Wenn du ohnehin über eine strukturierte Beratung nachdenkst, etwa zum sinnvollen Einsatz von KI-Werkzeugen in deinen Abläufen, kann dieses Programm einen Großteil der Kosten übernehmen. Wichtig: Der Antrag muss vor Beginn der Beratung gestellt werden, und die aktuelle Förderrichtlinie läuft nach mehreren Quellen bis zum 31. Dezember 2026; wer sie noch nutzen will, sollte also nicht zu lange warten. Prüfe die genauen Konditionen, die Höchstbeträge und die zugelassenen Berater vorab direkt auf der offiziellen Seite des BAFA, da einzelne Angaben je nach Quelle abweichen.",
+            "source": "BAFA / IHK Nürnberg",
+            "url": "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der als Autor des quelloffenen Werkzeugs llm Neuerungen rund um Sprachmodelle fachkundig begleitet.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Automatische Code-Prüfung mitlaufen lassen, nicht erst am Ende",
+              "tag": "Qualität",
+              "paras": [
+                "Simon Willison verweist auf einen Bericht des Teams hinter Claude Code, einem KI-Werkzeug zum Programmieren, das beschreibt, wie es seinen Programmcode fortlaufend prüfen lässt, während er entsteht. Eine Code-Prüfung, englisch Code Review, ist das sorgfältige Gegenlesen von Programmcode, um Fehler früh zu finden. Das Besondere: Die automatische Prüfung läuft kontinuierlich mit, sodass ein KI-Assistent die meisten Routinefehler bereits abfängt, bevor ein Mensch den Code überhaupt ansieht.",
+                "Der Hebel für dein System: Wenn in deinen Abläufen Code entsteht, lohnt es sich, eine automatische Prüfung nicht als einmaligen Schritt ganz am Schluss einzuplanen, sondern fortlaufend mitlaufen zu lassen. So bleiben menschliche Kontrollen für die wichtigen, übergeordneten Fragen frei, während Tippfehler und typische Schnitzer früh und günstig auffallen."
+              ],
+              "konkret": "Richte für deine Projekte eine automatische Code-Prüfung ein, die bei jeder Änderung anspringt, statt erst kurz vor einer Veröffentlichung. Lass sie gezielt nach den Fehlern suchen, die dir erfahrungsgemäß am häufigsten unterlaufen.",
+              "snippetLabel": "Prüfauftrag an einen KI-Assistenten (Prompt)",
+              "snippet": "Prüfe die folgende Änderung auf Fehler, bevor sie zusammengeführt wird.\nAchte besonders auf <span class=\"ph\">{häufige Fehlerquellen, z. B. leere Werte, Randfälle}</span> und melde nur belastbare Funde mit kurzer Begründung.",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Sicherheitsvorgaben für KI-erzeugten Code von vornherein benennen",
+              "tag": "Sicherheit",
+              "paras": [
+                "Simon Willison berichtet, wie er von einem KI-Programmierassistenten ein kleines Programm zur Darstellung von Formeln bauen ließ und dabei von Anfang an eine Sicherheitsvorgabe machte: Die Anzeige sollte in einer abgeschotteten Umgebung, einem sogenannten Sandkasten (englisch sandbox), laufen. Ein Sandkasten ist ein abgeriegelter Bereich, in dem Code ausgeführt wird, ohne auf den Rest des Systems zugreifen zu können. So lässt sich das Risiko verringern, dass über eingeschleusten Schadcode Daten abfließen.",
+                "Der Hebel für dein System: Wenn ein KI-Assistent dir etwas baut, das später fremde Inhalte anzeigt oder verarbeitet, solltest du die Sicherheitsanforderungen gleich im Auftrag benennen, nicht erst hinterher. Modelle liefern sonst oft die bequemste, aber nicht die sicherste Lösung."
+              ],
+              "konkret": "Nimm Sicherheitsvorgaben fest in deine Aufträge an KI-Assistenten auf: dass fremde Inhalte abgeschottet dargestellt werden und dass das Programm nur die Zugriffe erhält, die es wirklich braucht.",
+              "snippetLabel": "Sicherheitsvorgabe im Auftrag (Prompt)",
+              "snippet": "Baue die Anzeige so, dass fremde Inhalte in einem abgeschotteten Sandkasten (sandbox) dargestellt werden.\nDas Programm darf nur auf <span class=\"ph\">{ausdrücklich erlaubte Ressourcen}</span> zugreifen, alles andere bleibt gesperrt.",
+              "source": "Simon Willison",
+              "url": "https://simonwillison.net/"
+            }
+          ]
         }
       ]
     }
