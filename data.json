@@ -2,163 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Dienstag, 13. Oktober 2026",
-      "weather": "rain",
-      "temp": "16°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen an diesem Dienstag immer wieder Regenschauer durch, und die Höchstwerte bleiben bei rund 16 Grad, ein kühler, nasser Herbsttag im Neckartal. In der Weltlage tritt in Deutschland Bundesarbeitsministerin Bärbel Bas zurück, und vor der israelischen Wahl liegt die Opposition laut einer Umfrage deutlich vorn. In der Wirtschaft treibt die angespannte Lage am Persischen Golf den Ölpreis weiter nach oben, während ein landesweiter Streik in Belgien das öffentliche Leben lahmlegt. Aus Lichtblick und Forschung kommen eine Spendenaktion über fünf Millionen Dollar, ein Wiedersehen zweier getrennter Schwestern, eine seltene Wüstenblüte in Australien und ein möglicher Schlüssel zum Altern. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Bundesarbeitsministerin Bärbel Bas tritt zurück",
-              "text": "Die deutsche Bundesarbeitsministerin Bärbel Bas hat ihren Rücktritt aus dem Bundeskabinett und von der Spitze ihrer Partei erklärt. Bas war Ministerin für Arbeit und Soziales, also für Themen wie Rente, Arbeitsmarkt und Grundsicherung zuständig, und zugleich eine der Vorsitzenden der Sozialdemokratischen Partei Deutschlands (SPD), einer der beiden großen Volksparteien des Landes. Als Gründe nannte sie die verschärfte Kritik aus den Reihen des Regierungsbündnisses sowie eine schwierige persönliche Zeit nach dem Tod ihrer Stieftochter. Die Einordnung bleibt nüchtern: Der Rückzug einer Ministerin und Parteivorsitzenden belastet die Regierungskoalition und dürfte eine Debatte über Nachfolge und Zusammenhalt des Bündnisses auslösen.",
-              "source": "Anadolu Agency",
-              "url": "https://www.aa.com.tr/en/world"
-            },
-            {
-              "title": "Vor der Wahl in Israel liegt die Opposition in Umfragen vorn",
-              "text": "Rund zwei Wochen vor der Parlamentswahl in Israel am 27. Oktober sieht eine Umfrage das Oppositionslager vor dem Bündnis von Ministerpräsident Benjamin Netanjahu, dem Regierungschef des Landes, und zwar mit einem Vorsprung von 18 Sitzen in der Knesset, dem israelischen Parlament. Eine Umfrage ist eine Momentaufnahme der Stimmung und kein Wahlergebnis; bis zur Abstimmung kann sich das Bild noch verschieben. Der israelische Staatspräsident Izchak Herzog, dessen Amt vor allem repräsentative Aufgaben hat, warnte zugleich davor, dass die Spannungen des Wahlkampfs die Gesellschaft weiter spalten könnten. Die Einordnung: Der Ausgang der Wahl gilt als richtungsweisend für die künftige Politik des Landes.",
-              "source": "Anadolu Agency",
-              "url": "https://www.aa.com.tr/en/world"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Ölpreis bleibt hoch, Spannungen am Persischen Golf halten an",
-              "text": "Der Preis für die Rohölsorte Brent, die als weltweiter Vergleichsmaßstab für Öl dient, liegt weiter hoch bei rund 102 Dollar je Barrel; ein Barrel ist das im Ölhandel übliche Fass mit knapp 159 Litern. Hintergrund sind anhaltende Störungen rund um die Straße von Hormus, eine schmale Meerenge zwischen dem Iran und Oman, durch die ein großer Teil des weltweiten Öltransports verschifft wird. Die US-Energiebehörde EIA, die amtliche Statistikstelle für Energie in den Vereinigten Staaten, beziffert den Brent-Durchschnitt für September auf 114 Dollar, deutlich mehr als im August, und hob ihre Erwartung für das vierte Quartal auf 105 Dollar an. Die Einordnung: Ein hoher Ölpreis verteuert Kraftstoffe, Heizen und viele Vorprodukte und hält damit den Druck auf die Teuerung aufrecht.",
-              "source": "Trading Economics / EIA",
-              "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-            },
-            {
-              "title": "Landesweiter Streik legt den öffentlichen Verkehr in Belgien lahm",
-              "text": "In Belgien hat ein landesweiter Streik den öffentlichen Nahverkehr und zahlreiche Dienstleistungen stark beeinträchtigt. Hintergrund ist der Widerstand gegen den Haushaltsentwurf der Regierung und gegen geplante Einsparungen bei den Staatsausgaben; ein Haushalt ist der Plan, wie ein Staat seine Einnahmen und Ausgaben für das kommende Jahr festlegt. Aufgerufen hatten Gewerkschaften, also Zusammenschlüsse von Arbeitnehmern, die deren Interessen vertreten. Die Einordnung: Streiks dieser Art zeigen, wie schwer sich viele europäische Regierungen damit tun, hohe Staatsschulden abzubauen, ohne auf breiten Widerstand in der Bevölkerung zu stoßen.",
-              "source": "Anadolu Agency",
-              "url": "https://www.aa.com.tr/en/world"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Ein dauerhaft hoher Ölpreis von über hundert Dollar je Barrel wirkt über Sprit-, Heiz- und Materialkosten bis in deine eigene Kalkulation hinein. Rechne bei Angeboten und längerfristigen Zusagen eher mit anhaltend erhöhten Energie- und Einkaufspreisen als mit einer schnellen Entspannung, solange die Lage am Persischen Golf angespannt bleibt. Wo du Energie oder Fahrten einsparen kannst, etwa durch Bündelung von Wegen oder sparsamere Geräte, zahlt sich das derzeit besonders aus.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Aus einem Limonadenstand werden über fünf Millionen Dollar für den guten Zweck",
-              "text": "Eine Jugendliche in den Vereinigten Staaten hat einen einfachen Limonadenstand über die Jahre zu einer Spendenaktion ausgebaut, die inzwischen mehr als fünf Millionen Dollar für wohltätige Zwecke gesammelt hat. Sie habe damit die Freundlichkeit zurückgeben wollen, die ihr selbst einmal zuteilgeworden sei, heißt es in dem Bericht. Aus einem Kinderstand mit selbst gepresster Limonade ist so über die Zeit eine Hilfsaktion mit großer Reichweite geworden. Die Botschaft ist eine der Ermutigung: Auch eine kleine, beharrlich verfolgte Idee kann sich zu etwas entwickeln, das vielen Menschen zugutekommt.",
-              "img": "https://live.staticflickr.com/226/485938950_7283e5167c_b.jpg",
-              "source": "Good News Network",
-              "url": "https://www.goodnewsnetwork.org/category/news/"
-            },
-            {
-              "title": "Softballspielerin entdeckt ihre verschollene Schwester im gegnerischen Team",
-              "text": "Bei einem Softballspiel im US-Bundesstaat Montana haben sich zwei lange getrennte Schwestern, Kyann Dean und Samantha Rensvold, unerwartet wiedergefunden, als sie in gegnerischen Mannschaften gegeneinander antraten. Softball ist eine dem Baseball verwandte Mannschaftssportart, die vor allem in Nordamerika verbreitet ist. Erst auf dem Spielfeld fiel den beiden die Verbindung auf, die sie zuvor nicht kannten. Die Einordnung: Solche Begegnungen bleiben Ausnahmen, doch sie erinnern daran, wie unerwartet sich Lebenswege wieder kreuzen können.",
-              "source": "Good News Network",
-              "url": "https://www.goodnewsnetwork.org/category/news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Nach starkem Regen verwandelt sich Australiens Outback in ein Blütenmeer",
-              "text": "Nach ungewöhnlich ergiebigen Regenfällen hat sich das sonst trockene Outback Australiens, das weite, dünn besiedelte Binnenland des Kontinents, in ein ausgedehntes Blütenmeer verwandelt. Fachleute halten es für eine der eindrucksvollsten Wüstenblüten seit fast zwanzig Jahren. Dokumentiert wurde das Ereignis unter anderem durch Satellitenbilder der US-Raumfahrtbehörde NASA, die den Farbwechsel aus dem All sichtbar machen. Die Einordnung: Solche Massenblüten entstehen, wenn im Boden ruhende Samen nach seltenem Regen gleichzeitig keimen, und zeigen, wie rasch sich auch karge Landschaften unter günstigen Bedingungen beleben.",
-              "img": "https://live.staticflickr.com/3196/4559934422_4cd32974f4_b.jpg",
-              "source": "ScienceDaily / NASA",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            },
-            {
-              "title": "Forschende finden im Protein Menin einen möglichen Treiber des Alterns",
-              "text": "Ein Forschungsteam hat im Eiweißstoff Menin einen möglichen verborgenen Treiber des Alterns ausgemacht. Proteine, auch Eiweiße genannt, sind Bausteine und Werkzeuge der Zellen, die unzählige Vorgänge im Körper steuern. Bei älteren Mäusen, die in der Forschung oft als Modell für den Menschen dienen, kehrte das Wiederherstellen des mit dem Alter sinkenden Menin-Spiegels nach Angaben der Studie innerhalb von 30 Tagen mehrere altersbedingte Veränderungen um. Die Einordnung bleibt vorsichtig: Ergebnisse aus Tierversuchen lassen sich nicht einfach auf den Menschen übertragen, doch sie liefern Ansatzpunkte, die Mechanismen des Alterns besser zu verstehen.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nasser Herbsttag im Neckartal, am Freitag Kriminal-Dinner und A-cappella-Konzert",
-              "text": "Über Horb am Neckar ziehen an diesem Dienstag immer wieder Regenschauer, und die Höchstwerte bleiben bei rund 16 Grad, ein ausgesprochen nasser Herbsttag im Neckartal, dem Tal des Flusses Neckar, an dem die Stadt liegt. Wer unterwegs ist, sollte an Regenschutz denken; für einen trockenen Nachmittag bietet sich ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt. Für den kommenden Freitag, den 16. Oktober, zeichnen sich zwei Abende ab: Um 19 Uhr lädt der Gasthof Adler zu einem Kriminal-Dinner mit dem Titel „Prêt-à-morter“, bei dem die Gäste zu einem Drei-Gänge-Menü einen erfundenen Kriminalfall miterleben. Am selben Abend singt um 20 Uhr das Ensemble Vocalmania in der Kirche Mariä Geburt im Ortsteil Horb-Altheim ein A-cappella-Konzert, also Gesang ganz ohne Instrumentalbegleitung.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-              "source": "eventfinder.de / Stadt Horb / open-meteo",
-              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Der Regen über dem Neckartal nimmt dem Tag die Weite, schenkt ihm aber eine ruhige Stunde für das, was drinnen liegen geblieben ist."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Kostenlose KI-Guthaben gebündelt im Verzeichnis AI Credit Ladder",
-            "text": "Die AI Credit Ladder ist ein frei zugängliches Verzeichnis, das laufend kostenlose KI-Guthaben und Startprogramme für Einzelgründer und kleine Teams sammelt und vergleicht. Solche Guthaben, oft credits genannt, sind vorab gewährte Nutzungsbeträge, mit denen sich die zunächst oft teuren Dienste rund um Sprachmodelle eine Zeit lang ohne eigene Kosten ausprobieren lassen. Das Verzeichnis führt unter anderem Angebote großer Anbieter, bei denen Gründer in der Frühphase Gutschriften für Programmierschnittstellen (APIs) erhalten können, über die Software auf ein Sprachmodell zugreift. Weil Konditionen und Fristen je Anbieter stark schwanken, dient die Seite vor allem als Überblick.",
-            "why": "Wenn du neue KI-Werkzeuge in deine Abläufe einbauen willst, ohne sofort laufende Kosten zu tragen, lohnt ein gezielter Blick in ein solches Verzeichnis, statt jeden Anbieter einzeln zu durchsuchen. Wichtig: Prüfe vor der Anmeldung immer die genauen Bedingungen direkt beim jeweiligen Anbieter, besonders ob das Angebot auch Soloselbstständigen offensteht und bis wann es gilt, da Verzeichnisse nicht immer tagesaktuell sind. So findest du echte Spielräume zum Ausprobieren, ohne dich an ungünstige Konditionen zu binden.",
-            "source": "AI Credit Ladder / Indie Hackers",
-            "url": "https://www.indiehackers.com/product/ai-credit-ladder"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, des Autors des quelloffenen Kommandozeilen-Werkzeugs llm, der Neuerungen rund um Sprachmodelle fachkundig begleitet.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Harte Ausgabenobergrenzen zum Standard machen, besonders bei KI-Diensten",
-              "tag": "Kostenkontrolle",
-              "paras": [
-                "Simon Willison plädiert dafür, bei nutzungsabhängig abgerechneten KI-Schnittstellen und Cloud-Diensten harte Ausgabenobergrenzen zur Standardeinstellung zu machen. Nutzungsabhängig bedeutet, dass nicht ein fester Monatsbetrag anfällt, sondern jede einzelne Anfrage Geld kostet; eine harte Obergrenze stoppt den Dienst, sobald ein festgelegter Betrag erreicht ist, statt nur eine Warnung zu senden.",
-                "Der Hebel für dein System: Bloße Warn-E-Mails reichen nach seiner Einschätzung nicht aus, vor allem nicht bei automatisch arbeitenden Programmen, sogenannten Agenten, die in kurzer Zeit viele kostenpflichtige Anfragen auslösen können. Ein vergessenes Limit oder eine Endlosschleife kann dann rasch hohe Rechnungen verursachen, die sich mit einer harten Grenze von vornherein verhindern lassen."
-              ],
-              "konkret": "Gehe deine genutzten KI- und Cloud-Dienste durch und prüfe bei jedem, ob sich ein hartes Ausgabenlimit setzen lässt, das den Dienst bei Erreichen abschaltet, nicht nur eine Warnung verschickt. Setze es bewusst niedrig an, solange du den tatsächlichen Verbrauch noch nicht kennst.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            },
-            {
-              "icon": "terminal",
-              "title": "Zugangsdaten niemals durch das Sprachmodell laufen lassen",
-              "tag": "Sicherheit",
-              "paras": [
-                "Simon Willison beschreibt, wie er ein kleines Werkzeug zum Bearbeiten von Dateien mit Hilfe eines KI-Programmierassistenten gebaut hat, dabei aber bewusst darauf achtete, dass Zugangsdaten nicht über das Sprachmodell liefen. Ein Sprachmodell erzeugt beim Programmieren den Code, sieht dabei aber oft auch den Inhalt, mit dem es arbeitet; Zugangsdaten sind Passwörter und Schlüssel, mit denen sich ein Programm gegenüber einem Dienst ausweist.",
-                "Der Hebel für dein System: Wenn ein KI-Assistent dir Code schreibt, sollte er die eigentlichen Geheimnisse nie zu Gesicht bekommen. Die Anmeldung übernimmt das fertige Programm selbst, etwa indem es die Schlüssel aus einer gesonderten, geschützten Quelle liest; das Modell liefert nur den Programmcode. So bleibt ein versehentliches Abfließen sensibler Daten unwahrscheinlicher."
-              ],
-              "konkret": "Trenne beim Einsatz von KI-Assistenten klar zwischen Code und Geheimnissen: Lass Passwörter und Schlüssel vom fertigen Programm aus geschützten Quellen lesen, statt sie in den Austausch mit dem Modell zu geben.",
-              "snippetLabel": "Leitplanke für einen Coding-Assistenten (Prompt)",
-              "snippet": "Baue die Anmeldung so, dass Zugangsdaten und Schlüssel niemals durch das Sprachmodell laufen.\nDas <span class=\"ph\">{Programm}</span> liest die Geheimnisse selbst aus <span class=\"ph\">{geschützte Quelle, z. B. Umgebungsvariablen}</span>; du erzeugst ausschließlich den Programmcode.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Mittwoch, 14. Oktober 2026",
       "weather": "clouds",
       "temp": "19°C · neblig",
@@ -984,7 +827,6 @@
       "weather": "clouds",
       "temp": "15°C · neblig",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Montag zäher Nebel, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler, trüber Herbsttag im Neckartal. In der Weltlage stimmen die Menschen in der kanadischen Provinz Alberta heute über einen möglichen Weg zur Abspaltung von Kanada ab, und in Eriwan beginnt die Weltnaturkonferenz der Vereinten Nationen. In der Wirtschaft treffen sich in Berlin der Bundeskanzler und Spitzen vieler Konzerne zu einem Investitionsgipfel, während die Europäische Zentralbank Ende des Monats erneut über die Zinsen entscheidet. Aus Lichtblick und Forschung kommen ein deutlicher Rückgang der Abholzung im Amazonas, die Rückgabe von angestammtem Land an eine indigene Nation in den USA sowie neue Erkenntnisse über die Strahlen schwarzer Löcher und über kosmische Kollisionen. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1136,6 +978,166 @@
               "snippet": "Baue die Anzeige so, dass fremde Inhalte in einem abgeschotteten Sandkasten (sandbox) dargestellt werden.\nDas Programm darf nur auf <span class=\"ph\">{ausdrücklich erlaubte Ressourcen}</span> zugreifen, alles andere bleibt gesperrt.",
               "source": "Simon Willison",
               "url": "https://simonwillison.net/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dienstag, 20. Oktober 2026",
+      "weather": "clouds",
+      "temp": "14°C · neblig",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hält sich an diesem Dienstag zäher Nebel, der die Höchstwerte auf rund 14 Grad drückt, ein kühler, trüber Oktobertag im Neckartal. In der Weltlage ist Papst Leo XIV. fünf Tage nach seiner Lungenoperation wieder öffentlich aufgetreten, und beim EU-Gipfel in Brüssel beraten die Staats- und Regierungschefs über die weitere Unterstützung der Ukraine. In der Wirtschaft treibt teurer Kraftstoff die Teuerung über die Marke von drei Prozent, während der Internationale Währungsfonds seine Wachstumserwartung für Deutschland leicht anhebt. Aus Lichtblick und Forschung kommen verhinderte Entwaldung im Amazonasgebiet, eine große Wildtierbrücke in den USA, mit Licht steuerbare Hirnzellen und ein ferner, neu bestätigter Exoplanet. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Papst Leo XIV. tritt fünf Tage nach seiner Lungenoperation wieder öffentlich auf",
+              "text": "Papst Leo XIV., das Oberhaupt der römisch-katholischen Kirche, ist fünf Tage nach einer Operation an der Lunge wieder öffentlich in Erscheinung getreten. Bei dem Eingriff in der römischen Gemelli-Klinik, einem großen Krankenhaus, das seit Jahrzehnten Päpste medizinisch betreut, war ihm der untere Lappen eines Lungenflügels entfernt worden, nachdem Ärzte dort einen bösartigen Befund festgestellt hatten. Nach Angaben des Vatikans, der Regierungszentrale der katholischen Kirche in Rom, verlief die Genesung bislang ohne Komplikationen. Die Einordnung bleibt nüchtern: Das rasche Wiederauftreten gilt als gutes Zeichen für den Heilungsverlauf, auch wenn der 71-Jährige seine Termine in den Tagen zuvor abgesagt hatte.",
+              "source": "SRF",
+              "url": "https://www.srf.ch/news/international"
+            },
+            {
+              "title": "EU-Gipfel in Brüssel berät über weitere Unterstützung der Ukraine",
+              "text": "In Brüssel kommen die Staats- und Regierungschefs der Europäischen Union (EU), des Zusammenschlusses von 27 europäischen Staaten, zu einem Gipfeltreffen zusammen, bei dem die weitere Unterstützung der Ukraine im Mittelpunkt steht. Anlass sind unter anderem mutmaßlich russische Drohnenangriffe auf Schiffe vor der bulgarischen Schwarzmeerküste, die der Gipfel nach Darstellung mehrerer Medien verurteilen will. Zugleich sorgt für Diskussionen, dass US-Präsident Donald Trump zuvor verhängte Sanktionen, also wirtschaftliche Strafmaßnahmen, gegen Russland wieder ausgesetzt hat. Die Einordnung: Für die EU geht es darum, ihre Linie zur Ukraine und zum Umgang mit Russland geschlossen zu halten, während sich die Haltung der Vereinigten Staaten zuletzt verschoben hat.",
+              "source": "SRF",
+              "url": "https://www.srf.ch/news/international"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Teurer Kraftstoff treibt die Teuerung über die Marke von drei Prozent",
+              "text": "Die Teuerung hat nach einem Bericht des Handelsblatts zuletzt die Marke von drei Prozent überschritten, getrieben vor allem von höheren Kraftstoffpreisen. Die Teuerungsrate, auch Inflationsrate genannt, misst, um wie viel Prozent die Preise für Waren und Dienstleistungen binnen eines Jahres im Schnitt gestiegen sind. Hintergrund sind die seit Monaten erhöhten Öl- und Dieselpreise, die über Sprit, Heizen und Transport auf viele weitere Preise durchschlagen. Die Einordnung: Eine Teuerung oberhalb von drei Prozent liegt deutlich über dem Ziel der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, von zwei Prozent und dürfte die Notenbank vor ihrer Sitzung am 29. Oktober in der vorsichtigen Haltung bestärken, die Zinsen vorerst nicht zu senken.",
+              "source": "Handelsblatt",
+              "url": "https://www.handelsblatt.com/themen/ezb"
+            },
+            {
+              "title": "Währungsfonds hebt die Wachstumserwartung für Deutschland leicht an",
+              "text": "Der Internationale Währungsfonds (IWF), eine Organisation von rund 190 Staaten zur Beobachtung der Weltwirtschaft, hat seine Wachstumserwartung für die deutsche Wirtschaft im Jahr 2026 auf 1,3 Prozent angehoben. Das Bruttoinlandsprodukt (BIP) misst den Wert aller in einem Jahr erzeugten Waren und Dienstleistungen; ein Plus von 1,3 Prozent wäre ein verhaltenes, aber spürbares Wachstum. Zugleich fiel die Industrieproduktion im Euroraum, also in den Ländern mit dem Euro, im August gegenüber dem Vormonat um 0,5 Prozent, und der Wert für Juli wurde nachträglich nach unten korrigiert. Die Einordnung: Die Lage bleibt zweigeteilt, eine etwas bessere Jahresprognose trifft auf eine weiterhin schwache Industrie, was für Selbstständige ein Umfeld mit eher vorsichtiger Auftragsvergabe bedeutet.",
+              "source": "Börse Express / IWF",
+              "url": "https://www.boerse-express.com/news/articles/straffen-stuetzen-neu-besetzen-die-ezb-im-dreifachdilemma-953591"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Eine Teuerung über drei Prozent bedeutet, dass deine Einkaufs-, Energie- und Lebenshaltungskosten weiter spürbar steigen, während die EZB die Zinsen hoch hält. Kalkuliere bei Angeboten und längeren Zusagen eher mit anhaltend erhöhten Preisen als mit einer schnellen Entspannung, und prüfe, ob sich freie Rücklagen derzeit noch zu vergleichsweise guten Zinsen anlegen lassen. Wo du Energie oder Fahrten bündeln kannst, wirkt sich das bei den aktuellen Kraftstoffpreisen besonders aus.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Brasilien verhindert große Flächen an Entwaldung im Amazonasgebiet",
+              "text": "Nach einem wöchentlichen Nachrichtenüberblick des Portals Good Good Good sind unter der derzeitigen Regierung Brasiliens mindestens 20.000 Quadratkilometer Entwaldung im Amazonasgebiet verhindert worden. Das Amazonasgebiet ist der größte zusammenhängende tropische Regenwald der Erde und bindet große Mengen des klimawirksamen Gases Kohlendioxid. Entwaldung bezeichnet das dauerhafte Abholzen oder Roden von Wald, etwa für Weideland oder Ackerbau. Die Einordnung: 20.000 Quadratkilometer entsprechen ungefähr der Fläche des Bundeslandes Hessen; dass dieser Verlust vermieden wurde, gilt als ermutigendes Zeichen dafür, dass politische Entscheidungen den Druck auf den Regenwald spürbar senken können.",
+              "img": "https://live.staticflickr.com/5026/5641583430_6fac4e655f_b.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026"
+            },
+            {
+              "title": "In den USA entsteht eine der größten Wildtierbrücken des Landes",
+              "text": "In den Vereinigten Staaten ist eine der größten Wildtierbrücken des Landes errichtet worden, also ein begrüntes Bauwerk, über das Tiere eine stark befahrene Straße gefahrlos überqueren können. Solche Querungen sollen verhindern, dass Wildtiere beim Überqueren von Fernstraßen verunglücken, und zugleich getrennte Lebensräume wieder miteinander verbinden. Auf einem Abschnitt der US-Fernstraße I-25 sind die Zusammenstöße zwischen Fahrzeugen und Tieren nach Angaben eines Nachrichtenüberblicks um 91 Prozent zurückgegangen. Die Einordnung: Wildtierbrücken gelten als vergleichsweise einfache und wirksame Maßnahme, die zugleich Tierleben schützt und die Sicherheit im Straßenverkehr erhöht.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/US93_-_Wildlife_crossing_bridge.JPG",
+              "source": "Positive News / UpLifting News",
+              "url": "https://www.positive.news/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Mit Licht geschaltete Hirnzellen, eine Methode mit Ursprung in winzigen Algen",
+              "text": "Wissenschaftsmedien erinnern an eine Technik namens Optogenetik, mit der sich einzelne Nervenzellen im Gehirn gezielt mit Licht an- und ausschalten lassen. Nervenzellen, auch Neuronen genannt, sind die Grundbausteine des Nervensystems, die Signale weiterleiten. Möglich wurde das durch eine Entdeckung an winzigen Algen, einfachen pflanzlichen Lebewesen, die lichtempfindliche Eiweiße besitzen; baut man diese Eiweiße in Nervenzellen ein, reagieren diese auf Lichtreize. Die zugrunde liegende Forschung wurde später mit einem Nobelpreis gewürdigt, der höchsten internationalen Auszeichnung für wissenschaftliche Leistungen. Die Einordnung: Die Optogenetik erlaubt es Forschenden, die Aufgaben einzelner Hirnzellen genau zu untersuchen, und gilt als wichtiges Werkzeug, um Erkrankungen des Nervensystems besser zu verstehen.",
+              "img": "https://live.staticflickr.com/7046/6884698095_5b4bfac5e2_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Exoplanet in 320 Lichtjahren Entfernung bestätigt eine lange gehegte Vermutung",
+              "text": "Astronominnen und Astronomen haben nach Berichten von Wissenschaftsmedien an einem rund 320 Lichtjahre entfernten Planeten etwas bestätigt, das die Forschung lange vermutet hatte. Ein Exoplanet ist ein Planet, der nicht die Sonne, sondern einen anderen Stern umkreist. Ein Lichtjahr ist die Strecke, die das Licht in einem Jahr zurücklegt, rund 9,5 Billionen Kilometer; 320 Lichtjahre gelten nach astronomischen Maßstäben als vergleichsweise nah. Beobachtet wurde der ferne Planet mit modernen Weltraumteleskopen, die das Licht seines Sterns genau zerlegen. Die Einordnung: Jede solche Bestätigung hilft der Forschung zu verstehen, wie Planeten entstehen und wie verbreitet erdähnliche Welten in unserer Galaxie, dem Sternsystem der Milchstraße, sein könnten.",
+              "img": "https://live.staticflickr.com/5521/9444601107_c0d1def231_b.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Kühler Nebeltag im Neckartal, am Donnerstag Kabarett-Vorpremiere in Horb-Dettingen",
+              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, hält sich an diesem Dienstag zäher Nebel, und die Höchstwerte bleiben bei rund 14 Grad, ein kühler, trüber Oktobertag. Wer früh mit dem Auto unterwegs ist, sollte im Neckartal auf Nebelfelder und eingeschränkte Sicht gefasst sein. Für den Donnerstag, den 22. Oktober, zeichnet sich ein Termin ab: Um 20 Uhr zeigt die Kabarettistin Doris Reichenauer im Gasthof Adler im Ortsteil Horb-Dettingen die Vorpremiere ihres neuen Programms; Kabarett ist eine Form des humorvollen Bühnenprogramms, das oft gesellschaftliche Themen aufgreift. Für einen trüben Nachmittag zwischendurch bietet sich zudem ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
+              "source": "ADticket / Stadt Horb / open-meteo",
+              "url": "https://www.adticket.de/Horb-am-Neckar/PLZ-72160/Veranstaltungen/Tickets.html"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein Nebeltag verengt den Blick auf das Nahe; vielleicht ist gerade das die Einladung, eine Sache in Ruhe zu Ende zu bringen, statt vielen zugleich hinterherzusehen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Eigene Daten in natürlicher Sprache abfragen mit dem freien Werkzeug Datasette",
+            "text": "Datasette ist ein frei verfügbares, quelloffenes Werkzeug des Entwicklers Simon Willison, mit dem sich eigene Datenbestände, etwa Tabellen aus einer SQLite-Datei, im Browser durchsuchen, filtern und veröffentlichen lassen. SQLite ist ein weit verbreitetes, kostenloses Datenbankformat, das ohne eigenen Server auskommt und sich in einer einzigen Datei ablegen lässt. Mit der kürzlich aktualisierten Erweiterung llm-tools-datasette lässt sich Datasette zusätzlich an ein Sprachmodell anbinden, sodass man seine Daten in normaler Sprache befragen kann, statt Abfragen von Hand zu schreiben. Das gesamte Werkzeug ist kostenlos und läuft bei Bedarf auch nur auf dem eigenen Rechner.",
+            "why": "Wenn du Kundendaten, Rechnungen oder Projektlisten strukturiert vorliegen hast, kannst du sie damit ohne laufende Kosten durchsuchbar machen und mit einem Sprachmodell gezielt Fragen dazu stellen, etwa nach offenen Posten oder häufigen Anfragen. Wichtig: Spiele sensible Daten nur lokal ein und gib nichts Vertrauliches an einen externen Dienst weiter, solange du nicht genau weißt, wohin die Abfragen gehen. So gewinnst du schnell einen Überblick über deine eigenen Zahlen, ohne dich an ein teures Fremdsystem zu binden.",
+            "source": "simonwillison.net",
+            "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Beide Signale stammen aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig begleitet, und zielen darauf, deine MORGENLAGE-Routine verlässlicher und sicherer zu machen.",
+          "cards": [
+            {
+              "icon": "terminal",
+              "title": "Feste Regeln per Pre-Commit-Hook erzwingen, statt sie nur zu beschreiben",
+              "tag": "Automatisierung · Qualität",
+              "paras": [
+                "Der Entwickler Geoffrey Huntley rät laut einer Notiz von Simon Willison dazu, wichtige Konventionen nicht nur in einer Anleitungsdatei wie CLAUDE.md oder generate.md zu beschreiben, sondern sie mit einem sogenannten Pre-Commit-Hook technisch zu erzwingen. Ein Pre-Commit-Hook ist ein kleines Skript, das die Versionsverwaltung Git vor jedem Speichern eines Standes, einem Commit, automatisch ausführt; schlägt die Prüfung fehl, wird der Commit abgebrochen.",
+                "Der Hebel für dein System: Deine MORGENLAGE-Routine verlangt bereits, dass data.json gültiges JSON ist und keine Gedankenstriche enthält. Statt allein darauf zu vertrauen, dass die Regel eingehalten wird, kann ein Hook bei jedem Commit automatisch prüfen, ob die Datei sich fehlerfrei einlesen lässt und ob verbotene Zeichen vorkommen. So fällt ein Fehler sofort auf, bevor er in das Repository gelangt, und nicht erst Tage später."
+              ],
+              "konkret": "Lege im Repository eine Datei .git/hooks/pre-commit an, die data.json mit node einliest und auf verbotene Zeichen prüft, und mache sie ausführbar. Bricht die Prüfung ab, lässt sich der Fehler sofort beheben, bevor er festgeschrieben wird.",
+              "snippetLabel": "Pre-Commit-Hook zur Prüfung von data.json (Shell)",
+              "snippet": "#!/bin/sh\nnode -e \"JSON.parse(require('fs').readFileSync('data.json','utf8'))\" || { echo 'data.json ist kein gueltiges JSON'; exit 1; }\nif grep -nP '[\\x{2013}\\x{2014}]' data.json; then\n  echo 'Verbotene Gedankenstriche in data.json gefunden'; exit 1\nfi\n<span class=\"ph\">{weitere Pruefungen nach Bedarf}</span>",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
+            },
+            {
+              "icon": "gauge",
+              "title": "KI-Agenten mit möglichst wenigen Rechten laufen lassen",
+              "tag": "Sicherheit",
+              "paras": [
+                "Simon Willison weist in mehreren Notizen darauf hin, dass automatisch arbeitende KI-Programme, sogenannte Agenten, nur die Rechte erhalten sollten, die sie für ihre Aufgabe wirklich brauchen. Anlass sind unter anderem Berichte, wonach Agenten unbeabsichtigt Formulare auf fremden Internetseiten ausgefüllt und abgeschickt haben. Er verweist zudem auf die Laufzeitumgebung Deno, ein Programm zum Ausführen von Code, das den Zugriff auf Dateien und einzelne Internetadressen gezielt erlauben oder sperren kann, anders als ältere Umgebungen, die den Netzzugang nur insgesamt an- oder abschalten.",
+                "Der Hebel für dein System: Deine MORGENLAGE-Routine braucht nur wenige Dinge, etwa den Zugriff auf einige Nachrichtenquellen, die Wetterschnittstelle und das eigene Repository. Je enger du festlegst, welche Verzeichnisse und welche Adressen die Routine überhaupt ansprechen darf, desto kleiner ist der Schaden, falls eine Anweisung einmal fehlgeleitet wird oder eine Quelle etwas Unerwartetes liefert."
+              ],
+              "konkret": "Prüfe, auf welche Dateien und Internetadressen deine Routine wirklich zugreifen muss, und beschränke die Rechte darauf. Lass die Routine nach Möglichkeit in einer abgeschotteten Umgebung laufen und gib ihr keine Schreibrechte außerhalb des eigenen Projekts.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
             }
           ]
         }
