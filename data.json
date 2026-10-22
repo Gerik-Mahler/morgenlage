@@ -2,164 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Donnerstag, 15. Oktober 2026",
-   "weather": "clouds",
-   "temp": "21°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Donnerstag erneut dichter Nebel, der die Höchstwerte auf rund 21 Grad begrenzt, mild, aber trüb für Mitte Oktober. In der Weltlage wurde Papst Leo XIV. nach dem entdeckten Lungenknoten in Rom operiert, und im Ukraine-Krieg bleibt die von den USA verkündete Energie-Waffenruhe weiter ohne gemeinsame Bestätigung beider Seiten. In der Wirtschaft richtet sich der Blick auf die Sitzung der Europäischen Zentralbank Ende Oktober, bei der die meisten Fachleute mit einer Zinspause rechnen, während ein Diesel-Engpass die Energiemärkte beschäftigt. Aus Lichtblick und Forschung kommen ein erstes Medikament gegen eine seltene Erbkrankheit, ein Zuchterfolg für den Artenschutz, eine neue Atomkern-Uhr aus Wien und ein winziges Implantat gegen chronische Schmerzen. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Papst Leo XIV. in Rom an der Lunge operiert",
-       "text": "Papst Leo XIV., das Oberhaupt der römisch-katholischen Kirche, ist in Rom an der Lunge operiert worden, nachdem Ärzte bei ihm einen Knoten, also eine örtlich begrenzte Gewebeverdichtung, entdeckt hatten. Nach Angaben des Vatikans, der Regierungszentrale der katholischen Kirche, dauerte der Eingriff in der Gemelli-Klinik, einem großen römischen Krankenhaus, rund 90 Minuten und verlief ohne Komplikationen; entfernt wurde der untere Lappen des rechten Lungenflügels. Mehrere Medienberichte, die sich auf das Ärzteteam berufen, sprechen von einem Lungenadenokarzinom, einer bösartigen Form von Lungenkrebs; eine offiziell datierte Bestätigung des Vatikans zur genauen Diagnose lag zunächst nicht in gesicherter Form vor. Der 71-Jährige erwachte den Angaben zufolge normal aus der Narkose, seine Termine sind bis zum 20. Oktober abgesagt. Die Einordnung bleibt nüchtern: Der Befund wurde nach Darstellung der Ärzte in einem frühen Stadium entdeckt, die für November geplante Lateinamerika-Reise hält der Papst bislang aufrecht.",
-       "source": "SRF / dpa / Stuttgarter Zeitung",
-       "url": "https://www.srf.ch/news/international/entdeckt-im-fruehen-stadium-knoten-in-der-lunge-papst-wird-operiert"
-      },
-      {
-       "title": "Ukraine-Krieg: Energie-Waffenruhe bleibt ohne gemeinsame Bestätigung",
-       "text": "Im Krieg zwischen Russland und der Ukraine bleibt die von US-Präsident Donald Trump verkündete Waffenruhe für die Energieinfrastruktur weiter ohne gemeinsame Bestätigung beider Seiten. Mit Energieinfrastruktur sind Kraftwerke sowie Strom- und Gasleitungen gemeint, deren Zerstörung im Winter besonders schwer wiegt. Nach Darstellung des öffentlich-rechtlichen Senders ZDF setzte Russland seine Angriffe auf ukrainische Städte und Energieanlagen zuletzt fort; Kiew wirft Moskau den Beschuss eines Heizkraftwerks vor, während Moskau umgekehrt der Ukraine vorwirft, nicht auf eine solche Waffenruhe hinzuarbeiten. Der ukrainische Außenminister erklärte, sein Land sei zu einer vollständigen Feuerpause bereit, wenn Russland sie ebenfalls einhalte. Die Einordnung: Solange keine Seite die Vereinbarung offiziell bestätigt, bleibt unklar, ob die angekündigte Schonung der Energieanlagen zu Beginn des Winters tatsächlich greift.",
-       "source": "ZDF heute",
-       "url": "https://www.zdfheute.de/politik/ausland/militaeranalyse-energie-waffenruhe-bleibt-aus-ukraine-krieg-russland-100.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Vor der EZB-Sitzung am 29. Oktober: Fachleute erwarten eine Zinspause",
-       "text": "Vor der nächsten Zinssitzung des Rates der Europäischen Zentralbank (EZB) am 29. Oktober rechnen die meisten Fachleute damit, dass die Notenbank die Leitzinsen unverändert lässt. Leitzinsen sind die Sätze, zu denen sich Geschäftsbanken bei der EZB Geld leihen; sie wirken auf Kredit- und Sparzinsen in der gesamten Wirtschaft. Die EZB, die oberste Währungsbehörde für die Länder mit dem Euro, hatte die Zinsen 2026 nach langer Pause wieder angehoben; zuletzt lag der für Sparer wichtige Einlagensatz nach Angaben mehrerer Finanzportale bei rund 2,5 Prozent. Nach Einschätzung der Landesbank Baden-Württemberg (LBBW) und des Ratgeberportals Finanztip ist für Oktober keine weitere Anhebung zu erwarten, zumal in diesem Monat keine neuen Konjunkturprognosen vorgelegt werden. Die Einordnung: Bleiben die Zinsen auf dem erreichten Niveau, ändert sich für Sparer und Kreditnehmer kurzfristig wenig, die Finanzierungskosten bleiben aber spürbar höher als in den Jahren ohne Zinsen.",
-       "source": "LBBW / Finanztip",
-       "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-oktober-2026_anjnmvdjip_d.html"
-      },
-      {
-       "title": "Internationale Energieagentur warnt vor knappem Diesel-Angebot",
-       "text": "Die Internationale Energieagentur (IEA), eine Organisation der Industriestaaten zur Beobachtung der Energieversorgung, warnt nach Medienberichten vor einem anhaltend knappen Angebot an Diesel bis weit in das kommende Jahr hinein. Diesel ist der Kraftstoff, mit dem ein großer Teil des Güterverkehrs, der Landwirtschaft und vieler Baumaschinen betrieben wird; Engpässe können daher auf viele Preise durchschlagen. Zugleich sorgte ein Geschäft über russische Diesellieferungen für Bewegung an den Energiemärkten, nachdem die USA Sanktionen gegen russischen Treibstoff vorübergehend ausgesetzt hatten. Die Einordnung: Für Selbstständige mit Fahrzeugen oder energieintensiven Abläufen lohnt es sich, Kraftstoff- und Energiekosten im Blick zu behalten und größere Einkäufe mit Augenmaß zu planen.",
-       "source": "ORF / FXStreet",
-       "url": "https://www.orf.at/"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die Planung: Eine Zinspause bedeutet nicht sinkende Zinsen, sondern ein Verharren auf hohem Niveau. Vergleiche vor größeren Anschaffungen weiterhin Förderkredite mit den Konditionen deiner Hausbank, und prüfe, ob sich kurzfristig freie Rücklagen besser verzinst anlegen lassen, solange die Tagesgeld- und Festgeldzinsen noch vergleichsweise attraktiv sind.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Erstes gezieltes Medikament gegen die seltene Alexander-Krankheit zugelassen",
-       "text": "Die US-Arzneimittelbehörde FDA (Food and Drug Administration), die Zulassungsbehörde für Medikamente in den Vereinigten Staaten, hat nach Berichten von Wissenschaftsmedien erstmals ein Medikament zugelassen, das gezielt gegen die Alexander-Krankheit wirkt. Die Alexander-Krankheit ist eine sehr seltene, schwere Erkrankung des Nervensystems, bei der ein Fehler im Erbgut den Aufbau bestimmter Stützzellen im Gehirn stört. Bislang konnten Ärzte nur die Beschwerden lindern; das neue Mittel setzt erstmals am Krankheitsmechanismus selbst an und ist das Ergebnis jahrzehntelanger Forschung. Die Einordnung bleibt vorsichtig: Betroffen ist nur eine kleine Zahl von Patienten, doch für diese Familien bedeutet die Zulassung die erste gezielte Behandlung überhaupt und ein ermutigendes Beispiel dafür, dass auch bei sehr seltenen Krankheiten Fortschritte möglich sind.",
-       "img": "https://live.staticflickr.com/263/20468181866_d5c72f3984_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/health/"
-      },
-      {
-       "title": "Zuchterfolg bei Mäusen weckt Hoffnung für den Artenschutz",
-       "text": "Einem Forschungsteam ist es nach Berichten von Wissenschaftsmedien gelungen, aus geklonten männlichen Maus-Embryonen fruchtbare weibliche Tiere zu erzeugen. Ein Embryo ist ein Lebewesen in einem sehr frühen Entwicklungsstadium; Klonen bezeichnet das Erzeugen eines genetisch nahezu identischen Nachkommen. Die Forschenden veränderten dabei gezielt, wie das Geschlecht in der frühen Entwicklung angelegt wird. Noch handelt es sich um Grundlagenforschung an Mäusen, doch die Methode könnte langfristig helfen, bedrohte Tierarten zu erhalten, bei denen nur noch wenige Tiere eines Geschlechts leben. Die Einordnung: Vom Labor bis zu einem Einsatz im Artenschutz ist es ein weiter Weg, die Arbeit zeigt aber einen neuen Ansatz, um die genetische Vielfalt gefährdeter Arten zu sichern.",
-       "img": "https://live.staticflickr.com/3727/9982993193_8fa1f5cc04_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Physiker in Wien bauen erste sich selbst stabilisierende Atomkern-Uhr",
-       "text": "Physiker in Wien haben nach Berichten von Wissenschaftsmedien die erste sich selbst stabilisierende Atomkern-Uhr gebaut. Eine solche Uhr misst die Zeit nicht über die Hülle eines Atoms wie herkömmliche Atomuhren, sondern über winzige Energiesprünge im Atomkern, dem dichten Zentrum des Atoms; das verspricht eine noch höhere Genauigkeit. Selbststabilisierend bedeutet, dass die Uhr Abweichungen von allein ausgleicht und so über lange Zeit zuverlässig bleibt. Perspektivisch könnten solche Kern-Uhren die heute genauesten Atomuhren übertreffen. Die Einordnung: Noch ist das Grundlagenforschung, doch extrem genaue Uhren sind die Grundlage für Satellitennavigation wie das GPS, für Kommunikationsnetze und für Tests grundlegender physikalischer Gesetze.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Atomic_clock.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Winziges, per Spritze einsetzbares Implantat soll Nervenschmerz dämpfen",
-       "text": "Forschende haben nach Berichten von Wissenschaftsmedien ein winziges, per Spritze einsetzbares Gerät entwickelt, das die Aktivität von Nerven steuern kann, ohne dass eine Operation, Batterien oder Kabel nötig sind. Nerven sind die Leitungsbahnen, über die der Körper Signale, etwa Schmerzempfindungen, weiterleitet. Das Gerät wird mit einer feinen Nadel platziert und von außen mit Energie versorgt; so lässt sich die Signalübertragung gezielt dämpfen. Erprobt wurde der Ansatz bisher im Labor und im Tierversuch. Die Einordnung bleibt vorsichtig: Bis zu einem Einsatz beim Menschen sind weitere Studien nötig, doch die Technik weckt die Hoffnung auf eine schonende Behandlung chronischer Schmerzen ohne großen Eingriff.",
-       "img": "https://live.staticflickr.com/65535/52129629689_f96d2f2fe6.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/health/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Zweiter Nebeltag in Folge, am Wochenende Familienmesse und Comedy",
-       "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Donnerstag erneut dichter Nebel; die Höchstwerte erreichen rund 21 Grad, mild für Mitte Oktober, die Sicht bleibt am Morgen jedoch eingeschränkt. Wer früh mit dem Auto unterwegs ist, sollte im Neckartal auf Nebelfelder gefasst sein. Für die kommenden Tage zeichnen sich mehrere Termine ab: Am Freitag, dem 16. Oktober, lädt der Gasthof Adler im Ortsteil Dettingen um 19 Uhr zu einem Krimidinner, also einem Abendessen mit einer gespielten Kriminalgeschichte. Am Samstag, dem 17. Oktober, öffnet die Familienmesse famFAIR in der Hohenberghalle ihre Tore, mit Angeboten rund um Kinder, Freizeit und Alltag. Am Sonntag, dem 18. Oktober, tritt um 19 Uhr der bundesweit bekannte Comedian, also Humorkünstler, Bülent Ceylan aus Mannheim mit seinem Programm Diktatürk in der Hohenberghalle auf. Für einen trüben Nachmittag bietet sich zudem ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-       "source": "regioactive.de / eventim.de / open-meteo",
-       "url": "https://www.eventim.de/cityd/horb-am-neckar-2917/"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Auch ein zweiter Nebeltag in Folge erinnert daran, dass Geduld oft mehr trägt als Ungeduld; was sich der klaren Sicht entzieht, ordnet sich meist von selbst, sobald man ihm Zeit lässt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Kostenlose, neutrale Digital-Beratung über die Mittelstand-Digital Zentren",
-      "text": "Mit den Mittelstand-Digital Zentren betreibt das Bundesministerium für Wirtschaft ein bundesweites Netz von Anlaufstellen, die kleine und mittlere Unternehmen sowie Soloselbstständige kostenlos und herstellerneutral bei der Digitalisierung unterstützen. Herstellerneutral bedeutet, dass nicht für bestimmte Produkte eines Anbieters geworben wird. Angeboten werden nach Angaben des Programms unter anderem kostenfreie Workshops, Praxisbeispiele und individuelle Erstgespräche, etwa zu künstlicher Intelligenz, zum Online-Auftritt oder zur Automatisierung von Abläufen. Für Baden-Württemberg sind mehrere regionale Zentren zuständig.",
-      "why": "Als Soloselbstständiger kannst du die Angebote nutzen, ohne dafür zu bezahlen, und dir so neutrale Einschätzungen zu Werkzeugen oder zur Automatisierung deiner Routinen holen, bevor du Geld oder Zeit investierst. Prüfe das für deine Region passende Zentrum und die aktuellen Termine direkt auf mittelstand-digital.de; dort findest du auch die Kontaktdaten der zuständigen Stelle.",
-      "source": "Mittelstand-Digital (BMWK)",
-      "url": "https://www.mittelstand-digital.de/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale stammen aus derselben Woche und zielen auf dasselbe: den KI-gestützten Arbeitsablauf verlässlich und messbar zu machen, statt allein auf den Listenpreis eines Modells zu schauen.",
-     "cards": [
-      {
-       "icon": "terminal",
-       "title": "Hausregeln mit einem Pre-Commit-Hook erzwingen, statt nur darum zu bitten",
-       "tag": "Automatisierung · Agenten-Workflow",
-       "paras": [
-        "Der Entwickler Simon Willison, bekannt für Werkzeuge rund um große Sprachmodelle, hat am 13. Oktober eine Beobachtung des Entwicklers Geoffrey Huntley aufgegriffen: Statt einem KI-Agenten in jedem Auftrag aufs Neue zu erklären, welche Bibliothek er verwenden soll, lässt sich ein sogenannter Pre-Commit-Hook einsetzen. Das ist ein kleines Skript, das vor jedem Speichern einer Änderung in der Versionsverwaltung automatisch prüft, ob bestimmte Regeln eingehalten sind, und den Vorgang sonst abbricht.",
-        "Huntleys Beispiel prüft, ob im geänderten Code direkt bestimmte Protokoll-Bausteine aufgerufen werden, die eigentlich über eine vorgegebene Bibliothek laufen sollen; findet der Hook einen Verstoß, lehnt er ab und weist den Agenten an, die zugelassene Variante zu nutzen. Für dein System heißt das: Wiederkehrende Vorgaben, etwa das verbindliche Schema von data.json, kannst du als harte, automatisch geprüfte Schranke hinterlegen, statt dich allein auf die Beschreibung im Auftrag zu verlassen."
-       ],
-       "snippetLabel": "Prompt-Baustein, um einen solchen Hook entwerfen zu lassen",
-       "snippet": "Schreibe einen Pre-Commit-Hook, der den Commit ablehnt, wenn\n- die Datei <span class=\"ph\">{data.json}</span> nicht per JSON.parse gueltig ist\n- oder im days-Array mehr als <span class=\"ph\">{7}</span> Tage stehen\nGib bei Ablehnung eine klare Meldung aus, was zu korrigieren ist.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
-      },
-      {
-       "icon": "gauge",
-       "title": "Modelle nach Aufwand pro Ziel vergleichen, nicht nach Preis je Token",
-       "tag": "Kostenkontrolle · Modellwahl",
-       "paras": [
-        "Anlässlich des neuen Google-Modells Gemini 4 Argon wies Simon Willison am 13. Oktober darauf hin, dass der reine Listenpreis je Million Token wenig über die tatsächlichen Kosten aussagt. Ein Token ist ein kleiner Text- oder Rechenbaustein, in dem Sprachmodelle ihre Ein- und Ausgaben abrechnen. Entscheidend sei, so Willison sinngemäß, wie viele Token ein Modell benötigt, um eine Aufgabe innerhalb eines Agenten-Systems tatsächlich zu lösen.",
-        "Ein teureres Modell, das ein Ziel in wenigen Schritten erreicht, kann unter dem Strich günstiger sein als ein billiges, das viele Anläufe braucht. Für deine MORGENLAGE-Routine lohnt es sich daher, nicht den Token-Preis zu vergleichen, sondern die Gesamtkosten eines vollständigen Laufs, und beim Ausprobieren eines neuen Modells festzuhalten, wie viele Token und Schritte es bis zum fertigen, gültigen data.json braucht."
-       ],
-       "konkret": "Protokolliere bei jedem Lauf die verbrauchten Token und die Laufzeit bis zum fertigen data.json und vergleiche Modelle anhand dieser Gesamtkosten statt am reinen Preis je Token.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Freitag, 16. Oktober 2026",
    "weather": "clouds",
    "temp": "22°C · neblig",
@@ -990,7 +832,6 @@
    "weather": "rain",
    "temp": "11°C · Regen",
    "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen an diesem Mittwoch Regenschauer durch, und die Höchstwerte kommen nur auf rund 11 Grad, ein nasser, kühler Oktobertag im Neckartal. In der Weltlage spitzt sich die Lage am Persischen Golf zu, wo iranische Seeminen zwei Öltanker in Brand gesetzt haben, während in Frankreich und Italien Proteste gegen hohe Lebenshaltungskosten anhalten. In der Wirtschaft klettert der Ölpreis über 110 Dollar je Fass, was die Teuerung in Europa weiter antreiben dürfte, und das Raumfahrtunternehmen SpaceX meldet seinen ersten Gewinn. Aus Lichtblick und Forschung kommen sich erholende Korallen, ein Hinweis auf Vitamin C bei frühen Blutkrebsformen, eine hochgenaue Messung aus den ersten Minuten des Universums und neue Erkenntnisse vom Asteroiden Bennu. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
    "sections": [
     {
      "type": "news",
@@ -1139,6 +980,166 @@
        "konkret": "Halte fest, welches Modell die Routine verwendet, miss mit llm-echo den Tokenbedarf eines typischen Laufs und multipliziere ihn mit dem Preis pro Token und der Zahl der Läufe pro Monat. Entscheide vor dem 1. Dezember, ob das bisherige Modell wirtschaftlich bleibt, und lege bei Bedarf ein Ausgabenlimit fest.",
        "source": "simonwillison.net",
        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Donnerstag, 22. Oktober 2026",
+   "weather": "rain",
+   "temp": "13°C · Regen",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Donnerstag Regen, und die Höchstwerte kommen nur auf rund 13 Grad, ein nasser und kühler Oktobertag im Neckartal. In der Weltlage bleibt der Nahe Osten angespannt, nachdem ein Angriff den Flughafen der saudi-arabischen Stadt Dammam getroffen hat, während Russland in der Nacht erneut die ukrainische Hauptstadt Kiew mit Raketen beschossen hat. In der Wirtschaft trüben sich die Erwartungen der Fachleute für Deutschland überraschend ein, und der US-Autobauer Tesla meldet einen deutlich geringeren Quartalsgewinn. Aus Lichtblick und Forschung kommen das Ende der Sechs-Tage-Woche in Brasilien, der Schutz eines artenreichen Waldes in Mosambik, eine selbststabilisierende Atomuhr aus Wien und der Start einer japanischen Sonde zu den beiden Marsmonden. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "Angriff auf den Flughafen der saudi-arabischen Stadt Dammam",
+       "text": "Auf dem Flughafen der Stadt Dammam im Osten Saudi-Arabiens, des Königreichs auf der Arabischen Halbinsel, ist nach Angaben der saudischen Luftfahrtbehörde bei einem Angriff am Mittwochabend ein Mensch ums Leben gekommen, acht weitere wurden verletzt. Das Ausmaß der Schäden wird noch geprüft. Bereits früher in diesem Monat war der Flughafen Ziel der Huthi-Miliz, einer bewaffneten Gruppe aus dem benachbarten Jemen; bei einem weiteren Vorfall kamen laut der staatlichen Nachrichtenagentur SPA zwei Menschen durch herabfallende Trümmer einer abgeschossenen Drohne, also eines unbemannten Fluggeräts, ums Leben. Die Einordnung bleibt nüchtern: Angriffe auf zivile Flughäfen auf der Arabischen Halbinsel erhöhen die Spannungen in einer ohnehin unruhigen Region und können den Luftverkehr und die Energiemärkte belasten.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860117878/22-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-22-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      },
+      {
+       "title": "Russland beschießt die ukrainische Hauptstadt Kiew erneut mit Raketen",
+       "text": "Russland hat nach Angaben des ukrainischen Militärs am späten Abend des 21. Oktober erneut ballistische Raketen auf Kiew abgefeuert, die Hauptstadt der Ukraine. Ballistische Raketen sind Flugkörper, die nach einer kurzen Antriebsphase einer hohen Bogenbahn folgen und deshalb schwer abzufangen sind. Der höchste Alarm wurde um 22:06 Uhr Ortszeit ausgelöst, rund 90 Minuten später folgte eine zweite Angriffswelle; über der Stadt waren laut Medienberichten laute Explosionen zu hören. Die Einordnung: Die nächtlichen Angriffe auf die ukrainische Hauptstadt halten den seit Jahren andauernden Krieg präsent und belasten die ohnehin angespannte Lage der Bevölkerung.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860117878/22-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-22-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Konjunkturerwartungen der Fachleute für Deutschland fallen überraschend",
+       "text": "Der ZEW-Index, eine monatliche Umfrage des Zentrums für Europäische Wirtschaftsforschung (ZEW) in Mannheim unter Finanzfachleuten zu ihren Erwartungen an die deutsche Wirtschaft, ist im Oktober auf 28,1 Punkte gefallen, nach 34,7 Punkten im September. Damit endet eine fünf Monate dauernde Phase steigender Erwartungen; Fachleute hatten nur einen leichten Rückgang vorhergesagt. Die Bewertung der aktuellen Lage verbesserte sich dagegen um 11,2 Punkte auf minus 35,9 Punkte. Die Einordnung: Der Rückgang deutet darauf hin, dass die Finanzfachleute die weitere Erholung der deutschen Wirtschaft vorsichtiger einschätzen, auch wenn die Gegenwart etwas weniger düster bewertet wird als zuvor.",
+       "source": "WirtschaftsWoche",
+       "url": "https://www.wiwo.de/politik/konjunktur/wirtschaft-zew-konjunkturerwartungen-sinken-ueberraschend-stark-im-oktober/100263513.html"
+      },
+      {
+       "title": "Tesla meldet einen deutlich geringeren Quartalsgewinn",
+       "text": "Der US-amerikanische Elektroautobauer Tesla hat nach Angaben von news.de im jüngsten Quartal einen um 43 Prozent gegenüber dem Vorjahr gesunkenen Gewinn von 787 Millionen US-Dollar ausgewiesen. Ein Quartal ist ein Vierteljahr, über das börsennotierte Unternehmen, also an der Börse gehandelte Firmen, regelmäßig Bericht erstatten. Der Umsatz, also die Summe aller Einnahmen, stagnierte bei rund 28 Milliarden US-Dollar, umgerechnet etwa 25 Milliarden Euro. Die Einordnung: Ein spürbar geringerer Gewinn bei kaum wachsendem Umsatz deutet auf anhaltenden Preisdruck und stärkeren Wettbewerb im Markt für Elektroautos hin; einen Tag zuvor hatte Firmenchef Elon Musk zudem Spekulationen über einen Zusammenschluss mit dem von ihm ebenfalls geführten Raumfahrtunternehmen SpaceX bestätigt.",
+       "source": "news.de",
+       "url": "https://www.news.de/panorama/860117878/22-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-22-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Die vorsichtigeren Konjunkturerwartungen und die weiter hohen Energiepreise sprechen dafür, dass die Nachfrage im Winterhalbjahr eher verhalten bleibt. Kalkuliere Angebote und längere Zusagen mit etwas Puffer und verlasse dich nicht auf eine schnelle Belebung. Behalte die kommenden Konjunkturdaten im Blick, bevor du größere Ausgaben oder Investitionen festlegst.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Brasilien beendet die Sechs-Tage-Woche und senkt die Höchstarbeitszeit",
+       "text": "Der brasilianische Kongress, also das Parlament des südamerikanischen Landes, hat eine Verfassungsänderung verabschiedet, die das verbreitete Arbeitsmodell 6x1 beendet, bei dem auf sechs Arbeitstage nur ein freier Tag folgt. Eine Verfassungsänderung ist eine Änderung des Grundgesetzes eines Staates und bindet damit auch künftige Regierungen. Der Senat, die zweite Kammer des Parlaments, stimmte am 14. Oktober mit 75 zu 1 Stimmen zu, am 16. Oktober wurde die Änderung als Verfassungszusatz Nummer 141 verkündet. Die höchstzulässige Wochenarbeitszeit sinkt schrittweise von 44 auf 40 Stunden, und Beschäftigte erhalten zwei bezahlte Ruhetage pro Woche, möglichst einen davon am Sonntag. Die Einordnung: Für Millionen Beschäftigte im Einzelhandel und in Dienstleistungen bedeutet das mehr freie Zeit; informell Beschäftigte und App-Fahrer ohne festen Vertrag sind von der Regelung allerdings nicht erfasst.",
+       "source": "Mayer Brown",
+       "url": "https://www.mayerbrown.com/en/insights/publications/2026/10/brazilian-congress-approves-the-end-of-the-6x1-work-schedule-and-the-reduction-of-the-workweek-to-40-hours"
+      },
+      {
+       "title": "Mosambik stellt den artenreichen Schmetterlingswald am Mount Mabu unter Schutz",
+       "text": "Mosambik, ein Land im Südosten Afrikas, hat den Bergregenwald am Mount Mabu unter Schutz gestellt, der wegen seiner vielen Falterarten auch Schmetterlingswald genannt wird. Per Regierungserlass entstand ein rund 9.300 Hektar großes Gemeinschafts-Schutzgebiet im Distrikt Lugela, dessen Verwaltung den örtlichen Gemeinden übertragen wird, die den Wald seit Generationen bewahren. Der Wald gilt als besonders artenreich: Fachleute haben dort mehr als 200 Schmetterlingsarten erfasst, und seit 2005 wurden über 30 neue Tierarten entdeckt, darunter Frösche, Chamäleons und Fledermäuse. Jedes Jahr im Oktober und November sammeln sich am rund 1.700 Meter hohen Gipfel am Morgen Hunderte Schmetterlinge, ein Paarungsverhalten, das Fachleute Hilltopping nennen. Die Einordnung: Der Schutz verbindet den Erhalt der Natur mit der Verantwortung der ansässigen Gemeinden und sichert einen der artenreichsten Wälder des südlichen Afrikas.",
+       "img": "https://live.staticflickr.com/3471/3259219951_797fcb036c_b.jpg",
+       "source": "Good News Network",
+       "url": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Forschende in Wien bauen eine selbststabilisierende Atomuhr",
+       "text": "An der Technischen Universität Wien (TU Wien) hat ein Team um den Physiker Thorsten Schumm eine Atomuhr gebaut, die sich erstmals über mehr als einen Tag selbst stabil hält. Eine Atomuhr misst die Zeit über die regelmäßigen Schwingungen von Atomen oder Atomkernen und ist die genaueste Art der Zeitmessung. Die neue Uhr nutzt Kerne des Elements Thorium-229, eingebettet in einen millimetergroßen Kristall; weicht der steuernde Laser, also ein gebündelter Lichtstrahl, von der richtigen Frequenz ab, wird der Fehler automatisch erkannt und nachgeregelt, weshalb die Uhr als selbststabilisierend gilt. Laut den Berichten verlöre sie im Modell erst in rund 30 Millionen Jahren etwa eine Sekunde, erreicht aber noch nicht die Genauigkeit der besten herkömmlichen Atomuhren. Die Einordnung: Solche Kernuhren könnten die Zeitmessung langfristig genauer machen und zugleich feine Tests grundlegender Naturgesetze ermöglichen.",
+       "img": "https://live.staticflickr.com/3860/14800007809_779880aaf1_b.jpg",
+       "source": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+      },
+      {
+       "title": "Japan startet eine Sonde zu den beiden Marsmonden",
+       "text": "Die japanische Raumfahrtbehörde JAXA hat am 19. Oktober die Sonde MMX gestartet, deren Name für Martian Moons eXploration steht, also die Erkundung der Marsmonde. Die Sonde hob mit einer Trägerrakete vom Typ H3 vom Weltraumbahnhof Tanegashima ab und ist zu Phobos und Deimos unterwegs, den beiden kleinen Monden des Planeten Mars. Geplant ist, mindestens zehn Gramm Material von der Oberfläche des Mondes Phobos einzusammeln und in einer Kapsel zur Erde zurückzubringen, die 2031 im australischen Woomera landen soll; zuvor soll ein kleiner Roboter mit einem Bohrer auf Phobos abgesetzt werden. Die Einordnung: Gelingt die Mission, wäre es das erste Mal, dass eine Sonde auf einem Marsmond landet und von dort Proben zur Erde bringt, was Hinweise auf die Entstehung der beiden Monde liefern könnte.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mars_planet_four.jpg",
+       "source": "Space.com",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Regnerischer Donnerstag im Neckartal, am Abend Kabarett-Vorpremiere in Horb-Dettingen",
+       "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, fällt an diesem Donnerstag Regen bei Höchstwerten um 13 Grad, ein nasser und kühler Oktobertag. Wer unterwegs ist, sollte sich auf feuchte Straßen und Regenschauer einstellen. Am Abend steht ein Termin an: Um 20 Uhr zeigt die Kabarettistin Doris Reichenauer im Gasthof Adler im Ortsteil Horb-Dettingen die Vorpremiere ihres neuen Programms Jetzt isst er sogar Brokkoli; Kabarett ist eine Form des humorvollen Bühnenprogramms, das oft gesellschaftliche Themen aufgreift, und Reichenauer ist Trägerin eines Kleinkunstpreises in Baden-Württemberg. Karten gibt es nach Angaben des Ticketanbieters ab 25 Euro. Für einen verregneten Nachmittag zuvor bietet sich das überdachte Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
+       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
+       "source": "ADticket / Stadt Horb / open-meteo",
+       "url": "https://www.adticket.de/Horb-am-Neckar/PLZ-72160/Veranstaltungen/Tickets.html"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Regentag verlangt kein Tempo; vielleicht ist er die stille Einladung, eine Sache in Ruhe und mit Sorgfalt zu Ende zu bringen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "KOMPASS: bis zu 4.500 Euro im Jahr für die Weiterbildung von Solo-Selbstständigen",
+      "text": "Mit dem Bundesprogramm KOMPASS können sich Solo-Selbstständige, also Selbstständige ohne Angestellte, Weiterbildungen fördern lassen. Gefördert werden nach Angaben mehrerer Fachberatungen 90 Prozent der Kurskosten bis zu einem Zuschuss von höchstens 4.500 Euro je Kalenderjahr; das Programm wird aus dem Europäischen Sozialfonds Plus (ESF Plus) mitfinanziert, einem Fördertopf der Europäischen Union für Beschäftigung und Bildung, und läuft einer Quelle zufolge bis Anfang 2028. Der Ablauf beginnt mit einer geförderten Erstberatung bei einer der KOMPASS-Anlaufstellen, danach lassen sich passende Kurse auswählen.",
+      "why": "Für dich als Solo-Unternehmer ist das ein konkreter Hebel, um Weiterbildungen etwa zu Künstlicher Intelligenz, Automatisierung oder dem sicheren Betrieb von Routinen wie MORGENLAGE zu einem großen Teil erstatten zu lassen, statt sie voll selbst zu tragen. Da der Zuschuss je Kalenderjahr gilt, lohnt es sich, den Bedarf für dieses und das kommende Jahr früh zu planen. Prüfe die genauen Bedingungen und die für dich zuständige Anlaufstelle auf den offiziellen Seiten der Bundesagentur für Arbeit, bevor du dich anmeldest.",
+      "source": "Bundesagentur für Arbeit (KOMPASS, ESF Plus)"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale stammen aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle und KI-Werkzeuge fachkundig verfolgt, und zielen darauf, deine automatisierten Routinen verlässlicher und besser überprüfbar zu machen.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Automatische Agenten mit einem Pre-Commit-Hook in die gewünschte Bahn lenken",
+       "tag": "Automatisierung · Qualität",
+       "paras": [
+        "Simon Willison verweist auf eine Anleitung des Entwicklers Geoffrey Huntley, der automatisch arbeitende KI-Programme, sogenannte Agenten, mit einem Pre-Commit-Hook steuert. Ein Agent ist ein Programm, das Aufgaben selbstständig in mehreren Schritten ausführt; ein Pre-Commit-Hook ist ein kleines Skript, das die Versionsverwaltung Git vor jedem Speichern einer Änderung, einem sogenannten Commit, automatisch ausführt und die Änderung bei Bedarf ablehnt. In Huntleys Beispiel weist der Hook einen Commit zurück, der eine interne Vorgabe umgeht, und gibt dem Agenten zugleich einen Hinweis, wie er es richtig machen soll.",
+        "Der Hebel für dein System: Deine MORGENLAGE-Routine wird von einem Agenten ausgeführt, der am Ende Änderungen an data.json speichert. Mit einem Pre-Commit-Hook kannst du erzwingen, dass nur gültige Ausgaben committet werden, etwa dass sich data.json fehlerfrei einlesen lässt und das Tages-Objekt die vorgesehenen Felder enthält. So werden fehlerhafte Läufe gestoppt, bevor sie ins Repository gelangen, und der Agent bekommt sofort eine klare Rückmeldung."
+       ],
+       "konkret": "Lege im Repository eine ausführbare Datei .git/hooks/pre-commit an, die data.json prüft (mindestens, ob sich die Datei als JSON einlesen lässt) und den Commit mit einer verständlichen Fehlermeldung abbricht, wenn die Prüfung fehlschlägt. Erweitere die Prüfung nach Bedarf um Pflichtfelder wie label, weather und sections.",
+       "snippetLabel": "Pre-Commit-Hook für data.json (Shell)",
+       "snippet": "#!/bin/sh\n# .git/hooks/pre-commit  (ausfuehrbar machen: chmod +x .git/hooks/pre-commit)\nnode -e \"JSON.parse(require('fs').readFileSync('data.json','utf8'))\" \\\n  || { echo 'Abbruch: data.json ist kein gueltiges JSON'; exit 1; }\n<span class=\"ph\">{optional: hier zusaetzlich Pflichtfelder wie label, weather, sections pruefen}</span>",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
+      },
+      {
+       "icon": "layers",
+       "title": "Einen automatischen Prüfschritt vor das Speichern der Tagesausgabe setzen",
+       "tag": "Qualität · Prozess",
+       "paras": [
+        "Simon Willison gibt einen Bericht darüber wieder, wie das Team hinter dem Programmierwerkzeug Claude Code Quellcode prüft: Ein KI-Modell sieht fast jede Änderung fortlaufend durch, noch bevor ein Mensch darauf blickt. Dadurch wird die Prüfung vom letzten Tor vor der Freigabe zu einer begleitenden, laufenden Kontrolle. Zugleich hält Willison an anderer Stelle fest, dass eine solche maschinelle, kritische Durchsicht übervorsichtig sein kann und menschliche Steuerung braucht.",
+        "Der Hebel für dein System: Du kannst dieses Muster auf MORGENLAGE übertragen, indem die Routine die erzeugte Tagesausgabe vor dem Speichern noch einmal gegen die eigenen Regeln prüft, etwa gegen die Vorgaben aus generate.md. Ein solcher zweiter Blick fängt typische Fehler ab, zum Beispiel fehlende Erklärungen von Fachbegriffen, eine falsche Reihenfolge der Abschnitte oder ein Wetter in der Begrüßung, das nicht zu den Wetterdaten passt. Wichtig bleibt, dass du selbst die letzte Entscheidung behältst und die Prüfung nur als Unterstützung nutzt."
+       ],
+       "konkret": "Ergänze am Ende des Laufs einen kurzen, klar umrissenen Prüfschritt, der die Tagesausgabe gegen eine feste Liste von Regeln aus generate.md abgleicht (Reihenfolge der Abschnitte, erklärte Fachbegriffe, Übereinstimmung von Wetter und Begrüßung) und Auffälligkeiten meldet, bevor committet wird.",
+       "snippetLabel": "Prompt für den Selbst-Prüfschritt",
+       "snippet": "Pruefe den folgenden MORGENLAGE-Tageseintrag streng gegen diese Regeln und liste nur Verstoesse auf:\n1. Abschnittsreihenfolge: Weltlage, Wirtschaft, Lichtblick, Forschung, Horb, thought, divider, opp, action.\n2. Jeder Eigenname und jedes Fremdwort wird im Text kurz erklaert.\n3. Das Wetter in der greeting stimmt mit den Feldern weather und temp ueberein.\n4. Keine Em- oder En-Striche, echte Umlaute.\nTageseintrag:\n<span class=\"ph\">{hier das Tages-JSON einfuegen}</span>",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Oct/16/code-review/"
       }
      ]
     }
