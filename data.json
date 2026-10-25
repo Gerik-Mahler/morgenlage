@@ -2,196 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Sonntag, 18. Oktober 2026",
-      "kind": "weekly",
-      "sub": "Wochenrückblick",
-      "weather": "clouds",
-      "temp": "8°C · trüb",
-      "greeting": "Guten Morgen, Gerik, und einen ruhigen Sonntag. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, bleibt es an diesem Tag grau und trüb mit zähem Nebel bei rund 8 Grad, deutlich kühler als zu Wochenbeginn. Die Woche lässt sich in drei Bewegungen lesen. In der Weltlage verdichteten sich die Spannungen am Persischen Golf und im Nahen Osten, während Israel auf seine Parlamentswahl am 27. Oktober zusteuert und Europa der Ukraine weitere Milliarden zusagte. In der Wirtschaft richtete sich der Blick auf die Zinssitzung der Europäischen Zentralbank am 29. Oktober, begleitet von einer zähen deutschen Konjunktur und knappem Diesel. Und aus Forschung und Natur kam eine ungewöhnliche Häufung von Hoffnungszeichen, von einem Netzhautimplantat bis zu sich erholenden Tierbeständen. Ganz unten findest du die eine strategische Empfehlung der Woche und, als kopierfertigen Text, alle Systemanpassungen gebündelt.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Naher Osten und Persischer Golf als Brennpunkt der Woche",
-              "text": "Die Woche begann mit einem Angriff auf den König-Khalid-Flughafen in Riad, der Hauptstadt Saudi-Arabiens, bei dem nach Behördenangaben zwölf Menschen ums Leben kamen. Später verurteilte der Sicherheitsrat der Vereinten Nationen (UN), das höchste Gremium der Weltorganisation für Fragen von Frieden und Sicherheit, die Angriffe der Huthi, einer bewaffneten Bewegung aus dem Jemen, auf Saudi-Arabien. Parallel steuert Israel auf seine Parlamentswahl am 27. Oktober zu, bei der nach Umfragen das Oppositionslager vor dem Bündnis von Ministerpräsident Benjamin Netanjahu liegt. Warum das zählt: Die anhaltende Spannung in der Golfregion hielt den Ölpreis die ganze Woche über hoch und wirkt damit bis zu den Energiekosten in Deutschland durch.",
-              "source": "Zusammenfassung der Woche"
-            },
-            {
-              "title": "Europa stützt die Ukraine, Washington bremst bei Sanktionen, Berlin baut das Kabinett um",
-              "text": "Beim Gipfeltreffen der Europäischen Union (EU), des Zusammenschlusses von 27 europäischen Staaten, in Brüssel sagten die Staats- und Regierungschefs der Ukraine weitere Milliardenhilfen zu. Zugleich setzte US-Präsident Donald Trump kurz vor deren Inkrafttreten Teile der geplanten Russland-Sanktionen per Dekret, also einer Anordnung mit Gesetzeskraft, wieder aus, und die zuvor verkündete Waffenruhe für die Energieanlagen blieb ohne gemeinsame Bestätigung beider Seiten. In Deutschland trat Bundesarbeitsministerin Bärbel Bas zurück; ihr Nachfolger Alexander Schweitzer kündigte einen Kompromiss in der Rentenpolitik an. Warum das zählt: Für dich bündeln sich hier gleich mehrere Linien, die 2027 Steuern, Rente und Energiepreise mitbestimmen können.",
-              "source": "Zusammenfassung der Woche"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Alle Augen auf die Zinssitzung der EZB am 29. Oktober",
-              "text": "Der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, kommt am 28. und 29. Oktober in Frankfurt am Main zusammen und entscheidet erneut über die Leitzinsen, also die Sätze, zu denen sich Banken bei der Notenbank Geld leihen. Die meisten Fachleute rechnen nach den jüngsten Anhebungen mit einer Zinspause. Hintergrund ist die Teuerung: Die Inflation im Euroraum stieg nach einer ersten Schätzung des europäischen Statistikamts Eurostat zuletzt auf 3,8 Prozent, während die deutsche Wirtschaft nur langsam aus der Stagnation findet und im zweiten Quartal lediglich um 0,3 Prozent wuchs. Warum das zählt: Der Zinsentscheid wirkt auf Kredite, Sparzinsen und Investitionsklima und damit auf dein unternehmerisches Umfeld.",
-              "source": "Zusammenfassung der Woche"
-            },
-            {
-              "title": "Knapper Diesel, hoher Ölpreis und grünes Licht für die Commerzbank-Übernahme",
-              "text": "Der Preis für die Rohölsorte Brent, die als weltweiter Vergleichsmaßstab dient, lag die Woche über bei rund 102 Dollar je Barrel, dem international üblichen Fass-Maß für Öl. Die Internationale Energieagentur (IEA), eine Organisation der Industriestaaten zur Beobachtung der Energieversorgung, warnte vor einem knappen Diesel-Angebot bis ins Jahr 2027. Zugleich gab die EZB der italienischen Großbank UniCredit grünes Licht für die Übernahme der deutschen Commerzbank, und die Deutsche Lufthansa betankte ihre Flugzeuge wegen knappen Flugbenzins verstärkt auch außerhalb ihres Drehkreuzes Frankfurt. Warum das zählt: Teurer und knapper Treibstoff schlägt auf Transport- und Lieferkosten durch, und die Bankenfusion verändert die Finanzlandschaft, in der auch kleine Unternehmen ihre Konten führen.",
-              "source": "Zusammenfassung der Woche"
-            }
-          ],
-          "merk": {
-            "text": "Zwei Termine zum Vormerken: Wahl in Israel am 27. Oktober, Zinsentscheid der EZB am 29. Oktober.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Die Natur zeigt sich erstaunlich erholungsfähig",
-              "text": "Gleich mehrere Meldungen der Woche deuteten in dieselbe Richtung. Ein neuer Bericht der Umweltstiftung WWF (World Wide Fund for Nature), einer der größten Naturschutzorganisationen der Welt, kam zu dem ermutigenden Befund, dass sich Tier- und Pflanzenwelt oft schneller erholen können als gedacht. Dazu passen eine Erhebung, die auf einer Inselkette rund 180.000 Riesenschildkröten zählte, ein privates Naturschutzprojekt im Westen der USA mit inzwischen über 1.000 frei lebenden Bisons, dem größten Wildrind Nordamerikas, sowie Nordamerikas größte Wildtierbrücke über die Fernstraße Interstate 25, die Zusammenstöße zwischen Fahrzeugen und Tieren um 91 Prozent senkt. Warum das zählt: Solche Zahlen zeigen, dass gezielter Schutz messbar wirkt, auch wenn vieles Zeit braucht.",
-              "img": "https://live.staticflickr.com/7530/16280741292_f80c9344da_b.jpg",
-              "source": "Zusammenfassung der Woche"
-            },
-            {
-              "title": "Zwei Geschichten über Großzügigkeit und Zufall",
-              "text": "Aus den USA kamen zwei Meldungen, die Mut machen. Eine Jugendliche baute über die Jahre aus einem einfachen Limonadenstand eine Spendenaktion auf, die inzwischen mehr als fünf Millionen Dollar für wohltätige Zwecke gesammelt hat. Und bei einem Softballspiel im US-Bundesstaat Montana fanden sich zwei lange getrennte Schwestern unerwartet wieder, als sie in gegnerischen Mannschaften aufeinandertrafen. Warum das zählt: Beide Geschichten erinnern daran, dass Beständigkeit und offene Augen mitunter mehr bewirken als der große Plan.",
-              "source": "Zusammenfassung der Woche"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Eine Woche der medizinischen Durchbrüche",
-              "text": "In der Medizin häuften sich die guten Nachrichten. Ein Forschungsteam unter Beteiligung der Universitätsklinik Bonn erprobte erfolgreich ein winziges Netzhautimplantat namens PRIMA, das Menschen mit altersbedingter Blindheit wieder lesen lässt; die Netzhaut ist die lichtempfindliche Schicht im Auge. Die US-Arzneimittelbehörde FDA (Food and Drug Administration), die Zulassungsstelle für Medikamente in den Vereinigten Staaten, ließ das erste gezielte Medikament gegen die seltene Alexander-Krankheit zu, eine schwere Erkrankung des Nervensystems. Hinzu kamen ein winziges, per Spritze einsetzbares Implantat gegen chronische Nervenschmerzen und ein Verfahren, das erneuerbaren Nachschub an Abwehrzellen gegen Krebs erzeugt. Warum das zählt: Mehrere lange verfolgte Ansätze erreichten in derselben Woche einen greifbaren Stand.",
-              "img": "https://live.staticflickr.com/65535/52672254127_fcac7ece38_b.jpg",
-              "source": "Zusammenfassung der Woche"
-            },
-            {
-              "title": "Vom Asteroiden bis zur Atomkern-Uhr",
-              "text": "Auch aus Physik und Raumfahrt kam Bemerkenswertes. Die Raumsonde Hera der Europäischen Weltraumorganisation ESA (European Space Agency), der gemeinsamen Raumfahrtbehörde vieler europäischer Staaten, näherte sich dem Doppel-Asteroiden Didymos, und ein neuer europäischer Erdbeobachtungssatellit lieferte erste eindrucksvolle Bilder. Physiker in Wien, der Hauptstadt Österreichs, bauten nach eigenen Angaben die erste sich selbst stabilisierende Atomkern-Uhr, die die Zeit nicht über die Hülle, sondern über den Kern eines Atoms misst. Astronominnen und Astronomen stellten zudem fest, dass schwarze Löcher höchst unterschiedlicher Größe ihre gewaltigen Materiestrahlen nach einer gemeinsamen Regel ausstoßen. Warum das zählt: Solche Grundlagenforschung erweitert langsam, aber verlässlich, was technisch überhaupt möglich wird.",
-              "source": "Zusammenfassung der Woche"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Von Nebeltagen zu kaltem Regen, dazwischen ein kulturelles Wochenende",
-              "text": "Das Wetter in Horb am Neckar beschrieb über die Woche einen klaren Bogen. Auf nebligen, aber milden Tagen zur Wochenmitte, an denen die Höchstwerte unter zähem Hochnebel bis auf rund 22 Grad stiegen, folgte ein spürbarer Umschwung: Der Samstag brachte kühlen Regen mit rund 14 Grad, und an diesem Sonntag bleibt es grau und trüb bei nur noch rund 8 Grad. Kulturell bot die Woche in der Stadt im oberen Neckartal ein A-cappella-Konzert, also Gesang ohne Instrumentenbegleitung, und ein Krimidinner, ein Abendessen, das mit einer gespielten Kriminalgeschichte verbunden wird, sowie am Wochenende eine Familienmesse und Comedy. Warum das zählt: Nach der milden Wochenmitte lohnt es sich jetzt, wieder wärmer zu planen und die kühlen Abende bewusst nach innen zu verlegen.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-              "source": "Zusammenfassung der Woche"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Eine Woche voller Nebel über dem Neckartal und zugleich voller klarer Lichtblicke aus Forschung und Natur erinnert daran, dass Zuversicht sich oft gerade dort findet, wo die Fernsicht gerade fehlt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "BAFA-Zuschuss für Unternehmensberatung läuft noch bis Ende 2026",
-            "text": "Der Bund fördert über das Programm „Förderung unternehmerischen Know-hows“ die Beratung kleiner und mittlerer Unternehmen sowie von Freiberuflern und Soloselbstständigen. Zuständig ist das BAFA, das Bundesamt für Wirtschaft und Ausfuhrkontrolle. Erstattet wird ein Teil der Kosten für eine qualifizierte externe Beratung, etwa zu Abläufen, Angebot oder Digitalisierung.",
-            "why": "Wenn du ohnehin eine externe Beratung erwägst, um deine Abläufe oder dein Angebot zu schärfen, kannst du einen Teil der Kosten erstattet bekommen. Wichtig: Der Antrag muss online bei der BAFA gestellt werden, bevor die Beratung beginnt, und der Berater muss zugelassen sein. Prüfe die genauen Bedingungen, Sätze und Fristen vor der Anmeldung direkt auf bafa.de, da die Angaben in Ratgeberquellen voneinander abweichen.",
-            "source": "bafa.de",
-            "url": "https://www.bafa.de/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Die einzelnen Prompt-Bausteine der Woche findest du gebündelt im kopierfertigen Text der Systemanpassungen direkt darunter.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Aus den Einzeltipps der Woche ein festes Schutz- und Prüfgerüst für deine Routine machen",
-              "tag": "Strategie · Absicherung & Qualität",
-              "paras": [
-                "Die Entwickler-Signale dieser Woche, vor allem vom Entwickler Simon Willison, der über große Sprachmodelle schreibt, also über KI-Systeme, die Texte verstehen und erzeugen, liefen auf eine gemeinsame Einsicht hinaus: Je mehr ein Ablauf automatisiert und von KI erledigt wird, desto stärker müssen die Absicherung und der Prüf-Schritt mitwachsen. Einzeln standen diese Woche harte Ausgabengrenzen, geringste Rechte, das Fernhalten von Zugangsdaten vom Modell, das Erzwingen von Hausregeln per Hook und ein leichter Prüf-Schritt vor dem Hochladen. Zusammengenommen ergeben sie ein klares strategisches Ziel.",
-                "Die eine große Empfehlung der Woche lautet deshalb: Mach deine MORGENLAGE-Routine zu einem Ablauf, der sich selbst prüft und absichert, statt die Sorgfalt jedes Mal neu von Hand aufzubringen. Baue einen Pre-Commit- oder Pre-Push-Hook, also ein kleines Programm, das vor dem Speichern oder Hochladen automatisch prüft. Es soll zweierlei durchsetzen: erstens die technische Form, dass die Datei data.json gültig ist und per JSON.parse fehlerfrei einliest, und zweitens deinen Redaktions-Standard, dass zu jedem Eigennamen eine kurze Erklärung im Text steht, echte Umlaute verwendet werden und keine Em- oder En-Striche vorkommen.",
-                "Ergänze dieses Gerüst um die übrigen Regeln der Woche: ein hartes Ausgabenlimit bei jedem kostenpflichtigen Dienst, geringste Rechte für jeden Zugriff, Zugangsdaten niemals durch das Modell, und wo möglich ein kleines, günstiges Modell für einfache Teilschritte. So wird die Routine nicht nur bequemer, sondern verlässlich und prüfbar."
-              ],
-              "konkret": "Lege den Prüf-Schritt als eigenes kleines Skript an, das du vor jedem Hochladen laufen lässt, und erweitere ihn mit jeder neuen Regel, die du dir vornimmst.",
-              "snippetLabel": "Prompt für den selbstprüfenden Schritt",
-              "snippet": "Schreibe einen Prüf-Schritt (als Pre-Commit- oder Pre-Push-Hook), der das Hochladen ablehnt, wenn eine der folgenden Prüfungen fehlschlägt:\n1) Die Datei <span class=\"ph\">{data.json}</span> lässt sich nicht per JSON.parse fehlerfrei einlesen.\n2) Im neuesten Tag steht zu einem Eigennamen oder Fremdwort keine kurze Erklärung im Text.\n3) Der Text enthält die Ersatzschreibungen ae, oe, ue oder ss statt echter Umlaute, oder einen langen Gedankenstrich.\nGib bei jedem Treffer die betroffene Stelle aus und brich mit Fehlercode ab.",
-              "source": "Zusammenfassung der Woche"
-            }
-          ]
-        },
-        {
-          "type": "systemtips",
-          "eyebrow": "Systemanpassungen der Woche",
-          "intro": "Hier sind alle konkreten System- und Prompt-Tipps dieser Woche gebündelt. Die Liste sagt kurz, was anzupassen ist; der kopierfertige Text darunter lässt sich in einem Schritt als Ergänzung deines Regelwerks übernehmen.",
-          "items": [
-            {
-              "title": "Skripten nur nötige Zugriffe erlauben",
-              "text": "Gib jedem Skript nur die Datei- und Netzzugriffe frei, die es wirklich braucht, und sperre den Rest. Laufzeitumgebungen wie Deno, das Programm, das deinen Code ausführt, bieten dafür ein feines Berechtigungssystem."
-            },
-            {
-              "title": "Nach Werkzeug-Updates die Standardeinstellungen prüfen",
-              "text": "Prüfe nach jeder Aktualisierung eines Werkzeugs die Voreinstellungen, bevor du dich darauf verlässt. Das Zählwerkzeug ttok etwa nutzte nach einem Update noch den Tokenizer eines älteren Modells als Standard."
-            },
-            {
-              "title": "Harte Ausgabenobergrenzen setzen",
-              "text": "Hinterlege bei jedem nutzungsabhängig abgerechneten KI- oder Cloud-Dienst ein hartes Tages- oder Monatslimit, das den Zugang bei Erreichen sperrt, nicht nur eine Warnung verschickt."
-            },
-            {
-              "title": "Zugangsdaten nie durch das Modell laufen lassen",
-              "text": "Baue deine Abläufe so, dass Passwörter und Schlüssel niemals über das Sprachmodell geführt werden, sondern nur im umgebenden Programm liegen. Durchsuche bestehende Skripte und Protokolle gezielt nach solchen Stellen."
-            },
-            {
-              "title": "Kleine Werkzeuge als zustandslosen MCP-Server bauen",
-              "text": "Binde eigene kleine Werkzeuge über einen zustandslosen MCP-Server mit genau einem Werkzeug an. MCP, das Model Context Protocol, ist ein offener Standard, über den ein Sprachmodell externe Werkzeuge nutzt; zustandslos heißt, dass jeder Aufruf für sich steht."
-            },
-            {
-              "title": "Redaktionsregeln als wiederverwendbare Skill ablegen",
-              "text": "Lege deinen festen Redaktions-Standard in einer Konfigurationsdatei wie CLAUDE.md oder als wiederverwendbare Skill ab, die das Claude Agent SDK, der Baukasten von Anthropic für eigene KI-Agenten, beim Start automatisch einliest, statt die Regeln jedes Mal neu zu beschreiben."
-            },
-            {
-              "title": "Hausregeln per Pre-Commit-Hook erzwingen",
-              "text": "Erzwinge deine wichtigsten Regeln durch einen Pre-Commit-Hook, der einen Commit ablehnt, wenn eine Regel verletzt ist, statt nur darum zu bitten. So gilt die Regel verlässlich und nicht nur nach gutem Willen."
-            },
-            {
-              "title": "Modelle nach Aufwand pro Ziel vergleichen",
-              "text": "Vergleiche Modelle nicht nach dem Listenpreis je Token, sondern nach dem tatsächlichen Aufwand für ein fertiges Ergebnis. Ein günstiger Preis je Token nützt wenig, wenn ein Modell für dieselbe Aufgabe deutlich mehr Token verbraucht."
-            },
-            {
-              "title": "Den Prüf-Schritt mit der Automatisierung mitwachsen lassen",
-              "text": "Baue vor dem Hochladen einen leichten, automatischen Prüf-Schritt ein, ähnlich einer Rechtschreibprüfung, und erweitere ihn mit jeder neuen Automatisierung. Mehr erzeugte Inhalte brauchen auch mehr Prüfung."
-            },
-            {
-              "title": "Kleine Werkzeuge als einzelne Datei ohne Server bauen",
-              "text": "Baue einfache Werkzeuge bewusst als eine einzelne Datei ohne eigenen Server, wenn das genügt. Weniger bewegliche Teile bedeuten weniger, das im Betrieb kaputtgehen oder angegriffen werden kann."
-            }
-          ],
-          "copytext": "MORGENLAGE Systemregeln, Ergänzungen (Stand 18. Oktober 2026)\n\nGrundsatz: Diese Punkte ergänzen mein bestehendes Regelwerk. Je mehr ein Ablauf automatisiert läuft, desto stärker wachsen Absicherung und Prüfung mit. Was eine Regel heute nicht erfüllt, wird nachgerüstet oder abgeschaltet.\n\n1. Selbstprüfender Schritt vor dem Hochladen. Richte einen Pre-Commit- oder Pre-Push-Hook ein, der das Hochladen ablehnt, wenn:\n   a) data.json sich nicht per JSON.parse fehlerfrei einliest,\n   b) im neuesten Tag zu einem Eigennamen oder Fremdwort keine kurze Erklärung im Text steht,\n   c) irgendwo die Ersatzschreibungen ae, oe, ue oder ss statt echter Umlaute oder ein langer Gedankenstrich vorkommt.\nPrompt dafür:\n\"Schreibe einen Prüf-Schritt als Hook, der vor dem Hochladen die drei Punkte a, b und c prüft, bei jedem Treffer die Stelle ausgibt und mit Fehlercode abbricht.\"\n\n2. Geringste Zugriffe pro Skript. Jedes Skript erhält nur die Datei- und Netzzugriffe, die seine Aufgabe wirklich braucht; der Rest ist gesperrt (zum Beispiel über das Berechtigungssystem der Laufzeitumgebung Deno).\n\n3. Standardeinstellungen nach Updates prüfen. Nach jeder Aktualisierung eines Werkzeugs prüfe ich die Voreinstellungen, bevor ich mich darauf verlasse (Beispiel: der voreingestellte Tokenizer von ttok).\n\n4. Hartes Budget je Dienst. Jeder nutzungsabhängig abgerechnete KI- oder Cloud-Dienst bekommt ein hartes Tages- oder Monatslimit, das bei Erreichen sperrt, plus eine Warnschwelle bei etwa der Hälfte.\n\n5. Zugangsdaten nie durch das Modell. Passwörter und Schlüssel laufen niemals über das Sprachmodell, sondern nur im umgebenden Programm.\nPrompt zum Prüfen:\n\"Durchsuche alle Skripte und Protokolle meiner Routine und melde jede Stelle, an der ein Zugangsschlüssel oder Passwort durch das Sprachmodell läuft.\"\n\n6. Kleine Werkzeuge einfach halten. Eigene kleine Werkzeuge baue ich als einzelne Datei ohne Server oder, wenn eine Anbindung nötig ist, als zustandslosen MCP-Server mit genau einem Werkzeug.\n\n7. Redaktionsregeln zentral ablegen. Mein fester Redaktions-Standard liegt in einer Datei wie CLAUDE.md oder als wiederverwendbare Skill, die beim Start automatisch eingelesen wird, statt die Regeln jedes Mal neu zu beschreiben.\n\n8. Modellwahl nach Aufwand pro Ziel. Ich vergleiche Modelle nach dem tatsächlichen Aufwand für ein fertiges Ergebnis, nicht nach dem Listenpreis je Token, und leite einfache Teilschritte auf ein kleines, schnelles Modell um.\n\n9. Prüfung mitwachsen lassen. Mit jeder neuen Automatisierung erweitere ich den automatischen Prüf-Schritt (Punkt 1), damit mehr erzeugte Inhalte auch mehr Prüfung erhalten."
-        },
-        {
-          "type": "thought",
-          "text": "Wenn ein Ablauf sich selbst prüft, wird aus täglicher Sorgfalt ein ruhiges Vertrauen; die beste Automatisierung ist die, der man am Morgen nicht mehr hinterhersehen muss."
-        }
-      ]
-    },
-    {
       "label": "Montag, 19. Oktober 2026",
       "weather": "clouds",
       "temp": "15°C · neblig",
@@ -1141,6 +951,188 @@
           ]
         }
       ]
+    },
+    {
+      "label": "Sonntag, 25. Oktober 2026",
+      "kind": "weekly",
+      "sub": "Wochenrückblick",
+      "weather": "rain",
+      "temp": "13°C · Regen",
+      "greeting": "Guten Morgen, Gerik, und einen ruhigen Sonntag. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, fällt auch heute Regen bei Höchstwerten um 13 Grad, ein nasser Ausklang einer durchweg kühlen, grauen Woche. Die Woche lässt sich in drei Bewegungen lesen. Erstens rückte der Nahe Osten mit Angriffen in der Straße von Hormus, einem getroffenen Flughafen und einer brüchigen Waffenruhe wieder ins Zentrum, mit spürbaren Folgen bis zum Ölpreis. Zweitens verdichteten sich die wirtschaftlichen Warnzeichen, eine Teuerung über drei Prozent, teurer Kraftstoff und gedämpfte Erwartungen, vor einer Woche mit zwei wichtigen Terminen. Drittens zog sich durch alle Tage ein roter Faden für dein eigenes System: wie du deine MORGENLAGE-Routine verlässlicher, sicherer und kostenbewusster aufstellst. Ganz unten bündle ich die Gelegenheiten der Woche, eine größere strategische Empfehlung und alle Systemanpassungen in einem kopierfertigen Text.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Der Nahe Osten rückt wieder ins Zentrum: Angriffe am Golf und brüchige Waffenruhe",
+              "text": "Außenpolitisch war die Woche von einer erneuten Zuspitzung im Nahen Osten geprägt. In der Straße von Hormus, der schmalen Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des weltweit per Schiff transportierten Erdöls fährt, setzten nach Angaben mehrerer Staaten Seeminen zwei Öltanker in Brand. Seeminen sind im Wasser treibende oder verankerte Sprengkörper gegen Schiffe. Wenige Tage später wurde der Flughafen der saudi-arabischen Stadt Dammam im Osten des Königreichs bei einem Angriff getroffen. Zugleich blieb die vor rund einem Jahr verkündete Waffenruhe im Gazastreifen, dem schmalen Küstengebiet am östlichen Mittelmeer, brüchig, und Frankreichs Präsident Emmanuel Macron setzte eine Vermittlungsreise durch die Region fort. Warum das zählt: Spannungen an einer der wichtigsten Handelsrouten der Welt treiben über den Ölpreis direkt die Energie- und Transportkosten, die auch dich als Unternehmer betreffen.",
+              "source": "Euronews u. a."
+            },
+            {
+              "title": "Israel wählt am Dienstag ein neues Parlament",
+              "text": "Am kommenden Dienstag, dem 27. Oktober 2026, wählt Israel ein neues Parlament, die Knesset mit ihren 120 Abgeordneten. Als schärfster Herausforderer des amtierenden Regierungschefs Benjamin Netanjahu und seiner Partei Likud gilt der frühere Generalstabschef Gadi Eisenkot, also der oberste militärische Befehlshaber der Streitkräfte a. D.; seine neue Partei lag in mehreren Umfragen der vergangenen Wochen in etwa gleichauf mit dem Likud oder knapp davor. Das Rennen gilt nach den Umfragen als offen, eine klare Mehrheit für eines der beiden Lager zeichnete sich zuletzt nicht sicher ab. Warum das zählt: Der Ausgang wirkt auf die ohnehin angespannte Lage im Nahen Osten und damit mittelbar auch auf Energiemärkte und Lieferketten.",
+              "source": "Jüdische Allgemeine u. a."
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Teuerung über drei Prozent, Ölpreis über 110 Dollar, gedämpfte Erwartungen",
+              "text": "Wirtschaftlich verdichteten sich in dieser Woche die Warnzeichen. Die Teuerung, also der allgemeine Anstieg der Preise, überschritt nach einem Bericht des Handelsblatts die Marke von drei Prozent, getrieben vor allem von teurem Kraftstoff. Der Preis für Rohöl stieg im Zuge der Spannungen in der Straße von Hormus über 110 US-Dollar je Fass (ein Fass, englisch Barrel, sind rund 159 Liter). Zugleich fiel der ZEW-Index überraschend, eine monatliche Umfrage des Zentrums für Europäische Wirtschaftsforschung (ZEW) in Mannheim unter Finanzfachleuten zu ihren Erwartungen an die deutsche Wirtschaft. Der Internationale Währungsfonds (IWF), eine Organisation von rund 190 Staaten zur Beobachtung der Weltwirtschaft, hob seine Wachstumserwartung für Deutschland zwar leicht an, doch die Stimmung der Fachleute trübte sich ein. Warum das zählt: Höhere Energiekosten und eine verhaltene Nachfrage treffen kleine Betriebe und Solo-Selbstständige unmittelbar bei Kalkulation und Planung.",
+              "source": "Handelsblatt, ZEW, IWF"
+            },
+            {
+              "title": "Die Woche voraus: Ifo-Index am Montag, EZB-Zinsentscheidung am Donnerstag",
+              "text": "Die kommende Woche bringt zwei wichtige Konjunktursignale. Am Montag, dem 26. Oktober 2026, veröffentlicht das ifo-Institut in München, ein wirtschaftswissenschaftliches Forschungsinstitut, seinen Geschäftsklimaindex, eine viel beachtete Stimmungsumfrage unter Unternehmen. Am Donnerstag, dem 29. Oktober 2026, entscheidet der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, über die Leitzinsen, also die Zinssätze, zu denen sich Geschäftsbanken bei der Notenbank Geld leihen. Die EZB hatte diese Zinsen zuletzt wegen des anhaltenden Preisdrucks angehoben. Darüber hinaus blieb der Streit um tiefgreifende Sparpläne beim Autobauer Volkswagen (VW) ein Thema, bei dem auch das Werk Neckarsulm genannt wurde. Warum das zählt: Von beiden Terminen hängt ab, ob Kredite teuer bleiben und wie sich die Nachfrage im Winterhalbjahr entwickelt.",
+              "source": "ifo-Institut, EZB"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Mit dem Ifo-Index am Montag und der EZB-Zinsentscheidung am Donnerstag treffen in der kommenden Woche zwei richtungsweisende Signale zusammen. Es kann sich lohnen, größere Ausgaben, Investitionen oder langfristige Zusagen erst nach diesen Terminen festzuzurren. Kalkuliere Angebote weiterhin mit etwas Puffer und mit anhaltend erhöhten Energiekosten, solange die Nachfrage verhalten bleiben könnte, und prüfe, ob sich freie Rücklagen derzeit noch zu guten Zinsen anlegen lassen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Weniger Abholzung im Amazonas und ein gestopptes Rodungsprojekt in Indonesien",
+              "text": "Aus dem Umwelt- und Naturschutz kamen diese Woche gleich mehrere gute Nachrichten. Im brasilianischen Teil des Amazonas-Regenwaldes, des größten zusammenhängenden tropischen Waldes der Erde, fiel die Abholzung nach neuen Auswertungen auf den niedrigsten Stand seit 13 Jahren. Indonesien, der große Inselstaat in Südostasien, stoppte früher als geplant ein Großprojekt zur Ausweitung des Reisanbaus und bewahrte damit große Flächen Wald. Und Mosambik, ein Land im Südosten Afrikas, stellte den artenreichen Bergregenwald am Mount Mabu unter Schutz, wegen seiner vielen Falterarten auch Schmetterlingswald genannt. Warum das zählt: Diese Entscheidungen zeigen, dass sich der Verlust von Wald politisch bremsen lässt, wenn der Wille da ist.",
+              "source": "Good Good Good u. a."
+            },
+            {
+              "title": "Brasilien beendet die Sechs-Tage-Woche",
+              "text": "Der brasilianische Kongress, also das Parlament des südamerikanischen Landes, verabschiedete eine Verfassungsänderung, die das weit verbreitete Arbeitsmodell 6x1 beendet, bei dem auf sechs Arbeitstage nur ein freier Tag folgte. Eine Verfassungsänderung ist eine Änderung des obersten Gesetzes eines Staates und wiegt deshalb besonders schwer. Künftig gilt eine kürzere Höchstarbeitszeit. Warum das zählt: Millionen Beschäftigte erhalten mehr Erholungszeit, und die Entscheidung dürfte die internationale Debatte über gesunde Arbeitszeiten weiter beleben.",
+              "source": "Good Good Good u. a."
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Eine selbststabilisierende Atomuhr und ein Blick in die ersten Minuten des Universums",
+              "text": "In der Grundlagenforschung gab es diese Woche mehrere bemerkenswerte Fortschritte. An der Technischen Universität Wien (TU Wien) baute ein Team um den Physiker Thorsten Schumm eine Atomuhr, die sich erstmals über mehr als einen Tag selbst stabil hält. Eine Atomuhr ist die genaueste bekannte Art, Zeit zu messen, indem sie sich an den sehr regelmäßigen Schwingungen von Atomen orientiert. Zugleich maßen Astronominnen und Astronomen so genau wie nie zuvor, wie viel Helium, ein leichtes Gas, in den ersten fünf Minuten nach dem Urknall entstand, dem angenommenen Anfang des Universums. Warum das zählt: Immer genauere Messungen sind die stille Grundlage von Technik, die wir täglich nutzen, von der Satellitennavigation bis zum Mobilfunk.",
+              "source": "Wissenschaftsmedien"
+            },
+            {
+              "title": "Ein Schwimmroboter aus lebenden Muskelzellen und ein Mess-Chip für zehn Dollar",
+              "text": "Am Massachusetts Institute of Technology (MIT), einer führenden technischen Hochschule in den USA, entwickelte ein Team um die Ingenieurin Ritu Raman einen winzigen Schwimmroboter, der von lebenden Muskelzellen angetrieben wird. An der University of Cambridge in England baute ein Team um den Ingenieur Qixiang Cheng gemeinsam mit der Ausgründung GlitterinTech einen winzigen optischen Mess-Chip für umgerechnet nur rund zehn US-Dollar, der Stoffe anhand von Licht erkennt. Eine Ausgründung ist ein junges Unternehmen, das aus einer Hochschule hervorgeht, um eine Erfindung in die Anwendung zu bringen. Warum das zählt: Günstige, winzige Sensoren und lebensnahe Roboter könnten Messtechnik und Medizin breiter zugänglich machen.",
+              "source": "Wissenschaftsmedien"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Eine kühle, graue Woche im Neckartal, vom Nebel zum Dauerregen",
+              "text": "Für Horb am Neckar, die Stadt im oberen Neckartal, dem Tal des Flusses Neckar, war es eine durchweg kühle und trübe Woche. Auf zähen Herbstnebel zu Wochenbeginn, der die Höchstwerte auf rund 14 bis 15 Grad drückte, folgte ab Wochenmitte anhaltender Regen bei nur noch 10 bis 14 Grad. Kulturell bot die Region Lichtpunkte: In Horb-Dettingen, einem Stadtteil von Horb, gab es am Donnerstagabend eine Kabarett-Vorpremiere, also die erste, noch nicht öffentliche Aufführung eines neuen Kabarettprogramms, einer Bühnenform aus Wortwitz und gesellschaftskritischen Nummern. Auch am Wochenende gab es kulturelle Angebote in Horb und den Nachbarstädten. Warum das zählt: Gerade an grauen Tagen lohnt der Blick auf das Nahe und auf die kleinen Angebote direkt vor der Haustür.",
+              "source": "horb.de u. a."
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Eine ganze Woche aus Nebel und Regen lehrt vielleicht dasselbe wie ein einzelner solcher Tag: dass das Verhüllte nicht verschwindet, sondern nur wartet, und dass die ruhige, sorgfältige Arbeit am Nahen oft mehr trägt als das Greifen nach der ganzen Ferne."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Drei staatliche Förderungen für Solo-Selbstständige, eine davon nur noch bis Jahresende",
+            "text": "In dieser Woche kamen gleich mehrere konkrete Fördermöglichkeiten für Solo-Selbstständige zusammen, also für Selbstständige ohne Angestellte. Erstens bezuschusst das Programm Förderung unternehmerischen Know-hows des Bundesamts für Wirtschaft und Ausfuhrkontrolle (BAFA), einer Behörde des Bundes, die Kosten einer Unternehmensberatung, auch zu Themen rund um Künstliche Intelligenz; der Antrag muss vor Beginn der Beratung gestellt werden, und die aktuelle Richtlinie läuft nach mehreren Quellen bis zum 31. Dezember 2026. Zweitens erstattet das Bundesprogramm KOMPASS Weiterbildungen für Solo-Selbstständige mit bis zu 4.500 Euro im Jahr. Drittens fördert die Forschungszulage nach dem Forschungszulagengesetz (FZulG) steuerlich auch die eigene Entwicklungsarbeit, etwa am Aufbau eigener KI-gestützter Systeme.",
+            "why": "Für dich als Solo-Unternehmer sind das drei verschiedene Hebel, um Beratung, Weiterbildung und eigene Entwicklungsarbeit rund um Automatisierung und KI zu einem großen Teil vom Staat tragen zu lassen, statt sie allein zu stemmen. Am eiligsten ist das BAFA-Programm, dessen aktuelle Richtlinie zum Jahresende auslaufen soll und bei dem der Antrag zudem vor der Beratung gestellt werden muss. Prüfe die genauen Bedingungen, Höchstbeträge, Fristen und die zuständigen Stellen unbedingt vorab auf den offiziellen Seiten von BAFA, der Bundesagentur für Arbeit und der Bescheinigungsstelle Forschungszulage (BSFZ), und ziehe bei der Forschungszulage steuerlichen Rat hinzu, zumal zur Höhe des Satzes für kleine und mittlere Unternehmen (KMU) noch ein Verfahren beim Bundesfinanzhof anhängig ist.",
+            "source": "BAFA, Bundesagentur für Arbeit, BSFZ"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Die Handlungsempfehlungen dieser Woche stammen durchgehend aus den Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt. Gebündelt ergeben sie einen einzigen strategischen Schritt.",
+          "cards": [
+            {
+              "icon": "layers",
+              "title": "MORGENLAGE als robuste, portable und kostenbewusste Routine neu aufstellen",
+              "tag": "Strategie · Zuverlässigkeit",
+              "paras": [
+                "Über die ganze Woche zogen sich dieselben Gedanken durch die täglichen Signale: Eine Routine, die automatisch läuft, braucht eingebaute Prüfung, enge Rechte, Unabhängigkeit von einzelnen Anbietern und ein Gedächtnis. Statt diese Punkte einzeln nachzurüsten, lohnt ein bewusster Umbau in einem Zug. Das Herzstück ist, deine Anleitung generate.md als eigenständige, werkzeugunabhängige Skill-Datei zu führen (eine Skill ist eine klar umrissene Anleitung für einen KI-Agenten, also ein Programm, das Aufgaben selbstständig abarbeitet) und sie durch harte, maschinelle Kontrollen abzusichern.",
+                "Der Hebel für dein System: Baue einen Pre-Commit- oder Pre-Push-Hook, also eine kleine Prüfung, die vor dem Speichern beziehungsweise Hochladen automatisch anspringt und abbricht, wenn data.json kein gültiges JSON ist oder verbotene Zeichen wie lange Gedankenstriche auftauchen. Gib der Routine nur die Zugriffe, die sie wirklich braucht, lege für jeden bezahlten Dienst ein hartes Ausgabenlimit fest und sprich alle Modelle über eine einheitliche, OpenAI-kompatible Schnittstelle an (ein verbreiteter Standard, über den sich verschiedene Sprachmodelle gleich ansteuern lassen), damit du einzelne Schritte jederzeit auf ein günstigeres oder selbst betriebenes Modell umstellen kannst."
+              ],
+              "konkret": "Lege generate.md als Skill-Datei mit knappem Kopf an, richte einen Pre-Push-Hook mit mindestens der JSON- und der Gedankenstrich-Prüfung ein, ergänze für jeden externen Dienst eine Rückfallregel und führe ein fortlaufendes Archiv aller erzeugten Tage, damit die Routine Wiederholungen erkennt. Entscheide zudem vor dem 1. Dezember, wenn sich der Preis mancher Modelle ändert, welches Modell je Schritt wirtschaftlich bleibt.",
+              "snippetLabel": "Pre-Push-Prüfung für MORGENLAGE (Shell)",
+              "snippet": "#!/bin/sh\n# .git/hooks/pre-push  (ausfuehrbar machen: chmod +x .git/hooks/pre-push)\n# 1) data.json muss gueltiges JSON sein\nnode -e \"JSON.parse(require('fs').readFileSync('data.json','utf8'))\" \\\n  || { echo 'Abbruch: data.json ist kein gueltiges JSON'; exit 1; }\n# 2) keine langen Gedankenstriche (Em-/En-Strich)\nif grep -nP '[\\x{2013}\\x{2014}]' data.json; then\n  echo 'Abbruch: verbotener Gedankenstrich in data.json'; exit 1\nfi\n<span class=\"ph\">{3) per Modell pruefen lassen, ob jeder Eigenname im neuesten Tag erklaert ist}</span>",
+              "source": "simonwillison.net"
+            }
+          ]
+        },
+        {
+          "type": "systemtips",
+          "eyebrow": "Systemanpassungen der Woche",
+          "intro": "Hier sind alle konkreten System- und Prompt-Tipps dieser Woche gebündelt, aus den täglichen Handlungsempfehlungen und Gelegenheiten. Die Liste sagt kurz, was jeweils anzupassen ist; der kopierfertige Text darunter lässt sich in einem Schritt als Ergänzung deines bestehenden Regelwerks übernehmen.",
+          "items": [
+            {
+              "title": "Mitlaufende statt nachgelagerte Prüfung",
+              "text": "Prüfe die Tagesausgabe nicht erst am Schluss, sondern fortlaufend, während sie entsteht, und setze vor dem Hochladen zusätzlich einen festen Selbst-Prüfschritt gegen die Regeln aus generate.md."
+            },
+            {
+              "title": "Sicherheitsvorgaben gleich im Auftrag benennen",
+              "text": "Wenn ein KI-Assistent etwas baut, das später fremde Inhalte anzeigt, gib die Sicherheitsanforderung von Anfang an mit: fremde Inhalte abgeschottet (sandbox) darstellen, Zugriffe auf das wirklich Nötige beschränken."
+            },
+            {
+              "title": "Regeln per Pre-Commit- oder Pre-Push-Hook erzwingen",
+              "text": "Ein Hook, also eine automatisch anspringende Prüfung, lehnt das Hochladen ab, wenn data.json kein gültiges JSON ist oder ein langer Gedankenstrich vorkommt. So gilt die Regel verlässlich, nicht nur nach gutem Willen."
+            },
+            {
+              "title": "Abhängigkeiten und Zertifikate aktuell halten",
+              "text": "Nach dem Diebstahl von Zwischenzertifikaten einer Zertifizierungsstelle lohnt es, Zertifikatspakete regelmäßig aufzufrischen (etwa certifi) und nach jedem Werkzeug-Update die Voreinstellungen zu prüfen, bevor man sich darauf verlässt."
+            },
+            {
+              "title": "Modellkosten vor dem 1. Dezember prüfen",
+              "text": "Vor der angekündigten Preisänderung mancher Modelle festhalten, welches Modell die Routine nutzt, den Tokenbedarf eines typischen Laufs messen und mit Preis und Laufzahl je Monat hochrechnen; bei Bedarf ein hartes Ausgabenlimit setzen."
+            },
+            {
+              "title": "Modell-unabhängig über eine einheitliche Schnittstelle arbeiten",
+              "text": "Sprich alle Modelle über eine einheitliche, OpenAI-kompatible Schnittstelle an. Mechanische Schritte laufen auf einem günstigen Modell, redaktionelle Texte auf einem starken, und jeder Schritt lässt sich jederzeit umstellen."
+            },
+            {
+              "title": "generate.md als portable Skill führen",
+              "text": "Führe die Anleitung als eigenständige, werkzeugunabhängige Skill-Datei mit knappem Kopf (Name, Zweck) und den bestehenden Regeln darunter, sodass die Routine nur noch auf diese eine Datei verweist."
+            },
+            {
+              "title": "Rückfallregeln für externe Dienste",
+              "text": "Für jeden externen Aufruf (Wetterdienst open-meteo, Bildsuche Openverse, Nachrichtenquellen) eine Rückfallregel vorsehen: Ist die Antwort unbrauchbar, Feld weglassen oder Rubrik überspringen, statt den Lauf abzubrechen."
+            },
+            {
+              "title": "Fortlaufendes Archiv als Gedächtnis",
+              "text": "Sichere jeden erzeugten Tag zusätzlich in einem wachsenden Archiv, in dem die Routine vor dem Schreiben nachsehen kann, was zuletzt behandelt wurde, um Wiederholungen zu vermeiden."
+            }
+          ],
+          "copytext": "MORGENLAGE Systemregeln, Ergaenzungen (Stand 25. Oktober 2026)\n\nGrundsatz: Diese Punkte ergaenzen die Regeln vom 18. Oktober. Leitgedanke der Woche: Eine Routine, die selbststaendig laeuft, braucht eingebaute Pruefung, enge Rechte, Unabhaengigkeit von einzelnen Anbietern und ein Gedaechtnis. Alles, was heute noch von Hand sichergestellt wird, wird nach und nach maschinell erzwungen.\n\n1. Mitlaufende statt nachgelagerte Pruefung. Die Ausgabe wird fortlaufend geprueft, waehrend sie entsteht. Vor dem Hochladen laeuft zusaetzlich ein fester Selbst-Pruefschritt gegen die Regeln aus generate.md.\nPrompt dafuer:\n\"Pruefe den folgenden MORGENLAGE-Tageseintrag streng gegen diese Regeln und liste nur Verstoesse auf: 1. Abschnittsreihenfolge. 2. Jeder Eigenname und jedes Fremdwort wird im Text kurz erklaert. 3. Das Wetter in der greeting stimmt mit weather und temp ueberein. 4. Keine Em- oder En-Striche, echte Umlaute. Tageseintrag: {hier das Tages-JSON einfuegen}\"\n\n2. Sicherheitsvorgaben gleich im Auftrag. Baut ein KI-Assistent etwas, das spaeter fremde Inhalte anzeigt oder verarbeitet, wird die Sicherheitsanforderung von Anfang an mitgegeben, nicht nachtraeglich.\nPrompt-Baustein:\n\"Baue die Anzeige so, dass fremde Inhalte in einem abgeschotteten Sandkasten (sandbox) dargestellt werden. Das Programm darf nur auf {ausdruecklich erlaubte Ressourcen} zugreifen, alles andere bleibt gesperrt.\"\n\n3. Regeln per Hook erzwingen. Ein Pre-Commit- oder Pre-Push-Hook lehnt das Hochladen ab, wenn data.json kein gueltiges JSON ist oder ein langer Gedankenstrich vorkommt. Die Pruefung waechst mit jeder neuen Automatisierung mit.\nHook (Shell):\n#!/bin/sh\nnode -e \"JSON.parse(require('fs').readFileSync('data.json','utf8'))\" || { echo 'Abbruch: kein gueltiges JSON'; exit 1; }\nif grep -nP '[\\x{2013}\\x{2014}]' data.json; then echo 'Abbruch: verbotener Gedankenstrich'; exit 1; fi\n\n4. Abhaengigkeiten und Zertifikate aktuell halten. Nach dem Diebstahl von Zwischenzertifikaten einer Zertifizierungsstelle werden die Zertifikatspakete regelmaessig aufgefrischt (zum Beispiel pip install --upgrade certifi und der Zertifikatsspeicher des Systems) und nach jedem Werkzeug-Update die Voreinstellungen geprueft, bevor man sich darauf verlaesst.\n\n5. Modellkosten vor dem 1. Dezember pruefen. Vor der angekuendigten Preisaenderung mancher Modelle wird festgehalten, welches Modell die Routine nutzt, der Tokenbedarf eines typischen Laufs gemessen und mit Preis und Laufzahl je Monat hochgerechnet. Bei Bedarf wird ein hartes Ausgabenlimit gesetzt.\n\n6. Modell-unabhaengig arbeiten. Alle Modelle werden ueber eine einheitliche, OpenAI-kompatible Schnittstelle angesprochen. Mechanische Schritte (etwa Wetter-JSON umwandeln) laufen auf einem guenstigen Modell, redaktionelle Texte auf einem starken. So laesst sich jeder Schritt jederzeit auf ein billigeres oder selbst betriebenes Modell umstellen.\n\n7. generate.md als portable Skill. Die Anleitung wird als eigenstaendige, werkzeugunabhaengige Skill-Datei gefuehrt (knapper Kopf mit Name und Zweck, darunter die bestehenden Regeln), sodass die Routine nur noch auf diese eine Datei verweist.\n\n8. Rueckfallregeln fuer externe Dienste. Fuer jeden externen Aufruf (Wetterdienst open-meteo, Bildsuche Openverse, Nachrichtenquellen) gibt es eine Rueckfallregel: Ist die Antwort nicht brauchbar, wird das Feld weggelassen oder die Rubrik uebersprungen, statt den Lauf abzubrechen.\n\n9. Fortlaufendes Archiv als Gedaechtnis. Jeder erzeugte Tag wird zusaetzlich in einem wachsenden Archiv gesichert, in dem die Routine vor dem Schreiben nachsehen kann, was zuletzt behandelt wurde, um Wiederholungen zu vermeiden."
+        },
+        {
+          "type": "thought",
+          "text": "Vielleicht ist der ruhigste Fortschritt der, den man nicht täglich sieht: ein System, das im Hintergrund etwas verlässlicher, sicherer und genügsamer geworden ist, sodass am Morgen einfach das Richtige dasteht."
+        }
+      ],
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
     }
   ]
 }
