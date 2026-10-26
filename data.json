@@ -2,167 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Montag, 19. Oktober 2026",
-      "weather": "clouds",
-      "temp": "15°C · neblig",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar liegt an diesem Montag zäher Nebel, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler, trüber Herbsttag im Neckartal. In der Weltlage stimmen die Menschen in der kanadischen Provinz Alberta heute über einen möglichen Weg zur Abspaltung von Kanada ab, und in Eriwan beginnt die Weltnaturkonferenz der Vereinten Nationen. In der Wirtschaft treffen sich in Berlin der Bundeskanzler und Spitzen vieler Konzerne zu einem Investitionsgipfel, während die Europäische Zentralbank Ende des Monats erneut über die Zinsen entscheidet. Aus Lichtblick und Forschung kommen ein deutlicher Rückgang der Abholzung im Amazonas, die Rückgabe von angestammtem Land an eine indigene Nation in den USA sowie neue Erkenntnisse über die Strahlen schwarzer Löcher und über kosmische Kollisionen. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Kanadische Provinz Alberta stimmt über einen Weg zur Abspaltung ab",
-              "text": "In der westkanadischen Provinz Alberta sind die Menschen heute aufgerufen, in einer Volksabstimmung über einen möglichen Weg zur Loslösung von Kanada zu entscheiden. Alberta ist eine rohstoffreiche, stark von der Öl- und Gasförderung geprägte Provinz, in der seit Jahren Unmut über die Politik der Bundesregierung in der fernen Hauptstadt Ottawa wächst. Die Frage auf dem Stimmzettel zielt nicht auf die Unabhängigkeit selbst, sondern darauf, ob ein rechtliches Verfahren für eine spätere, verbindliche Abstimmung über eine Abspaltung eingeleitet werden soll; Ministerpräsidentin Danielle Smith betonte, das Ergebnis verpflichte die Regierung zu nichts. Umfragen vor der Abstimmung deuten auf eine klare Mehrheit für den Verbleib bei Kanada hin, mit rund 60 Prozent für ein Nein und etwa 35 Prozent für ein Ja. Die Einordnung bleibt nüchtern: Schon die Abstimmung selbst zeigt, wie tief die Gräben zwischen einzelnen Regionen und der Zentralregierung in manchen Ländern verlaufen.",
-              "source": "Angus Reid / Jurist",
-              "url": "https://angusreid.org/alberta-referendum-question/"
-            },
-            {
-              "title": "Weltnaturkonferenz der Vereinten Nationen beginnt in Eriwan",
-              "text": "In Eriwan, der Hauptstadt des südkaukasischen Landes Armenien, beginnt heute die 17. Weltnaturkonferenz der Vereinten Nationen, kurz COP17, die bis zum 30. Oktober dauert. Bei dieser Konferenz beraten die Vertragsstaaten des Übereinkommens über die biologische Vielfalt, eines internationalen Abkommens zum Schutz der Tier- und Pflanzenwelt, über den Stand ihrer Naturschutzziele. Im Mittelpunkt steht die Frage, wie die 2022 im sogenannten Rahmenwerk von Kunming und Montreal vereinbarten Ziele erreicht werden können; nach Angaben des Konferenzsekretariats liegt bislang weniger als die Hälfte der geprüften nationalen Ziele im Plan, mit besonders großen Lücken bei der Finanzierung und beim Abbau umweltschädlicher Subventionen. Subventionen sind staatliche Zahlungen, die etwa fossile Energieträger künstlich verbilligen. Die Einordnung: Ob die Konferenz verbindliche Fortschritte bringt, ist offen, doch sie gilt als wichtiger Gradmesser für den weltweiten Naturschutz.",
-              "source": "Convention on Biological Diversity / Euronews",
-              "url": "https://thinklandscape.globallandscapesforum.org/108216/cop17-biodiversity-conference-preview/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Investitionsgipfel in Berlin: Konzerne versprechen Milliarden für den Standort",
-              "text": "Im Bundeskanzleramt in Berlin kommen an diesem Montag und Dienstag Bundeskanzler Friedrich Merz und Spitzenvertreter zahlreicher Großkonzerne zu einem Investitionsgipfel zusammen. Ein Investitionsgipfel ist ein Treffen, bei dem Politik und Wirtschaft über die Bedingungen für neue Investitionen sprechen, also für Ausgaben in Fabriken, Anlagen oder Forschung. Hintergrund ist die Initiative „Made for Germany“, ein Zusammenschluss von inzwischen rund 150 Unternehmen, die nach eigenen Angaben bis 2028 mehr als 850 Milliarden Euro am Standort Deutschland investieren wollen. Merz sagte den Investoren grundlegende Reformen zu, etwa einen flexibleren Arbeitsmarkt. Die Einordnung bleibt nüchtern: Fachleute weisen darauf hin, dass unklar ist, wie viel der angekündigten Summe wirklich neues Geld ist und nicht ohnehin geplante Investitionen, und dass viele internationale Geldgeber gegenüber Deutschland weiter zurückhaltend sind.",
-              "source": "Börsen-Zeitung / ZDF",
-              "url": "https://www.boersen-zeitung.de/konjunktur-politik/standort-deutschland-ist-ploetzlich-wieder-attraktiv"
-            },
-            {
-              "title": "Vor der EZB-Zinsentscheidung am 29. Oktober",
-              "text": "In zehn Tagen, am 29. Oktober, entscheidet der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, erneut über die Leitzinsen. Leitzinsen sind die Sätze, zu denen sich Geschäftsbanken bei der Notenbank Geld leihen, und sie wirken auf Kredit- und Sparzinsen in der gesamten Wirtschaft. Zuletzt lag der für Sparer wichtige Einlagensatz bei 2,50 Prozent, nachdem die EZB ihn wegen anhaltend erhöhter Teuerung angehoben hatte; für das laufende Jahr erwartet die Notenbank eine Inflation von gut drei Prozent. Zugleich meldet das Bundesministerium für Wirtschaft, die deutsche Wirtschaft habe im dritten Quartal vorübergehend an Schwung verloren, befinde sich aber weiter auf einem vorsichtigen Erholungskurs. Die Einordnung: Für Selbstständige bleibt das ein Umfeld mit eher teuren Krediten und zögerlicher Auftragsvergabe.",
-              "source": "EZB / BMWE / Biallo",
-              "url": "https://www.biallo.de/geldanlage/news/naechste-zinserhoehung-der-ezb"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Solange die EZB die Zinsen hoch hält und die Konjunktur nur zögerlich anzieht, bleiben Kredite teuer und Aufträge kommen langsamer herein. Prüfe geplante Anschaffungen darauf, ob sie wirklich jetzt sein müssen, vergleiche die Konditionen deiner Hausbank mit meist günstigeren Förderkrediten und halte eine Rücklage für ruhigere Monate bereit. Wo du eigene Mittel statt teurer Kredite einsetzen kannst, sparst du im aktuellen Zinsumfeld spürbar.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Abholzung im brasilianischen Amazonas fällt auf den niedrigsten Stand seit 13 Jahren",
-              "text": "Im brasilianischen Teil des Amazonas-Regenwaldes, des größten zusammenhängenden tropischen Waldes der Erde, ist die Abholzung nach neuen Auswertungen auf den niedrigsten Stand seit 13 Jahren gefallen. Die Warnmeldungen über gerodete Flächen gingen gegenüber dem Vorjahr um mehr als ein Drittel zurück; einer Analyse zufolge wurde dadurch die Rodung von mindestens 20.000 Quadratkilometern Wald verhindert. Der Amazonas-Regenwald bindet große Mengen des Treibhausgases Kohlendioxid und beherbergt einen erheblichen Teil der weltweiten Tier- und Pflanzenarten. Die Botschaft ist eine der Zuversicht: Sie zeigt, dass entschlossener staatlicher Schutz die Zerstörung selbst sehr großer Waldgebiete spürbar bremsen kann.",
-              "img": "https://live.staticflickr.com/5026/5641583430_6fac4e655f_b.jpg",
-              "source": "Good Good Good / Positive News",
-              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026"
-            },
-            {
-              "title": "Rund 11.000 Acres angestammtes Land an indigene Nation in den USA zurückgegeben",
-              "text": "Im US-Bundesstaat Maine im Nordosten der Vereinigten Staaten sind rund 11.000 Acres angestammtes Land an die Penobscot Nation zurückgegeben worden, eine der dort seit Jahrhunderten ansässigen indigenen, also ursprünglich einheimischen Gemeinschaften. Ein Acre ist ein vor allem im englischsprachigen Raum gebräuchliches Flächenmaß von gut 4.000 Quadratmetern, 11.000 Acres entsprechen also etwa 4.450 Hektar. Es handelt sich um den ersten Abschnitt einer größeren Rückgabe von insgesamt rund 30.000 Acres, umgerechnet etwa 12.000 Hektar. Für viele indigene Nationen hat solches Land nicht nur wirtschaftlichen, sondern auch kulturellen und spirituellen Wert, etwa für den Schutz von Flüssen und Wäldern. Die Einordnung: Die Rückgabe gilt als Beispiel dafür, wie historisches Unrecht in kleinen, konkreten Schritten anerkannt und ein Stück weit ausgeglichen werden kann.",
-              "img": "https://live.staticflickr.com/8806/16696742654_be214d1449_b.jpg",
-              "source": "Good Good Good",
-              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Schwarze Löcher schleudern ihre Strahlen nach derselben Regel ins All",
-              "text": "Ein Forschungsteam um Adelle Goodwin vom australischen Radioastronomie-Zentrum ICRAR an der Curtin-Universität hat herausgefunden, dass schwarze Löcher höchst unterschiedlicher Größe ihre gewaltigen Materiestrahlen offenbar nach derselben Regel aussenden. Ein schwarzes Loch ist ein Bereich im All, dessen Anziehungskraft so stark ist, dass nichts entkommt, nicht einmal Licht; fällt Materie hinein, kann es gebündelte Strahlen, sogenannte Jets, ins All schleudern. Nach der im Fachblatt Nature Astronomy veröffentlichten Studie setzen diese Strahlen ein, wenn ein schwarzes Loch Materie mit etwa zwei Prozent einer bestimmten physikalischen Höchstrate verschlingt, und zwar unabhängig davon, ob es die Masse eines einzelnen Sterns oder die von Millionen Sternen hat. Die Einordnung: Die Regel könnte Fachleuten helfen vorherzusagen, wann solche Strahlen auftreten, und so die Beobachtung mit Radioteleskopen gezielter zu planen.",
-              "img": "https://live.staticflickr.com/2167/5740471915_cbf6a414fb_b.jpg",
-              "source": "Nature Astronomy / ICRAR",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm"
-            },
-            {
-              "title": "Weltraumteleskop Webb beobachtet Kollisionen wie bei der Entstehung des Sonnensystems",
-              "text": "Mit dem James-Webb-Weltraumteleskop, einem von mehreren Weltraumbehörden betriebenen Observatorium, das aus rund anderthalb Millionen Kilometern Entfernung ins All blickt, haben Astronomen 21 besonders ausgeprägte Trümmerscheiben um junge Sterne untersucht. Eine Trümmerscheibe ist ein ringförmiger Gürtel aus Staub und Gesteinsbrocken, der einen jungen Stern umgibt und aus dem Planeten entstehen können. Das Teleskop fand darin kieselsäurereiches Material, das bei Zusammenstößen etwa marsgroßer Körper entsteht, also bei gewaltigen Kollisionen, wie sie auch unser eigenes Sonnensystem geprägt haben; ein solcher Einschlag wird sogar hinter der Entstehung des Mondes vermutet. Die im Fachblatt The Astrophysical Journal veröffentlichten Beobachtungen geben Hinweise auf die enormen Energiemengen bei solchen Zusammenstößen. Die Einordnung: Sie erlauben einen Blick auf Vorgänge, die vor Milliarden Jahren auch die Erde und ihre Nachbarplaneten formten.",
-              "img": "https://live.staticflickr.com/65535/51897153681_f895614850_b.jpg",
-              "source": "The Astrophysical Journal / NASA",
-              "url": "https://lifeboat.com/blog/2026/10/webb-provides-crash-course-on-planet-shattering-collisions"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nebliger Herbstmontag im Neckartal, am Donnerstag Kabarett-Vorpremiere",
-              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Montag zäher Nebel, und die Höchstwerte erreichen nur rund 15 Grad, ein kühler, trüber Herbsttag. Wer früh unterwegs ist, sollte bei schlechter Sicht im Verkehr vorsichtig fahren; lichtet sich der Nebel im Lauf des Tages, kann daraus noch ein ruhiger, goldener Oktobertag werden. Für den Rest der Woche zeichnet sich ein Termin ab: Am Donnerstag, dem 22. Oktober, zeigt um 20 Uhr die Kabarettistin Doris Reichenauer im Gasthof Adler im Ortsteil Horb-Dettingen die Vorpremiere ihres neuen Programms „Jetzt isst er sogar Brokkoli!“. Kabarett ist eine Bühnenkunst, die mit Humor und spitzer Zunge aktuelle und alltägliche Themen aufs Korn nimmt. Für einen trüben Nachmittag zwischendurch bietet sich ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-              "source": "eventfinder.de / Stadt Horb / open-meteo",
-              "url": "https://www.eventfinder.de/veranstaltungen-horb.php"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Nebel verhüllt das Neckartal und nimmt dem Blick die Ferne; vielleicht ist es ein Tag, an dem sich die Aufmerksamkeit lohnt, die man dem Nahen und Greifbaren schenkt."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "BAFA-Zuschuss zu Unternehmensberatung, auch für KI-Themen, noch bis Jahresende",
-            "text": "Das Programm „Förderung unternehmerischen Know-hows“ des Bundesamts für Wirtschaft und Ausfuhrkontrolle (BAFA), einer Behörde des Bundes, bezuschusst die Kosten für eine professionelle Unternehmensberatung. In den alten Bundesländern, zu denen auch Baden-Württemberg gehört, werden nach mehreren Quellen 50 Prozent des Beraterhonorars übernommen, bei förderfähigen Kosten von bis zu einigen tausend Euro je Beratung. Ein Zuschuss ist, anders als ein Kredit, Geld, das nicht zurückgezahlt werden muss. Ausdrücklich förderfähig sind nach den Quellen auch Beratungen rund um künstliche Intelligenz. Antragsberechtigt sind kleine und mittlere Unternehmen sowie Freiberufler; der Berater muss beim BAFA zugelassen sein.",
-            "why": "Wenn du ohnehin über eine strukturierte Beratung nachdenkst, etwa zum sinnvollen Einsatz von KI-Werkzeugen in deinen Abläufen, kann dieses Programm einen Großteil der Kosten übernehmen. Wichtig: Der Antrag muss vor Beginn der Beratung gestellt werden, und die aktuelle Förderrichtlinie läuft nach mehreren Quellen bis zum 31. Dezember 2026; wer sie noch nutzen will, sollte also nicht zu lange warten. Prüfe die genauen Konditionen, die Höchstbeträge und die zugelassenen Berater vorab direkt auf der offiziellen Seite des BAFA, da einzelne Angaben je nach Quelle abweichen.",
-            "source": "BAFA / IHK Nürnberg",
-            "url": "https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei praktische Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der als Autor des quelloffenen Werkzeugs llm Neuerungen rund um Sprachmodelle fachkundig begleitet.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Automatische Code-Prüfung mitlaufen lassen, nicht erst am Ende",
-              "tag": "Qualität",
-              "paras": [
-                "Simon Willison verweist auf einen Bericht des Teams hinter Claude Code, einem KI-Werkzeug zum Programmieren, das beschreibt, wie es seinen Programmcode fortlaufend prüfen lässt, während er entsteht. Eine Code-Prüfung, englisch Code Review, ist das sorgfältige Gegenlesen von Programmcode, um Fehler früh zu finden. Das Besondere: Die automatische Prüfung läuft kontinuierlich mit, sodass ein KI-Assistent die meisten Routinefehler bereits abfängt, bevor ein Mensch den Code überhaupt ansieht.",
-                "Der Hebel für dein System: Wenn in deinen Abläufen Code entsteht, lohnt es sich, eine automatische Prüfung nicht als einmaligen Schritt ganz am Schluss einzuplanen, sondern fortlaufend mitlaufen zu lassen. So bleiben menschliche Kontrollen für die wichtigen, übergeordneten Fragen frei, während Tippfehler und typische Schnitzer früh und günstig auffallen."
-              ],
-              "konkret": "Richte für deine Projekte eine automatische Code-Prüfung ein, die bei jeder Änderung anspringt, statt erst kurz vor einer Veröffentlichung. Lass sie gezielt nach den Fehlern suchen, die dir erfahrungsgemäß am häufigsten unterlaufen.",
-              "snippetLabel": "Prüfauftrag an einen KI-Assistenten (Prompt)",
-              "snippet": "Prüfe die folgende Änderung auf Fehler, bevor sie zusammengeführt wird.\nAchte besonders auf <span class=\"ph\">{häufige Fehlerquellen, z. B. leere Werte, Randfälle}</span> und melde nur belastbare Funde mit kurzer Begründung.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            },
-            {
-              "icon": "terminal",
-              "title": "Sicherheitsvorgaben für KI-erzeugten Code von vornherein benennen",
-              "tag": "Sicherheit",
-              "paras": [
-                "Simon Willison berichtet, wie er von einem KI-Programmierassistenten ein kleines Programm zur Darstellung von Formeln bauen ließ und dabei von Anfang an eine Sicherheitsvorgabe machte: Die Anzeige sollte in einer abgeschotteten Umgebung, einem sogenannten Sandkasten (englisch sandbox), laufen. Ein Sandkasten ist ein abgeriegelter Bereich, in dem Code ausgeführt wird, ohne auf den Rest des Systems zugreifen zu können. So lässt sich das Risiko verringern, dass über eingeschleusten Schadcode Daten abfließen.",
-                "Der Hebel für dein System: Wenn ein KI-Assistent dir etwas baut, das später fremde Inhalte anzeigt oder verarbeitet, solltest du die Sicherheitsanforderungen gleich im Auftrag benennen, nicht erst hinterher. Modelle liefern sonst oft die bequemste, aber nicht die sicherste Lösung."
-              ],
-              "konkret": "Nimm Sicherheitsvorgaben fest in deine Aufträge an KI-Assistenten auf: dass fremde Inhalte abgeschottet dargestellt werden und dass das Programm nur die Zugriffe erhält, die es wirklich braucht.",
-              "snippetLabel": "Sicherheitsvorgabe im Auftrag (Prompt)",
-              "snippet": "Baue die Anzeige so, dass fremde Inhalte in einem abgeschotteten Sandkasten (sandbox) dargestellt werden.\nDas Programm darf nur auf <span class=\"ph\">{ausdrücklich erlaubte Ressourcen}</span> zugreifen, alles andere bleibt gesperrt.",
-              "source": "Simon Willison",
-              "url": "https://simonwillison.net/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Dienstag, 20. Oktober 2026",
       "weather": "clouds",
       "temp": "14°C · neblig",
@@ -803,7 +642,6 @@
       "weather": "rain",
       "temp": "10°C · Regen",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Samstag Regen, und die Höchstwerte kommen nur auf rund 10 Grad, ein nasser und kühler Oktobertag im Neckartal. In der Weltlage steht Israel vor der Parlamentswahl am kommenden Dienstag, bei der Regierungschef Benjamin Netanjahu auf den früheren Generalstabschef Gadi Eisenkot trifft. In der Wirtschaft bleibt der Streit um die Sparpläne beim Autobauer Volkswagen ein Thema, und die Europäische Zentralbank entscheidet am Donnerstag über die Zinsen. Aus Lichtblick und Forschung kommen größere Weintrauben unter Solardächern, ein gerettetes Walrossbaby, ein sich neu füllender Supervulkan in Japan und ein winziger Schwimmroboter aus lebenden Muskelzellen. Ganz unten findest du wie immer eine konkrete Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1130,6 +968,157 @@
         {
           "type": "thought",
           "text": "Vielleicht ist der ruhigste Fortschritt der, den man nicht täglich sieht: ein System, das im Hintergrund etwas verlässlicher, sicherer und genügsamer geworden ist, sodass am Morgen einfach das Richtige dasteht."
+        }
+      ]
+    },
+    {
+      "label": "Montag, 26. Oktober 2026",
+      "weather": "clouds",
+      "temp": "12°C · bewölkt",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, bleibt es an diesem Montag stark bewölkt bei Höchstwerten um 12 Grad, ein kühler, grauer Herbsttag. In der Weltlage brechen Bundeskanzler Friedrich Merz und Bundespräsident Frank-Walter Steinmeier zu getrennten Asienreisen auf, und in Serbien hat die oppositionelle Studentenbewegung die vorgezogene Parlamentswahl überraschend klar gewonnen. In der Wirtschaft stehen gleich zwei wichtige Termine an: Heute veröffentlicht das Münchner ifo-Institut sein Geschäftsklima, am Donnerstag entscheidet die Europäische Zentralbank über die Zinsen. Aus Lichtblick und Forschung kommen ein erlassener Milliardenbetrag an Krankheitsschulden in den USA, eine wachsende frei lebende Bisonherde und drei gewaltige schwarze Löcher in einer jungen Galaxie. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Merz und Steinmeier brechen zu getrennten Asienreisen auf",
+              "text": "Bundeskanzler Friedrich Merz, der Regierungschef Deutschlands, und Bundespräsident Frank-Walter Steinmeier, das Staatsoberhaupt, brechen an diesem Montag zu getrennten mehrtägigen Reisen nach Asien auf. Steinmeier reist am Morgen zu seinem zweiten Staatsbesuch nach China, dem bevölkerungsreichsten Land Asiens; ein Staatsbesuch ist der förmlichste Besuch, den ein Staatsoberhaupt einem anderen Land abstatten kann. Merz startet einige Stunden später zu seiner bislang längsten Auslandsreise als Kanzler, mit Stationen in Singapur, Japan und Südkorea. Im Mittelpunkt stehen Handel, Technologie und Sicherheit in einer Weltregion, die für die deutsche Wirtschaft als Absatzmarkt und als Lieferant besonders wichtig ist. Die Einordnung bleibt nüchtern: Die parallelen Reisen unterstreichen, wie sehr Deutschland seine Beziehungen nach Asien ausbauen und zugleich von einzelnen Partnern unabhängiger werden möchte.",
+              "source": "news.de",
+              "url": "https://www.news.de/panorama/860128417/26-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-26-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            },
+            {
+              "title": "Opposition gewinnt überraschend die vorgezogene Wahl in Serbien",
+              "text": "In Serbien, einem Land auf der Balkanhalbinsel in Südosteuropa, hat nach einer Projektion des Wahlforschungsinstituts Cesid die Liste der oppositionellen Studentenbewegung die vorgezogene Parlamentswahl überraschend klar gewonnen und könnte die absolute Mehrheit der Sitze erreichen. Eine vorgezogene Wahl ist eine Wahl, die früher als regulär vorgesehen stattfindet. Die Studentenbewegung war aus monatelangen Protesten gegen die Regierung hervorgegangen. Präsident Aleksandar Vucic, der die Politik des Landes seit 2012 bestimmt, räumte dem Bericht zufolge seine Niederlage ein. Die Einordnung: Sollte sich das Ergebnis bestätigen, wäre es ein deutlicher Machtwechsel in einem Land, das die Europäische Union als möglichen künftigen Mitgliedstaat betrachtet.",
+              "source": "news.de",
+              "url": "https://www.news.de/panorama/860128417/26-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-26-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Zwei Konjunktursignale: ifo-Geschäftsklima heute, EZB-Zins am Donnerstag",
+              "text": "Die neue Woche bringt für die deutsche Wirtschaft zwei wichtige Signale. An diesem Montag veröffentlicht das ifo-Institut in München, ein wirtschaftswissenschaftliches Forschungsinstitut, seinen Geschäftsklimaindex, eine viel beachtete monatliche Umfrage unter tausenden Unternehmen zu ihrer aktuellen Lage und ihren Erwartungen. Im September war der Index auf 89,9 Punkte gestiegen, den dritten Monat in Folge; ob sich die Stimmung im Oktober weiter aufhellt, zeigt die heutige Veröffentlichung. Am Donnerstag, dem 29. Oktober, entscheidet dann der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, über die Leitzinsen, also die Sätze, zu denen sich Geschäftsbanken bei der Notenbank Geld leihen. Die Einordnung: Nach mehreren Zinsanhebungen wegen der erhöhten Teuerung erwarten viele Fachleute diesmal eine Pause, sicher ist das aber nicht.",
+              "source": "ifo-Institut / EZB / Finanztip",
+              "url": "https://www.finanztip.de/zinsentwicklung/"
+            },
+            {
+              "title": "Österreich droht beim langfristigen EU-Haushalt mit einem Veto",
+              "text": "In den Verhandlungen über den langfristigen Haushalt der Europäischen Union (EU), des Zusammenschlusses von 27 europäischen Staaten, droht Österreich nach einem Bericht der Epoch Times als erstes Land mit einem Veto. Ein mehrjähriger EU-Haushalt legt für sieben Jahre fest, wie viel Geld die Gemeinschaft einnimmt und wofür sie es ausgibt; ein Veto ist das Recht, einen Beschluss im Alleingang zu verhindern. Österreichs Bundeskanzler Christian Stocker hält den derzeitigen Vorschlag der EU-Kommission, der Verwaltungsspitze der EU, dem Bericht zufolge für inakzeptabel. Die Einordnung: Der Streit um den nächsten Finanzrahmen zeigt, wie schwer sich die Mitgliedstaaten über gemeinsame Ausgaben einigen, was mittelbar auch Förderprogramme und Investitionen berührt, von denen kleine Betriebe profitieren können.",
+              "source": "Epoch Times",
+              "url": "https://www.epochtimes.de/kurznachrichten/26-10-2026-eu-haushalt-oesterreich-droht-als-erstes-land-mit-veto-nach-massenprotesten-lecornu-empfaengt-schuelervertreter-a5645591.html"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Mit dem ifo-Geschäftsklima heute und der EZB-Zinsentscheidung am Donnerstag treffen in dieser Woche zwei richtungsweisende Signale zusammen. Es kann sich lohnen, größere Anschaffungen, Kredite oder langfristige Zusagen erst festzuzurren, wenn beide Zahlen auf dem Tisch liegen. Kalkuliere Angebote weiterhin mit etwas Puffer und prüfe, ob sich freie Rücklagen derzeit noch zu vergleichsweise guten Zinsen anlegen lassen, bevor die EZB einen möglichen Zinsgipfel wieder verlässt.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "US-Bundesstaat Illinois erlässt Krankheitsschulden von über 1,1 Milliarden Dollar",
+              "text": "Der US-Bundesstaat Illinois im Mittleren Westen der Vereinigten Staaten hat nach einem Nachrichtenüberblick des Portals Good Good Good Krankheitsschulden in Höhe von mehr als 1,1 Milliarden US-Dollar für über 500.000 Menschen erlassen. In den USA müssen Kranke einen großen Teil ihrer Behandlungskosten selbst tragen, sodass sich bei schwerer Erkrankung rasch hohe Schulden ansammeln können. Bei den Begünstigten wurden im Schnitt mehr als 1.200 Dollar gestrichen, in Einzelfällen Zehntausende oder gar Hunderttausende Dollar. Möglich wird das, indem solche Schulden zu einem kleinen Bruchteil ihres Werts aufgekauft und anschließend erlassen werden. Die Einordnung: Für viele Betroffene bedeutet das eine spürbare Entlastung und zeigt, wie sich mit vergleichsweise wenig Geld eine große Wirkung erzielen lässt.",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+            },
+            {
+              "title": "Naturschutzprojekt in den USA erreicht 1.000 frei lebende Bisons",
+              "text": "In den Vereinigten Staaten hat ein gemeinnütziges Naturschutzprojekt nach demselben Überblick die Marke von 1.000 frei lebenden Bisons erreicht. Der Bison, auch amerikanisches Büffelrind genannt, ist das größte Landsäugetier Nordamerikas und war im 19. Jahrhundert durch übermäßige Jagd fast ausgerottet worden. Ziel des Projekts ist es, den größten zusammenhängenden Abschnitt ursprünglicher Prärie des Landes wiederherzustellen, also jener weiten Graslandschaft, die einst das Herz des Kontinents bildete, und sie für Naturschutz und Erholung nutzbar zu machen. Die Einordnung: Eine wachsende, frei umherziehende Herde gilt als Zeichen, dass sich auch stark geschrumpfte Tierbestände mit langem Atem wieder aufbauen lassen.",
+              "img": "https://live.staticflickr.com/8033/28346582370_cb1f5d4fef_b.jpg",
+              "source": "Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Drei gewaltige schwarze Löcher in einer einzigen jungen Galaxie entdeckt",
+              "text": "Ein internationales Forschungsteam um die Astrophysikerin Hannah Übler vom Max-Planck-Institut für extraterrestrische Physik im bayerischen Garching hat in einer einzigen fernen Galaxie gleich drei aktive supermassereiche schwarze Löcher entdeckt. Ein schwarzes Loch ist ein Bereich im All, dessen Anziehungskraft so stark ist, dass ihm nichts entkommt, nicht einmal Licht; supermassereich heißt, dass es die Masse von Millionen oder Milliarden Sonnen besitzt. Die Galaxie mit der Kennung J0148-4214 ist mehr als 12,5 Milliarden Lichtjahre entfernt, wir sehen sie also so, wie sie rund 1,2 Milliarden Jahre nach dem Urknall war, dem angenommenen Anfang des Universums; ein Lichtjahr ist die Strecke, die das Licht in einem Jahr zurücklegt. Zwei der drei schwarzen Löcher liegen nahe dem Zentrum und dürften in einigen hundert Millionen Jahren verschmelzen. Beobachtet wurde das System mit dem James-Webb-Weltraumteleskop, einem Observatorium mehrerer Raumfahrtbehörden, das aus rund anderthalb Millionen Kilometern Entfernung ins All blickt; ohne dessen feine räumliche Auflösung wäre vermutlich nur eines der drei Löcher sichtbar gewesen. Die Einordnung: Der Fund könnte erklären helfen, warum schwarze Löcher schon im frühen Universum so rasch so groß werden konnten.",
+              "img": "https://live.staticflickr.com/3085/3122133227_3993774f9b.jpg",
+              "source": "Astronomy & Astrophysics / Max-Planck-Institut",
+              "url": "https://sciencedaily.com/releases/2026/10/261024222000.htm"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Grauer Herbstmontag im Neckartal, im November Flohmarkt und Dark Dinner",
+              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, bleibt es an diesem Montag stark bewölkt bei Höchstwerten um 12 Grad, ein kühler, grauer Herbsttag. Wer ins Freie möchte, sollte sich warm anziehen; für drinnen lohnt der Blick auf die kommenden Termine der Region. Am Samstag, dem 7. November, ist nach Angaben eines Veranstaltungsportals ein Flohmarkt geplant, also ein Markt, auf dem Gebrauchtes verkauft wird. Für mehrere Abende im November, den 11., 12., 14. und 15., kündigt der Gasthof Adler zudem ein sogenanntes Dark Dinner an, ein Essen in völliger Dunkelheit, bei dem Geschmack und Geruch anstelle des Sehens in den Vordergrund treten. Für einen trüben Nachmittag zwischendurch bietet sich außerdem ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
+              "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
+              "source": "eventfinder.de / krencky24.de / open-meteo",
+              "url": "https://www.eventfinder.de/horb/veranstaltungen/"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein grauer Himmel nimmt dem Tag die Weite, und doch geht darunter manches voran, das man erst später sieht; vielleicht ist das die Einladung, das Naheliegende sorgfältig zu tun und dem Übrigen seine Zeit zu lassen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Kostenlose, anbieterneutrale KI-Hilfe der Mittelstand-Digital Zentren, noch in der laufenden Förderperiode",
+            "text": "Die Mittelstand-Digital Zentren sind ein vom Bundesministerium für Wirtschaft gefördertes Netz von bundesweit rund 30 Anlaufstellen, die kleine und mittlere Unternehmen sowie das Handwerk kostenlos und anbieterneutral bei der Digitalisierung unterstützen. Anbieterneutral heißt, dass die Beratung kein bestimmtes Produkt verkaufen will. Im Angebot sind nach mehreren Quellen eintägige oder kürzere Workshops, Vorführungen von Technik, sogenannte Demonstratoren, und kurze Einzelberatungen von ein bis zwei Stunden zur ersten Orientierung, zuletzt mit einem klaren Schwerpunkt auf künstlicher Intelligenz. Mehrere Zentren haben zudem ein Handbuch zum Umgang mit KI im Unternehmensalltag veröffentlicht.",
+            "why": "Für dich als Solo-Unternehmer ist das eine Möglichkeit, dir ohne Kosten und ohne Verkaufsdruck einen Überblick über den sinnvollen Einsatz von KI-Werkzeugen in deinen Abläufen zu verschaffen, etwa als Ergänzung zu deiner MORGENLAGE-Routine. Wichtig: Die Förderung des bestehenden Netzwerks läuft nach mehreren Berichten schrittweise bis Ende 2026 aus, bevor 2027 ein neu zugeschnittenes Netzwerk starten soll; die aktuellen Angebote solltest du also eher früher als später nutzen. Prüfe auf der offiziellen Seite von Mittelstand-Digital, welches Zentrum für Baden-Württemberg zuständig ist, ob die Angebote auch Solo-Selbstständigen offenstehen und welche Termine noch stattfinden.",
+            "source": "Bundesministerium für Wirtschaft / Mittelstand-Digital",
+            "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/mittelstanddigitalisieren.html"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig begleitet, diesmal zu offenen Standards und zur Sicherheit deiner Verbindungen.",
+          "cards": [
+            {
+              "icon": "layers",
+              "title": "Auf offene, anbieterneutrale Standards setzen: Agent Skills und MCP",
+              "tag": "Strategie · Unabhängigkeit",
+              "paras": [
+                "Simon Willison berichtet, dass der Anbieter Anthropic den Standard Agent Skills an die Agentic AI Foundation übergibt, eine neutrale Stiftung unter dem Dach der Linux Foundation, die bereits das Model Context Protocol (MCP) betreut. Agent Skills sind klar umrissene, wiederverwendbare Anleitungen für KI-Agenten, also für Programme, die Aufgaben selbstständig abarbeiten; MCP ist ein offener Standard, über den solche Programme einheitlich auf Werkzeuge und Datenquellen zugreifen. Dass beide nun unter neutraler Verwaltung stehen, verringert die Gefahr, sich dauerhaft an einen einzelnen Anbieter zu binden.",
+                "Der Hebel für dein System: Deine Anleitung generate.md lässt sich als eine solche Agent Skill führen, wie in der Wochenübersicht bereits angeregt; das ist nun zusätzlich eine Wette auf einen offenen, gemeinschaftlich gepflegten Standard statt auf ein einzelnes Produkt. Als konkreten Schritt kannst du zudem deine eigenen Quellen, etwa ein Archiv der bisherigen MORGENLAGE-Tage, über MCP als abfragbares Werkzeug bereitstellen, sodass die Routine vor dem Schreiben nachsehen kann, was zuletzt behandelt wurde."
+              ],
+              "konkret": "Führe generate.md als portable Agent Skill mit knappem Kopf und stelle dein Tagesarchiv über einen MCP-Zugang bereit, damit sich Wiederholungen von Themen und Bildern automatisch vermeiden lassen. So bleibt dein System auch bei einem Anbieterwechsel lauffähig.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Zertifikatsspeicher jetzt auffrischen, nach einem Vorfall bei einer Zertifizierungsstelle",
+              "tag": "Sicherheit",
+              "paras": [
+                "Simon Willison weist auf einen Sicherheitsvorfall hin: Bei der Zertifizierungsstelle eMudhra wurden die geheimen Schlüssel von acht sogenannten Zwischenzertifikaten entwendet. Eine Zertifizierungsstelle bestätigt mit Zertifikaten, dass ein Server im Internet wirklich der ist, der er zu sein vorgibt; Zwischenzertifikate sind eine Stufe in dieser Vertrauenskette. Gelangen ihre geheimen Schlüssel in falsche Hände, könnten Angreifer fremde Server vortäuschen und verschlüsselte Verbindungen belauschen.",
+                "Der Hebel für dein System: Deine MORGENLAGE-Routine ruft über verschlüsselte Verbindungen mehrere Dienste auf, etwa die Wetterschnittstelle open-meteo, die Bildsuche Openverse und Nachrichtenquellen. Damit sie betroffenen Zertifikaten nicht mehr vertraut, solltest du die Zertifikatspakete auffrischen; Simon Willison nennt dafür aktualisierte Fassungen der Werkzeuge uv und pip sowie des Python-Pakets certifi. Läuft die Routine in einem Container, also einer abgeschlossenen Programmumgebung, baue dessen Grundlage neu, damit sie die aktuellen Zertifikate enthält."
+              ],
+              "konkret": "Aktualisiere in der Umgebung deiner Routine die Zertifikatspakete und baue einen etwaigen Container neu. Prüfe zudem, ob du irgendwo ein fest eingebundenes, veraltetes Zertifikatspaket verwendest, das die Korrektur sonst nicht automatisch erhält.",
+              "snippetLabel": "Zertifikate und Werkzeuge auffrischen (Shell)",
+              "snippet": "pip install --upgrade certifi\n# Paketverwalter uv und pip auf aktuelle Fassungen bringen\nuv self update\npython -m pip install --upgrade pip\n<span class=\"ph\">{bei Containern zusaetzlich das Basis-Image neu bauen}</span>",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
+            }
+          ]
         }
       ],
       "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
