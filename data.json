@@ -2,165 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Dienstag, 20. Oktober 2026",
-      "weather": "clouds",
-      "temp": "14°C · neblig",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar hält sich an diesem Dienstag zäher Nebel, der die Höchstwerte auf rund 14 Grad drückt, ein kühler, trüber Oktobertag im Neckartal. In der Weltlage ist Papst Leo XIV. fünf Tage nach seiner Lungenoperation wieder öffentlich aufgetreten, und beim EU-Gipfel in Brüssel beraten die Staats- und Regierungschefs über die weitere Unterstützung der Ukraine. In der Wirtschaft treibt teurer Kraftstoff die Teuerung über die Marke von drei Prozent, während der Internationale Währungsfonds seine Wachstumserwartung für Deutschland leicht anhebt. Aus Lichtblick und Forschung kommen verhinderte Entwaldung im Amazonasgebiet, eine große Wildtierbrücke in den USA, mit Licht steuerbare Hirnzellen und ein ferner, neu bestätigter Exoplanet. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Papst Leo XIV. tritt fünf Tage nach seiner Lungenoperation wieder öffentlich auf",
-              "text": "Papst Leo XIV., das Oberhaupt der römisch-katholischen Kirche, ist fünf Tage nach einer Operation an der Lunge wieder öffentlich in Erscheinung getreten. Bei dem Eingriff in der römischen Gemelli-Klinik, einem großen Krankenhaus, das seit Jahrzehnten Päpste medizinisch betreut, war ihm der untere Lappen eines Lungenflügels entfernt worden, nachdem Ärzte dort einen bösartigen Befund festgestellt hatten. Nach Angaben des Vatikans, der Regierungszentrale der katholischen Kirche in Rom, verlief die Genesung bislang ohne Komplikationen. Die Einordnung bleibt nüchtern: Das rasche Wiederauftreten gilt als gutes Zeichen für den Heilungsverlauf, auch wenn der 71-Jährige seine Termine in den Tagen zuvor abgesagt hatte.",
-              "source": "SRF",
-              "url": "https://www.srf.ch/news/international"
-            },
-            {
-              "title": "EU-Gipfel in Brüssel berät über weitere Unterstützung der Ukraine",
-              "text": "In Brüssel kommen die Staats- und Regierungschefs der Europäischen Union (EU), des Zusammenschlusses von 27 europäischen Staaten, zu einem Gipfeltreffen zusammen, bei dem die weitere Unterstützung der Ukraine im Mittelpunkt steht. Anlass sind unter anderem mutmaßlich russische Drohnenangriffe auf Schiffe vor der bulgarischen Schwarzmeerküste, die der Gipfel nach Darstellung mehrerer Medien verurteilen will. Zugleich sorgt für Diskussionen, dass US-Präsident Donald Trump zuvor verhängte Sanktionen, also wirtschaftliche Strafmaßnahmen, gegen Russland wieder ausgesetzt hat. Die Einordnung: Für die EU geht es darum, ihre Linie zur Ukraine und zum Umgang mit Russland geschlossen zu halten, während sich die Haltung der Vereinigten Staaten zuletzt verschoben hat.",
-              "source": "SRF",
-              "url": "https://www.srf.ch/news/international"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Teurer Kraftstoff treibt die Teuerung über die Marke von drei Prozent",
-              "text": "Die Teuerung hat nach einem Bericht des Handelsblatts zuletzt die Marke von drei Prozent überschritten, getrieben vor allem von höheren Kraftstoffpreisen. Die Teuerungsrate, auch Inflationsrate genannt, misst, um wie viel Prozent die Preise für Waren und Dienstleistungen binnen eines Jahres im Schnitt gestiegen sind. Hintergrund sind die seit Monaten erhöhten Öl- und Dieselpreise, die über Sprit, Heizen und Transport auf viele weitere Preise durchschlagen. Die Einordnung: Eine Teuerung oberhalb von drei Prozent liegt deutlich über dem Ziel der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, von zwei Prozent und dürfte die Notenbank vor ihrer Sitzung am 29. Oktober in der vorsichtigen Haltung bestärken, die Zinsen vorerst nicht zu senken.",
-              "source": "Handelsblatt",
-              "url": "https://www.handelsblatt.com/themen/ezb"
-            },
-            {
-              "title": "Währungsfonds hebt die Wachstumserwartung für Deutschland leicht an",
-              "text": "Der Internationale Währungsfonds (IWF), eine Organisation von rund 190 Staaten zur Beobachtung der Weltwirtschaft, hat seine Wachstumserwartung für die deutsche Wirtschaft im Jahr 2026 auf 1,3 Prozent angehoben. Das Bruttoinlandsprodukt (BIP) misst den Wert aller in einem Jahr erzeugten Waren und Dienstleistungen; ein Plus von 1,3 Prozent wäre ein verhaltenes, aber spürbares Wachstum. Zugleich fiel die Industrieproduktion im Euroraum, also in den Ländern mit dem Euro, im August gegenüber dem Vormonat um 0,5 Prozent, und der Wert für Juli wurde nachträglich nach unten korrigiert. Die Einordnung: Die Lage bleibt zweigeteilt, eine etwas bessere Jahresprognose trifft auf eine weiterhin schwache Industrie, was für Selbstständige ein Umfeld mit eher vorsichtiger Auftragsvergabe bedeutet.",
-              "source": "Börse Express / IWF",
-              "url": "https://www.boerse-express.com/news/articles/straffen-stuetzen-neu-besetzen-die-ezb-im-dreifachdilemma-953591"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Eine Teuerung über drei Prozent bedeutet, dass deine Einkaufs-, Energie- und Lebenshaltungskosten weiter spürbar steigen, während die EZB die Zinsen hoch hält. Kalkuliere bei Angeboten und längeren Zusagen eher mit anhaltend erhöhten Preisen als mit einer schnellen Entspannung, und prüfe, ob sich freie Rücklagen derzeit noch zu vergleichsweise guten Zinsen anlegen lassen. Wo du Energie oder Fahrten bündeln kannst, wirkt sich das bei den aktuellen Kraftstoffpreisen besonders aus.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Brasilien verhindert große Flächen an Entwaldung im Amazonasgebiet",
-              "text": "Nach einem wöchentlichen Nachrichtenüberblick des Portals Good Good Good sind unter der derzeitigen Regierung Brasiliens mindestens 20.000 Quadratkilometer Entwaldung im Amazonasgebiet verhindert worden. Das Amazonasgebiet ist der größte zusammenhängende tropische Regenwald der Erde und bindet große Mengen des klimawirksamen Gases Kohlendioxid. Entwaldung bezeichnet das dauerhafte Abholzen oder Roden von Wald, etwa für Weideland oder Ackerbau. Die Einordnung: 20.000 Quadratkilometer entsprechen ungefähr der Fläche des Bundeslandes Hessen; dass dieser Verlust vermieden wurde, gilt als ermutigendes Zeichen dafür, dass politische Entscheidungen den Druck auf den Regenwald spürbar senken können.",
-              "img": "https://live.staticflickr.com/5026/5641583430_6fac4e655f_b.jpg",
-              "source": "Good Good Good",
-              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026"
-            },
-            {
-              "title": "In den USA entsteht eine der größten Wildtierbrücken des Landes",
-              "text": "In den Vereinigten Staaten ist eine der größten Wildtierbrücken des Landes errichtet worden, also ein begrüntes Bauwerk, über das Tiere eine stark befahrene Straße gefahrlos überqueren können. Solche Querungen sollen verhindern, dass Wildtiere beim Überqueren von Fernstraßen verunglücken, und zugleich getrennte Lebensräume wieder miteinander verbinden. Auf einem Abschnitt der US-Fernstraße I-25 sind die Zusammenstöße zwischen Fahrzeugen und Tieren nach Angaben eines Nachrichtenüberblicks um 91 Prozent zurückgegangen. Die Einordnung: Wildtierbrücken gelten als vergleichsweise einfache und wirksame Maßnahme, die zugleich Tierleben schützt und die Sicherheit im Straßenverkehr erhöht.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/US93_-_Wildlife_crossing_bridge.JPG",
-              "source": "Positive News / UpLifting News",
-              "url": "https://www.positive.news/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Mit Licht geschaltete Hirnzellen, eine Methode mit Ursprung in winzigen Algen",
-              "text": "Wissenschaftsmedien erinnern an eine Technik namens Optogenetik, mit der sich einzelne Nervenzellen im Gehirn gezielt mit Licht an- und ausschalten lassen. Nervenzellen, auch Neuronen genannt, sind die Grundbausteine des Nervensystems, die Signale weiterleiten. Möglich wurde das durch eine Entdeckung an winzigen Algen, einfachen pflanzlichen Lebewesen, die lichtempfindliche Eiweiße besitzen; baut man diese Eiweiße in Nervenzellen ein, reagieren diese auf Lichtreize. Die zugrunde liegende Forschung wurde später mit einem Nobelpreis gewürdigt, der höchsten internationalen Auszeichnung für wissenschaftliche Leistungen. Die Einordnung: Die Optogenetik erlaubt es Forschenden, die Aufgaben einzelner Hirnzellen genau zu untersuchen, und gilt als wichtiges Werkzeug, um Erkrankungen des Nervensystems besser zu verstehen.",
-              "img": "https://live.staticflickr.com/7046/6884698095_5b4bfac5e2_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/news/top/science/"
-            },
-            {
-              "title": "Exoplanet in 320 Lichtjahren Entfernung bestätigt eine lange gehegte Vermutung",
-              "text": "Astronominnen und Astronomen haben nach Berichten von Wissenschaftsmedien an einem rund 320 Lichtjahre entfernten Planeten etwas bestätigt, das die Forschung lange vermutet hatte. Ein Exoplanet ist ein Planet, der nicht die Sonne, sondern einen anderen Stern umkreist. Ein Lichtjahr ist die Strecke, die das Licht in einem Jahr zurücklegt, rund 9,5 Billionen Kilometer; 320 Lichtjahre gelten nach astronomischen Maßstäben als vergleichsweise nah. Beobachtet wurde der ferne Planet mit modernen Weltraumteleskopen, die das Licht seines Sterns genau zerlegen. Die Einordnung: Jede solche Bestätigung hilft der Forschung zu verstehen, wie Planeten entstehen und wie verbreitet erdähnliche Welten in unserer Galaxie, dem Sternsystem der Milchstraße, sein könnten.",
-              "img": "https://live.staticflickr.com/5521/9444601107_c0d1def231_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Kühler Nebeltag im Neckartal, am Donnerstag Kabarett-Vorpremiere in Horb-Dettingen",
-              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, hält sich an diesem Dienstag zäher Nebel, und die Höchstwerte bleiben bei rund 14 Grad, ein kühler, trüber Oktobertag. Wer früh mit dem Auto unterwegs ist, sollte im Neckartal auf Nebelfelder und eingeschränkte Sicht gefasst sein. Für den Donnerstag, den 22. Oktober, zeichnet sich ein Termin ab: Um 20 Uhr zeigt die Kabarettistin Doris Reichenauer im Gasthof Adler im Ortsteil Horb-Dettingen die Vorpremiere ihres neuen Programms; Kabarett ist eine Form des humorvollen Bühnenprogramms, das oft gesellschaftliche Themen aufgreift. Für einen trüben Nachmittag zwischendurch bietet sich zudem ein Besuch im Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Horb_am_Neckar_2011.jpg",
-              "source": "ADticket / Stadt Horb / open-meteo",
-              "url": "https://www.adticket.de/Horb-am-Neckar/PLZ-72160/Veranstaltungen/Tickets.html"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein Nebeltag verengt den Blick auf das Nahe; vielleicht ist gerade das die Einladung, eine Sache in Ruhe zu Ende zu bringen, statt vielen zugleich hinterherzusehen."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Eigene Daten in natürlicher Sprache abfragen mit dem freien Werkzeug Datasette",
-            "text": "Datasette ist ein frei verfügbares, quelloffenes Werkzeug des Entwicklers Simon Willison, mit dem sich eigene Datenbestände, etwa Tabellen aus einer SQLite-Datei, im Browser durchsuchen, filtern und veröffentlichen lassen. SQLite ist ein weit verbreitetes, kostenloses Datenbankformat, das ohne eigenen Server auskommt und sich in einer einzigen Datei ablegen lässt. Mit der kürzlich aktualisierten Erweiterung llm-tools-datasette lässt sich Datasette zusätzlich an ein Sprachmodell anbinden, sodass man seine Daten in normaler Sprache befragen kann, statt Abfragen von Hand zu schreiben. Das gesamte Werkzeug ist kostenlos und läuft bei Bedarf auch nur auf dem eigenen Rechner.",
-            "why": "Wenn du Kundendaten, Rechnungen oder Projektlisten strukturiert vorliegen hast, kannst du sie damit ohne laufende Kosten durchsuchbar machen und mit einem Sprachmodell gezielt Fragen dazu stellen, etwa nach offenen Posten oder häufigen Anfragen. Wichtig: Spiele sensible Daten nur lokal ein und gib nichts Vertrauliches an einen externen Dienst weiter, solange du nicht genau weißt, wohin die Abfragen gehen. So gewinnst du schnell einen Überblick über deine eigenen Zahlen, ohne dich an ein teures Fremdsystem zu binden.",
-            "source": "simonwillison.net",
-            "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale stammen aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig begleitet, und zielen darauf, deine MORGENLAGE-Routine verlässlicher und sicherer zu machen.",
-          "cards": [
-            {
-              "icon": "terminal",
-              "title": "Feste Regeln per Pre-Commit-Hook erzwingen, statt sie nur zu beschreiben",
-              "tag": "Automatisierung · Qualität",
-              "paras": [
-                "Der Entwickler Geoffrey Huntley rät laut einer Notiz von Simon Willison dazu, wichtige Konventionen nicht nur in einer Anleitungsdatei wie CLAUDE.md oder generate.md zu beschreiben, sondern sie mit einem sogenannten Pre-Commit-Hook technisch zu erzwingen. Ein Pre-Commit-Hook ist ein kleines Skript, das die Versionsverwaltung Git vor jedem Speichern eines Standes, einem Commit, automatisch ausführt; schlägt die Prüfung fehl, wird der Commit abgebrochen.",
-                "Der Hebel für dein System: Deine MORGENLAGE-Routine verlangt bereits, dass data.json gültiges JSON ist und keine Gedankenstriche enthält. Statt allein darauf zu vertrauen, dass die Regel eingehalten wird, kann ein Hook bei jedem Commit automatisch prüfen, ob die Datei sich fehlerfrei einlesen lässt und ob verbotene Zeichen vorkommen. So fällt ein Fehler sofort auf, bevor er in das Repository gelangt, und nicht erst Tage später."
-              ],
-              "konkret": "Lege im Repository eine Datei .git/hooks/pre-commit an, die data.json mit node einliest und auf verbotene Zeichen prüft, und mache sie ausführbar. Bricht die Prüfung ab, lässt sich der Fehler sofort beheben, bevor er festgeschrieben wird.",
-              "snippetLabel": "Pre-Commit-Hook zur Prüfung von data.json (Shell)",
-              "snippet": "#!/bin/sh\nnode -e \"JSON.parse(require('fs').readFileSync('data.json','utf8'))\" || { echo 'data.json ist kein gueltiges JSON'; exit 1; }\nif grep -nP '[\\x{2013}\\x{2014}]' data.json; then\n  echo 'Verbotene Gedankenstriche in data.json gefunden'; exit 1\nfi\n<span class=\"ph\">{weitere Pruefungen nach Bedarf}</span>",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
-            },
-            {
-              "icon": "gauge",
-              "title": "KI-Agenten mit möglichst wenigen Rechten laufen lassen",
-              "tag": "Sicherheit",
-              "paras": [
-                "Simon Willison weist in mehreren Notizen darauf hin, dass automatisch arbeitende KI-Programme, sogenannte Agenten, nur die Rechte erhalten sollten, die sie für ihre Aufgabe wirklich brauchen. Anlass sind unter anderem Berichte, wonach Agenten unbeabsichtigt Formulare auf fremden Internetseiten ausgefüllt und abgeschickt haben. Er verweist zudem auf die Laufzeitumgebung Deno, ein Programm zum Ausführen von Code, das den Zugriff auf Dateien und einzelne Internetadressen gezielt erlauben oder sperren kann, anders als ältere Umgebungen, die den Netzzugang nur insgesamt an- oder abschalten.",
-                "Der Hebel für dein System: Deine MORGENLAGE-Routine braucht nur wenige Dinge, etwa den Zugriff auf einige Nachrichtenquellen, die Wetterschnittstelle und das eigene Repository. Je enger du festlegst, welche Verzeichnisse und welche Adressen die Routine überhaupt ansprechen darf, desto kleiner ist der Schaden, falls eine Anweisung einmal fehlgeleitet wird oder eine Quelle etwas Unerwartetes liefert."
-              ],
-              "konkret": "Prüfe, auf welche Dateien und Internetadressen deine Routine wirklich zugreifen muss, und beschränke die Rechte darauf. Lass die Routine nach Möglichkeit in einer abgeschotteten Umgebung laufen und gib ihr keine Schreibrechte außerhalb des eigenen Projekts.",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Mittwoch, 21. Oktober 2026",
       "weather": "rain",
       "temp": "11°C · Regen",
@@ -1117,6 +958,163 @@
               "snippet": "pip install --upgrade certifi\n# Paketverwalter uv und pip auf aktuelle Fassungen bringen\nuv self update\npython -m pip install --upgrade pip\n<span class=\"ph\">{bei Containern zusaetzlich das Basis-Image neu bauen}</span>",
               "source": "simonwillison.net",
               "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dienstag, 27. Oktober 2026",
+      "weather": "clouds",
+      "temp": "18°C · neblig",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Dienstag zunächst Nebel, der Tag bleibt trüb und wolkig bei milden Höchstwerten um 18 Grad. In der Weltlage wählt Israel ein neues Parlament, und in Hamburg wird der Prozess um die Sabotage der Ostsee-Pipelines Nord Stream fortgesetzt. In der Wirtschaft hat sich die Stimmung der deutschen Unternehmen im Oktober den vierten Monat in Folge aufgehellt, während am Donnerstag die Europäische Zentralbank über die Zinsen entscheidet. Aus Lichtblick und Forschung kommen ein Rekordtief bei der Abholzung des Amazonas-Regenwaldes, ein möglicher Durchbruch bei der Rettung gebleichter Korallen und das vielleicht älteste bekannte Schiffswrack der Welt. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Israel wählt ein neues Parlament",
+              "text": "In Israel, dem Staat am östlichen Mittelmeer, wählen an diesem Dienstag nach Angaben mehrerer Medien rund 7,3 Millionen Wahlberechtigte eine neue Knesset, so heißt das Parlament des Landes mit seinen 120 Sitzen. Es ist die erste Parlamentswahl seit 1988, die zum regulär vorgesehenen Termin stattfindet und nicht vorgezogen wurde; auf dem Stimmzettel stehen 38 Listen, also Parteien und Bündnisse. Im Mittelpunkt steht das Duell zwischen Ministerpräsident Benjamin Netanjahu mit seiner rechtskonservativen Partei Likud und dem früheren Generalstabschef der Armee, Gadi Eisenkot, dessen Partei in mehreren Umfragen zuletzt vorn lag. Für eine Regierungsmehrheit sind mindestens 61 der 120 Sitze nötig, die die Umfragen aber keinem der beiden Lager klar zusprachen. Die Einordnung bleibt nüchtern: Der Ausgang ist offen, und ob sich rasch eine Regierung bilden lässt, wird sich erst nach der Auszählung und möglichen Koalitionsgesprächen zeigen.",
+              "source": "bpb / Al Jazeera",
+              "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/582697/parlamentswahl-in-israel-2026-netanjahu-regierung-droht-verlust-der-mehrheit/"
+            },
+            {
+              "title": "Prozess um die Sabotage der Nord-Stream-Pipelines wird fortgesetzt",
+              "text": "An diesem Dienstag wird nach einem Nachrichtenüberblick der Prozess im Zusammenhang mit der Sabotage der Erdgas-Pipelines Nord Stream fortgesetzt; verhandelt wird in Hamburg. Nord Stream bezeichnet zwei Leitungen durch die Ostsee, durch die bis 2022 russisches Erdgas nach Deutschland floss; im September 2022 wurden sie durch mehrere Explosionen schwer beschädigt, deren Urheber und Hintergründe seither untersucht werden. In dem Verfahren geht es um die strafrechtliche Aufarbeitung dieser Sprengungen. Die Einordnung bleibt nüchtern: Die zerstörten Leitungen stehen sinnbildlich für das Ende der deutsch-russischen Energiebeziehungen, und jeder Verhandlungstag wird aufmerksam verfolgt, weil die Frage nach den Verantwortlichen weiterhin offen und politisch heikel ist.",
+              "source": "Epoch Times / ZDFheute",
+              "url": "https://www.epochtimes.de/kurznachrichten/27-10-2026-nord-stream-prozess-geht-weiter-israelis-waehlen-neues-parlament-a5646571.html"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "ifo-Geschäftsklima steigt im Oktober den vierten Monat in Folge",
+              "text": "Die Stimmung in der deutschen Wirtschaft hat sich im Oktober erneut verbessert. Der Geschäftsklimaindex des ifo-Instituts in München, eines wirtschaftswissenschaftlichen Forschungsinstituts, das Monat für Monat tausende Unternehmen zu ihrer Lage und ihren Erwartungen befragt, stieg nach Angaben des Instituts auf 90,2 Punkte, nach 89,9 Punkten im September. Es ist bereits der vierte Anstieg in Folge. Dabei blickten die Unternehmen zuversichtlicher auf die kommenden Monate, während sie ihre aktuelle Lage etwas schlechter einschätzten als zuvor. Das ifo-Institut fasste es so zusammen, dass sich die Konjunkturbelebung fortsetze. Die Einordnung: Steigende Erwartungen gelten als vorsichtiges Signal, dass die Betriebe mit einer allmählichen Erholung rechnen, auch wenn die gegenwärtige Geschäftslage noch verhalten bleibt.",
+              "source": "ifo-Institut",
+              "url": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland"
+            },
+            {
+              "title": "Europäische Zentralbank entscheidet am Donnerstag über die Zinsen",
+              "text": "Am Donnerstag, dem 29. Oktober, gibt der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, gegen 14:15 Uhr seine neue Zinsentscheidung bekannt. Die Leitzinsen sind die Sätze, zu denen sich Geschäftsbanken bei der Notenbank Geld leihen; sie beeinflussen mittelbar, wie teuer Kredite und wie attraktiv Spareinlagen für Unternehmen und Haushalte sind. Zuletzt hatte die EZB den sogenannten Einlagensatz im September auf 2,50 Prozent angehoben. Viele Fachleute erwarten diesmal eine Pause, also unveränderte Zinsen, sicher ist das jedoch nicht. Die Einordnung: Für Betriebe, die eine größere Investition oder einen Kredit planen, ist die Richtung der Zinsen ein wichtiger Anhaltspunkt für die kommenden Monate.",
+              "source": "Europäische Zentralbank / LBBW",
+              "url": "https://www.deltavalue.de/ezb-zinsentscheid/"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Mit dem freundlicheren ifo-Klima und der EZB-Entscheidung am Donnerstag treffen in dieser Woche zwei Signale zusammen, die für deine Kalkulation zählen. Steigt die Zuversicht der Unternehmen, kann die Nachfrage anziehen, zugleich bleibt offen, ob die Finanzierungskosten auf dem erreichten Niveau verharren. Es kann sich lohnen, größere Anschaffungen oder Kreditzusagen erst nach der Zinsentscheidung am Donnerstag festzuzurren und freie Rücklagen zu prüfen, solange sich damit noch vergleichsweise gute Zinsen erzielen lassen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Abholzung im brasilianischen Amazonas-Regenwald auf Rekordtief",
+              "text": "Im brasilianischen Teil des Amazonas-Regenwaldes, des größten zusammenhängenden Regenwaldes der Erde, ist die Abholzung nach Angaben der Deutschen Welle auf den niedrigsten Stand seit fast vier Jahrzehnten gefallen. Zwischen August 2025 und Juli 2026 wurden rund 1.288 Quadratmeilen, das sind etwa 3.300 Quadratkilometer, Wald gerodet und damit rund 42 Prozent weniger als im Jahr zuvor mit etwa 2.212 Quadratmeilen. Der Amazonas-Regenwald bindet große Mengen des klimaschädlichen Gases Kohlendioxid und gilt deshalb als wichtig für das Klima der ganzen Erde. Die Einordnung: Der starke Rückgang zeigt, dass gezielte Kontrollen und ein geänderter politischer Kurs die Zerstörung in vergleichsweise kurzer Zeit spürbar bremsen können, auch wenn das Niveau insgesamt weiterhin hoch bleibt.",
+              "source": "Deutsche Welle / Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+            },
+            {
+              "title": "Gebleichte Korallen erholen sich durch Kontakt zu gesunden Nachbarn",
+              "text": "Forschende der Stanford University in den Vereinigten Staaten haben nach einem Nachrichtenüberblick einen überraschend einfachen Weg gefunden, stark geschädigte Korallen zu retten. Korallen sind winzige Nesseltiere, die gemeinsam riesige Riffe aufbauen; bei zu warmem Wasser stoßen sie die farbgebenden Algen ab, die sie ernähren, verlieren ihre Farbe und drohen abzusterben, was man Korallenbleiche nennt. Im Versuch erholten sich gebleichte Korallen innerhalb von sieben Wochen, sobald sie in direkten Kontakt mit genetisch gleichen, gesunden Korallen gebracht wurden; alle fünf so behandelten Abschnitte erholten sich vollständig. Vermutlich geben die gesunden Tiere dabei hilfreiche Algen oder Nährstoffe an ihre geschwächten Nachbarn weiter. Die Einordnung: Sollte sich das Verfahren im offenen Meer bestätigen, könnte es eine vergleichsweise günstige Methode sein, bedrohte Riffe gezielt wiederaufzubauen.",
+              "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
+              "source": "Euronews / Good Good Good",
+              "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Vielleicht ältestes bekanntes Schiffswrack vor der türkischen Küste entdeckt",
+              "text": "Vor der Küste der Türkei haben Archäologen, also Wissenschaftler, die die Vergangenheit anhand von Funden erforschen, nach einem Bericht des Portals ScienceDaily ein Schiffswrack entdeckt, das etwa 4.500 Jahre alt sein könnte und damit zu den ältesten bekannten der Welt zählen würde. Vom hölzernen Schiff selbst ist nach so langer Zeit im Wasser nichts mehr erhalten; verraten hat sich die Ladung durch eine Ansammlung von Tongefäßen, sogenannten Amphoren, die einst Waren wie Öl oder Wein transportierten und am Meeresgrund liegen blieben. Aus ihrer Form und Anordnung schließen die Forschenden auf Alter und Herkunft des Schiffes. Die Einordnung: Jeder solche Fund erweitert das Bild vom frühen Seehandel im Mittelmeerraum, lange bevor es schriftliche Aufzeichnungen darüber gab.",
+              "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%C5%A0ecik_Ancient_Greek_Amphoras_Underwater_%E2%80%93_Cornflower_Flutter_Exhibition_in_Belarus_National_Arts_Museum.jpg",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            },
+            {
+              "title": "Hinweise auf einen ersten Mond außerhalb unseres Sonnensystems",
+              "text": "Astronomen haben nach einem Bericht von ScienceDaily Hinweise auf einen möglichen Mond gefunden, der einen Planeten außerhalb unseres Sonnensystems umkreist, einen sogenannten Exomond. Ein Mond ist ein Himmelskörper, der um einen Planeten kreist, so wie der Erdmond um die Erde; zweifelsfrei bekannt sind bislang nur Monde innerhalb unseres eigenen Sonnensystems. Der nun entdeckte Kandidat soll mindestens so groß sein wie ein kleiner Planet. Wichtig ist die Zurückhaltung der Fachleute: Die Entdeckung ist noch nicht bestätigt, und es braucht weitere Beobachtungen, um auszuschließen, dass ein anderes Phänomen die Messungen nur vortäuscht. Die Einordnung: Gelänge der Nachweis, wäre es der erste bekannte Mond jenseits unseres Sonnensystems und ein Hinweis darauf, dass auch ferne Planeten von Trabanten begleitet werden.",
+              "source": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Trüber Nebeltag im Neckartal, Ende November beginnt der Horber Advent",
+              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, liegt an diesem Dienstag zunächst Nebel; der Tag bleibt trüb und wolkig bei milden Höchstwerten um 18 Grad. Für einen grauen Herbsttag lohnt der Blick auf die kommenden Termine der Region. Am Samstag, dem 8. November, lädt die katholische Kirchengemeinde um 17 Uhr zu einem Konzert mit einem Klarinettenquintett in die Liebfrauenkirche ein; ein Quintett ist ein Ensemble aus fünf Musikern. Das größere Ereignis folgt zum ersten Advent: Vom 27. bis 29. November richtet die Stadt auf dem Flößerwasen und an der Inselspitze den Horber Advent aus, einen Weihnachtsmarkt mit nach eigenen Angaben über 50 Ausstellern. Der erste Advent ist der vierte Sonntag vor dem Weihnachtsfest und läutet traditionell die Vorweihnachtszeit ein.",
+              "img": "https://live.staticflickr.com/3251/3130878849_c5b52e49fb_b.jpg",
+              "source": "horb.de / kath-kirche-horb.de / open-meteo",
+              "url": "https://www.horb.de/"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Nebel nimmt der Landschaft die Ferne und schenkt dem Nahen die ganze Aufmerksamkeit; vielleicht ist ein solcher Tag eine leise Einladung, zuerst das zu tun, was unmittelbar vor einem liegt, und dem Übrigen zu vertrauen, dass es sich zu seiner Zeit klärt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Innovationsgutschein Baden-Württemberg: Zuschuss für externe Entwicklungsleistungen",
+            "text": "Das Land Baden-Württemberg fördert mit den Innovationsgutscheinen kleine und mittlere Unternehmen sowie Angehörige der Freien Berufe mit Hauptsitz im Land, die externe Forschungs- und Entwicklungsleistungen einkaufen. Gefördert wird also nicht die eigene Arbeit, sondern die Beauftragung Dritter, etwa einer Hochschule oder eines spezialisierten Dienstleisters, um ein neues Produkt, ein Verfahren oder eine digitale Lösung zu entwickeln. Antragsberechtigt sind nach dem Merkblatt der Förderbank des Landes, der L-Bank, Betriebe mit bis zu 100 Beschäftigten und höchstens 20 Millionen Euro Jahresumsatz; auch Existenzgründer können teilnehmen. Je nach Variante werden Zuschüsse genannt, die bis in den fünfstelligen Bereich reichen können.",
+            "why": "Für dich als Solo-Unternehmer in Baden-Württemberg ist das interessant, weil ausdrücklich auch Freiberufler und Gründer antragsberechtigt sind und sich der Gutschein gezielt für den Zukauf von Entwicklungsleistungen eignet, etwa wenn du einen Teil deines Systems von einer Fachkraft ausbauen lässt. Wichtig: Gefördert werden nur externe Leistungen, nicht deine eigene Zeit, und die genauen Fördersätze und Bedingungen unterscheiden sich je nach Gutschein-Variante. Prüfe die aktuellen Konditionen und Fristen direkt im Merkblatt der L-Bank beziehungsweise bei der Industrie- und Handelskammer, bevor du einen Antrag vorbereitest.",
+            "source": "L-Bank / IHK Baden-Württemberg",
+            "url": "https://www.ihk.de/stuttgart/fuer-unternehmen/innovation/aktuelles/innovationsgutscheine-bw-5861336"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt, diesmal zu einem neuen, günstigen Modell mit Bildverständnis und zur raschen Bewegung bei den Preisen.",
+          "cards": [
+            {
+              "icon": "layers",
+              "title": "Günstiges Modell mit Bildverständnis: ein automatischer Bild-Check für MORGENLAGE",
+              "tag": "Werkzeug · Qualität",
+              "paras": [
+                "Simon Willison berichtet, dass der Anbieter OpenAI am 26. Oktober das Modell GPT-6.1 Terra veröffentlicht hat, das besonders auf das Verstehen von Bildern und auf die Steuerung des Computers ausgelegt ist. Ein solches Modell kann nicht nur Text, sondern auch Fotos auswerten und beschreiben. Der Preis liegt laut Willison bei etwa einem US-Dollar je Million eingegebener und fünf US-Dollar je Million ausgegebener Textbausteine, sogenannter Token, und damit rund halb so hoch wie bei den Vorgängermodellen.",
+                "Der Hebel für dein System: Deine MORGENLAGE wählt für Lichtblick, Forschung und Horb jeweils ein Bild von der Bildersuche Openverse aus. Mit einem günstigen Modell, das Bilder versteht, könntest du vor dem Einbau automatisch prüfen lassen, ob ein Motiv wirklich zum Thema passt und neutral ist, also keine inszenierten Gesichter oder Schockbilder zeigt. Das senkt das Risiko, dass ein unpassendes Foto in die Ausgabe rutscht, und kostet bei einem Bild pro Rubrik nur Bruchteile eines Cents."
+              ],
+              "konkret": "Baue in die Bildauswahl einen kurzen Prüfschritt ein, der jedes Kandidatenbild von einem günstigen Modell mit Bildverständnis auf Themenbezug und Neutralität bewerten lässt, und übernimm nur Bilder, die eindeutig bestehen.",
+              "snippetLabel": "Prüf-Prompt für ein Kandidatenbild",
+              "snippet": "Du prüfst ein Bild für ein sachliches Morgenbriefing.\nThema der Meldung: <span class=\"ph\">{kurzer Titel der Meldung}</span>\nAntworte nur mit JA oder NEIN und einem kurzen Grund, zu beiden Punkten:\n1. Passt das Bild sachlich zum Thema?\n2. Ist es neutral, also ohne inszenierte Gesichter und ohne Elends- oder Schockbilder?\nNur wenn beide Antworten JA lauten, darf das Bild verwendet werden.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Modellpreise bewegen sich schnell: eine kurze, datierte Modell-Notiz pflegen",
+              "tag": "Strategie · Kosten",
+              "paras": [
+                "Mehrere Notizen von Simon Willison aus den vergangenen Tagen zeigen, wie rasch sich bei den Sprachmodellen Preise und Angebote ändern. So soll sich der Preis des Google-Modells Gemini 4 Argon zum 1. Dezember verdoppeln, während das chinesische Modell Kimi K3.1 Pro bis zum 4. November als offene Gewichte erscheinen soll, also mit frei herunterladbaren Modelldaten, die man grundsätzlich selbst betreiben kann. Gleichzeitig kommen günstigere Modelle wie das erwähnte GPT-6.1 Terra hinzu.",
+                "Der Hebel für dein System: Für eine schlanke Routine wie MORGENLAGE lohnt es sich nicht, ständig dem neuesten Modell hinterherzulaufen, aber es lohnt sich, bewusst zu wählen. Führe eine kurze, mit Datum versehene Notiz, welches Modell du für welche Aufgabe nutzt und was es kostet, und sieh sie etwa einmal im Monat durch. So erkennst du Preissprünge wie bei Gemini 4 Argon rechtzeitig und kannst einfache Teilaufgaben, etwa das Zusammenfassen von Quellen, einem günstigeren Modell zuweisen als die eigentliche redaktionelle Arbeit."
+              ],
+              "konkret": "Lege eine kleine Tabelle an mit Aufgabe, aktuell genutztem Modell, Preis je Million Token und Datum der letzten Prüfung, und setze dir eine monatliche Kurzkontrolle, um auf Preis- und Angebotsänderungen zu reagieren.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
             }
           ]
         }
