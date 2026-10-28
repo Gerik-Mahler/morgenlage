@@ -2,164 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Mittwoch, 21. Oktober 2026",
-      "weather": "rain",
-      "temp": "11°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar ziehen an diesem Mittwoch Regenschauer durch, und die Höchstwerte kommen nur auf rund 11 Grad, ein nasser, kühler Oktobertag im Neckartal. In der Weltlage spitzt sich die Lage am Persischen Golf zu, wo iranische Seeminen zwei Öltanker in Brand gesetzt haben, während in Frankreich und Italien Proteste gegen hohe Lebenshaltungskosten anhalten. In der Wirtschaft klettert der Ölpreis über 110 Dollar je Fass, was die Teuerung in Europa weiter antreiben dürfte, und das Raumfahrtunternehmen SpaceX meldet seinen ersten Gewinn. Aus Lichtblick und Forschung kommen sich erholende Korallen, ein Hinweis auf Vitamin C bei frühen Blutkrebsformen, eine hochgenaue Messung aus den ersten Minuten des Universums und neue Erkenntnisse vom Asteroiden Bennu. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Iranische Seeminen setzen Öltanker in der Straße von Hormus in Brand",
-              "text": "In der Straße von Hormus, der schmalen Meerenge am Ausgang des Persischen Golfs, durch die ein großer Teil des weltweit per Schiff transportierten Erdöls fährt, sind nach Angaben von Euronews zwei Öltanker durch iranische Seeminen in Brand geraten. Seeminen sind im Wasser verankerte oder treibende Sprengkörper, die bei Kontakt mit einem Schiff explodieren. Teheran, also die Regierung des Iran, hat laut Bericht mit weiteren Angriffen gedroht. Die Einordnung bleibt nüchtern: Die Meerenge gilt als Nadelöhr des globalen Ölhandels, und schon die Sorge vor Ausfällen treibt die Rohölpreise nach oben, was sich mittelbar auf Energiekosten in ganz Europa auswirken kann.",
-              "source": "Euronews",
-              "url": "https://de.euronews.com/2026/10/20/irans-minen-setzen-oltanker-in-strasse-von-hormus-in-brand-teheran-droht-mit-weiteren-angr"
-            },
-            {
-              "title": "Proteste gegen hohe Lebenshaltungskosten in Frankreich und Italien",
-              "text": "In Frankreich kam es nach landesweiten Protesten gegen hohe Lebenshaltungskosten, also die Ausgaben für Miete, Energie und Lebensmittel, in Paris zu nächtlichen Ausschreitungen; in der Hauptstadt gilt inzwischen eine Ausgangssperre, ein behördliches Verbot, zu bestimmten Nachtzeiten das Haus zu verlassen. Präsident Emmanuel Macron, das Staatsoberhaupt Frankreichs, steht nach Darstellung von Euronews unter erheblichem Druck. Auch in Italien eskalierten Demonstrationen aus demselben Grund, woraufhin die Regierung von Ministerpräsidentin Giorgia Meloni zusätzliche Soldaten in die Wirtschaftsmetropole Mailand entsandte und Gewalt bei Protesten härter bestrafen will. Die Einordnung: Die gestiegenen Lebenshaltungskosten setzen mehrere europäische Regierungen zugleich unter Druck, und der Umgang mit den Protesten wird zur Belastungsprobe für die Innenpolitik.",
-              "source": "Euronews",
-              "url": "https://de.euronews.com/2026/10/20/macron-unter-druck-frankreich-ringt-mit-landesweiten-unruhen"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "Ölpreis klettert über 110 Dollar je Fass, mit Folgen für die Teuerung",
-              "text": "Im Zuge der Spannungen in der Straße von Hormus ist der Preis für Rohöl nach Angaben von Euronews über 110 US-Dollar je Fass gestiegen. Ein Fass, englisch Barrel, ist die übliche Maßeinheit für Rohöl und entspricht rund 159 Litern. Höhere Ölpreise schlagen über Kraftstoff, Heizen und Transport auf viele weitere Preise durch und erhöhen damit die Teuerung, also die Inflationsrate, die misst, um wie viel Prozent die Preise binnen eines Jahres im Schnitt steigen. Die Einordnung: Erst gestern hatte teurer Kraftstoff die Teuerung in Deutschland über drei Prozent getrieben; ein anhaltend hoher Ölpreis dürfte die Europäische Zentralbank (EZB), die oberste Währungsbehörde der Euro-Länder, vor ihrer Sitzung am 29. Oktober in ihrer vorsichtigen Zinshaltung bestärken.",
-              "source": "Euronews",
-              "url": "https://de.euronews.com/2026/10/20/olpreise-steigen-uber-110-dollar-markte-kalkulieren-risiken-im-nahen-osten"
-            },
-            {
-              "title": "SpaceX meldet ersten Gewinn, Musk wirbt für eine Fusion mit Tesla",
-              "text": "Das US-amerikanische Raumfahrtunternehmen SpaceX, das Raketen baut und das Satellitennetz Starlink betreibt, hat nach einem Bericht von Euronews erstmals einen Gewinn erzielt. Sein Gründer Elon Musk, ein Unternehmer, der auch den Elektroauto-Hersteller Tesla führt, spricht sich daraufhin für eine Fusion der beiden Firmen aus, also für einen Zusammenschluss zu einem Unternehmen. Bislang handelt es sich um eine Absichtserklärung, nicht um eine beschlossene Transaktion. Die Einordnung: Ein Zusammenschluss dieser Größe wäre für die Finanzmärkte bedeutsam, bleibt aber bis zu konkreten Beschlüssen und der Prüfung durch Wettbewerbsbehörden mit Unsicherheit behaftet.",
-              "source": "Euronews",
-              "url": "https://de.euronews.com/2026/10/21/elon-musk-befurwortet-fusion-von-spacex-und-tesla-nach-erstem-gewinn"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Ein Ölpreis über 110 Dollar je Fass bedeutet, dass Sprit, Heizen und Transport auf absehbare Zeit teuer bleiben und die Teuerung eher wieder anzieht als nachlässt. Kalkuliere längere Zusagen und Angebote mit anhaltend erhöhten Energiekosten und bündle, wo möglich, Fahrten und energieintensive Arbeiten. Behalte zugleich die EZB-Sitzung am 29. Oktober im Blick, denn von ihr hängt ab, ob die Finanzierungskosten vorerst hoch bleiben.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Gebleichte Korallen erholen sich durch Berührung mit gesunden Artgenossen",
-              "text": "In Laborversuchen haben sich stark gebleichte Korallen wieder erholt, nachdem sie mit genetisch identischen, gesunden Korallen in Kontakt gebracht wurden; die Erholung gelang nach Angaben von Wissenschaftsmedien innerhalb von rund sieben Wochen. Korallen sind winzige, in großen Kolonien lebende Nesseltiere, die über Jahrhunderte die Riffe der Meere aufbauen. Von Korallenbleiche spricht man, wenn die Tiere unter Hitze oder anderem Stress die farbgebenden Algen verlieren, mit denen sie in einer Lebensgemeinschaft stehen, und dadurch weiß und geschwächt zurückbleiben. Die Einordnung: Der Befund weckt Hoffnung, dass sich geschädigte Riffe gezielt stützen lassen, und ergänzt bestehende Bemühungen, Korallen an wärmeres Wasser zu gewöhnen.",
-              "img": "https://live.staticflickr.com/8235/8539141325_20b0958fea_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm"
-            },
-            {
-              "title": "Studie deutet auf Nutzen von täglichem Vitamin C bei frühen Blutkrebsformen",
-              "text": "Eine klinische Studie, also eine Untersuchung an Patientinnen und Patienten, deutet nach Angaben von Wissenschaftsmedien darauf hin, dass täglich eingenommenes Vitamin C das Überleben bei Vorstufen und frühen Formen von Blutkrebs verbessern könnte. Vitamin C ist ein lebenswichtiger Nährstoff, den der Körper nicht selbst herstellen kann und der unter anderem in Obst und Gemüse steckt. Blutkrebs bezeichnet bösartige Erkrankungen des blutbildenden Systems; die in der Studie betrachteten Vorstufen gehen solchen Erkrankungen oft voraus. Die Einordnung bleibt vorsichtig: Die Teilnehmenden hatten weniger Nebenwirkungen als die Vergleichsgruppe, doch sind weitere Untersuchungen nötig, bevor sich daraus eine allgemeine Empfehlung ableiten lässt.",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Forschende messen das Helium aus den ersten fünf Minuten nach dem Urknall",
-              "text": "Astronominnen und Astronomen haben nach Angaben von Wissenschaftsmedien so genau wie nie zuvor gemessen, wie viel Helium in den ersten fünf Minuten nach dem Urknall entstand. Der Urknall ist der angenommene Anfang des Universums vor rund 13,8 Milliarden Jahren, als sich der gesamte Weltraum aus einem extrem dichten, heißen Zustand auszudehnen begann. Helium ist nach Wasserstoff das zweithäufigste chemische Element, ein sehr leichtes Gas, das in den ersten Minuten nach dem Urknall gebildet wurde. Die Einordnung: Solche Präzisionsmessungen prüfen, wie gut die Modelle des frühen Universums zur Beobachtung passen, und helfen so, die Entstehungsgeschichte des Kosmos zu verstehen.",
-              "img": "https://live.staticflickr.com/4068/4269753734_caa148f2ca_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm"
-            },
-            {
-              "title": "Proben des Asteroiden Bennu zeigen, warum er Wärme schnell verliert",
-              "text": "Anhand von Proben des Asteroiden Bennu hat die NASA, die US-amerikanische Raumfahrtbehörde, eine Erklärung dafür gefunden, warum dieser Himmelskörper seine Wärme überraschend schnell abgibt. Ein Asteroid ist ein kleiner Gesteinskörper, der die Sonne umkreist; Bennu ist ein erdnaher Asteroid, von dem die Raumsonde OSIRIS-REx Material zur Erde zurückbrachte. Die Untersuchung zeigt, dass das Gestein von feinen, verborgenen Rissen durchzogen ist, die Wärme rasch ableiten, obwohl die Oberfläche von großen Felsbrocken bedeckt ist. Die Einordnung: Wie ein Asteroid Wärme aufnimmt und abgibt, beeinflusst mit der Zeit seine Flugbahn, weshalb solche Erkenntnisse auch für die langfristige Beobachtung erdnaher Objekte wichtig sind.",
-              "img": "https://live.staticflickr.com/65535/52672254127_fcac7ece38_b.jpg",
-              "source": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Regnerischer Mittwoch im Neckartal, morgen Kabarett-Vorpremiere in Horb-Dettingen",
-              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, ziehen an diesem Mittwoch Regenschauer durch, und die Höchstwerte bleiben bei rund 11 Grad, ein nasser und kühler Oktobertag. Wer unterwegs ist, sollte sich auf feuchte Straßen und Regenpausen einstellen. Für den morgigen Donnerstag, den 22. Oktober, steht ein Termin an: Um 20 Uhr zeigt die Kabarettistin Doris Reichenauer im Gasthof Adler im Ortsteil Horb-Dettingen die Vorpremiere ihres neuen Programms mit dem Titel Jetzt isst er sogar Brokkoli; Kabarett ist eine Form des humorvollen Bühnenprogramms, das oft gesellschaftliche Themen aufgreift. Für einen verregneten Nachmittag zuvor bietet sich ein Besuch im überdachten Stadtmuseum am Marktplatz an, das die Geschichte der Stadt zeigt.",
-              "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-              "source": "ADticket / Stadt Horb / open-meteo",
-              "url": "https://www.adticket.de/Horb-am-Neckar/PLZ-72160/Veranstaltungen/Tickets.html"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein Regentag nimmt das Tempo aus dem Draußen; vielleicht ist er die stille Erlaubnis, eine Sache sorgfältig und ohne Eile fertigzustellen."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Mit dem kostenlosen Werkzeug llm-echo den Tokenverbrauch vorab abschätzen",
-            "text": "Der Entwickler Simon Willison hat sein frei verfügbares Werkzeug llm-echo in der Version 0.5 veröffentlicht, ein Hilfsprogramm für sein Kommandozeilen-Werkzeug LLM, mit dem sich Sprachmodelle vom Terminal aus ansprechen lassen. Ein Sprachmodell ist ein Programm, das Texte verarbeitet und erzeugt; die Anbieter rechnen dafür meist pro Token ab, also pro kleinem Text-Baustein, in den ein Modell Ein- und Ausgaben zerlegt. llm-echo ruft bewusst kein echtes Modell auf, sondern gibt die Eingabe zurück und schätzt dabei die anfallenden Token, neuerdings einschließlich Werkzeugaufrufen, System-Anweisungen und Denkschritten. Das Werkzeug ist kostenlos und läuft lokal auf dem eigenen Rechner.",
-            "why": "Für eine wiederkehrende Routine wie MORGENLAGE, die täglich Token verbraucht, kannst du damit vorab abschätzen, wie aufwendig ein Lauf ist, verschiedene Prompt-Varianten vergleichen und die Kosten hochrechnen, bevor überhaupt Gebühren anfallen. Da kein echtes Modell und kein externer Dienst beteiligt ist, verlassen deine Prompts dabei den Rechner nicht. So gewinnst du ohne Risiko und ohne Kosten ein Gefühl dafür, wo in deinem System der Tokenverbrauch wirklich entsteht.",
-            "source": "simonwillison.net",
-            "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Beide Signale stammen aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt, und zielen darauf, deine MORGENLAGE-Routine sicherer und kostenbewusster zu betreiben.",
-          "cards": [
-            {
-              "icon": "gauge",
-              "title": "Zertifikatsspeicher auffrischen, nachdem Zwischenzertifikate kompromittiert wurden",
-              "tag": "Sicherheit · Wartung",
-              "paras": [
-                "Simon Willison berichtet, dass offenbar die geheimen Schlüssel von acht Zwischenzertifikaten der indischen Zertifizierungsstelle eMudhra gestohlen wurden. Eine Zertifizierungsstelle ist eine Einrichtung, die digitale Zertifikate ausstellt, mit denen Programme und Browser die Echtheit verschlüsselter Verbindungen prüfen; ein Zwischenzertifikat steht dabei in der Vertrauenskette zwischen dem obersten Wurzelzertifikat und der einzelnen Webseite. Mehrere Linux-Betriebssysteme sowie Python-Werkzeuge wie uv, pip und certifi haben ihre Zertifikatslisten daraufhin bereits aktualisiert.",
-                "Der Hebel für dein System: Deine MORGENLAGE-Routine baut bei jedem Lauf verschlüsselte Verbindungen auf, etwa zur Wetterschnittstelle, zu Nachrichtenquellen, zu Openverse und zum eigenen Repository. Ein veralteter Zertifikatsspeicher könnte kompromittierten oder zurückgezogenen Zertifikaten weiter vertrauen. Wenn du den Zertifikatsspeicher des Systems und die Python-Pakete auffrischst, bleiben die verschlüsselten Verbindungen deiner Routine verlässlich geprüft."
-              ],
-              "konkret": "Aktualisiere in der Umgebung, in der die Routine läuft, das Python-Paket certifi sowie die Werkzeuge uv und pip und frische den Zertifikatsspeicher des Betriebssystems auf. Prüfe, ob eine eigene CA-Bundle-Datei im Einsatz ist, und lade sie nach der Aktualisierung neu.",
-              "snippetLabel": "Zertifikatspakete aktualisieren (Shell)",
-              "snippet": "# Python-Zertifikate und Werkzeuge auffrischen\npip install --upgrade certifi\nuv self update\n# Zertifikatsspeicher des Systems neu aufbauen (Debian/Ubuntu)\nsudo update-ca-certificates\n<span class=\"ph\">{bei eigener CA-Bundle-Datei: Pfad pruefen und neu laden}</span>",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
-            },
-            {
-              "icon": "layers",
-              "title": "Modellkosten der Routine vor der Preiserhöhung am 1. Dezember prüfen",
-              "tag": "Kosten · Planung",
-              "paras": [
-                "Simon Willison weist darauf hin, dass sein Werkzeug llm-gemini in der Version 0.35 das neue Google-Modell Gemini 4 Argon unterstützt und dass sich dessen Preis pro Nutzung zum 1. Dezember verdoppelt. Gemini ist Googles Familie von Sprachmodellen, also Programmen, die Texte verarbeiten und erzeugen. Willison betont, dass bei Aufgaben, die ein Agent, also ein automatisch arbeitendes KI-Programm, viele Male ausführt, vor allem die Kosten pro einzelner Aufgabe über die Wirtschaftlichkeit entscheiden.",
-                "Der Hebel für dein System: Deine MORGENLAGE-Routine läuft täglich und verbraucht bei jedem Lauf Token, die der jeweilige Anbieter in Rechnung stellt. Noch vor dem 1. Dezember lohnt es sich zu notieren, welches Modell die Routine nutzt, mit dem oben genannten llm-echo den Tokenbedarf eines typischen Laufs zu messen und die monatlichen Kosten hochzurechnen. Auf dieser Grundlage kannst du entscheiden, ob du beim bisherigen Modell bleibst, auf ein günstigeres wechselst oder ein festes Monatslimit setzt."
-              ],
-              "konkret": "Halte fest, welches Modell die Routine verwendet, miss mit llm-echo den Tokenbedarf eines typischen Laufs und multipliziere ihn mit dem Preis pro Token und der Zahl der Läufe pro Monat. Entscheide vor dem 1. Dezember, ob das bisherige Modell wirtschaftlich bleibt, und lege bei Bedarf ein Ausgabenlimit fest.",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Donnerstag, 22. Oktober 2026",
       "weather": "rain",
       "temp": "13°C · Regen",
@@ -1115,6 +957,160 @@
               "konkret": "Lege eine kleine Tabelle an mit Aufgabe, aktuell genutztem Modell, Preis je Million Token und Datum der letzten Prüfung, und setze dir eine monatliche Kurzkontrolle, um auf Preis- und Angebotsänderungen zu reagieren.",
               "source": "simonwillison.net",
               "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mittwoch, 28. Oktober 2026",
+      "weather": "clouds",
+      "temp": "13°C · neblig",
+      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Mittwoch Nebel; der Tag bleibt trüb und wolkig und merklich kühler als zuletzt, mit Höchstwerten um 13 Grad. In der Weltlage zeichnet sich nach der Parlamentswahl in Israel kein klarer Sieger ab, und in Moskau empfängt Russlands Präsident die Staats- und Regierungschefs Afrikas zu einem Gipfeltreffen. In der Wirtschaft fallen innerhalb von zwei Tagen gleich zwei wichtige Zinsentscheidungen: heute Abend die der US-Notenbank, morgen Nachmittag die der Europäischen Zentralbank. Aus Lichtblick und Forschung kommen kostenlose Bahntickets für Zehntausende Jugendliche in Europa, ein überraschender Naturschutz-Fund rund um Seevögel und Korallenriffe, verjüngte Zellen aus einem Bonner Labor und ein neuer Weg, Daten mit Licht statt mit Magneten zu speichern. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "Parlamentswahl in Israel: kein klarer Sieger in Sicht",
+              "text": "Nach der Wahl eines neuen Parlaments in Israel, dem Staat am östlichen Mittelmeer, zeichnet sich nach ersten Hochrechnungen führender israelischer Fernsehsender kein klarer Sieger ab. Eine Hochrechnung ist eine auf ausgezählten Stimmbezirken beruhende Schätzung des Gesamtergebnisses, noch kein amtliches Endergebnis. Demnach wurde die rechtskonservative Partei Likud von Ministerpräsident Benjamin Netanjahu zwar stärkste Einzelpartei, sein religiös-rechtes Lager verfehlte jedoch deutlich die absolute Mehrheit von mindestens 61 der 120 Sitze in der Knesset, so heißt das israelische Parlament. Die zweitstärkste Kraft wurde die Mitte-Partei des früheren Generalstabschefs Gadi Eisenkot; sein Lager lag in den Hochrechnungen zwei Sitze vor dem Netanjahu-Lager, aber ebenfalls ohne eigene Mehrheit. Die Einordnung bleibt nüchtern: Weil keines der beiden Lager allein regieren kann, dürften längere Koalitionsverhandlungen folgen, und das endgültige Ergebnis steht erst nach der vollständigen Auszählung fest.",
+              "source": "dpa / news.de",
+              "url": "https://www.news.de/panorama/860136547/28-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-28-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            },
+            {
+              "title": "Putin empfängt Afrikas Staats- und Regierungschefs zum Gipfel in Moskau",
+              "text": "In Moskau ist der russische Präsident Wladimir Putin an diesem Mittwoch nach einem Terminüberblick Gastgeber des dritten Russland-Afrika-Gipfels. Ein Gipfel, in der Politik auch Gipfeltreffen genannt, ist ein Treffen von Staats- und Regierungschefs mehrerer Länder, um gemeinsame Themen zu besprechen. Bei diesem Format geht es vor allem um die wirtschaftliche und politische Zusammenarbeit zwischen Russland und zahlreichen Staaten des afrikanischen Kontinents; die ersten beiden Gipfel dieser Art fanden 2019 und 2023 statt. Die Einordnung bleibt nüchtern: Seit der weitgehenden Abkehr des Westens sucht Russland verstärkt den Schulterschluss mit afrikanischen Regierungen, und das Treffen ist ein Gradmesser dafür, wie weit diese Annäherung inzwischen reicht.",
+              "source": "dpa / news.de",
+              "url": "https://www.news.de/panorama/860136547/28-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-28-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "US-Notenbank entscheidet heute Abend über die Zinsen",
+              "text": "Die US-Notenbank Federal Reserve, kurz Fed, die Zentralbank der Vereinigten Staaten, gibt an diesem Mittwoch gegen 19:00 Uhr deutscher Zeit ihre neue Zinsentscheidung bekannt. Der Leitzins ist der Satz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen; er wirkt sich mittelbar darauf aus, wie teuer Kredite und wie attraktiv Ersparnisse für Unternehmen und Haushalte sind. Die meisten Fachleute erwarten, dass die Fed ihr Zinsband bei 3,75 bis 4,00 Prozent belässt, nachdem sie die Zinsen im September zum ersten Mal seit Juli 2023 wieder angehoben hatte. Die Entscheidung fällt rund eine Woche vor den Kongresswahlen in der Mitte der Amtszeit des US-Präsidenten, den sogenannten Midterms. Die Einordnung: Die amerikanische Geldpolitik bewegt die Finanzmärkte weltweit und beeinflusst mittelbar auch die Wechselkurse und die Stimmung in Europa.",
+              "source": "dpa / news.de",
+              "url": "https://www.news.de/panorama/860136547/28-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-28-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+            },
+            {
+              "title": "Europäische Zentralbank entscheidet morgen über die Zinsen",
+              "text": "Einen Tag nach der US-Notenbank, am Donnerstag gegen 14:15 Uhr, gibt der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, seine eigene Zinsentscheidung bekannt. Der Einlagensatz, also der Zins, den Banken für bei der Notenbank geparktes Geld erhalten, liegt derzeit bei 2,50 Prozent, nachdem er im September zuletzt angehoben worden war. Viele Analysten rechnen diesmal mit einer Pause, also unveränderten Zinsen; neue gesamtwirtschaftliche Projektionen, mit denen die EZB ihre Entscheidung begründet, legt sie erst zur Sitzung im Dezember vor. Die Einordnung: Für Betriebe, die eine größere Investition oder einen Kredit planen, geben die beiden Entscheidungen in dieser Woche einen Anhaltspunkt, wohin sich die Finanzierungskosten in den kommenden Monaten bewegen.",
+              "source": "Europäische Zentralbank / LBBW",
+              "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-oktober-2026_anjnmvdjip_d.html"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: In dieser Woche treffen mit der Fed heute und der EZB morgen zwei Zinsentscheidungen in kurzem Abstand zusammen, und beide dürften die Zinsen zunächst auf dem erreichten Niveau belassen. Für dich als Solo-Unternehmer heißt das: Die Finanzierungskosten bleiben vorerst voraussichtlich stabil, ohne dass mit raschen Senkungen zu rechnen ist. Es kann sich lohnen, größere Anschaffungen oder Kreditzusagen erst nach beiden Entscheidungen festzuzurren und zugleich zu prüfen, ob sich freie Rücklagen noch zu den aktuell vergleichsweise guten Konditionen anlegen lassen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Europäische Union verschenkt Bahntickets an 41.000 Jugendliche",
+              "text": "Die Europäische Union (EU), der Zusammenschluss von 27 europäischen Staaten, vergibt nach einem Nachrichtenüberblick rund 41.000 kostenlose Reisepässe für die Bahn an Jugendliche. Dahinter steht das Programm DiscoverEU, mit dem die EU regelmäßig jungen Menschen, meist im Alter von 18 Jahren, ein Ticket schenkt, mit dem sie für eine begrenzte Zeit quer durch Europa mit der Bahn reisen können; das Vorbild ist der bekannte Interrail-Pass, ein Sammelticket für Zugfahrten in vielen europäischen Ländern. Die nun vergebenen Tickets sind für Reisen zwischen März 2027 und Mai 2028 gültig. Die Einordnung: Das Programm soll jungen Menschen ermöglichen, andere Länder, Sprachen und Kulturen aus eigener Anschauung kennenzulernen, und gilt als eines der greifbarsten Angebote der EU für die junge Generation.",
+              "source": "Only Good News Daily / Europäische Kommission",
+              "url": "https://www.onlygoodnewsdaily.com/post/good-news-today-27-oct-2026"
+            },
+            {
+              "title": "Mehr Seevögel lassen Korallenriffe schneller wachsen",
+              "text": "Eine Übersicht des Magazins Positive News weist auf einen überraschenden Zusammenhang im Naturschutz hin: Werden auf tropischen Inseln die Bestände von Seevögeln wiederhergestellt, können die umliegenden Korallenriffe deutlich schneller wachsen. Riffe rund um Atolle mit gesunden Seevogelbeständen wuchsen den Angaben zufolge bis zu zweieinhalbmal so schnell wie Riffe um Inseln, die von eingeschleppten Ratten besiedelt sind. Ein Atoll ist eine ringförmige Koralleninsel; der Hintergrund ist, dass der Kot der Seevögel als natürlicher Dünger ins Meer gelangt und das Wachstum der Riffe anregt. Die Einordnung: Schneller wachsende Riffe sind nicht nur Lebensraum für unzählige Arten, sie bilden auch einen natürlichen Wellenbrecher, der tief liegenden Inseln helfen kann, mit dem steigenden Meeresspiegel Schritt zu halten.",
+              "source": "Positive News",
+              "url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Bonner Forschende verjüngen Zellen eines 80-Jährigen im Labor",
+              "text": "Ein Team der Universität Bonn hat nach einem Bericht des Portals ScienceDaily Blutzellen eines 80 Jahre alten Menschen im Labor in sogenannte neurale Stammzellen umgewandelt, deren molekulares Alter anschließend bei unter 20 Jahren lag. Stammzellen sind unspezialisierte Zellen, die sich noch zu verschiedenen Zelltypen entwickeln können, hier zu Vorläufern von Nervenzellen; das molekulare Alter bezeichnet das biologische Alter einer Zelle anhand chemischer Merkmale, nicht das Alter nach dem Kalender. Die Forschenden konnten den Zellen diese Alterungsspuren offenbar weitgehend nehmen. Wichtig ist die Zurückhaltung: Die Ergebnisse stammen aus Versuchen im Labor, nicht aus einer Behandlung an Menschen. Die Einordnung: Solche verjüngten Zellen könnten vor allem helfen, altersbedingte Krankheiten wie die Nervenkrankheit Alzheimer besser zu erforschen, lange bevor an eine Anwendung am Patienten zu denken ist.",
+              "source": "ScienceDaily / Universität Bonn",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
+            },
+            {
+              "title": "Neuer Speicher: Daten mit Licht statt mit Magneten sichern",
+              "text": "Forschende der University of California in San Diego haben nach einem Bericht von ScienceDaily einen Weg entwickelt, digitale Informationen mit Licht zu speichern statt wie bisher üblich mit Magnetismus. In heutigen Festplatten und vielen Speichern werden Daten als winzige magnetische Zustände abgelegt, die die Werte Null und Eins darstellen. Das neue Verfahren nutzt stattdessen Licht, um diese Zustände zu schreiben, was den Forschenden zufolge schneller und sparsamer sein könnte. Wichtig ist die Einordnung: Es handelt sich um Grundlagenforschung, von einer Anwendung in Alltagsgeräten ist das Verfahren noch entfernt. Gelingt die Weiterentwicklung aber, könnte sie helfen, Speicher künftig energieeffizienter zu machen, was angesichts wachsender Datenmengen zunehmend ins Gewicht fällt.",
+              "source": "ScienceDaily / UC San Diego",
+              "url": "https://www.sciencedaily.com/news/top/science/"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Grauer Nebeltag im Neckartal, dazu die Termine im November",
+              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, liegt an diesem Mittwoch Nebel; der Tag bleibt trüb und wolkig und mit Höchstwerten um 13 Grad spürbar kühler als in den vergangenen Tagen. Ein guter Anlass, den Blick auf die kommenden Termine der Region zu richten. Am Samstag, dem 7. November, findet nach einem Veranstaltungsportal im Bereich Dammstraße und Turnierwiese ein Floh- und Trödelmarkt statt, also ein Markt mit gebrauchten Waren. Am 18. November lädt der Campus Horb der Dualen Hochschule Baden-Württemberg (DHBW), einer Hochschule, die Studium und Ausbildung im Betrieb verbindet, zu einem Studieninformationstag ein. Das größere Ereignis folgt zum ersten Advent: Vom 27. bis 29. November richtet die Stadt den Horber Advent aus, einen Weihnachtsmarkt; der erste Advent ist der vierte Sonntag vor dem Weihnachtsfest und läutet traditionell die Vorweihnachtszeit ein.",
+              "source": "meinestadt / DHBW Campus Horb / horb.de / open-meteo",
+              "url": "https://www.horb.de/"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Ein Nebeltag nimmt der Landschaft die Weite und schenkt dem Nahen die ganze Aufmerksamkeit; vielleicht ist das eine stille Einladung, zuerst das zu tun, was unmittelbar vor einem liegt, und darauf zu vertrauen, dass sich das Weitere zu seiner Zeit klärt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "BAFA-Zuschuss für professionelle Unternehmensberatung",
+            "text": "Der Bund fördert über das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA), eine Behörde des Bundeswirtschaftsministeriums, mit dem Programm Förderung unternehmerischen Know-hows die Beratung kleiner und mittlerer Unternehmen sowie von Freiberuflern. Gefördert wird dabei nicht die Umsetzung, etwa das Programmieren einer Software, sondern die neutrale Beratung durch einen zugelassenen Berater, zum Beispiel zu Strategie, Organisation, Finanzen oder Digitalisierung. Der Staat übernimmt dabei einen Teil des Beraterhonorars als Zuschuss, den man anders als bei einem Kredit nicht zurückzahlen muss. Nach Angaben mehrerer Förderportale läuft die derzeitige Förderrunde bis zum 31. Dezember 2026.",
+            "why": "Für dich als Solo-Unternehmer ist das interessant, weil ausdrücklich auch Freiberufler antragsberechtigt sind und sich geförderte Beratung gut nutzen lässt, um einmal mit fachkundigem Blick von außen auf dein Geschäftsmodell, deine Preisgestaltung oder deine Digitalstrategie zu schauen. Wichtig: Gefördert wird nur die Beratung selbst, nicht die anschließende technische Umsetzung, und der Antrag muss gestellt werden, bevor die Beratung beginnt. Prüfe die aktuell geltenden Fördersätze, Höchstbeträge und Bedingungen vor einem Antrag direkt beim BAFA, da sich die Konditionen und das verfügbare Budget ändern können.",
+            "source": "BAFA / Förderportale",
+            "url": "https://www.bafa.de/"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Zwei Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt: diesmal, wie weit KI-gestütztes Programmieren inzwischen trägt und wie man die Kosten eines Durchlaufs vorab abschätzt.",
+          "cards": [
+            {
+              "icon": "layers",
+              "title": "KI-gestützt ein kleines Prüf-Werkzeug für MORGENLAGE bauen lassen",
+              "tag": "Werkzeug · Qualität",
+              "paras": [
+                "Simon Willison berichtet am 27. Oktober von einem Beispiel, wie weit KI-gestütztes Programmieren inzwischen trägt: Ein Entwickler brachte mithilfe des Sprachmodells Gemini einen vollständigen Emulator, also ein Programm, das eine alte Spielekonsole im Computer nachbildet, auf dem winzigen Rechner eines Konferenz-Namensschilds zum Laufen und ergänzte danach mit wenig Aufwand weitere Konsolen. Die Lehre für einen Einzelkämpfer: Hat man einen funktionierenden Kern einmal beisammen, lassen sich verwandte Bausteine oft mit überschaubarem Aufwand ergänzen.",
+                "Der Hebel für dein System: Statt Prüfungen an deiner MORGENLAGE von Hand zu erledigen, kannst du dir von einem Sprachmodell ein kleines, eigenständiges Prüf-Skript bauen lassen, das vor jedem Commit die data.json kontrolliert, also ob sie gültiges JSON ist, höchstens sieben Tage enthält, die Sektionen in der richtigen Reihenfolge stehen und das Wetter im Text zu den Feldern passt. Ein solches Werkzeug ist in wenigen Minuten erzeugt, läuft lokal ohne laufende Kosten und fängt stille Fehler ab, bevor sie in die veröffentlichte Ausgabe geraten."
+              ],
+              "konkret": "Lass dir ein kleines Node-Skript erzeugen, das die data.json vor jedem Commit gegen deine Regeln prüft (gültiges JSON, höchstens sieben Tage, Sektions-Reihenfolge, Wetter stimmt mit dem Text überein), und ruf es als festen Schritt vor git add auf.",
+              "snippetLabel": "Prompt, um dir das Prüf-Skript bauen zu lassen",
+              "snippet": "Schreibe ein eigenständiges Node-Skript, das die Datei data.json prüft und bei einem Fehler mit Code 1 abbricht.\nEs soll kontrollieren:\n1. data.json ist gültiges JSON.\n2. Das Array days enthält höchstens 7 Einträge.\n3. Jeder Tag hat die Felder label, weather, temp, greeting und sections.\n4. Die Sektionen stehen in der Reihenfolge: zuerst news, dann thought, divider, opp, action.\n5. Die im greeting genannte Gradzahl stimmt mit dem Feld temp überein.\nGib bei Erfolg 'ok' aus, sonst eine klare Liste der gefundenen Probleme.\nZusatzregeln: <span class=\"ph\">{weitere Regeln, falls nötig}</span>",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/2026/Oct/27/"
+            },
+            {
+              "icon": "terminal",
+              "title": "Kosten eines Durchlaufs vorab abschätzen statt raten",
+              "tag": "Werkzeug · Kosten",
+              "paras": [
+                "In seinen Notizen vom 18. Oktober weist Simon Willison auf ein kleines Hilfswerkzeug hin, ein sogenanntes Debug-Modell, das einen Prompt nur entgegennimmt und zurückgibt, ohne ein echtes, kostenpflichtiges Sprachmodell aufzurufen. Dessen Zählung der Textbausteine, der sogenannten Token, berücksichtigt neuerdings auch die Token für Werkzeugaufrufe, System-Anweisungen und internes Nachdenken des Modells. Der Nutzen: Man sieht den Umfang eines Durchlaufs, bevor man ihn tatsächlich bezahlt.",
+                "Der Hebel für dein System: Gerade bei einer täglich laufenden Routine wie MORGENLAGE lohnt es sich, den Verbrauch nicht zu schätzen, sondern einmal sauber zu messen. Lass dir vor dem eigentlichen Lauf den Umfang der eingehenden und ausgehenden Token für einen typischen Tag anzeigen und rechne ihn mit dem Preis deines Modells gegen. So erkennst du, welche Teilschritte am meisten kosten, und kannst gezielt entscheiden, ob sich für einfache Aufgaben wie das Zusammenfassen von Quellen ein günstigeres Modell lohnt als für die eigentliche redaktionelle Arbeit."
+              ],
+              "konkret": "Miss für einen typischen MORGENLAGE-Lauf einmal die Zahl der ein- und ausgehenden Token und multipliziere sie mit dem Token-Preis deines Modells; notiere das Ergebnis, damit du teure Teilschritte erkennst und bewusst ein Modell je Aufgabe wählst.",
+              "source": "simonwillison.net",
+              "url": "https://simonwillison.net/tags/llm/"
             }
           ]
         }
