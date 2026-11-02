@@ -2,159 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Samstag, 24. Oktober 2026",
-   "weather": "rain",
-   "temp": "10°C · Regen",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar fällt an diesem Samstag Regen, und die Höchstwerte kommen nur auf rund 10 Grad, ein nasser und kühler Oktobertag im Neckartal. In der Weltlage steht Israel vor der Parlamentswahl am kommenden Dienstag, bei der Regierungschef Benjamin Netanjahu auf den früheren Generalstabschef Gadi Eisenkot trifft. In der Wirtschaft bleibt der Streit um die Sparpläne beim Autobauer Volkswagen ein Thema, und die Europäische Zentralbank entscheidet am Donnerstag über die Zinsen. Aus Lichtblick und Forschung kommen größere Weintrauben unter Solardächern, ein gerettetes Walrossbaby, ein sich neu füllender Supervulkan in Japan und ein winziger Schwimmroboter aus lebenden Muskelzellen. Ganz unten findest du wie immer eine konkrete Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Israel wählt am Dienstag ein neues Parlament, das Rennen gilt als offen",
-       "text": "In Israel findet am kommenden Dienstag, dem 27. Oktober 2026, die Wahl zur Knesset statt, so heißt das Parlament des Landes mit seinen 120 Abgeordneten. Antreten wird der amtierende Ministerpräsident Benjamin Netanjahu, der eine weitere Amtszeit anstrebt, gegen den Herausforderer Gadi Eisenkot, einen früheren Generalstabschef, also den einstigen obersten Befehlshaber der israelischen Streitkräfte. Umfragen zeichnen ein uneinheitliches Bild und deuten auf ein knappes Rennen hin; nach Einschätzung von Fachleuten dürfte keines der konkurrierenden Lager allein auf die nötige Mehrheit von mindestens 61 Sitzen kommen, weshalb die kleineren und die arabischen Parteien bei einer Regierungsbildung entscheidend werden könnten. Im Hintergrund bleibt die Sicherheitslage angespannt, unter anderem im Westjordanland, dem von Israel besetzten Gebiet westlich des Jordan. Die Einordnung bleibt nüchtern: Der Ausgang ist offen, und erst nach der Wahl wird sich zeigen, ob es zu einem Machtwechsel oder zu langwierigen Koalitionsverhandlungen kommt.",
-       "source": "ZDFheute / t-online",
-       "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-knesset-netanjahu-eisenkot-100.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "Streit um Sparpläne bei Volkswagen, auch das Werk Neckarsulm wurde genannt",
-       "text": "Beim Autobauer Volkswagen (VW) in Wolfsburg bleibt der Streit über tiefgreifende Sparpläne ein bestimmendes Thema; Vorstand und die Gewerkschaft IG Metall, die größte deutsche Industriegewerkschaft, ringen um den künftigen Kurs des Konzerns. Nach früheren Berichten könnten im VW-Konzern weltweit bis zu 100.000 Stellen wegfallen, und als mögliche Kandidaten für eine Schließung wurden deutsche Werke genannt, darunter Hannover, Emden, Zwickau und Neckarsulm, Letzteres rund 90 Kilometer nordöstlich von Horb. Die IG Metall hält die Pläne für überzogen und hat sich auf mögliche Auseinandersetzungen vorbereitet; eine endgültige Entscheidung über Umfang und Zeitplan steht aus. Die Einordnung: Für die Region ist vor allem die Nennung des Standorts Neckarsulm von Interesse, weil dort viele Arbeitsplätze hängen; verlässlich sind bisher die Verhandlungen selbst, nicht ihr Ergebnis.",
-       "source": "ZDFheute / Börse Express",
-       "url": "https://www.zdfheute.de/wirtschaft/unternehmen/vw-sparplaene-gespraeche-betriebsrat-ig-metall-100.html"
-      },
-      {
-       "title": "Die Europäische Zentralbank entscheidet am Donnerstag über die Zinsen",
-       "text": "Die Europäische Zentralbank (EZB), die in Frankfurt am Main ansässige Notenbank der Länder mit dem Euro, trifft am Donnerstag, dem 29. Oktober 2026, ihre nächste Zinsentscheidung; die Beratungen laufen über zwei Tage, die Bekanntgabe ist für den Nachmittag geplant. Der Leitzins ist der Zinssatz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen; er wirkt sich auf Kredite, Baufinanzierungen und Sparzinsen aus. Zuletzt lag der sogenannte Einlagensatz, also der Zins für bei der EZB geparktes Geld der Banken, bei 2,00 Prozent; ob die Notenbank ihn verändert, ist offen. Die Einordnung: Für Selbstständige und Unternehmen ist die Entscheidung wichtig, weil sie Finanzierungskosten und Nachfrage beeinflusst, und gemeinsam mit dem ifo-Geschäftsklimaindex am Montag fallen in dieser Woche zwei wichtige Konjunktursignale an.",
-       "source": "EZB / Finanzkalender",
-       "url": "https://www.deltavalue.de/ezb-zinsentscheid/"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die Planung: In der kommenden Woche treffen mit dem ifo-Geschäftsklimaindex am Montag und der EZB-Zinsentscheidung am Donnerstag zwei wichtige Konjunktursignale zusammen. Es kann sich lohnen, größere Ausgaben, Investitionen oder langfristige Zusagen erst nach diesen Terminen festzuzurren, um die Richtung besser einschätzen zu können. Kalkuliere Angebote weiterhin mit etwas Puffer, solange die Nachfrage im Winterhalbjahr verhalten bleiben könnte.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Weinreben tragen unter Solardächern größere und gesündere Trauben",
-       "text": "Forschende der Universität Bari in Süditalien um den Agrarwissenschaftler Giuseppe Ferrara haben in einem Weinberg in Apulien untersucht, wie sich eine teilweise Überdachung mit Solarmodulen auf Weinreben auswirkt. Verglichen wurden acht Jahre alte Reben der Sorte Primitivo unter Solarpaneelen mit Reben in voller Sonne. Das Ergebnis: Die Triebe der beschatteten Reben waren während der Wachstumsperiode mehr als doppelt so lang, und die einzelnen Traubenbüschel wogen zur Lese fast dreimal so viel; die Fachleute führen das auf geringeren Hitzestress und eine leichtere Photosynthese zurück, also die Umwandlung von Licht in Pflanzenenergie. Der Ansatz heißt Agri-Photovoltaik und meint die doppelte Nutzung einer Fläche für Landwirtschaft und Stromerzeugung zugleich. Die Einordnung: Gerade in heißen, trockenen Regionen könnte das helfen, Ernten zu sichern, Wasser zu sparen und zugleich sauberen Strom zu gewinnen, auch wenn Ferrara betont, dass sich die Methode nicht für jede Region und Rebsorte eignet.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vineyard_solar_panels.jpg",
-       "source": "Good News Network",
-       "url": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/"
-      },
-      {
-       "title": "Ein verwaistes Walrossbaby bekommt eine zweite Chance",
-       "text": "In den Vereinigten Staaten kümmern sich Fachleute um ein verwaistes Walrossbaby und geben dem jungen Tier damit eine zweite Chance. Ein Walross ist eine große, an arktische Gewässer angepasste Robbenart, die an ihren langen Stoßzähnen gut zu erkennen ist; verwaiste Jungtiere sind ohne Muttertier allein nicht überlebensfähig und brauchen rund um die Uhr Pflege. An der Versorgung beteiligt sind nach Angaben des Berichts der US Fish and Wildlife Service, die staatliche Fisch- und Wildtierbehörde der USA, sowie Pflegerinnen und Pfleger einer Meerestier-Einrichtung. Die Einordnung: Solche Aufzuchten sind aufwendig und selten, zeigen aber, wie gezielte Tierpflege einzelnen bedrohten Jungtieren über die kritische erste Lebensphase hinweghelfen kann.",
-       "source": "Good News Network",
-       "url": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Ein japanischer Supervulkan füllt sich 7.300 Jahre nach seiner Riesen-Eruption wieder mit Magma",
-       "text": "Ein Team der Universität Kobe in Japan um den Geophysiker Nobukazu Seama hat zusammen mit der Meeresforschungsorganisation JAMSTEC nachgewiesen, dass sich unter der Kikai-Caldera südlich der japanischen Hauptinsel erneut ein großes Magmareservoir gefüllt hat. Eine Caldera ist ein kesselförmiger Einbruch, der entsteht, wenn sich bei einem gewaltigen Ausbruch die unterirdische Magmakammer entleert; Magma ist geschmolzenes Gestein im Erdinneren. Für die Messung erzeugten die Forschenden mit Druckluftimpulsen vom Schiff aus seismische Wellen und zeichneten sie mit Geräten am Meeresboden auf, weil sich solche Wellen in festem und in geschmolzenem Gestein unterschiedlich ausbreiten. Die Ergebnisse, veröffentlicht in der Fachzeitschrift Communications Earth and Environment, zeigen, dass seit rund 3.900 Jahren nahe der Caldera-Mitte zudem ein Lavadom wächst und frisches Magma aus der Tiefe nachströmt. Die Einordnung: Die Fachleute betonen ausdrücklich, dass dies keinen baldigen Ausbruch anzeigt; das Wissen soll vielmehr helfen, die Mechanik solcher Supervulkane besser zu verstehen und künftige Warnsignale früher zu erkennen.",
-       "img": "https://live.staticflickr.com/2895/14352091737_79bbd8ac4a_b.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
-      },
-      {
-       "title": "Forschende am MIT bauen einen winzigen Schwimmroboter aus lebenden Muskelzellen",
-       "text": "Am Massachusetts Institute of Technology (MIT), einer führenden technischen Hochschule in den USA, hat ein Team um die Ingenieurin Ritu Raman einen winzigen Schwimmroboter entwickelt, der ungefähr so groß ist wie ein Kaugummi und von lebenden Muskelzellen angetrieben wird. Ein flexibles Gelgerüst bildet zwei Flossen, die mit einer hauchdünnen Schicht aus Muskelzellen überzogen sind; diese Zellen wurden gentechnisch so verändert, dass sie sich bei Lichtblitzen zusammenziehen. Beleuchtet man gezielt eine Flosse, schlägt sie und treibt den Roboter voran, sodass sich über die Lichtsteuerung Geschwindigkeit und Richtung lenken lassen; in Versuchen durchschwamm das Gerät sogar ein kleines Unterwasser-Labyrinth. Die Arbeit erschien in der Fachzeitschrift Advanced Functional Materials. Die Einordnung: Solche biohybriden Roboter, also Maschinen aus technischen und lebenden Bauteilen, gelten als weich, anpassungsfähig und sogar selbstheilend und könnten eines Tages empfindliche Gewässer erkunden, auch wenn sie bislang nur sehr langsam schwimmen und viel Grundlagenforschung bleibt.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Verregneter Samstag im Neckartal, kulturelle Angebote in den Nachbarstädten",
-       "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, fällt an diesem Samstag Regen bei Höchstwerten um 10 Grad, ein nasser und kühler Oktobertag. Wer unterwegs ist, sollte sich auf feuchte Straßen und Schauer einstellen; für einen Nachmittag im Trockenen bietet sich ein Museums- oder Kaffeehausbesuch in der historischen Altstadt an. Im städtischen Veranstaltungskalender sind für dieses Wochenende keine eigenen Termine in Horb verzeichnet, in der Umgebung gibt es aber Angebote: In Tübingen laufen an diesem Samstag die Tübinger Jazz- und Klassiktage, in Rottenburg am Neckar erklingt am Abend im Dom St. Martin ein Konzert mit Werken von Bach und Lotti, und in Nagold lädt am Sonntag eine Hochzeitsmesse in die Pfrondorfer Mühle. Die Einordnung: Für das Wochenende lohnt daher ein Blick auf die Programme der Nachbarstädte wie Tübingen, Rottenburg, Nagold oder Freudenstadt.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Horb_am_Neckar_002.JPG",
-       "source": "Stadt Horb / meinestadt.de / open-meteo",
-       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Ein Regentag zwingt zu nichts; manchmal ist er nur die stille Einladung, das Naheliegende mit Ruhe und Sorgfalt zu tun."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Günstiges Spitzenmodell Kimi K3.1 Pro, ab dem 4. November auch zum Selberbetreiben",
-      "text": "Das Unternehmen Moonshot AI, ein KI-Entwickler aus China, hat am 23. Oktober 2026 das Sprachmodell Kimi K3.1 Pro veröffentlicht, zunächst über eine Programmierschnittstelle (API), über die ein Programm das Modell nutzen kann. Ein Sprachmodell ist ein KI-System, das Texte versteht und erzeugt. Die Nutzung kostet rund 2 US-Dollar je eine Million Eingabe-Bausteine (Token, die kleinen Text-Einheiten, in die Modelle Sprache zerlegen) und 10 US-Dollar je eine Million Ausgabe-Token, also etwa die Hälfte dessen, was das Spitzenmodell Claude Opus 5.5 verlangt. In einer unabhängigen Bewertung des Dienstes Artificial Analysis erreichte Kimi K3.1 Pro 55 von möglichen Punkten und lag damit knapp hinter Claude Opus 5.5 (58 Punkte), aber vor mehreren anderen führenden Modellen. Moonshot kündigte zudem an, die frei herunterladbaren Modell-Gewichte bis zum 4. November 2026 offenzulegen, sodass sich das Modell dann grundsätzlich auch selbst betreiben lässt.",
-      "why": "Für dich als Solo-Unternehmer ist das ein konkreter Kostenhebel: Für wiederkehrende, maschinelle Aufgaben in deinen Automatisierungen kann ein fast gleich starkes Modell zum halben Preis spürbar sparen, und ab dem 4. November liesse es sich im Prinzip ohne laufende Nutzungsgebühren selbst betreiben. Prüfe aber vor einem Wechsel, ob die Qualität für deinen konkreten Zweck reicht, und bedenke beim Cloud-Zugang die Frage des Datenschutzes, da deine Eingaben über einen externen Dienst laufen. Die Gewichte sind bis zur Offenlegung noch nicht verfügbar.",
-      "source": "simonwillison.net",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Beide Signale stammen aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle und KI-Werkzeuge fachkundig verfolgt, und zielen darauf, deine MORGENLAGE-Routine günstiger und widerstandsfähiger zu machen.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "MORGENLAGE modell-unabhängig und kostenbewusst aufstellen",
-       "tag": "Kosten · Portabilität",
-       "paras": [
-        "Simon Willison testete das neue Modell Kimi K3.1 Pro mit seinem Kommandozeilen-Werkzeug llm, also einem über die Textkonsole bedienbaren Programm, und zwar über einen sogenannten OpenAI-kompatiblen Endpunkt. Das ist eine Schnittstelle, die dem verbreiteten Industrie-Standard der Firma OpenAI folgt; weil viele Anbieter dieselbe Form anbieten, lassen sich unterschiedliche Modelle hinter ein und derselben Schnittstelle austauschen, ohne das eigene Programm umzuschreiben.",
-        "Der Hebel für dein System: Nicht jeder Schritt deiner MORGENLAGE braucht ein teures Spitzenmodell. Die redaktionellen Texte profitieren von einem starken Modell, rein mechanische Schritte wie das Auslesen des Wetters oder das Kürzen des days-Arrays dagegen nicht. Wenn du festlegst, welche Aufgabe welches Modell bekommt, und alle Aufrufe über eine einheitliche, standardkonforme Schnittstelle führst, kannst du günstige Modelle wie Kimi gezielt für die einfachen Teile nutzen und bei Bedarf den Anbieter wechseln, ohne die Logik neu zu bauen."
-       ],
-       "konkret": "Lege eine kleine Zuordnung Aufgabe zu Modell an (etwa: redaktioneller Text = starkes Modell, mechanische Schritte = günstiges Modell) und rufe alle Modelle über eine einheitliche, OpenAI-kompatible Schnittstelle auf. So kannst du einzelne Schritte jederzeit auf ein billigeres oder selbst betriebenes Modell umstellen.",
-       "snippetLabel": "Modell über einen OpenAI-kompatiblen Endpunkt ansprechen (Shell)",
-       "snippet": "# einmalig den Endpunkt eintragen\nllm openai endpoint \\\n  https://api.moonshot.ai/v1 \\\n  --key <span class=\"ph\">{DEIN_SCHLUESSEL}</span> \\\n  -m kimi-k3.1-pro\n\n# danach einen mechanischen Schritt guenstig erledigen\nllm -m kimi-k3.1-pro \\\n  \"<span class=\"ph\">{z. B. Wetter-JSON in ein kurzes temp-Feld umwandeln}</span>\"",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Dein MORGENLAGE-Archiv für die Routine durchsuchbar machen",
-       "tag": "Qualität · Gedächtnis",
-       "paras": [
-        "In einer weiteren Notiz zeigt Simon Willison, wie er über ein kleines Zusatzprogramm namens datasette-mcp seinen eigenen Blog mit Hilfe von Claude durchsuchen kann. Das Zusatzprogramm nutzt das Model Context Protocol (MCP), eine offene Schnittstelle, über die ein KI-Modell auf Werkzeuge und Datenquellen zugreifen kann. So kann der Assistent beim Schreiben gezielt in vorhandenen Daten nachschlagen, statt nur aus dem Gedächtnis zu arbeiten.",
-        "Der Hebel für dein System: Deine data.json hält nur die letzten sieben Tage, und die Routine beginnt jeden Morgen gewissermaßen bei null. Wenn du ein fortlaufendes Archiv aller bisherigen Tage führst und es der Routine abfragbar machst, kann sie vor dem Schreiben prüfen, was zuletzt schon vorkam. So lassen sich Wiederholungen bei Gelegenheiten und Handlungsempfehlungen vermeiden und thematische Bögen über mehrere Tage spannen, ohne dass du selbst nachhalten musst."
-       ],
-       "konkret": "Sichere jeden erzeugten Tag zusätzlich in einem fortlaufenden Archiv (etwa einer wachsenden JSON- oder Datenbankdatei) und gib der Routine einen einfachen Weg, darin zu suchen, sei es über ein kleines Abfrage-Skript oder über ein MCP-Werkzeug. So erkennt sie, was zuletzt behandelt wurde.",
-       "snippetLabel": "Vor dem Schreiben pruefen, ob eine Quelle zuletzt schon vorkam (Node)",
-       "snippet": "const archiv = JSON.parse(fs.readFileSync('archiv.json','utf8'));\nconst letzte = archiv.slice(-7); // die letzten 7 Tage\nconst schonVerwendet = (url) =>\n  letzte.some(t => JSON.stringify(t).includes(url));\n\nif (schonVerwendet('<span class=\"ph\">{kandidat-url}</span>')) {\n  // andere Quelle waehlen, Wiederholung vermeiden\n}",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Sonntag, 25. Oktober 2026",
    "kind": "weekly",
    "sub": "Wochenrückblick",
@@ -1092,8 +939,158 @@
       }
      ]
     }
+   ]
+  },
+  {
+   "label": "Montag, 2. November 2026",
+   "weather": "clouds",
+   "temp": "8°C · neblig",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Montag zäher Nebel bei Höchstwerten um nur 8 Grad, ein kühler, grauer Start in den November. In der Weltlage richtet sich der Blick auf die Vereinigten Staaten, wo morgen die Zwischenwahlen zum Kongress anstehen, sowie auf Bundespräsident Frank-Walter Steinmeier, der seinen Staatsbesuch in China fortsetzt. In der Wirtschaft hat die Gewerkschaft IG Metall nach dem Ende der Friedenspflicht die ersten Warnstreiks in der Metall- und Elektroindustrie begonnen, während die Kauflaune der Verbraucher weiter gedämpft bleibt. Aus Lichtblick und Forschung kommen eine kleine Azoreninsel, die allnächtlich das Licht löscht, um junge Sturmtaucher zu schützen, und ein lange übersehenes Teilchen, das erklären könnte, warum im frühen Universum überhaupt Materie übrig blieb. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "USA: Morgen wählen die Vereinigten Staaten Teile ihres Parlaments neu",
+       "text": "Am morgigen Dienstag, dem 3. November, wählen die Vereinigten Staaten Teile ihres Parlaments neu. Diese Zwischenwahlen, auf Englisch Midterms, finden jeweils zur Mitte der vierjährigen Amtszeit eines Präsidenten statt; gewählt werden das gesamte Repräsentantenhaus, also die größere der beiden Parlamentskammern, sowie rund ein Drittel der 100 Sitze im Senat, der kleineren Kammer. Beide Kammern zusammen bilden den Kongress, das Parlament der USA, das über Gesetze und den Haushalt mitbestimmt. Mehrere Prognosen sehen die Demokraten, die oppositionelle der beiden großen Parteien, beim Repräsentantenhaus klar im Vorteil, während das Rennen um den Senat als knapp gilt; das Analysehaus Cook Political Report rechnet dort mit Zugewinnen der Demokraten von zwei bis sechs Sitzen, nötig für die Mehrheit wären vier. Vor der Wahl sind nach Berichten des ZDF die Zustimmungswerte von Präsident Donald Trump gesunken. Die Einordnung bleibt nüchtern: Verliert die Partei des Präsidenten eine der Kammern, lassen sich seine Vorhaben in den kommenden zwei Jahren nur noch schwer durchsetzen; das endgültige Ergebnis dürfte zudem erst in den Tagen nach der Wahl feststehen.",
+       "source": "ZDFheute / Cook Political Report",
+       "url": "https://www.zdfheute.de/"
+      },
+      {
+       "title": "Bundespräsident Steinmeier setzt seinen Staatsbesuch in China fort",
+       "text": "Bundespräsident Frank-Walter Steinmeier, das Staatsoberhaupt Deutschlands, setzt an diesem Montag seinen mehrtägigen Staatsbesuch in China fort, dem bevölkerungsreichsten Land Asiens; ein Staatsbesuch ist der förmlichste Besuch, den ein Staatsoberhaupt einem anderen Land abstatten kann. Nach seinem Treffen mit dem chinesischen Staatspräsidenten Xi Jinping äußerte sich Steinmeier nach Angaben des ZDF zurückhaltend zu der Frage, ob China derzeit bereit sei, bei einem möglichen Gipfel zum Krieg in der Ukraine eine vermittelnde Rolle zu übernehmen. China versteht sich in diesem Konflikt offiziell als neutral, pflegt zugleich aber enge Beziehungen zu Russland. Die Einordnung: Der Besuch zeigt, wie sehr Deutschland einerseits das Gespräch mit der Wirtschafts- und Weltmacht China sucht und andererseits in zentralen politischen Fragen zurückhaltend bleibt.",
+       "source": "ZDFheute",
+       "url": "https://www.zdfheute.de/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "IG Metall beginnt Warnstreiks in der Metall- und Elektroindustrie",
+       "text": "In der Tarifrunde der Metall- und Elektroindustrie hat die IG Metall, die größte deutsche Industriegewerkschaft, die ersten Warnstreiks begonnen. Möglich wurde das, weil die sogenannte Friedenspflicht, in der Arbeitskämpfe vertraglich ausgeschlossen sind, am 31. Oktober um Mitternacht endete; ein Warnstreik ist eine kurze, befristete Arbeitsniederlegung, mit der eine Gewerkschaft im laufenden Tarifstreit Druck aufbaut. Die IG Metall fordert fünf Prozent mehr Entgelt für zwölf Monate sowie höhere Ausbildungsvergütungen; die bisherigen Angebote der Arbeitgeber blieben nach Gewerkschaftsangaben deutlich darunter. Betroffen ist bundesweit eine der größten Tarifrunden überhaupt mit rund 3,7 Millionen Beschäftigten, viele davon in Baden-Württemberg, einem Zentrum der deutschen Metall- und Elektroindustrie. Die Einordnung: Für die Region rund um Horb ist die Branche ein wichtiger Arbeitgeber; wie lange und wie umfassend gestreikt wird, hängt vom weiteren Verlauf der Verhandlungen ab.",
+       "source": "IG Metall / DGB / produktion.de",
+       "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/tarifrunde-metall-und-elektro-2026"
+      },
+      {
+       "title": "Gedämpfte Kauflaune und Gasspeicher unter der Vorgabe",
+       "text": "Die Stimmung der Verbraucherinnen und Verbraucher in Deutschland bleibt gedrückt. Das Konsumklima, ein monatlich erhobener Stimmungsindikator des Marktforschungsunternehmens GfK gemeinsam mit dem Nürnberg Institut für Marktentscheidungen (NIM), sank zum November auf etwa minus 30,8 Punkte und damit auf den schwächsten Stand seit rund einem halben Jahr; je tiefer der Wert, desto zurückhaltender sind die geplanten Ausgaben. Zugleich liegt die Teuerung, also der allgemeine Anstieg der Preise, weiter bei rund drei Prozent, getrieben vor allem von teurer Energie. Nach Berichten des ZDF liegen außerdem die Füllstände der deutschen Gasspeicher unter den gesetzlichen Vorgaben, weshalb das Heizen in diesem Winter teurer werden könnte. Die Einordnung: Eine schwache Kauflaune und hohe Energiekosten treffen kleine Betriebe und Solo-Selbstständige unmittelbar bei Kalkulation und Nachfrage.",
+       "source": "GfK / NIM / ZDFheute",
+       "url": "https://www.gfk.com/de/insights"
+      }
+     ],
+     "merk": {
+      "text": "Merken für die Planung: Mit dem Warnstreik in einer Schlüsselbranche, der gedrückten Kauflaune und drohenden höheren Heizkosten kommen gerade mehrere Belastungen zusammen. Für dich als Solo-Unternehmer kann es sich lohnen, Angebote weiterhin mit etwas Puffer zu kalkulieren, größere Anschaffungen genau zu prüfen und die eigenen Energie- und Fixkosten für den Winter frühzeitig durchzurechnen. Wo möglich, hilft es, Rücklagen für die kälteren Monate bewusst einzuplanen.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Eine Azoreninsel löscht nachts das Licht, um junge Sturmtaucher zu retten",
+       "text": "Auf der kleinen Azoreninsel Corvo mit ihren rund 400 Einwohnern, die zu Portugal gehört, werden in den letzten fünf Oktobernächten jeweils von 21 bis 4 Uhr die öffentlichen Lichter ausgeschaltet. Grund sind die Küken des Gelbschnabel-Sturmtauchers, auf Englisch Cory's Shearwater, eines Hochseevogels, der nur zum Brüten an Land kommt; die Azoren beherbergen etwa 65 bis 75 Prozent des weltweiten Brutbestands dieser Art. Wenn die jungen Vögel erstmals zum Meer aufbrechen, lockt künstliches Licht sie in die Irre, sodass sie erschöpft in den Ortschaften stranden. Getragen wird die Aktion von der portugiesischen Vogelschutzgesellschaft SPEA und der Inselverwaltung; seit der Einführung im Jahr 2017 wurden auf den Azoren nach Angaben der Zeitung The Guardian über 30.000 Küken gerettet, rund 6.000 davon allein auf Corvo. Eine Umfrage im Oktober 2026 unter 207 Inselbewohnern ergab einhellige Zustimmung. Die Einordnung: Das Beispiel zeigt, wie eine ganze Gemeinschaft mit einem einfachen, zeitlich begrenzten Verzicht einer bedrohten Art über eine gefährliche Lebensphase hinweghilft.",
+       "source": "Good News Network / The Guardian / SPEA",
+       "url": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Ein lange übersehenes Teilchen könnte erklären, warum es überhaupt Materie gibt",
+       "text": "Zwei Physiker, Rishav Roshan von der University of Southampton in England und Sudipta Show vom Indian Institute of Technology im indischen Kanpur, haben eine mögliche Antwort auf eine der größten Fragen der Physik vorgeschlagen: Warum blieb nach dem Urknall, dem angenommenen Anfang des Universums, überhaupt Materie übrig, statt sich vollständig mit der gleich viel entstandenen Antimaterie auszulöschen? Antimaterie ist eine Art Spiegelbild der gewöhnlichen Materie; treffen beide aufeinander, vernichten sie sich gegenseitig. Die Forschenden verweisen auf ein schweres, bislang als unbedeutend geltendes Neutrino, also einen extrem leichten, nur schwach mit anderer Materie wechselwirkenden Verwandten bekannter Elementarteilchen. Weil es nur sehr langsam zerfällt, könnte es das frühe Universum eine Zeit lang beherrscht und so den Moment verschoben haben, in dem ein winziges Ungleichgewicht zugunsten der Materie entstand. Die Arbeit erschien in der Fachzeitschrift Physical Review Letters. Die Einordnung: Das Ergebnis ist bislang rein theoretisch, doch die Forschenden hoffen, dass sich Spuren dieser frühen Phase eines Tages in sogenannten Gravitationswellen, winzigen Erschütterungen der Raumzeit, nachweisen lassen.",
+       "source": "ScienceDaily / Physical Review Letters",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+      },
+      {
+       "title": "Zwei Portionen Erdnüsse täglich zeigen im Test eine Wirkung auf das alternde Gehirn",
+       "text": "An der Universität Maastricht in den Niederlanden hat ein Team um die Forscherin Lucia Kerkhof und den Ernährungswissenschaftler Peter Joris untersucht, wie sich Erdnüsse auf das Gehirn älterer Menschen auswirken. In einer kleinen, sorgfältig aufgebauten Studie aßen 31 gesunde Erwachsene im Alter von 60 bis 75 Jahren über 16 Wochen täglich 60 Gramm ungesalzene, geröstete Erdnüsse, das sind etwa zwei Portionen, und verzichteten in einer Vergleichsphase ganz darauf. In der Erdnuss-Phase verbesserte sich die Insulinempfindlichkeit, also die Fähigkeit des Körpers, den Blutzucker zu verwerten, ausgerechnet in Hirnregionen, die für das Gedächtnis wichtig sind; eine frühere Studie derselben Gruppe hatte zudem einen leicht erhöhten Blutfluss im Gehirn und eine etwas bessere Gedächtnisleistung gezeigt. Die Ergebnisse erschienen in der Fachzeitschrift Food and Function. Die Einordnung bleibt vorsichtig: Die Teilnehmerzahl war klein, ein unmittelbar besseres Gedächtnis ist nicht bewiesen, und finanziert wurde die Arbeit von einer Stiftung der Erdnussbranche, die nach eigenen Angaben aber keinen Einfluss auf die Auswertung hatte.",
+       "source": "ScienceDaily / Food and Function",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Nebeltag im Neckartal, das kulturelle Leben spielt in den Nachbarstädten",
+       "text": "Über Horb am Neckar liegt an diesem Montag zäher Nebel; die Luft ist feucht und kühl, und mit Höchstwerten um nur 8 Grad ist es ein ruhiger, grauer Novemberbeginn im oberen Neckartal. Im städtischen Veranstaltungskalender sind für die ersten Novembertage keine eigenen Termine in Horb selbst verzeichnet, in der Umgebung gibt es aber Angebote: In Freudenstadt steht am Montagabend im Theater im Kurhaus eine Michael-Jackson-Tributshow auf dem Programm, in Tübingen laufen im Neuen Kunstmuseum Ausstellungen unter anderem zum Musiker und Maler Ronnie Wood, und in Balingen treten am Freitag die volkstümlichen Kastelruther Spatzen auf. Wer den Nebeltag heute drinnen verbringt, kann ihn nutzen, um die Wochen bis zur Adventszeit zu planen; der erste Advent, der traditionelle Beginn der Vorweihnachtszeit, fällt in diesem Jahr auf Sonntag, den 29. November. Das genaue Programm der Horber Kulturveranstaltungen und des Weihnachtsmarktes veröffentlicht die Stadt in ihrem Kalender auf horb.de.",
+       "source": "meinestadt.de / horb.de / open-meteo",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein Novembermorgen im Nebel verlangt nichts Großes; vielleicht genügt es, das Jahr langsamer werden zu lassen und eine Sache nach der anderen ruhig zu Ende zu bringen."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Ein neues, günstigeres KI-Modell eignet sich für wiederkehrende Routineaufgaben",
+      "text": "Der KI-Anbieter OpenAI hat am 26. Oktober ein neues Sprachmodell namens GPT-6.1 Terra vorgestellt, ein Modell der Mittelklasse. Ein Sprachmodell ist ein KI-System, das Texte versteht und erzeugt. Laut dem Entwickler Simon Willison, der Neuerungen rund um KI fachkundig verfolgt, ist Terra besonders gut darin, Bildschirminhalte zu verstehen und einfache Computerabläufe selbst zu steuern, und kostet rund 1 US-Dollar je eine Million Eingabe-Bausteine (Token, die kleinen Text-Einheiten, in die Modelle Sprache zerlegen) sowie 5 US-Dollar je eine Million Ausgabe-Token. Damit ist es deutlich günstiger als die großen Spitzenmodelle und laut Willison gut geeignet für Automatisierungen mit wiederkehrenden, maschinellen Aufgaben.",
+      "why": "Für dich als Solo-Unternehmer ist das ein konkreter Kostenhebel: Nicht jeder Schritt deiner MORGENLAGE braucht ein teures Spitzenmodell. Rein mechanische Teile, etwa das Umwandeln des Wetter-JSON in das temp-Feld oder das Kürzen des days-Arrays, könnten auf einem günstigen Modell wie Terra laufen, während die redaktionellen Texte weiter von einem starken Modell geschrieben werden. Prüfe vor einem Wechsel aber, ob die Qualität für den jeweiligen Zweck reicht, und bedenke beim Cloud-Zugang den Datenschutz, da deine Eingaben über einen externen Dienst laufen.",
+      "source": "simonwillison.net / OpenAI",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Zwei frische Signale aus den Notizen des Entwicklers Simon Willison, der Neuerungen rund um Software und KI fachkundig verfolgt: ein sehr konkreter Kniff gegen einen typischen Fehler in automatisierten Python-Abläufen und eine Lehre aus einer gerade bekannt gewordenen Sicherheitslücke, die genau den Anzeige-Teil deines Briefings betrifft.",
+     "cards": [
+      {
+       "icon": "terminal",
+       "title": "Hängende Python-Abläufe mit einem einfachen Griff wieder flottmachen",
+       "tag": "Zuverlässigkeit · Wartung",
+       "paras": [
+        "Simon Willison beschreibt am 1. November einen Fehler, der jetzt mit der neuen Python-Version 3.15 häufiger auftritt. Python ist die verbreitete Programmiersprache, in der viele Automatisierungen laufen. Das Problem: Eine örtliche Sperrdatei namens uv.lock, die der moderne Paketverwalter uv anlegt, hält mitunter eine Paketversion fest, für die es noch kein fertiges Installationspaket (ein sogenanntes Wheel, eine vorgebaute Fassung eines Programmbausteins) für Python 3.15 gibt. Der Lauf bricht dann mit einer schwer verständlichen Fehlermeldung ab.",
+        "Der Hebel für dein System: Sollte deine MORGENLAGE-Routine oder ein anderer automatischer Ablauf nach einem Versionssprung plötzlich mit einem Abhängigkeitsfehler stehen bleiben, ist das Löschen und Neuaufbauen dieser Sperrdatei oft die schnellste Lösung, bevor du lange nach der Ursache suchst. So verlierst du keine Zeit mit einem Fehler, der gar nicht an deinem eigenen Code liegt."
+       ],
+       "konkret": "Wenn ein automatischer Lauf nach einem Python- oder Paket-Update mit einem Abhängigkeitsfehler abbricht, lösche zuerst die Datei uv.lock und lass sie beim nächsten Lauf neu erzeugen, bevor du tiefer nach der Ursache suchst.",
+       "snippetLabel": "Sperrdatei löschen und Lauf neu starten (Shell)",
+       "snippet": "# im Projektordner\nrm -f uv.lock\n# danach den Lauf neu anstossen, uv baut die Sperrdatei neu auf\nuv run <span class=\"ph\">{dein Befehl, z. B. pytest oder das Erzeugungs-Skript}</span>",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
+      },
+      {
+       "icon": "layers",
+       "title": "Fremde Inhalte im Briefing streng abschotten",
+       "tag": "Sicherheit · Anzeige",
+       "paras": [
+        "Simon Willison verweist am 31. Oktober auf eine gerade veröffentlichte Analyse, in der Sicherheitsforscher zeigen, wie sich über eine Kette kleiner Schwächen Konten beim KI-Dienst ChatGPT übernehmen ließen. Eine entscheidende Rolle spielte dabei, dass fremde Inhalte über einen Baustein namens innerHTML direkt in eine Webseite geschrieben wurden; innerHTML fügt Text so ein, dass darin versteckter Schadcode mit ausgeführt werden kann. Der Anbieter OpenAI zahlte den Findern eine Belohnung von 5.000 US-Dollar.",
+        "Der Hebel für dein System: Deine MORGENLAGE zeigt laufend fremde Inhalte an, nämlich Nachrichtentexte, Quellenangaben und, wenn aktiv, Bilder aus dem Netz. Wird die Anzeige gebaut, sollten solche Inhalte immer als reiner Text eingesetzt werden, etwa über textContent statt innerHTML, und externe Bilder nur von vertrauenswürdigen Adressen geladen werden. So kann ein manipulierter Nachrichten- oder Bildeintrag im Briefing keinen unerwünschten Code ausführen."
+       ],
+       "konkret": "Prüfe bei der Anzeige deines Briefings, dass fremde Texte als reiner Text eingesetzt werden (textContent statt innerHTML) und Bilder nur von festgelegten, vertrauenswürdigen Adressen stammen. Gib diese Vorgabe auch jedem KI-Assistenten mit, der an der Anzeige mitbaut.",
+       "snippetLabel": "Fremden Text sicher einsetzen (JavaScript)",
+       "snippet": "// unsicher: koennte eingebetteten Code ausfuehren\n// el.innerHTML = beitrag.text;\n\n// sicher: setzt den Inhalt als reinen Text ein\nel.textContent = beitrag.text;\n\n// Bilder nur von erlaubten Adressen laden\nconst erlaubt = ['upload.wikimedia.org', 'live.staticflickr.com'];\nif (<span class=\"ph\">{bild-url gegen erlaubt pruefen}</span>) img.src = beitrag.img;",
+       "source": "simonwillison.net",
+       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+      }
+     ]
+    }
    ],
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
+   "colophon": "kuratiert aus deinen Quellen"
   }
  ]
 }
