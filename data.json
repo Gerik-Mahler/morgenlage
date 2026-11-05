@@ -2,163 +2,6 @@
  "sub": "Dein tägliches Briefing",
  "days": [
   {
-   "label": "Dienstag, 27. Oktober 2026",
-   "weather": "clouds",
-   "temp": "18°C · neblig",
-   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Dienstag zunächst Nebel, der Tag bleibt trüb und wolkig bei milden Höchstwerten um 18 Grad. In der Weltlage wählt Israel ein neues Parlament, und in Hamburg wird der Prozess um die Sabotage der Ostsee-Pipelines Nord Stream fortgesetzt. In der Wirtschaft hat sich die Stimmung der deutschen Unternehmen im Oktober den vierten Monat in Folge aufgehellt, während am Donnerstag die Europäische Zentralbank über die Zinsen entscheidet. Aus Lichtblick und Forschung kommen ein Rekordtief bei der Abholzung des Amazonas-Regenwaldes, ein möglicher Durchbruch bei der Rettung gebleichter Korallen und das vielleicht älteste bekannte Schiffswrack der Welt. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-   "sections": [
-    {
-     "type": "news",
-     "icon": "globe",
-     "eyebrow": "Weltlage",
-     "items": [
-      {
-       "title": "Israel wählt ein neues Parlament",
-       "text": "In Israel, dem Staat am östlichen Mittelmeer, wählen an diesem Dienstag nach Angaben mehrerer Medien rund 7,3 Millionen Wahlberechtigte eine neue Knesset, so heißt das Parlament des Landes mit seinen 120 Sitzen. Es ist die erste Parlamentswahl seit 1988, die zum regulär vorgesehenen Termin stattfindet und nicht vorgezogen wurde; auf dem Stimmzettel stehen 38 Listen, also Parteien und Bündnisse. Im Mittelpunkt steht das Duell zwischen Ministerpräsident Benjamin Netanjahu mit seiner rechtskonservativen Partei Likud und dem früheren Generalstabschef der Armee, Gadi Eisenkot, dessen Partei in mehreren Umfragen zuletzt vorn lag. Für eine Regierungsmehrheit sind mindestens 61 der 120 Sitze nötig, die die Umfragen aber keinem der beiden Lager klar zusprachen. Die Einordnung bleibt nüchtern: Der Ausgang ist offen, und ob sich rasch eine Regierung bilden lässt, wird sich erst nach der Auszählung und möglichen Koalitionsgesprächen zeigen.",
-       "source": "bpb / Al Jazeera",
-       "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/582697/parlamentswahl-in-israel-2026-netanjahu-regierung-droht-verlust-der-mehrheit/"
-      },
-      {
-       "title": "Prozess um die Sabotage der Nord-Stream-Pipelines wird fortgesetzt",
-       "text": "An diesem Dienstag wird nach einem Nachrichtenüberblick der Prozess im Zusammenhang mit der Sabotage der Erdgas-Pipelines Nord Stream fortgesetzt; verhandelt wird in Hamburg. Nord Stream bezeichnet zwei Leitungen durch die Ostsee, durch die bis 2022 russisches Erdgas nach Deutschland floss; im September 2022 wurden sie durch mehrere Explosionen schwer beschädigt, deren Urheber und Hintergründe seither untersucht werden. In dem Verfahren geht es um die strafrechtliche Aufarbeitung dieser Sprengungen. Die Einordnung bleibt nüchtern: Die zerstörten Leitungen stehen sinnbildlich für das Ende der deutsch-russischen Energiebeziehungen, und jeder Verhandlungstag wird aufmerksam verfolgt, weil die Frage nach den Verantwortlichen weiterhin offen und politisch heikel ist.",
-       "source": "Epoch Times / ZDFheute",
-       "url": "https://www.epochtimes.de/kurznachrichten/27-10-2026-nord-stream-prozess-geht-weiter-israelis-waehlen-neues-parlament-a5646571.html"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "chart",
-     "eyebrow": "Wirtschaft",
-     "items": [
-      {
-       "title": "ifo-Geschäftsklima steigt im Oktober den vierten Monat in Folge",
-       "text": "Die Stimmung in der deutschen Wirtschaft hat sich im Oktober erneut verbessert. Der Geschäftsklimaindex des ifo-Instituts in München, eines wirtschaftswissenschaftlichen Forschungsinstituts, das Monat für Monat tausende Unternehmen zu ihrer Lage und ihren Erwartungen befragt, stieg nach Angaben des Instituts auf 90,2 Punkte, nach 89,9 Punkten im September. Es ist bereits der vierte Anstieg in Folge. Dabei blickten die Unternehmen zuversichtlicher auf die kommenden Monate, während sie ihre aktuelle Lage etwas schlechter einschätzten als zuvor. Das ifo-Institut fasste es so zusammen, dass sich die Konjunkturbelebung fortsetze. Die Einordnung: Steigende Erwartungen gelten als vorsichtiges Signal, dass die Betriebe mit einer allmählichen Erholung rechnen, auch wenn die gegenwärtige Geschäftslage noch verhalten bleibt.",
-       "source": "ifo-Institut",
-       "url": "https://www.ifo.de/umfrage/ifo-geschaeftsklima-deutschland"
-      },
-      {
-       "title": "Europäische Zentralbank entscheidet am Donnerstag über die Zinsen",
-       "text": "Am Donnerstag, dem 29. Oktober, gibt der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, gegen 14:15 Uhr seine neue Zinsentscheidung bekannt. Die Leitzinsen sind die Sätze, zu denen sich Geschäftsbanken bei der Notenbank Geld leihen; sie beeinflussen mittelbar, wie teuer Kredite und wie attraktiv Spareinlagen für Unternehmen und Haushalte sind. Zuletzt hatte die EZB den sogenannten Einlagensatz im September auf 2,50 Prozent angehoben. Viele Fachleute erwarten diesmal eine Pause, also unveränderte Zinsen, sicher ist das jedoch nicht. Die Einordnung: Für Betriebe, die eine größere Investition oder einen Kredit planen, ist die Richtung der Zinsen ein wichtiger Anhaltspunkt für die kommenden Monate.",
-       "source": "Europäische Zentralbank / LBBW",
-       "url": "https://www.deltavalue.de/ezb-zinsentscheid/"
-      }
-     ],
-     "merk": {
-      "text": "Merken für die Planung: Mit dem freundlicheren ifo-Klima und der EZB-Entscheidung am Donnerstag treffen in dieser Woche zwei Signale zusammen, die für deine Kalkulation zählen. Steigt die Zuversicht der Unternehmen, kann die Nachfrage anziehen, zugleich bleibt offen, ob die Finanzierungskosten auf dem erreichten Niveau verharren. Es kann sich lohnen, größere Anschaffungen oder Kreditzusagen erst nach der Zinsentscheidung am Donnerstag festzuzurren und freie Rücklagen zu prüfen, solange sich damit noch vergleichsweise gute Zinsen erzielen lassen.",
-      "tone": "g"
-     }
-    },
-    {
-     "type": "news",
-     "icon": "leaf",
-     "eyebrow": "Lichtblick",
-     "items": [
-      {
-       "title": "Abholzung im brasilianischen Amazonas-Regenwald auf Rekordtief",
-       "text": "Im brasilianischen Teil des Amazonas-Regenwaldes, des größten zusammenhängenden Regenwaldes der Erde, ist die Abholzung nach Angaben der Deutschen Welle auf den niedrigsten Stand seit fast vier Jahrzehnten gefallen. Zwischen August 2025 und Juli 2026 wurden rund 1.288 Quadratmeilen, das sind etwa 3.300 Quadratkilometer, Wald gerodet und damit rund 42 Prozent weniger als im Jahr zuvor mit etwa 2.212 Quadratmeilen. Der Amazonas-Regenwald bindet große Mengen des klimaschädlichen Gases Kohlendioxid und gilt deshalb als wichtig für das Klima der ganzen Erde. Die Einordnung: Der starke Rückgang zeigt, dass gezielte Kontrollen und ein geänderter politischer Kurs die Zerstörung in vergleichsweise kurzer Zeit spürbar bremsen können, auch wenn das Niveau insgesamt weiterhin hoch bleibt.",
-       "source": "Deutsche Welle / Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
-      },
-      {
-       "title": "Gebleichte Korallen erholen sich durch Kontakt zu gesunden Nachbarn",
-       "text": "Forschende der Stanford University in den Vereinigten Staaten haben nach einem Nachrichtenüberblick einen überraschend einfachen Weg gefunden, stark geschädigte Korallen zu retten. Korallen sind winzige Nesseltiere, die gemeinsam riesige Riffe aufbauen; bei zu warmem Wasser stoßen sie die farbgebenden Algen ab, die sie ernähren, verlieren ihre Farbe und drohen abzusterben, was man Korallenbleiche nennt. Im Versuch erholten sich gebleichte Korallen innerhalb von sieben Wochen, sobald sie in direkten Kontakt mit genetisch gleichen, gesunden Korallen gebracht wurden; alle fünf so behandelten Abschnitte erholten sich vollständig. Vermutlich geben die gesunden Tiere dabei hilfreiche Algen oder Nährstoffe an ihre geschwächten Nachbarn weiter. Die Einordnung: Sollte sich das Verfahren im offenen Meer bestätigen, könnte es eine vergleichsweise günstige Methode sein, bedrohte Riffe gezielt wiederaufzubauen.",
-       "img": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
-       "source": "Euronews / Good Good Good",
-       "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "flask",
-     "eyebrow": "Forschung & Fortschritt",
-     "items": [
-      {
-       "title": "Vielleicht ältestes bekanntes Schiffswrack vor der türkischen Küste entdeckt",
-       "text": "Vor der Küste der Türkei haben Archäologen, also Wissenschaftler, die die Vergangenheit anhand von Funden erforschen, nach einem Bericht des Portals ScienceDaily ein Schiffswrack entdeckt, das etwa 4.500 Jahre alt sein könnte und damit zu den ältesten bekannten der Welt zählen würde. Vom hölzernen Schiff selbst ist nach so langer Zeit im Wasser nichts mehr erhalten; verraten hat sich die Ladung durch eine Ansammlung von Tongefäßen, sogenannten Amphoren, die einst Waren wie Öl oder Wein transportierten und am Meeresgrund liegen blieben. Aus ihrer Form und Anordnung schließen die Forschenden auf Alter und Herkunft des Schiffes. Die Einordnung: Jeder solche Fund erweitert das Bild vom frühen Seehandel im Mittelmeerraum, lange bevor es schriftliche Aufzeichnungen darüber gab.",
-       "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%C5%A0ecik_Ancient_Greek_Amphoras_Underwater_%E2%80%93_Cornflower_Flutter_Exhibition_in_Belarus_National_Arts_Museum.jpg",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      },
-      {
-       "title": "Hinweise auf einen ersten Mond außerhalb unseres Sonnensystems",
-       "text": "Astronomen haben nach einem Bericht von ScienceDaily Hinweise auf einen möglichen Mond gefunden, der einen Planeten außerhalb unseres Sonnensystems umkreist, einen sogenannten Exomond. Ein Mond ist ein Himmelskörper, der um einen Planeten kreist, so wie der Erdmond um die Erde; zweifelsfrei bekannt sind bislang nur Monde innerhalb unseres eigenen Sonnensystems. Der nun entdeckte Kandidat soll mindestens so groß sein wie ein kleiner Planet. Wichtig ist die Zurückhaltung der Fachleute: Die Entdeckung ist noch nicht bestätigt, und es braucht weitere Beobachtungen, um auszuschließen, dass ein anderes Phänomen die Messungen nur vortäuscht. Die Einordnung: Gelänge der Nachweis, wäre es der erste bekannte Mond jenseits unseres Sonnensystems und ein Hinweis darauf, dass auch ferne Planeten von Trabanten begleitet werden.",
-       "source": "ScienceDaily",
-       "url": "https://www.sciencedaily.com/news/top/science/"
-      }
-     ]
-    },
-    {
-     "type": "news",
-     "icon": "pin",
-     "eyebrow": "Horb am Neckar",
-     "items": [
-      {
-       "title": "Trüber Nebeltag im Neckartal, Ende November beginnt der Horber Advent",
-       "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, liegt an diesem Dienstag zunächst Nebel; der Tag bleibt trüb und wolkig bei milden Höchstwerten um 18 Grad. Für einen grauen Herbsttag lohnt der Blick auf die kommenden Termine der Region. Am Samstag, dem 8. November, lädt die katholische Kirchengemeinde um 17 Uhr zu einem Konzert mit einem Klarinettenquintett in die Liebfrauenkirche ein; ein Quintett ist ein Ensemble aus fünf Musikern. Das größere Ereignis folgt zum ersten Advent: Vom 27. bis 29. November richtet die Stadt auf dem Flößerwasen und an der Inselspitze den Horber Advent aus, einen Weihnachtsmarkt mit nach eigenen Angaben über 50 Ausstellern. Der erste Advent ist der vierte Sonntag vor dem Weihnachtsfest und läutet traditionell die Vorweihnachtszeit ein.",
-       "img": "https://live.staticflickr.com/3251/3130878849_c5b52e49fb_b.jpg",
-       "source": "horb.de / kath-kirche-horb.de / open-meteo",
-       "url": "https://www.horb.de/"
-      }
-     ]
-    },
-    {
-     "type": "thought",
-     "text": "Nebel nimmt der Landschaft die Ferne und schenkt dem Nahen die ganze Aufmerksamkeit; vielleicht ist ein solcher Tag eine leise Einladung, zuerst das zu tun, was unmittelbar vor einem liegt, und dem Übrigen zu vertrauen, dass es sich zu seiner Zeit klärt."
-    },
-    {
-     "type": "divider"
-    },
-    {
-     "type": "opp",
-     "icon": "compass",
-     "eyebrow": "Gelegenheitsradar",
-     "item": {
-      "title": "Innovationsgutschein Baden-Württemberg: Zuschuss für externe Entwicklungsleistungen",
-      "text": "Das Land Baden-Württemberg fördert mit den Innovationsgutscheinen kleine und mittlere Unternehmen sowie Angehörige der Freien Berufe mit Hauptsitz im Land, die externe Forschungs- und Entwicklungsleistungen einkaufen. Gefördert wird also nicht die eigene Arbeit, sondern die Beauftragung Dritter, etwa einer Hochschule oder eines spezialisierten Dienstleisters, um ein neues Produkt, ein Verfahren oder eine digitale Lösung zu entwickeln. Antragsberechtigt sind nach dem Merkblatt der Förderbank des Landes, der L-Bank, Betriebe mit bis zu 100 Beschäftigten und höchstens 20 Millionen Euro Jahresumsatz; auch Existenzgründer können teilnehmen. Je nach Variante werden Zuschüsse genannt, die bis in den fünfstelligen Bereich reichen können.",
-      "why": "Für dich als Solo-Unternehmer in Baden-Württemberg ist das interessant, weil ausdrücklich auch Freiberufler und Gründer antragsberechtigt sind und sich der Gutschein gezielt für den Zukauf von Entwicklungsleistungen eignet, etwa wenn du einen Teil deines Systems von einer Fachkraft ausbauen lässt. Wichtig: Gefördert werden nur externe Leistungen, nicht deine eigene Zeit, und die genauen Fördersätze und Bedingungen unterscheiden sich je nach Gutschein-Variante. Prüfe die aktuellen Konditionen und Fristen direkt im Merkblatt der L-Bank beziehungsweise bei der Industrie- und Handelskammer, bevor du einen Antrag vorbereitest.",
-      "source": "L-Bank / IHK Baden-Württemberg",
-      "url": "https://www.ihk.de/stuttgart/fuer-unternehmen/innovation/aktuelles/innovationsgutscheine-bw-5861336"
-     }
-    },
-    {
-     "type": "action",
-     "icon": "gauge",
-     "eyebrow": "Handlungsempfehlungen",
-     "also": "Zwei Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt, diesmal zu einem neuen, günstigen Modell mit Bildverständnis und zur raschen Bewegung bei den Preisen.",
-     "cards": [
-      {
-       "icon": "layers",
-       "title": "Günstiges Modell mit Bildverständnis: ein automatischer Bild-Check für MORGENLAGE",
-       "tag": "Werkzeug · Qualität",
-       "paras": [
-        "Simon Willison berichtet, dass der Anbieter OpenAI am 26. Oktober das Modell GPT-6.1 Terra veröffentlicht hat, das besonders auf das Verstehen von Bildern und auf die Steuerung des Computers ausgelegt ist. Ein solches Modell kann nicht nur Text, sondern auch Fotos auswerten und beschreiben. Der Preis liegt laut Willison bei etwa einem US-Dollar je Million eingegebener und fünf US-Dollar je Million ausgegebener Textbausteine, sogenannter Token, und damit rund halb so hoch wie bei den Vorgängermodellen.",
-        "Der Hebel für dein System: Deine MORGENLAGE wählt für Lichtblick, Forschung und Horb jeweils ein Bild von der Bildersuche Openverse aus. Mit einem günstigen Modell, das Bilder versteht, könntest du vor dem Einbau automatisch prüfen lassen, ob ein Motiv wirklich zum Thema passt und neutral ist, also keine inszenierten Gesichter oder Schockbilder zeigt. Das senkt das Risiko, dass ein unpassendes Foto in die Ausgabe rutscht, und kostet bei einem Bild pro Rubrik nur Bruchteile eines Cents."
-       ],
-       "konkret": "Baue in die Bildauswahl einen kurzen Prüfschritt ein, der jedes Kandidatenbild von einem günstigen Modell mit Bildverständnis auf Themenbezug und Neutralität bewerten lässt, und übernimm nur Bilder, die eindeutig bestehen.",
-       "snippetLabel": "Prüf-Prompt für ein Kandidatenbild",
-       "snippet": "Du prüfst ein Bild für ein sachliches Morgenbriefing.\nThema der Meldung: <span class=\"ph\">{kurzer Titel der Meldung}</span>\nAntworte nur mit JA oder NEIN und einem kurzen Grund, zu beiden Punkten:\n1. Passt das Bild sachlich zum Thema?\n2. Ist es neutral, also ohne inszenierte Gesichter und ohne Elends- oder Schockbilder?\nNur wenn beide Antworten JA lauten, darf das Bild verwendet werden.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
-      },
-      {
-       "icon": "terminal",
-       "title": "Modellpreise bewegen sich schnell: eine kurze, datierte Modell-Notiz pflegen",
-       "tag": "Strategie · Kosten",
-       "paras": [
-        "Mehrere Notizen von Simon Willison aus den vergangenen Tagen zeigen, wie rasch sich bei den Sprachmodellen Preise und Angebote ändern. So soll sich der Preis des Google-Modells Gemini 4 Argon zum 1. Dezember verdoppeln, während das chinesische Modell Kimi K3.1 Pro bis zum 4. November als offene Gewichte erscheinen soll, also mit frei herunterladbaren Modelldaten, die man grundsätzlich selbst betreiben kann. Gleichzeitig kommen günstigere Modelle wie das erwähnte GPT-6.1 Terra hinzu.",
-        "Der Hebel für dein System: Für eine schlanke Routine wie MORGENLAGE lohnt es sich nicht, ständig dem neuesten Modell hinterherzulaufen, aber es lohnt sich, bewusst zu wählen. Führe eine kurze, mit Datum versehene Notiz, welches Modell du für welche Aufgabe nutzt und was es kostet, und sieh sie etwa einmal im Monat durch. So erkennst du Preissprünge wie bei Gemini 4 Argon rechtzeitig und kannst einfache Teilaufgaben, etwa das Zusammenfassen von Quellen, einem günstigeren Modell zuweisen als die eigentliche redaktionelle Arbeit."
-       ],
-       "konkret": "Lege eine kleine Tabelle an mit Aufgabe, aktuell genutztem Modell, Preis je Million Token und Datum der letzten Prüfung, und setze dir eine monatliche Kurzkontrolle, um auf Preis- und Angebotsänderungen zu reagieren.",
-       "source": "simonwillison.net",
-       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "label": "Mittwoch, 28. Oktober 2026",
    "weather": "clouds",
    "temp": "13°C · neblig",
@@ -1060,8 +903,145 @@
       }
      ]
     }
-   ],
-   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse"
+   ]
+  },
+  {
+   "label": "Donnerstag, 5. November 2026",
+   "weather": "clouds",
+   "temp": "9°C · bewölkt",
+   "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Donnerstag eine graue Wolkendecke, bei Höchstwerten um 9 Grad bleibt es ein kühler, bewölkter Novembertag. In der Weltlage steht das Ergebnis der amerikanischen Zwischenwahlen im Mittelpunkt: Nach Hochrechnungen haben die Demokraten die Kontrolle über beide Kammern des US-Parlaments gewonnen. Zugleich hat die Weltgesundheitsorganisation vor der nächsten UN-Klimakonferenz berechnet, dass gezielte Maßnahmen jährlich 1,6 Millionen Menschenleben retten könnten. In der Wirtschaft richtet sich der Blick auf die deutsche Konjunktur, für die Fachleute wieder etwas mehr Zuversicht äußern. Aus Lichtblick und Forschung kommen ein Zuchterfolg bei einer seltenen Affenart und der Auftakt eines Berliner Wissenschaftsgipfels, der die Durchbrüche des Jahres kürt. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
+   "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+   "sections": [
+    {
+     "type": "news",
+     "icon": "globe",
+     "eyebrow": "Weltlage",
+     "items": [
+      {
+       "title": "USA: Demokraten gewinnen laut Hochrechnungen die Kontrolle über beide Kongresskammern",
+       "text": "Bei den Zwischenwahlen in den Vereinigten Staaten vom 3. November haben die Demokraten nach Hochrechnungen der US-Sender CBS News und NBC News sowie des Wirtschaftssenders CNBC die Mehrheit sowohl im Repräsentantenhaus als auch im Senat gewonnen. Diese Zwischenwahlen, auf Englisch Midterms genannt, finden zur Mitte der vierjährigen Amtszeit eines Präsidenten statt; gewählt wurden das gesamte Repräsentantenhaus, die größere der beiden Kammern, und rund ein Drittel des Senats, der kleineren Kammer. Beide Kammern zusammen bilden den Kongress, das Parlament der USA, das über Gesetze und den Haushalt mitbestimmt. Den Berichten zufolge drehten die Demokraten unter anderem Senatssitze in bislang republikanisch geprägten Bundesstaaten wie Texas, Ohio und Kansas. Die Einordnung bleibt nüchtern: Es handelt sich um Hochrechnungen, einzelne Sitze im Repräsentantenhaus und im Senat waren am Tag danach noch nicht entschieden. Verliert die Partei des Präsidenten beide Kammern, kann er in den kommenden zwei Jahren kaum noch eigene Gesetze durchsetzen, weil für Gesetze und Haushalt die Zustimmung beider Kammern nötig ist.",
+       "source": "CBS News / NBC News / CNBC",
+       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      },
+      {
+       "title": "WHO: Sechs Klima- und Gesundheitsmaßnahmen könnten jährlich 1,6 Millionen Leben retten",
+       "text": "Die Weltgesundheitsorganisation, die für Gesundheitsfragen zuständige Sonderorganisation der Vereinten Nationen, kurz WHO, hat am 4. November einen Bericht vorgelegt. Darin heißt es, sechs bereits erprobte Maßnahmen an der Schnittstelle von Klima und Gesundheit könnten weltweit jedes Jahr rund 1,6 Millionen Menschenleben retten und zugleich hohe wirtschaftliche Erträge bringen. Gemeint sind etwa sauberere Luft, der Ausstieg aus fossilen Brennstoffen, also Kohle, Öl und Gas, sowie gesündere Ernährung und Städte. Der Bericht erscheint kurz vor der nächsten UN-Klimakonferenz, der sogenannten COP31, die in diesem Jahr in der Türkei stattfindet; COP steht für Conference of the Parties, die jährliche Vertragsstaatenkonferenz des Weltklimaabkommens. Warum das zählt: Die WHO versucht, den Klimaschutz nicht nur als Umwelt-, sondern als Gesundheitsthema zu rahmen, um den Nutzen für die Menschen greifbarer zu machen.",
+       "source": "World Health Organization",
+       "url": "https://www.who.int/news/item/04-11-2026-six-climate-and-health-actions-could-save-1.6-million-lives-and-deliver-trillions-in-benefits-each-year"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "chart",
+     "eyebrow": "Wirtschaft",
+     "items": [
+      {
+       "title": "Deutsche Konjunktur: Fachleute äußern wieder vorsichtige Zuversicht",
+       "text": "Die Aussichten für die deutsche Wirtschaft haben sich zuletzt leicht aufgehellt. Carsten Brzeski, der Chefvolkswirt der Bank ING für den Euroraum, erklärte zuletzt, die Hoffnung auf einen Aufschwung sei zurück; zugleich sei eine weitere Zinsanhebung durch die Europäische Zentralbank, kurz EZB, nicht ausgeschlossen. Die EZB ist die gemeinsame Notenbank der Länder mit dem Euro; mit dem Leitzins, also dem Preis, zu dem sich Geschäftsbanken bei ihr Geld leihen, steuert sie die Geldmenge und damit die Inflation, den allgemeinen Anstieg der Preise. Die Landesbank Helaba hatte ihre Wachstumsprognose für Deutschland auf 0,9 Prozent für 2026 angehoben, nachdem die Wirtschaft im zweiten Quartal trotz gestiegener Energiepreise leicht gewachsen war. Mit Konjunktur ist die kurzfristige Schwankung der gesamten Wirtschaftsleistung gemeint. Zur Einordnung: Es handelt sich um Prognosen, die je nach Institut auseinandergehen; eine neue amtliche Zahl des Statistischen Bundesamts für November lag an diesem Morgen noch nicht vor.",
+       "source": "ING / Helaba",
+       "url": "https://www.ing.de/ueber-uns/presse/carsten-brzeskis-blog/"
+      }
+     ],
+     "merk": {
+      "text": "Merk dir: Steigt der Leitzins, werden Kredite teurer, Sparen lohnt etwas mehr und die Inflation soll gedämpft werden. Für deine eigene Planung heißt das, Finanzierungen eher jetzt als später festzuzurren.",
+      "tone": "g"
+     }
+    },
+    {
+     "type": "news",
+     "icon": "leaf",
+     "eyebrow": "Lichtblick",
+     "items": [
+      {
+       "title": "Zuchterfolg bei den seltenen Goldstumpfnasen",
+       "text": "Zum Auftakt eines Monats für den Schutz wild lebender Tiere ist aus der Zucht der Goldstumpfnasen ein Erfolg gemeldet worden. Die Goldstumpfnase, auf Englisch golden snub-nosed monkey, ist eine seltene, an das Leben im Gebirge angepasste Affenart aus dem mittleren China mit auffällig goldener Fellfarbe; sie gilt als gefährdet. In einer Haltung außerhalb Chinas, in Frankreich, kam bei dieser Art Nachwuchs zur Welt, was als wichtiger Schritt für die Zucht dieser Tiere außerhalb ihrer Heimat gewertet wird. Warum das zählt: Eine stabile Nachzucht in menschlicher Obhut ist eine Rückversicherung für Arten, deren Lebensraum in der freien Natur schrumpft, und sie hilft, Wissen über Haltung und Fortpflanzung aufzubauen.",
+       "img": "https://live.staticflickr.com/41/76729617_5c9531a3ab.jpg",
+       "source": "Archyde",
+       "url": "https://www.archyde.com/shanghai-wildlife-protection-month-opens-with-breeding-milestone/"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "flask",
+     "eyebrow": "Forschung & Fortschritt",
+     "items": [
+      {
+       "title": "Berliner Wissenschaftsgipfel kürt die Durchbrüche des Jahres",
+       "text": "In Berlin beginnt an diesem Donnerstag die Vorbereitung auf den Falling Walls Science Summit, ein jährliches Wissenschaftstreffen, das vom 6. bis 9. November stattfindet. Falling Walls, auf Deutsch fallende Mauern, erinnert an den Fall der Berliner Mauer und steht als Bild für wissenschaftliche Grenzen, die durchbrochen werden. Internationale Fachjurys haben die sogenannten Science Breakthroughs of the Year 2026 ausgewählt, die Wissenschaftsdurchbrüche des Jahres, und zwar in mehreren Feldern von den Lebenswissenschaften über Physik bis zu Technik. Auf der engeren Auswahlliste stehen etwa Arbeiten zur Selbstvervielfältigung von RNA, einem erbgutähnlichen Molekül, das als möglicher Baustein am Ursprung des Lebens gilt, sowie Fortschritte bei Quantenbatterien und bei der bildlichen Darstellung durch undurchsichtiges Gewebe hindurch. Warum das zählt: Der Gipfel bündelt einmal im Jahr, woran die Forschung gerade die größten Hürden überwindet, und macht sichtbar, welche Ideen in den nächsten Jahren praktisch werden könnten.",
+       "img": "https://live.staticflickr.com/3103/2618715728_f3cbe4f91d_b.jpg",
+       "source": "Falling Walls Foundation",
+       "url": "https://falling-walls.com/breakthroughs/shortlist-2026"
+      }
+     ]
+    },
+    {
+     "type": "news",
+     "icon": "pin",
+     "eyebrow": "Horb am Neckar",
+     "items": [
+      {
+       "title": "Ruhiger Novembertag, das kulturelle Angebot liegt in der Region",
+       "text": "In Horb am Neckar selbst steht an diesem bewölkten Donnerstag mit rund 9 Grad kein großer Termin im Kalender, das graue, kühle Wetter lädt ohnehin eher zu Unternehmungen in geschlossenen Räumen ein. Im Umland gibt es dafür einiges: Im nahen Freudenstadt wird am Freitag, dem 6. November, um 16 Uhr im Theater im Kurhaus das Familienstück Dschungelbuch, das Musical gegeben. Wer es etwas lauter mag, kann sich den 28. November vormerken, wenn in der Buchsteighalle im direkt benachbarten Eutingen-Weitingen die Band Big Balls als Tribut an die Rockgruppe AC/DC auftritt, also deren Musik nachspielt. Warum das hier steht: Gerade an stillen Novembertagen lohnt der Blick über die Stadtgrenze, weil das Kulturleben der Region von Freudenstadt bis Balingen reicht.",
+       "img": "https://live.staticflickr.com/7430/10463270063_7307582000_b.jpg",
+       "source": "meinestadt.de / Eventfinder",
+       "url": "https://veranstaltungen.meinestadt.de/horb-am-neckar/alle/alle"
+      }
+     ]
+    },
+    {
+     "type": "thought",
+     "text": "Ein grauer Himmel nimmt dem Tag nichts von seiner Länge, er macht nur die Lampe am Schreibtisch wichtiger."
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "opp",
+     "icon": "compass",
+     "eyebrow": "Gelegenheitsradar",
+     "item": {
+      "title": "Kostenlose, antragsfreie KI-Schnittstellen zum Ausprobieren",
+      "text": "Mehrere Anbieter stellen Programmierschnittstellen zu Sprachmodellen (KI, die mit Text arbeitet) in einem dauerhaft kostenlosen Rahmen bereit, und zwar ohne Antrag und ohne Hinterlegung einer Kreditkarte. Dazu zählen laut einem Branchenüberblick der Dienst Groq sowie die kostenlosen Stufen von Google Gemini und Cerebras; die einzige Einschränkung sind Nutzungsgrenzen, also eine begrenzte Zahl von Anfragen pro Zeiteinheit.",
+      "why": "Für dich als Solo-Unternehmer ist das ein risikofreier Weg, neue Modelle oder einen Prototyp zu testen, bevor Kosten entstehen; die Bedingungen ändern sich häufig, prüfe sie also vor dem Einsatz direkt beim Anbieter.",
+      "source": "fin.ai",
+      "url": "https://fin.ai/learn/ai-credits-for-startups"
+     }
+    },
+    {
+     "type": "action",
+     "icon": "gauge",
+     "eyebrow": "Handlungsempfehlungen",
+     "also": "Beide Signale stammen aus dem Umfeld des Entwicklers Simon Willison, einer bekannten Stimme zu praktischem Einsatz von Sprachmodellen.",
+     "cards": [
+      {
+       "icon": "layers",
+       "title": "Agent neben die Daten stellen, nicht nur davor",
+       "tag": "Werkzeug",
+       "paras": [
+        "Simon Willison hat am 3. und 4. November zwei Erweiterungen für Datasette veröffentlicht, ein freies Werkzeug zum Erkunden von Datenbanken. Mit datasette-agent 0.5 öffnet sich ein Panel, also ein Chatfenster, direkt neben der Datenansicht; mit datasette-apps 0.3 lassen sich daraus per Anweisung kleine Web-Anwendungen bauen, wobei schreibende Zugriffe ausdrücklich eine Freigabe durch dich verlangen.",
+        "Der Hebel für dein System: Ein Assistent, der direkt neben den Daten sitzt und erst nach deiner Bestätigung schreibt, ist das Muster, an dem du deinen eigenen Arbeitsablauf ausrichten kannst, statt Daten mühsam hin und her zu kopieren."
+       ],
+       "snippetLabel": "Prompt-Baustein für eine kleine Datenauswertung",
+       "snippet": "Baue aus der Tabelle <span class=\"ph\">{tabelle}</span> eine kleine Ansicht,\ndie <span class=\"ph\">{kennzahl}</span> je <span class=\"ph\">{zeitraum}</span> zeigt.\nStelle jede schreibende Aktion vorher zur Freigabe und erkläre sie in einem Satz.",
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/"
+      },
+      {
+       "icon": "terminal",
+       "title": "Ein starkes Modell läuft inzwischen auf dem eigenen Rechner",
+       "tag": "Signal",
+       "paras": [
+        "Ebenfalls am 3. November zeigte Willison, dass das frei verfügbare Modell Qwen 3.8 mit 27 Milliarden Parametern (den einstellbaren Werten eines solchen Modells) auf seinem Laptop eine Aufgabe löst, die zuvor nur den größten Modellen zugetraut wurde, nämlich die rohen Gewichte eines anderen neuronalen Netzes zu lesen und zu deuten.",
+        "Der Hebel für dich: Für vertrauliche oder internetlose Aufgaben lohnt es, ein solches lokal laufendes Modell einzuplanen. Du behältst die Daten auf dem eigenen Gerät und bist von keinem Online-Dienst abhängig."
+       ],
+       "source": "Simon Willison",
+       "url": "https://simonwillison.net/"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
