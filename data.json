@@ -2,164 +2,6 @@
   "sub": "Dein tägliches Briefing",
   "days": [
     {
-      "label": "Donnerstag, 29. Oktober 2026",
-      "weather": "rain",
-      "temp": "12°C · Regen",
-      "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Donnerstag nasskalte Luft mit Regen; der Tag bleibt trüb, und die Höchstwerte liegen nur noch um 12 Grad. In der Weltlage ringt Israel nach der Parlamentswahl weiter um eine Regierung, und in den Vereinigten Staaten stehen in wenigen Tagen die Zwischenwahlen an. In der Wirtschaft ließ die US-Notenbank gestern Abend die Zinsen unverändert, und heute Nachmittag entscheidet die Europäische Zentralbank über ihren eigenen Kurs. Aus Lichtblick und Forschung kommen ein bohrfreies Mittel gegen Karies bei kleinen Kindern, ein von Seegras abgeschautes Netz gegen Mikroplastik, ein neuer Blick darauf, was mit Meteoren beim Sturz zur Erde geschieht, und Batterien, die dank Technik aus der Chipfertigung kleiner und ausdauernder werden könnten. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "sections": [
-        {
-          "type": "news",
-          "icon": "globe",
-          "eyebrow": "Weltlage",
-          "items": [
-            {
-              "title": "Israel: schwierige Regierungsbildung nach der Parlamentswahl",
-              "text": "In Israel, dem Staat am östlichen Mittelmeer, dauert die Suche nach einer neuen Regierung an. Nach der Wahl eines neuen Parlaments wurde zwar die rechtskonservative Partei Likud von Ministerpräsident Benjamin Netanjahu stärkste Einzelkraft, doch sein religiös-rechtes Lager verfehlte die absolute Mehrheit von mindestens 61 der 120 Sitze in der Knesset, so heißt das israelische Parlament. Auch das Mitte-Lager um den früheren Generalstabschef Gadi Eisenkot kommt den bisherigen Auszählungen zufolge nicht auf eine eigene Mehrheit. Die Einordnung bleibt nüchtern: Weil kein Lager allein regieren kann, dürften längere Koalitionsverhandlungen folgen, in denen sich mehrere Parteien erst auf ein gemeinsames Regierungsprogramm und die Verteilung der Ministerien einigen müssen, bevor eine neue Regierung steht.",
-              "source": "ZDFheute",
-              "url": "https://www.zdfheute.de/thema/israel-220.html"
-            },
-            {
-              "title": "USA: In wenigen Tagen stehen die Zwischenwahlen an",
-              "text": "In den Vereinigten Staaten wird am kommenden Dienstag, dem 3. November, ein neues Parlament in Teilen gewählt. Diese sogenannten Midterms, auf Deutsch Zwischenwahlen, finden jeweils in der Mitte der vierjährigen Amtszeit eines US-Präsidenten statt; gewählt wird das gesamte Repräsentantenhaus, also die größere der beiden Parlamentskammern, sowie ein Drittel des Senats, der kleineren Kammer. Zusammen bilden beide Kammern den Kongress, das Parlament der USA, das über Gesetze und den Haushalt mitbestimmt. Die Einordnung: Vom Ergebnis hängt ab, wie frei die Regierung in den kommenden zwei Jahren regieren kann, denn verliert ihre Partei die Mehrheit in einer der Kammern, lassen sich Vorhaben nur noch schwer durchsetzen.",
-              "source": "Reuters / dpa"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "chart",
-          "eyebrow": "Wirtschaft",
-          "items": [
-            {
-              "title": "US-Notenbank lässt die Zinsen unverändert",
-              "text": "Die US-Notenbank Federal Reserve, kurz Fed, die Zentralbank der Vereinigten Staaten, hat am Mittwochabend deutscher Zeit ihren Leitzins unverändert gelassen. Der Leitzins, also der Satz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen, bleibt damit in der Spanne von 3,75 bis 4,00 Prozent, nachdem die Fed ihn im September zum ersten Mal seit Juli 2023 wieder angehoben hatte. Die Entscheidung fiel nicht einstimmig: Zwei Mitglieder des Entscheidungsgremiums stimmten dagegen, weil sie eine Zinserhöhung vorgezogen hätten. Zur Begründung verwies die Notenbank darauf, dass die Teuerung, also der allgemeine Anstieg der Preise, weiterhin erhöht sei; viele Beobachter rechnen mit einer möglichen weiteren Anhebung im Dezember. Die Einordnung: Die amerikanische Geldpolitik bewegt die Finanzmärkte weltweit und beeinflusst mittelbar auch die Wechselkurse und die Stimmung in Europa.",
-              "source": "CNN / Reuters",
-              "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
-            },
-            {
-              "title": "Europäische Zentralbank entscheidet heute Nachmittag",
-              "text": "Einen Tag nach der US-Notenbank gibt der Rat der Europäischen Zentralbank (EZB), der obersten Währungsbehörde für die Länder mit dem Euro, an diesem Donnerstag gegen 14:15 Uhr seine eigene Zinsentscheidung bekannt. Der Einlagensatz, also der Zins, den Banken für bei der Notenbank geparktes Geld erhalten, liegt derzeit bei 2,50 Prozent, nachdem er im September zuletzt angehoben worden war. Viele Fachleute rechnen diesmal mit einer Pause, also unveränderten Zinsen; neue gesamtwirtschaftliche Projektionen, mit denen die EZB ihre Entscheidung begründet, legt sie erst zur Sitzung im Dezember vor. Die Einordnung: Für Betriebe, die eine größere Investition oder einen Kredit planen, geben die Entscheidungen dieser Woche einen Anhaltspunkt, wohin sich die Finanzierungskosten in den kommenden Monaten bewegen.",
-              "source": "EZB / Raisin",
-              "url": "https://www.raisin.com/de-at/glossar/ezb-leitzins/zinsentscheid/"
-            }
-          ],
-          "merk": {
-            "text": "Merken für die Planung: Die US-Notenbank hat ihre Zinsen gestern stabil gehalten, und die EZB dürfte heute Nachmittag nachziehen. Für dich als Solo-Unternehmer heißt das: Die Finanzierungskosten im Euroraum bleiben vorerst voraussichtlich auf dem erreichten Niveau, ohne dass mit raschen Senkungen zu rechnen ist. Es kann sich lohnen, eine größere Anschaffung oder eine Kreditzusage erst nach der heutigen EZB-Entscheidung festzuzurren und zugleich zu prüfen, ob sich freie Rücklagen noch zu den aktuell vergleichsweise guten Konditionen anlegen lassen.",
-            "tone": "g"
-          }
-        },
-        {
-          "type": "news",
-          "icon": "leaf",
-          "eyebrow": "Lichtblick",
-          "items": [
-            {
-              "title": "Karies bei kleinen Kindern ohne Bohrer stoppen",
-              "text": "Eine große Studie im Fachblatt JAMA Pediatrics, einer wissenschaftlichen Zeitschrift für Kinderheilkunde, zeigt, dass sich beginnende Karies bei kleinen Kindern ohne Bohren und ohne Spritze aufhalten lässt. Karies ist die durch Bakterien verursachte Zerstörung der Zahnhartsubstanz, umgangssprachlich das Loch im Zahn. In der Untersuchung mit 830 Kindern unter sechs Jahren wurde eine Flüssigkeit namens Silberdiaminfluorid, ein Mittel, das die betroffene Stelle abtötet und härtet, alle sechs Monate aufgetragen; bei mehr als der Hälfte der behandelten Milchzähne kam der Zerfall dadurch zum Stillstand. Wichtig ist die Zurückhaltung: In den USA ist das Mittel bislang nur gegen empfindliche Zähne offiziell zugelassen, nicht gegen Karies; die beteiligten Forschenden sehen in den Ergebnissen aber eine Grundlage für eine solche Zulassung. Die Einordnung: Gerade für sehr junge Kinder, bei denen eine Behandlung mit dem Bohrer oft nur unter Narkose möglich ist, wäre ein schmerzarmes Mittel eine spürbare Erleichterung.",
-              "source": "Dental Products Report / JAMA Pediatrics",
-              "url": "https://www.dentalproductsreport.com/view/new-cavity-treatment-could-replace-drilling-and-filling"
-            },
-            {
-              "title": "Ein von Seegras abgeschautes Netz fängt Mikroplastik",
-              "text": "Forschende der North Carolina State University, einer Hochschule im Osten der USA, haben nach einem Bericht der Universität ein Netz entwickelt, das winzige Kunststoffteilchen aus dem Wasser filtert und sich dabei die Natur zum Vorbild nimmt. Mikroplastik sind kleinste Plastikpartikel, die beim Zerfall größerer Kunststoffteile entstehen und sich in Gewässern anreichern. Das Netz ahmt die dichten Matten von Seegras nach, also der Pflanzen, die am Meeresboden wachsen, und fängt der Studie zufolge Teilchen über einen außergewöhnlich großen Größenbereich ab, von etwa fünf Millimetern bis hinunter zu wenigen Millionstel Millimetern. Es funktioniert den Angaben nach sowohl in Süßwasser als auch in Salzwasser. Wichtig ist die Einordnung: Die Versuche fanden bislang im Labor statt, mit höheren Plastikmengen als in echten Seen oder Meeren; bis zu einem Einsatz in der Natur ist es also noch ein Stück Weg, doch der Ansatz gilt als vielversprechend.",
-              "img": "https://live.staticflickr.com/31/54241192_a4efc4dc60_b.jpg",
-              "source": "NC State University / Science Advances",
-              "url": "https://news.ncsu.edu/2026/08/tangled-seaweed-microplastics/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "flask",
-          "eyebrow": "Forschung & Fortschritt",
-          "items": [
-            {
-              "title": "Was mit einem Meteor auf dem Weg zur Erde wirklich geschieht",
-              "text": "Ein Forschungsteam um den Astronomen Peter Jenniskens vom SETI-Institut, einer US-Forschungseinrichtung, die unter anderem nach außerirdischem Leben sucht, hat untersucht, was genau mit einem Meteor beim Sturz durch die Erdatmosphäre passiert. Ein Meteor ist die leuchtende Erscheinung, die entsteht, wenn ein Gesteinsbrocken aus dem All, ein sogenannter Meteoroid, mit hohem Tempo in die Lufthülle der Erde eintritt. Anhand von 75 beobachteten Fällen, bei denen später Bruchstücke gefunden wurden, beschreiben die Forschenden sieben wiederkehrende Phasen, von der ersten Stoßwelle hoch in der Atmosphäre über das helle Aufglühen bis zum Zerbrechen und Schmelzen der Brocken. Überraschend war, dass nicht das Verdampfen, sondern vor allem das Schmelzen und das Zerbersten bestimmen, wie die Körper Masse verlieren und abgebremst werden. Die Einordnung: Solche Erkenntnisse helfen nicht nur, Sternschnuppen besser zu verstehen, sondern auch die Gefahr durch größere Brocken abzuschätzen; der Körper, der 2013 über der russischen Stadt Tscheljabinsk in einer Explosion zerbarst, durchlief dieselben Phasen.",
-              "img": "https://live.staticflickr.com/5608/15735523136_cfb6e0ce80_b.jpg",
-              "source": "SETI Institute / ScienceDaily",
-              "url": "https://www.seti.org/news/how-space-rocks-become-meteorites/"
-            },
-            {
-              "title": "Technik aus der Chipfertigung für kleinere Akkus",
-              "text": "Forschende des koreanischen Instituts KAIST, einer technischen Hochschule in Südkorea, haben nach einem Fachbericht ein Verfahren aus der Halbleiterfertigung genutzt, um Batterien für Elektroautos leichter und ausdauernder zu machen. Ein Halbleiter ist der Grundbaustein von Computerchips; die dort übliche, extrem feine Bearbeitung übertrugen die Forschenden auf eine dünne Kupferschicht im Akku. Ziel sind sogenannte anodenfreie Batterien, bei denen auf das sonst übliche Grafit verzichtet wird, das beim Laden das Lithium aufnimmt; fällt dieses Material weg, spart das Gewicht und Platz. Ohne Grafit lagert sich das Lithium allerdings direkt auf dem Kupfer ab und kann dort feine Nadeln bilden, die die Lebensdauer verkürzen; die neu geformte Kupferoberfläche verteilt das Lithium gleichmäßiger und soll das verhindern. Die Einordnung: Gelingt die Weiterentwicklung, könnten Elektroautos bei gleichem Gewicht weiter fahren oder bei gleicher Reichweite leichter werden, doch bis zur Serienfertigung sind noch Hürden zu nehmen.",
-              "source": "SciTechDaily / KAIST",
-              "url": "https://scitechdaily.com/researchers-borrow-chipmaking-technology-to-build-better-ev-batteries/"
-            }
-          ]
-        },
-        {
-          "type": "news",
-          "icon": "pin",
-          "eyebrow": "Horb am Neckar",
-          "items": [
-            {
-              "title": "Nasskalter Regentag im Neckartal, dazu der Blick auf den November",
-              "text": "Über Horb am Neckar, der Stadt im oberen Neckartal, liegt an diesem Donnerstag Regen; die Luft ist nasskalt, und mit Höchstwerten um 12 Grad bleibt es spürbar herbstlich. Ein guter Anlass, den Blick auf die kommenden Wochen zu richten. Das größte Ereignis steht zum ersten Advent an: Vom 27. bis 29. November richtet die Stadt den Horber Advent aus, einen Weihnachtsmarkt am Flößerwasen und auf der Inselspitze; der erste Advent ist der vierte Sonntag vor dem Weihnachtsfest und läutet traditionell die Vorweihnachtszeit ein. Am selben Freitag, dem 27. November, zeigt das Kulturhaus Kloster um 19 Uhr das Theaterstück Oskar und die Dame in Rosa. Für ein jüngeres Publikum veranstaltet das Jugendreferat am 7. und am 14. November Konzertabende im Mittelbau beim Marmorwerk.",
-              "img": "https://live.staticflickr.com/2461/3858467087_0148e2e34b_b.jpg",
-              "source": "horb.de / open-meteo",
-              "url": "https://www.horb.de/"
-            }
-          ]
-        },
-        {
-          "type": "thought",
-          "text": "Ein Regentag verlangsamt den Schritt und schärft zugleich den Blick für das Dach über dem Kopf und die Dinge, die drinnen liegen; vielleicht ist das eine stille Einladung, heute zuerst das Nahe zu ordnen, bevor man wieder nach dem Weiten greift."
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "opp",
-          "icon": "compass",
-          "eyebrow": "Gelegenheitsradar",
-          "item": {
-            "title": "Starkes KI-Modell wird bald frei verfügbar",
-            "text": "Das Unternehmen Moonshot AI, ein auf künstliche Intelligenz spezialisierter Anbieter aus China, stellt sein neues Sprachmodell Kimi K3.1 Pro bereit; ein Sprachmodell ist ein Programm, das Texte versteht und erzeugt. Zunächst ist es über eine Programmierschnittstelle (API) nutzbar, also eine Schnittstelle, über die andere Programme das Modell ansprechen können. Nach Angaben des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt, sollen zum 4. November zudem die vollständigen Modelldaten offengelegt werden, die sogenannten offenen Gewichte, mit denen sich das Modell auf eigener Technik betreiben lässt. In einer unabhängigen Bewertung erreichte Kimi K3.1 Pro einen Wert von 55 Punkten und lag damit nur knapp hinter dem Spitzenmodell Claude Opus 5.5 mit 58 Punkten.",
-            "why": "Für dich als Solo-Unternehmer ist das interessant, weil offene Gewichte bedeuten, dass du ein sehr leistungsfähiges Modell ohne laufende Gebühren pro Anfrage auf eigener oder gemieteter Technik betreiben kannst, sofern genügend Rechenleistung vorhanden ist. Für klar abgegrenzte, häufig wiederkehrende Aufgaben, etwa das Zusammenfassen von Quellen für dein System, kann sich das gegenüber einem bezahlten Dienst rechnen. Prüfe vor einem Einsatz die Lizenzbedingungen und den tatsächlichen Bedarf an Rechenleistung, da der Betrieb großer Modelle anspruchsvoll sein kann.",
-            "source": "simonwillison.net / Moonshot AI",
-            "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-          }
-        },
-        {
-          "type": "action",
-          "icon": "gauge",
-          "eyebrow": "Handlungsempfehlungen",
-          "also": "Zwei Signale aus den jüngsten Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt: diesmal, wie stark KI-gestütztes Programmieren inzwischen genutzt wird und wie sich Inhalte von widerspenstigen Webseiten sauber einsammeln lassen.",
-          "cards": [
-            {
-              "icon": "layers",
-              "title": "KI-gestützte Werkzeuge beherzter für MORGENLAGE einsetzen",
-              "tag": "Werkzeug · Produktivität",
-              "paras": [
-                "Simon Willison berichtet am 28. Oktober von den neuen Jahreszahlen des Programmierportals GitHub, einer Plattform, auf der Entwickler weltweit ihren Programmcode ablegen und gemeinsam bearbeiten. Demnach hat sich die Zahl der zusammengeführten Änderungen, der sogenannten Pull Requests, binnen eines Jahres etwa verdreifacht, auf rund 220 Millionen pro Monat; auch die Zahl der einzelnen Code-Beiträge stieg stark. GitHub führt diesen Sprung vor allem darauf zurück, dass immer mehr Arbeit von KI-gestützten Assistenten übernommen wird.",
-                "Der Hebel für dein System: Wenn das Bauen und Pflegen kleiner Programme mit KI-Hilfe inzwischen so verbreitet und verlässlich ist, lohnt es sich, auch für MORGENLAGE beherzter kleine Helfer erstellen zu lassen, statt wiederkehrende Handgriffe von Hand zu machen. Ein Beispiel wäre ein kleines Vorschau-Werkzeug, das dir die fertige data.json vor dem Veröffentlichen als lesbare Seite anzeigt, damit du Tippfehler und eine falsche Reihenfolge sofort siehst. Solche Helfer sind in Minuten erzeugt und laufen ohne laufende Kosten."
-              ],
-              "konkret": "Lass dir von einem KI-Assistenten ein kleines, eigenständiges Werkzeug erzeugen, das die data.json in eine gut lesbare Vorschau verwandelt, und schau sie dir vor jedem Veröffentlichen kurz an.",
-              "snippetLabel": "Prompt, um dir das Vorschau-Werkzeug bauen zu lassen",
-              "snippet": "Schreibe ein eigenständiges Skript, das die Datei data.json einliest und daraus eine einzelne, gut lesbare HTML-Seite erzeugt.\nAnforderungen:\n1. Zeige jeden Tag mit Datum, Wetter und Begrüßung als Überschrift.\n2. Liste je Tag die Sektionen in ihrer Reihenfolge mit Titeln und Texten auf.\n3. Hebe fehlende Pflichtfelder oder eine falsche Sektions-Reihenfolge farblich hervor.\n4. Speichere das Ergebnis als vorschau.html, ohne es automatisch zu öffnen.\nZusatzwünsche: <span class=\"ph\">{weitere Wünsche, falls nötig}</span>",
-              "source": "simonwillison.net / GitHub",
-              "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
-            },
-            {
-              "icon": "terminal",
-              "title": "Quelltexte widerspenstiger Webseiten sauber einsammeln",
-              "tag": "Werkzeug · Recherche",
-              "paras": [
-                "In seinen Notizen vom 26. Oktober bespricht Simon Willison ein Werkzeug namens webframe des Entwicklers Jeff Lindsay, das Webseiten in einem unsichtbaren Browser lädt und wie ein Programm steuerbar macht. Ein unsichtbarer Browser, fachlich headless genannt, ist ein Browser ohne sichtbares Fenster, der Seiten im Hintergrund abruft. Solche Werkzeuge helfen, den eigentlichen Textinhalt von Seiten zu holen, die sich einem einfachen Abruf verweigern, und ergänzen Willisons eigenes, ähnliches Werkzeug shot-scraper.",
-                "Der Hebel für dein System: Beim Sammeln der Inhalte für MORGENLAGE lassen sich manche Nachrichtenseiten nicht ohne Weiteres auslesen, sodass gute Quellen verloren gehen. Ein kleiner, scriptbarer Abruf über einen unsichtbaren Browser kann den lesbaren Fließtext solcher Seiten zuverlässig holen und von Menüs und Werbung befreien, bevor er weiterverarbeitet wird. So steht dir für die redaktionelle Arbeit eine breitere und sauberere Quellenbasis zur Verfügung."
-              ],
-              "konkret": "Richte einen kleinen Abruf über einen unsichtbaren Browser (etwa shot-scraper oder webframe) ein, der aus einer Liste von Nachrichten-Adressen jeweils den reinen Textinhalt holt, und nutze diesen gereinigten Text als Grundlage für die Zusammenfassungen.",
-              "snippetLabel": "Beispiel, um den Text einer Seite als Datei zu sichern",
-              "snippet": "shot-scraper javascript <span class=\"ph\">{https://beispiel.de/artikel}</span> \\\n  \"document.querySelector('article')?.innerText || document.body.innerText\" \\\n  > artikel.txt",
-              "source": "simonwillison.net",
-              "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Freitag, 30. Oktober 2026",
       "weather": "clouds",
       "temp": "11°C · neblig",
@@ -893,7 +735,6 @@
       "weather": "rain",
       "temp": "7°C · leichter Regen",
       "greeting": "Guten Morgen, Gerik. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, zieht an diesem Freitag leichter Regen auf, bei Höchstwerten um 7 Grad bleibt es ein nasskalter Novembertag. In der Weltlage richtet sich der Blick auf die bevorstehende UN-Klimakonferenz in der Türkei, während der Bundestag, das deutsche Parlament, über ein strengeres Tierschutzgesetz entschieden hat. In der Wirtschaft hat die Europäische Zentralbank ihre Leitzinsen zuletzt unverändert gelassen. Aus Lichtblick und Forschung kommen eine Wegmarke bei der Solarenergie und ein Netzhaut-Implantat, das blinden Menschen wieder Sehen ermöglichen soll. Ganz unten findest du wie immer eine passende Gelegenheit und zwei umsetzbare Signale für dein System.",
-      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
       "sections": [
         {
           "type": "news",
@@ -1032,6 +873,184 @@
               "url": "https://simonwillison.net/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "label": "Sonntag, 8. November 2026",
+      "weather": "clouds",
+      "temp": "11°C · neblig",
+      "kind": "weekly",
+      "sub": "Wochenrückblick",
+      "greeting": "Guten Morgen, Gerik, und einen ruhigen Sonntag. Über Horb am Neckar, der Stadt im oberen Neckartal, dem Tal des Flusses Neckar, liegt an diesem Sonntag zäher Nebel bei Höchstwerten um 11 Grad, ein stiller, grauer Novembertag. Die Woche lässt sich in drei Bewegungen lesen: In der Weltpolitik haben die amerikanischen Zwischenwahlen das Kräfteverhältnis im Parlament verschoben, während sich in der Türkei die große UN-Klimakonferenz und in den Golfstaaten neue Gespräche über den Krieg in der Ukraine vorbereiten. In der Wirtschaft blieben die Zinsen beiderseits des Atlantiks stabil, und trotz Warnstreiks und gedämpfter Kauflaune meldeten Fachleute für Deutschland wieder etwas Zuversicht. Und aus Forschung und Lichtblick kam eine stille Wegmarke: Die Sonne liefert weltweit erstmals mehr Strom als die Kernkraft. Ganz unten bündle ich die Systemanpassungen der Woche zu einem einzigen, kopierfertigen Text für dein MORGENLAGE-System.",
+      "colophon": "kuratiert aus deinen Quellen · Fotos: Openverse",
+      "sections": [
+        {
+          "type": "news",
+          "icon": "globe",
+          "eyebrow": "Weltlage",
+          "items": [
+            {
+              "title": "US-Zwischenwahlen: Demokraten gewinnen das Repräsentantenhaus",
+              "text": "Am Dienstag, dem 3. November, wählten die Vereinigten Staaten Teile ihres Parlaments neu, bei den sogenannten Zwischenwahlen (auf Englisch Midterms), die jeweils zur Mitte der vierjährigen Amtszeit des Präsidenten stattfinden. Nach Hochrechnungen der großen US-Sender gewann die Demokratische Partei, eine der beiden großen Parteien des Landes, die Mehrheit im Repräsentantenhaus, der größeren der beiden Kammern des Kongresses, wie das Parlament der USA heißt. Berichten zufolge deuteten die Auszählungen auch im Senat, der kleineren Kammer, auf Zugewinne der Demokraten hin; das endgültige Ergebnis dort war zum Wochenende noch zu bestätigen. Für Präsident Donald Trump und seine Republikaner bedeutet schon der Verlust des Repräsentantenhauses, dass sie im Parlament künftig stärker auf die Gegenseite angewiesen sind. Warum das zählt: Eine Mehrheit der Opposition in mindestens einer Kammer kann Gesetze und Haushalte bremsen und prägt damit den Kurs der größten Volkswirtschaft der Welt, an der auch die deutsche Exportwirtschaft hängt.",
+              "source": "ZDFheute, Hochrechnungen US-Sender"
+            },
+            {
+              "title": "COP31 und neue Ukraine-Gespräche stehen unmittelbar bevor",
+              "text": "Zwei große Verhandlungsbühnen öffnen sich in den kommenden Tagen. Ab Montag, dem 9. November, tagt im türkischen Antalya die 31. UN-Klimakonferenz, kurz COP31; COP steht für Conference of the Parties, auf Deutsch Konferenz der Vertragsstaaten, also das jährliche Treffen fast aller Staaten zum Schutz des Weltklimas. Die Türkei richtet die Konferenz aus, Australien leitet die eigentlichen Verhandlungen, und das Treffen gilt als Umsetzungs-Gipfel, bei dem bereits beschlossene Klimaziele mit Leben gefüllt werden sollen. Zugleich sollen in der ersten Novemberhälfte in den Vereinigten Arabischen Emiraten neue Gespräche zwischen den USA, der Ukraine und Russland über ein Ende des Krieges stattfinden; ein gesichertes Ergebnis lag am Wochenende noch nicht vor. Warum das zählt: An beiden Tischen werden Weichen gestellt, die Energiepreise, Lieferketten und die Sicherheitslage in Europa über Jahre beeinflussen können.",
+              "source": "UNFCCC, Kremlsprecher Peskow (Agenturberichte)"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "chart",
+          "eyebrow": "Wirtschaft",
+          "items": [
+            {
+              "title": "Zinsen bleiben beiderseits des Atlantiks stabil",
+              "text": "Die großen Notenbanken hielten in dieser Woche still. Die US-Notenbank Federal Reserve (kurz Fed), die Zentralbank der Vereinigten Staaten, und die Europäische Zentralbank (EZB), die gemeinsame Währungsbehörde der Länder mit dem Euro, ließen ihre Leitzinsen unverändert; der Leitzins ist der Satz, zu dem sich Geschäftsbanken bei der Notenbank Geld leihen und der Kredite und Sparzinsen in der ganzen Wirtschaft prägt. Weitere Schritte schloss die EZB ausdrücklich nicht aus, kündigte aber auch keine raschen Senkungen an. Warum das zählt: Für dich als Solo-Unternehmer, also als Einzelunternehmer ohne Angestellte, bedeutet das vor allem Planungssicherheit, denn die Finanzierungskosten im Euroraum dürften vorerst auf dem erreichten Niveau verharren.",
+              "source": "Europäische Zentralbank, US Federal Reserve"
+            },
+            {
+              "title": "Warnstreiks, gedämpfte Kauflaune und vorsichtige Zuversicht",
+              "text": "Im Inland liefen gegenläufige Entwicklungen nebeneinander. Die IG Metall, die größte deutsche Industriegewerkschaft, setzte in der Tarifrunde der Metall- und Elektroindustrie ihre Warnstreiks fort, also kurze, befristete Arbeitsniederlegungen zur Unterstützung ihrer Lohnforderungen, und die Kauflaune der Verbraucher blieb laut dem Marktforschungsunternehmen GfK gedämpft. Zugleich äußerten Fachleute wie Carsten Brzeski, der Chefvolkswirt der Bank ING für den Euroraum, wieder etwas mehr Zuversicht für die deutsche Konjunktur, also die allgemeine Wirtschaftslage. Dazu lief der seit Oktober geltende, bis Jahresende befristete Tankrabatt weiter, eine vorübergehend gesenkte Steuer auf Benzin und Diesel. Warum das zählt: Es bleibt ratsam, Angebote mit etwas Puffer zu kalkulieren und für Januar wieder leicht höhere Kraftstoffpreise einzuplanen.",
+              "source": "GfK, ING (Carsten Brzeski)"
+            }
+          ],
+          "merk": {
+            "text": "Merken für die Planung: Stabile Zinsen und ein auslaufender Tankrabatt heißen zusammengenommen, größere Anschaffungen und Finanzierungen eher noch in diesem Jahr zu prüfen, solange die Konditionen verlässlich sind, und die Spritkosten ab Januar wieder etwas höher anzusetzen.",
+            "tone": "g"
+          }
+        },
+        {
+          "type": "news",
+          "icon": "leaf",
+          "eyebrow": "Lichtblick",
+          "items": [
+            {
+              "title": "Die Sonne überholt weltweit die Kernkraft",
+              "text": "Die Woche brachte eine stille Wegmarke der Energiewende. Nach einer Auswertung des unabhängigen Energie-Analysehauses Ember, aufgegriffen auch von der Plattform Good News Europe, lieferte die Sonnenenergie weltweit erstmals über zwölf Monate hinweg mehr Strom als die Kernkraft, also die Atomenergie. Solarstrom entsteht in Anlagen, die Sonnenlicht unmittelbar in elektrischen Strom verwandeln, ohne Brennstoff und ohne Abgase. Warum das zählt: Es zeigt, wie schnell eine Technik vom Nischenprodukt zum tragenden Pfeiler werden kann, wenn die Kosten über Jahre fallen, ein Muster, das sich auch bei digitalen Werkzeugen beobachten lässt.",
+              "img": "https://live.staticflickr.com/7497/16179675122_d19f83c065_b.jpg",
+              "source": "Ember, Good News Europe"
+            },
+            {
+              "title": "Elektrofähre und gelöschte Laternen für junge Seevögel",
+              "text": "Zwei kleinere Lichtblicke ergänzten die Woche. Die nach eigenen Angaben weltgrößte rein elektrisch angetriebene Fähre, also ein Fährschiff, das mit Strom aus Batterien statt mit Schweröl fährt, nahm ihren Betrieb auf. Und auf der kleinen portugiesischen Azoreninsel Corvo mit ihren rund 400 Einwohnern wurden in fünf Oktobernächten die öffentlichen Laternen gelöscht, damit junge Sturmtaucher, nachtaktive Seevögel, sich auf ihrem ersten Flug nicht vom künstlichen Licht in die Irre führen lassen. Warum das zählt: Beide Beispiele zeigen, dass sich Fortschritt und Rücksicht auf die Natur oft mit erstaunlich einfachen Mitteln verbinden lassen.",
+              "source": "Good News Network, Projektberichte"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "flask",
+          "eyebrow": "Forschung & Fortschritt",
+          "items": [
+            {
+              "title": "Netzhaut-Implantat PRIMA soll Sehen zurückbringen",
+              "text": "Beim Berliner Wissenschaftstreffen Falling Walls, auf Deutsch fallende Mauern, das in dieser Woche seine Durchbrüche des Jahres 2026 vorstellte, war ein Netzhaut-Implantat namens PRIMA unter den Finalisten. Die Netzhaut ist die lichtempfindliche Schicht im hinteren Teil des Auges; ein Implantat ist ein dauerhaft in den Körper eingesetztes technisches Bauteil. Der winzige Chip soll Menschen, die durch eine bestimmte Augenkrankheit erblindet sind, ein einfaches Sehen wieder ermöglichen. Warum das zählt: Es steht für eine Reihe von Meldungen der Woche, in denen Technik unmittelbar der Gesundheit dient, von einem Implantat gegen zu hohen Blutzucker bis zu einem neuen Ansatz gegen Alzheimer.",
+              "source": "Falling Walls Science Summit"
+            },
+            {
+              "title": "Bausteine des Erbguts in einem uralten Asteroiden",
+              "text": "Ein japanisches Forschungsteam wies in Proben des Asteroiden Ryugu alle fünf sogenannten Nukleobasen nach, also die chemischen Grundbausteine, aus denen die Erbsubstanz DNA und ihr Botenmolekül RNA aufgebaut sind; ein Asteroid ist ein kleiner Gesteinskörper, der die Sonne umkreist. Die Proben hatte eine Raumsonde zur Erde gebracht. Warum das zählt: Der Fund stützt die Vermutung, dass wichtige Zutaten für Leben schon im frühen Sonnensystem vorhanden waren und auf die junge Erde gelangten.",
+              "source": "japanisches Forschungsteam (Proben der Hayabusa-Mission)"
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "icon": "pin",
+          "eyebrow": "Horb am Neckar",
+          "items": [
+            {
+              "title": "Eine graue, nasskalte Novemberwoche im Neckartal",
+              "text": "Die Woche über lag über Horb am Neckar und dem oberen Neckartal fast durchgehend graues Herbstwetter: Nebel, Wolken und zeitweise leichter Regen bei Höchstwerten, die von anfangs rund 12 Grad bis auf 7 Grad zurückgingen. Auch der heutige Sonntag beginnt mit zähem Nebel bei etwa 11 Grad. Das kulturelle Leben spielte sich dabei vor allem in geschlossenen Räumen und in den Nachbarstädten ab, während in Horb selbst eher ruhige Tage im Kalender standen. Warum das zählt: Es ist eine Jahreszeit, die zum Ordnen und Vorbereiten einlädt, bevor die Adventszeit, also die Wochen vor Weihnachten, und das Jahresende näher rücken.",
+              "img": "https://live.staticflickr.com/2612/4098966135_d1da689761_b.jpg",
+              "source": "Wetterdaten Open-Meteo, Veranstaltungskalender Horb"
+            }
+          ]
+        },
+        {
+          "type": "thought",
+          "text": "Eine Woche ist wie ein Fluss im Nebel: Man sieht selten das ganze Tal, aber jeder klare Blick auf das Nahe bringt einen ein Stück weiter."
+        },
+        {
+          "type": "divider",
+          "text": "Was du aus der Woche mitnimmst"
+        },
+        {
+          "type": "opp",
+          "icon": "compass",
+          "eyebrow": "Gelegenheitsradar",
+          "item": {
+            "title": "Baden-Württemberg fördert Digitalisierung und KI, befristet bis Mitte 2027",
+            "text": "Die L-Bank, die staatliche Förderbank des Landes Baden-Württemberg, bietet mit der Digitalisierungsfinanzierung ein zinsgünstiges Darlehen für Investitionen in Digitalisierung an; ein Darlehen ist ein Kredit, zinsgünstig heißt, der Zinssatz liegt unter dem üblichen Marktzins. In der höchsten Förderstufe, die ausdrücklich Vorhaben der künstlichen Intelligenz (KI) einschließt, gibt es laut den Programmbeschreibungen zusätzlich einen Tilgungszuschuss von fünf Prozent, also einen Teil des Kredits, den man nicht zurückzahlen muss. Das Programm ist bis zum 30. Juni 2027 befristet.",
+            "why": "Für dich als Solo-Unternehmer in Baden-Württemberg kann das ein Weg sein, eine konkrete Investition in dein KI-gestütztes System vergünstigt zu finanzieren. Wichtig: Prüfe vor einem Antrag bei der L-Bank oder deiner IHK, der Industrie- und Handelskammer, ob Einzelunternehmer und Freiberufler zugelassen sind, da die Richtlinien vor allem kleine und mittlere Unternehmen nennen.",
+            "source": "L-Bank Baden-Württemberg"
+          }
+        },
+        {
+          "type": "action",
+          "icon": "gauge",
+          "eyebrow": "Handlungsempfehlungen",
+          "also": "Die Systemsignale der Woche stammen überwiegend aus den Notizen des Entwicklers Simon Willison, der Neuerungen rund um Sprachmodelle fachkundig verfolgt. Diesmal fasse ich sie zu einer einzigen, strategischen Empfehlung zusammen.",
+          "cards": [
+            {
+              "icon": "gauge",
+              "title": "MORGENLAGE wie einen kleinen Produktionsbetrieb absichern",
+              "tag": "Strategie · Zuverlässigkeit",
+              "paras": [
+                "Die Systemsignale dieser Woche ergeben zusammen ein Bild. Simon Willison berichtete von Betrieben, die ihre Software fast vollständig von KI-Assistenten (sogenannten Agenten, also Programmen, die eigenständig Aufgaben erledigen) betreuen lassen, und nannte dafür drei Grundsätze: Ein ausgebliebener Durchlauf gilt als Störfall, eine fehlerhafte Änderung lässt sich in Sekunden zurücknehmen, und ein Wächterprogramm schlägt bei Problemen Alarm. Dazu kamen der Hinweis auf eine Sicherheitslücke, bei der fremde Inhalte ungeprüft in eine Webseite geschrieben wurden, sowie eine Faustregel gegen hängende Abläufe nach einem Python-Update.",
+                "Der strategische Hebel für dein System: MORGENLAGE läuft automatisch in der Cloud, zeigt laufend fremde Inhalte an (Nachrichtentexte, Quellen, Bilder) und wird zunehmend von KI-Assistenten gepflegt. Genau das verlangt denselben Schutzgürtel wie ein kleiner Produktionsbetrieb. Statt viele Einzeltipps nach und nach umzusetzen, lohnt sich ein einziger, bewusster Schritt: eine schlanke Schutz- und Vorschau-Routine, die jeden Durchlauf prüft, dir die fertige Ausgabe vor dem Veröffentlichen zeigt, bei einem Fehler die letzte funktionierende Fassung wiederherstellt und dich benachrichtigt, und die zugleich die Anzeige gegen eingeschleusten Schadcode absichert.",
+                "So wird aus einer Sammlung kluger Einzelgriffe ein verlässliches Fundament, auf dem du im kommenden Jahr beherzter automatisieren kannst, ohne täglich von Hand kontrollieren zu müssen."
+              ],
+              "konkret": "Lass dir in einem Zug eine Schutz- und Vorschau-Routine für MORGENLAGE bauen: Sie validiert die data.json und ihre Pflichtfelder, erzeugt eine lesbare HTML-Vorschau zur Sichtkontrolle, hält den letzten funktionierenden Stand als Rückfall-Kopie vor und meldet jeden Fehler, und sie sorgt dafür, dass fremde Texte nur als reiner Text (textContent statt innerHTML) und Bilder nur von festgelegten Adressen angezeigt werden.",
+              "snippetLabel": "Prompt, um dir die Schutz- und Vorschau-Routine bauen zu lassen",
+              "snippet": "Baue mir eine schlanke Schutz- und Vorschau-Routine für mein System MORGENLAGE.\nSie soll nach dem Erzeugen der data.json folgende Schritte ausfuehren:\n1. Pruefen, ob die Datei gueltiges JSON ist und jeder Tag die Pflichtfelder label, weather, temp, greeting und sections enthaelt.\n2. Pruefen, ob die Sektionen in der richtigen Reihenfolge stehen und Aktionen sowie Systemtips ganz unten liegen.\n3. Eine gut lesbare HTML-Vorschau der letzten Ausgabe erzeugen, damit ich sie vor dem Veroeffentlichen sichten kann.\n4. Bei einem Fehler automatisch die letzte funktionierende Fassung aus <span class=\"ph\">{ordner mit den sicherungen}</span> wiederherstellen und mir eine kurze Meldung schicken.\n5. In der Anzeige fremde Texte nur ueber textContent statt innerHTML einsetzen und Bilder nur von diesen Adressen laden: <span class=\"ph\">{liste erlaubter bildquellen}</span>.",
+              "source": "Simon Willison, Weblog (simonwillison.net)"
+            }
+          ]
+        },
+        {
+          "type": "systemtips",
+          "eyebrow": "Systemanpassungen der Woche",
+          "intro": "Hier bündele ich alle konkreten System- und Prompt-Tipps der Woche. Oben kannst du den strategischen Kern nachlesen; hier stehen die einzelnen Anpassungen, und ganz unten findest du einen einzigen, kopierfertigen Text, den du in einem Schritt in dein MORGENLAGE-System einspielen kannst.",
+          "items": [
+            {
+              "title": "Schutz- und Vorschau-Routine einrichten",
+              "text": "Eine schlanke Routine, die nach jedem Durchlauf die data.json prüft, eine lesbare Vorschau zeigt, bei Fehlern automatisch zum letzten funktionierenden Stand zurückkehrt und dich benachrichtigt."
+            },
+            {
+              "title": "Anzeige gegen Schadcode absichern",
+              "text": "Fremde Nachrichtentexte nur als reinen Text einsetzen (textContent statt innerHTML) und Bilder ausschließlich von festgelegten, vertrauenswürdigen Adressen laden, damit ein manipulierter Eintrag keinen Code ausführen kann."
+            },
+            {
+              "title": "Arbeit auf günstiges und starkes Modell aufteilen",
+              "text": "Rein mechanische Schritte (etwa das Wetter-JSON ins temp-Feld wandeln oder das days-Array kürzen) von einem günstigen Modell erledigen lassen, die redaktionellen Texte weiter von einem starken Modell; das senkt die Kosten, ohne die Qualität zu mindern."
+            },
+            {
+              "title": "Modelle einheitlich über ein Kommandozeilen-Werkzeug ansprechen",
+              "text": "Das freie Werkzeug LLM (Version 0.37) bündelt mehrere Anbieter über einen Befehl; eigene Endpunkte lassen sich mit llm openai endpoint add hinterlegen. Ausgaben bewusst in Dateien umleiten, damit ein nachvollziehbares Protokoll entsteht."
+            },
+            {
+              "title": "KI-Vorschläge vorsortieren lassen",
+              "text": "Automatisch erzeugte Vorschläge oder Textbausteine erst von einem zweiten, starken Modell sichten lassen: Es soll Unbrauchbares aussortieren und den Rest mit kurzer Begründung nach Nutzen ordnen, bevor du selbst entscheidest."
+            },
+            {
+              "title": "Faustregel bei Abhängigkeitsfehlern (uv.lock)",
+              "text": "Bricht ein automatischer Lauf nach einem Python- oder Paket-Update mit einem Build- oder Abhängigkeitsfehler ab, zuerst die Datei uv.lock löschen und neu aufbauen lassen, bevor du tiefer nach der Ursache suchst."
+            },
+            {
+              "title": "Aufnahmen vor der Veröffentlichung säubern",
+              "text": "Vor dem Veröffentlichen von Bildschirmvideos oder Sprachnotizen die Tonspur entfernen und eingebettete Zusatzinformationen (Metadaten) löschen, da Hintergrundgeräusche und Dateiangaben den Standort verraten können."
+            }
+          ],
+          "copytext": "MORGENLAGE, Systemanpassungen der Woche vom 8. November 2026\n\nSpiele die folgenden Punkte der Reihe nach in dein System ein.\n\n1. Schutz- und Vorschau-Routine einrichten.\nBaue eine schlanke Routine, die nach jedem Durchlauf ausfuehrt:\n- pruefen, ob data.json gueltiges JSON ist und jeder Tag die Pflichtfelder label, weather, temp, greeting und sections hat;\n- pruefen, ob die Sektionen in der richtigen Reihenfolge stehen und Aktionen sowie Systemtips ganz unten liegen;\n- eine lesbare HTML-Vorschau der Ausgabe erzeugen;\n- bei einem Fehler automatisch die letzte funktionierende Fassung wiederherstellen und eine kurze Meldung schicken.\n\n2. Anzeige gegen Schadcode absichern.\nSetze fremde Texte nur ueber textContent statt innerHTML ein und lade Bilder nur von einer festen Liste erlaubter Adressen. Gib diese Vorgabe auch jedem KI-Assistenten mit, der an der Anzeige mitbaut.\n\n3. Arbeit nach Modellstaerke aufteilen.\nLass rein mechanische Schritte (Wetter-JSON ins temp-Feld wandeln, days-Array auf sieben Tage kuerzen, Felder pruefen) von einem guenstigen Modell erledigen und die redaktionellen Texte weiter von einem starken Modell schreiben.\n\n4. Modelle einheitlich ansprechen.\nNutze das Werkzeug LLM (Version 0.37) fuer mehrere Anbieter ueber einen Befehl und hinterlege eigene Endpunkte so:\nllm openai endpoint add {name} --api-base {url des dienstes} --api-key {dein schluessel}\nLeite die Ausgaben in Dateien um, damit ein Protokoll entsteht.\n\n5. KI-Vorschlaege vorsortieren.\nSchalte vor die Uebernahme automatisch erzeugter Vorschlaege diesen Pruef-Prompt:\n\"Du bist ein strenger Gutachter. Pruefe die folgenden Vorschlaege einzeln. Verwirf jeden, der fehlerhaft, unklar oder ohne echten Mehrwert ist. Gib die verbleibenden als nummerierte Liste zurueck, je mit einer Zeile Begruendung und einer Einschaetzung des Nutzens (hoch/mittel/gering).\"\n\n6. Faustregel bei Abhaengigkeitsfehlern.\nBricht ein Lauf nach einem Python- oder Paket-Update mit einem Build-Fehler ab, fuehre zuerst aus:\nrm -f uv.lock\nuv run {dein befehl, z. B. pytest oder das erzeugungs-skript}\n\n7. Aufnahmen vor der Veroeffentlichung saeubern.\nEntferne bei Bildschirmvideos die Tonspur und loesche Metadaten:\nffmpeg -i {eingabe.mp4} -an -c:v copy ohne_ton.mp4\nexiftool -all= {datei}"
+        },
+        {
+          "type": "thought",
+          "text": "Nicht jede Woche braucht einen großen Umbau; manchmal genügt es, die klugen kleinen Griffe zu einem festen Fundament zu bündeln und das Jahr ruhig ausklingen zu lassen."
         }
       ]
     }
